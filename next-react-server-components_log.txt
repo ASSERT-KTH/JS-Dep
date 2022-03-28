@@ -1,0 +1,235 @@
+commit ed04fddef1685c3dc1968cb75a23325103eb0806
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Mon Mar 14 12:22:41 2022 +0100
+
+    Add error placeholder for request errors (#36)
+
+commit 9810aa7acc0099611e20eee8da6a652377285677
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Wed Mar 9 15:48:46 2022 +0100
+
+    bump next, react and use styled-jsx (#33)
+    
+    * bump next, react and use styled-jsx
+    
+    * fix styles
+    
+    * bump next
+
+commit 469ad87b93d4a83758210f4820c6cf3c777606cf
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Thu Feb 17 22:01:59 2022 +0100
+
+    next@12.1.0 (#30)
+
+commit 7f6ac2d1116e60ee078897591165c7e87eee6586
+Author: Lee Robinson <me@leerob.io>
+Date:   Wed Feb 16 12:33:38 2022 -0700
+
+    Update README.md (#29)
+
+commit 9a203d0095fa7eba3240cf45843e691925942434
+Author: Shu Ding <g@shud.in>
+Date:   Wed Feb 16 20:19:48 2022 +0100
+
+    Update README (#27)
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    Co-authored-by: Lee Robinson <me@leerob.io>
+    
+    * upgrade next
+    
+    Co-authored-by: Lee Robinson <me@leerob.io>
+
+commit 7ed9fde64875eb1eade6b6ed5a44ca46d726ad88
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Sun Feb 13 21:44:54 2022 +0100
+
+    Remove unused ts related configs (#26)
+
+commit 703864f70a9ecfec90a6c3ecca9f8802bb28fc34
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Sun Feb 13 20:05:12 2022 +0100
+
+    remove reactRoot option, let nextjs auto-detect react 18 (#25)
+
+commit 3779458f1ce2540003092c475cff42ba3db69c9f
+Author: Shu Ding <g@shud.in>
+Date:   Fri Feb 11 23:46:46 2022 +0100
+
+    Update the demo to use latest Next.js and runtime option (#23)
+
+commit 26c6077a1ed1fbd8a1f2e78a768f9a7e1d988029
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Wed Jan 19 14:19:56 2022 +0100
+
+    feat: add item route (#21)
+    
+    * feat: add item route
+    
+    * add skeleton for item page
+    
+    * separate load item and comments
+    
+    * update next
+
+commit 97b73c747c91afb9b76ce399704e7d0af7673a28
+Merge: aec1100 d5a74cc
+Author: Shu Ding <g@shud.in>
+Date:   Tue Dec 21 23:02:14 2021 +0100
+
+    Merge pull request #18 from vercel/rm-pages
+
+commit d5a74cc8cebafccd9acbec445b22ff3e8d07fc04
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Tue Dec 21 21:47:02 2021 +0100
+
+    Remove _app and _document pages
+
+commit aec110011989dffb7a27e9c83a5d380173330895
+Author: Shu Ding <g@shud.in>
+Date:   Tue Dec 21 15:49:23 2021 +0100
+
+    upgrade next and react
+
+commit b7c1ce829a009c8b5536c2c51304bf443f4970ef
+Merge: 8a71052 ac2a0ef
+Author: Shu Ding <g@shud.in>
+Date:   Mon Dec 13 12:01:20 2021 +0100
+
+    Merge pull request #17 from vercel/shuding-patch-1
+    
+    Delete tsconfig.json
+
+commit ac2a0eff34dd766088e4830e83b4c16c44156dab
+Author: Shu Ding <g@shud.in>
+Date:   Mon Dec 13 11:05:54 2021 +0100
+
+    Delete tsconfig.json
+
+commit 8a7105293df2dfca41b260986901f89a4f154aa1
+Merge: 863cf2d 4a72a01
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 01:20:45 2021 +0100
+
+    Merge pull request #15 from vercel/shu/0653
+    
+    Remove the Suspense boundary for individual items
+
+commit 4a72a0112d450bb098026b60c84d6a9c389ddf17
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 01:19:31 2021 +0100
+
+    adjust margins and add more skeletons
+
+commit abcfdb6bf29add391129129832b430f97ac2182b
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 00:58:23 2021 +0100
+
+    add skeletons
+
+commit ffa69f6f7c3e804d7e4448f66825796413e715a5
+Merge: 05529c5 863cf2d
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 00:21:13 2021 +0100
+
+    Merge branch 'main' into shu/0653
+
+commit 863cf2dcf27149f1cd02d8918b81cea31942954d
+Merge: d46d904 51432b0
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 00:12:43 2021 +0100
+
+    Merge pull request #14 from vercel/revert-12-shu/4f55
+    
+    Revert "Upgrade deps and wording"
+
+commit 51432b00a1ae0343315d49ae22f6766f6fdf36d9
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 00:12:15 2021 +0100
+
+    Revert "Upgrade deps and wording"
+
+commit 05529c5f61e7c149e441791e5f4511ffb01f9483
+Author: Shu Ding <g@shud.in>
+Date:   Wed Dec 8 00:11:42 2021 +0100
+
+    remove the suspense boundary for individual items
+
+commit d46d904b8b8525700b1b1352b6b126b409e438ef
+Merge: 8bb054d a6f2687
+Author: Shu Ding <g@shud.in>
+Date:   Tue Dec 7 18:27:19 2021 +0100
+
+    Merge pull request #12 from vercel/shu/4f55
+    
+    Upgrade deps and wording
+
+commit a6f26871f71d753c5797749c8002cdb464fd9194
+Author: Shu Ding <g@shud.in>
+Date:   Tue Dec 7 18:18:20 2021 +0100
+
+    improve wording
+
+commit bf87127b8307aea0084294ed2a3ec9e47e6f6da7
+Author: Shu Ding <g@shud.in>
+Date:   Tue Dec 7 18:17:03 2021 +0100
+
+    upgrade deps
+
+commit 8bb054d022dbfc5b513d81b1df3775e5be31d460
+Author: Shu Ding <g@shud.in>
+Date:   Tue Nov 9 17:09:05 2021 +0100
+
+    upgrade next
+
+commit f5fc94da5ecd52f3c3ffac482cf7404f98a08e70
+Author: Shu Ding <g@shud.in>
+Date:   Mon Nov 1 13:11:25 2021 +0100
+
+    upgrade to next 12.0.2
+
+commit e29590870ab1774388c152383dff4889a9b38260
+Author: Lee Robinson <me@leerob.io>
+Date:   Thu Oct 28 21:17:27 2021 -0500
+
+    Update README.md
+
+commit 84de2ea377a9cc2fab83e98663e7d694c642da8e
+Author: Shu Ding <g@shud.in>
+Date:   Wed Oct 27 16:17:03 2021 +0200
+
+    improve spinner
+
+commit e04a5b149c4131d84729e88c413ba2ec59298e2d
+Author: Shu Ding <g@shud.in>
+Date:   Tue Oct 26 23:38:38 2021 +0200
+
+    update copy
+
+commit a09e404ae757364737792654ba2c0ab423d3794d
+Author: Shu Ding <g@shud.in>
+Date:   Tue Oct 26 23:33:40 2021 +0200
+
+    update copy
+
+commit 51c7549a99e0ec02a0e15ba67948c43d30de8689
+Author: Shu Ding <g@shud.in>
+Date:   Tue Oct 26 23:27:28 2021 +0200
+
+    bump next version
+
+commit be03060a1b3db6f03618944f4a05b4c2d7ca0083
+Author: Shu Ding <g@shud.in>
+Date:   Tue Oct 26 19:22:44 2021 +0200
+
+    fix missing pages
+
+commit d9c07834bb820a3dfccaed1598ed715efaabc93c
+Author: Jiachi Liu <inbox@huozhi.im>
+Date:   Thu Oct 7 09:08:52 2021 +0200
+
+    init

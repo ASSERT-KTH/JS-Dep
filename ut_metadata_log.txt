@@ -1,0 +1,1441 @@
+commit d43858856e3cf28354682dcc288937fc9b9f8681
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Sun Mar 27 23:57:27 2022 +0000
+
+    chore(deps): update dependency bittorrent-protocol to v3.5.2 (#72)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit b127033078a1419623a164805b42a90d98c72677
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Sun Mar 27 23:03:57 2022 +0300
+
+    chore(deps): update actions/checkout action to v3 (#69)
+    
+    * chore(deps): update actions/checkout action to v3
+    
+    * Update ci.yml
+    
+    * Update release.yml
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+    Co-authored-by: Diego Rodríguez Baquero <github@diegorbaquero.com>
+
+commit 32e14f120bd68cd9d879baf8a09c30b214b5f2e2
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Sun Mar 27 23:03:30 2022 +0300
+
+    chore(deps): update dependency semantic-release to v19 (#66)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit 1de856c1ed8e6ec4e41351c3e4dc06f0fb6888eb
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Mar 26 14:20:33 2022 +0000
+
+    chore(deps): update dependency tape to v5.5.2
+
+commit c25cf1cae5193a85160a5ed6825ef8f30348ef53
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 7 07:38:18 2022 +0000
+
+    chore(deps): update dependency bittorrent-protocol to v3.5.1
+
+commit af0930ad8db3c92896dd8a4ed21c9142728ad3de
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Aug 25 19:39:00 2021 +0000
+
+    chore(deps): update dependency semantic-release to v17.4.7
+
+commit b584d427a1c9bc34df1cc49c6290c04b57b9de2b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 23 21:13:48 2021 +0000
+
+    chore(deps): update dependency semantic-release to v17.4.6
+
+commit 699ed2649a6401afb6f319b8ca978d4720a4040b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Aug 20 15:41:03 2021 +0000
+
+    chore(deps): update dependency @webtorrent/semantic-release-config to v1.0.7
+
+commit 8cea447fd8d4f5a8b2d0c98495776ab5baa5d2d9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 16 06:57:45 2021 +0000
+
+    chore(deps): update dependency semantic-release to v17.4.5
+
+commit a0b0430c81b8477efa7ce0f77b1df616f895fe7b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Aug 7 07:37:11 2021 +0000
+
+    chore(deps): update dependency tape to v5.3.1
+
+commit e9ef9fc3bebd75b18a721bd6ef0e640f1d7d86b4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Aug 4 22:38:33 2021 +0000
+
+    chore(deps): update dependency bittorrent-protocol to v3.4.3
+
+commit 99bcffdcbb84e39560e22001d5576d265b4ba75e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Jul 30 16:43:03 2021 +0000
+
+    chore(deps): update dependency tape to v5.3.0
+
+commit ef5e6956c494da97ddc84bcd01d13c5920adf1b3
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Fri Jul 30 16:42:53 2021 +0000
+
+    chore(deps): update dependency webtorrent-fixtures to v1.7.5 (#59)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit b871aca97ed8005896ae9a641ba11186fd95746d
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Fri Jul 23 20:55:20 2021 +0000
+
+    chore(deps): update dependency webtorrent-fixtures to v1.7.4 (#55)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit 412e18e69fa0d2c69222dc3d641b687a34965b48
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Fri Jul 9 15:52:47 2021 -0500
+
+    chore: update badge
+
+commit cc7e3e3661f4558b43be036034ebe8e3459ed193
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Fri Jul 9 15:51:21 2021 -0500
+
+    chore(deps): pin dependency @webtorrent/semantic-release-config to 1.0.5 (#53)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit fe97096f4b5025c922c25e31f7942896581e2554
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Fri Jul 9 15:48:11 2021 -0500
+
+    chore(deps): pin dependency semantic-release to 17.4.4 (#54)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit d03e4f46b0c504afd84121d2753e06080ee5698a
+Merge: bc7acd4 d1a152d
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Fri Jul 9 15:47:08 2021 -0500
+
+    Merge pull request #52 from webtorrent/love-gh
+    
+    chore: add semantic release, switch CI
+
+commit d1a152d93b3ff7f33d28998e5353c48f8abdf70e
+Author: Diego Rodríguez Baquero <diego@mothership.com>
+Date:   Fri Jul 9 15:45:32 2021 -0500
+
+    EOF
+
+commit 2bd60ccfd8ed74c724bbe1c1cb1bf4d93c0e7354
+Author: Diego Rodríguez Baquero <diego@mothership.com>
+Date:   Fri Jul 9 15:44:24 2021 -0500
+
+    chore: add semantic release, switch CI
+
+commit bc7acd412abac82a484d20082b05c4591015f26d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Jul 8 20:12:17 2021 +0000
+
+    chore(deps): update dependency bittorrent-protocol to v3.4.2
+
+commit 0114c7a82a187429b5e04ad83ac94e0b41049533
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jun 15 01:52:07 2021 +0000
+
+    chore(deps): update dependency bittorrent-protocol to v3.4.1
+
+commit d56e4d75cb67b8c85d838100b8613439a14e2251
+Merge: dfb6922 4b8c03f
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Mon May 31 21:55:58 2021 -0500
+
+    Merge pull request #48 from webtorrent/renovate_pin-dependencies
+    
+    chore(deps): pin dependencies
+
+commit 4b8c03fa0b01a83be7c0f13e5141c3d4ebfd2e4c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jun 1 02:52:34 2021 +0000
+
+    chore(deps): pin dependencies
+
+commit dfb692247a5c101e1164759ff8f749e768083332
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Mon May 31 21:52:17 2021 -0500
+
+    chore: add renovate and semantic release config
+
+commit d7613c3ac1f60a7a93a674e98027abd7489a4951
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Nov 5 11:17:57 2020 -1000
+
+    3.5.2
+
+commit 953df40533d30540abe758672f573e1b04779afa
+Merge: 18c33fa adf80f9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Nov 5 22:16:35 2020 +0100
+
+    Merge pull request #47 from webtorrent/bitfield
+
+commit adf80f9e31d09d2fc9edc3b44baae1fe156ff614
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Nov 3 09:36:31 2020 -1000
+
+    bitfield@4
+
+commit a19b83ad6df21f2eeec08304cd24a0a43cdd80fe
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Nov 3 09:31:23 2020 -1000
+
+    bump deps
+
+commit 18c33fa5f76596369743e1571d15903f08b797d5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 16 21:49:31 2020 -0700
+
+    package metadata
+
+commit eeeebdda2290c71dbf308b750d9e3a3f6db9da9f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 16 21:49:30 2020 -0700
+
+    3.5.1
+
+commit 4f99851a9e8f561db70717a90a500c652cdf9702
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 16 21:49:16 2020 -0700
+
+    deps
+
+commit c89df72e4eee0a5a92482961a50088d1fd5c4ecf
+Merge: f2eb816 5bdc9df
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jul 17 06:47:15 2020 +0200
+
+    Merge pull request #46 from webtorrent/greenkeeper/tape-5.0.0
+    
+    Update tape to the latest version 🚀
+
+commit 5bdc9df4f7cc7220c2ff0152b24bfcd6f0f90383
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Apr 24 22:04:03 2020 +0000
+
+    chore(package): update tape to version 5.0.0
+
+commit f2eb816fff1d26d5aa4c386807010c043f557ee2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 7 09:24:05 2019 -0700
+
+    3.5.0
+
+commit 8cfba16e12c887e78cf5a79b0434bdafcdab47ae
+Merge: 1013a09 50ab830
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 7 09:23:40 2019 -0700
+
+    Merge pull request #44 from bjornstar/nothing-after-cancel
+    
+    Stop receiving data after cancel
+
+commit 1013a093c7f1f424eaf71814a0bca12ac8c2c3bf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Sep 5 16:47:55 2019 -0700
+
+    3.4.1
+
+commit cbd3f0d8b5bc893bfa5f58f5c27999331f881de1
+Merge: d409e4b 4a049f1
+Author: Feross <feross@feross.org>
+Date:   Thu Sep 5 16:47:17 2019 -0700
+
+    Update simple-sha1 to the latest version 🚀 (#45)
+    
+    Update simple-sha1 to the latest version 🚀
+    
+    Co-authored-by: null <23040076+greenkeeper[bot]@users.noreply.github.com>
+
+commit 4a049f18cd03f8d94043c08246d623339c719a61
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Thu Sep 5 23:06:14 2019 +0000
+
+    fix(package): update simple-sha1 to version 3.0.0
+
+commit d409e4bf2ae71e80b450341d7407ab73519fb3bd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 20 11:43:33 2019 -0700
+
+    3.4.0
+
+commit 96cbab00ce90abc1c6b0eb19d7a9375e5f12e3db
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 20 11:42:42 2019 -0700
+
+    bitfield@3
+
+commit 50ab830a75f5ce35295f4b0acd59e5fb2b00b958
+Author: Bjorn Stromberg <bjorn@bjornstar.com>
+Date:   Tue May 28 23:02:03 2019 +0900
+
+    Stop receiving data after cancel
+
+commit 60f328d8ba0c4ce2806216bc1c139fdf5050b96c
+Merge: 106acca ea9fd78
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Wed Dec 26 09:40:03 2018 -0500
+
+    Merge pull request #42 from webtorrent/greenkeeper/debug-4.0.0
+    
+    Update debug to the latest version 🚀
+
+commit ea9fd78040c8999e87066f76eff35c493fb7fa42
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Tue Sep 11 13:56:04 2018 +0000
+
+    fix(package): update debug to version 4.0.0
+
+commit 106acca7c810c5e00ba6a3fa0c568bd759aba2bc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 29 12:32:17 2018 -0700
+
+    3.3.0
+
+commit a9826a96123e7b66ba22b16e4ae0c3977df3e558
+Merge: aa3f145 4539a41
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 29 12:31:49 2018 -0700
+
+    Merge pull request #41 from jimmywarting/feature/modernize
+    
+    modernize
+
+commit 4539a41dad01886f6a0353f103f99cf6f544fe8d
+Author: Jimmy Wärting <jimmy@warting.se>
+Date:   Tue Aug 28 19:34:08 2018 +0200
+
+    modernize test files
+
+commit 6a0f5aecbe6f1028e4ca1ead0fdf51577b560d99
+Author: Jimmy Wärting <jimmy@warting.se>
+Date:   Tue Aug 28 13:27:03 2018 +0200
+
+    updated examples in readme
+
+commit 2034e9ed2c2b6ee80181c163af7d5935f2ef36ca
+Author: Jimmy Wärting <jimmy@warting.se>
+Date:   Tue Aug 28 11:42:05 2018 +0200
+
+    removed inherits dep
+
+commit f84070f89a83195ec8d522cea15e67971120bb9e
+Author: Jimmy Wärting <jimmy@warting.se>
+Date:   Tue Aug 28 11:41:44 2018 +0200
+
+    modernize index.js
+
+commit aa3f1459de89b33e910ab53fcb56a7f526e4841b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 26 21:26:04 2018 -0700
+
+    remove safe-buffer
+
+commit 3405e9a94e8de31f525f158b785fad9762644e86
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 26 21:18:51 2018 -0700
+
+    remove airtap
+
+commit 449dd19356de647d32b8d94d925fa3102ef2ec10
+Merge: 7b1713e 95abc05
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Thu Jul 26 20:10:53 2018 -0700
+
+    Merge pull request #39 from webtorrent/greenkeeper/bittorrent-protocol-3.0.0
+    
+    Update bittorrent-protocol to the latest version 🚀
+
+commit 95abc05086a9dcbf3e0370ff189e21dd29766edf
+Merge: b45145b 7b1713e
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Thu Jul 26 20:10:46 2018 -0700
+
+    Merge branch 'master' into greenkeeper/bittorrent-protocol-3.0.0
+
+commit 7b1713ef96643e58e3f13fa64622eff2efea2e46
+Merge: 1505eae 92fb4d3
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Thu Jul 26 20:09:48 2018 -0700
+
+    Merge pull request #35 from webtorrent/greenkeeper/brfs-2.0.0
+    
+    Update brfs to the latest version 🚀
+
+commit 1505eae11a71726028e73ba88d640525d53c83ad
+Merge: 03050ec 67b7fac
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Thu Jul 26 20:09:35 2018 -0700
+
+    Merge pull request #40 from webtorrent/greenkeeper/airtap-0.1.0
+    
+    chore(package): update airtap to version 0.1.0
+
+commit b45145bde5fbdd8adf863feca62a5b59fd8c1bff
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Jul 27 00:51:03 2018 +0000
+
+    chore(package): update bittorrent-protocol to version 3.0.0
+
+commit 67b7fac40f9423aa7f61a836210262ae38b385ba
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Sat Jul 7 09:31:12 2018 +0000
+
+    chore(package): update airtap to version 0.1.0
+    
+    Closes #36
+
+commit 92fb4d380c32f2f62d1855f199611784ec67089d
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Jun 22 11:20:28 2018 +0000
+
+    chore(package): update brfs to version 2.0.0
+
+commit 03050eca54b37cbcbf9d54a82c53077017b57b34
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jun 9 16:19:42 2018 -0700
+
+    3.2.2
+
+commit 6b8a93a9afa892285a6c9cf56c4830091c9aac5c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jun 9 16:16:01 2018 -0700
+
+    npmignore
+
+commit d2f8239760c5af354ef0f3d4237324c5029a2dd1
+Merge: 58b00ea a2fa6e1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jun 9 16:14:42 2018 -0700
+
+    Merge pull request #34 from webtorrent/greenkeeper/airtap-0.0.7
+    
+    chore(package): update airtap to version 0.0.7
+
+commit a2fa6e12123041ac5863275ca6bab4e9c420fdf4
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri May 25 11:33:22 2018 +0000
+
+    chore(package): update airtap to version 0.0.7
+    
+    Closes #32
+
+commit 58b00eab050a3f81e45a06b1be9af6874e5b9561
+Merge: b584a2b e19f8ab
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 8 20:01:37 2018 -0700
+
+    Merge pull request #31 from webtorrent/greenkeeper/airtap-0.0.5
+    
+    Update airtap to the latest version 🚀
+
+commit e19f8abcf667d6ed35d8e04c1c09b42f522693a9
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Sun May 6 11:37:40 2018 +0000
+
+    chore(package): update airtap to version 0.0.5
+
+commit b584a2b93c06913990b017a2b665591cf4107021
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 12 23:50:58 2018 -0700
+
+    3.2.1
+
+commit 04b2b55be449b63da688f98ed649fea5bd22664c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 12 23:46:02 2018 -0700
+
+    zuul -> airtap
+
+commit e85020983e8a174d287465979da5807571b37a55
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 27 20:09:08 2018 -0800
+
+    3.2.0
+
+commit 084403d2457365b2c1d9ae5b45143dd6dca7e7a6
+Merge: ef43f53 7929a16
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Mon Feb 26 15:02:06 2018 -0500
+
+    Merge pull request #29 from webtorrent/greenkeeper/bencode-2.0.0
+    
+    Update bencode to the latest version 🚀
+
+commit 7929a169e59faac084c37de9395b9269cdcd7f33
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Mon Feb 26 18:18:51 2018 +0000
+
+    fix(package): update bencode to version 2.0.0
+
+commit ef43f5370fcaec247d3c62ec0e0271b2626e0789
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 20 15:24:46 2018 -0800
+
+    sauce: drop android
+
+commit bed0e361cc5a0e251a2e7655e953bc75cf7422ce
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 20 15:24:38 2018 -0800
+
+    travis: node lts
+
+commit 79ef8e447072a2ea7265d094188b0d07fca95789
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 20 15:23:40 2018 -0800
+
+    3.1.0
+
+commit 8bc4d72237015a9daeecb87a023b525cf3f42170
+Merge: 2a39a8f 6355779
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Tue Feb 20 09:43:46 2018 -0500
+
+    Merge pull request #28 from webtorrent/greenkeeper/bitfield-2.0.0
+    
+    Update bitfield to the latest version 🚀
+
+commit 635577950a6f9bcf84d3d1bbe4173211ec49285f
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Tue Feb 20 05:52:47 2018 +0000
+
+    fix(package): update bitfield to version 2.0.0
+
+commit 2a39a8fe1c38b6cc035caa9b197166dacf9a3b9a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 29 19:09:40 2018 +0800
+
+    remove greenkeeper badge
+
+commit 5aeaca0dd8d13912214a730a219f110d1b3061fc
+Merge: fb44d87 9f78fc7
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Fri Sep 29 08:50:22 2017 -0500
+
+    Merge pull request #25 from webtorrent/greenkeeper/initial
+    
+    Update dependencies to enable Greenkeeper 🌴
+
+commit 9f78fc76aed7d9bf4852421a9d35d23d1be7854f
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Fri Sep 29 08:50:12 2017 -0500
+
+    Update README.md
+
+commit 76362ff9ca06107cfe18e06163e277158042657e
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Sep 29 05:23:28 2017 +0000
+
+    docs(readme): add Greenkeeper badge
+
+commit ebfcb7df5f1bfcbdbcd83ac7c4e81f7ac960072c
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Sep 29 05:21:01 2017 +0000
+
+    chore(package): update dependencies
+
+commit fb44d87d8a2636e65eb96c53c8226a4c4dfa3a82
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jun 23 16:02:41 2017 -0700
+
+    3.0.11
+
+commit 123f56ea7f79296b953afe554bb8aca0e2549bd6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jun 23 15:57:20 2017 -0700
+
+    bencode@1
+
+commit 6467e7d9c7142693b82797ffc87155dd893e663e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 11:57:57 2017 -0700
+
+    3.0.10
+
+commit ca209b03457547603360f5083a79137cedd5b1c4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 10:42:42 2017 -0700
+
+    package.json author
+
+commit 5281ecf3a9650985b1bbeeff206ce3dfea9726fa
+Merge: f80d9a5 b1b0beb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 10:32:01 2017 -0700
+
+    Merge pull request #22 from webtorrent/copyright
+    
+    copyright
+
+commit b1b0beb92aca7be5e2a2d1b64ba653eea31ac5ae
+Merge: 7c21d4d f80d9a5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 10:31:48 2017 -0700
+
+    Merge branch 'master' into copyright
+
+commit 7c21d4d0ead889cb188ee865bd745fa39932bdb5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 10:31:26 2017 -0700
+
+    Update README.md
+
+commit f80d9a5dde6c50e09339d8f02b90d1f0c61dc976
+Merge: 4893baa db07b7d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 10:31:03 2017 -0700
+
+    Merge pull request #21 from webtorrent/feross-patch-1
+    
+    test pr (ignore)
+
+commit 50997b24c42f5915d74bed28c41a1179b1320a4b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 09:01:30 2017 -0700
+
+    copyright
+
+commit db07b7dd294bdac4fdac926f3e354835a97ee3c1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 08:55:08 2017 -0700
+
+    Update README.md
+
+commit 9e0a3efabdf8b47e834e8dd0fd0571d4aaae622a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 13 22:51:04 2017 -0700
+
+    test pr (ignore)
+
+commit 4893baa94e96c676ed2e3ffaacb8917aece9a120
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 13 22:44:24 2017 -0700
+
+    feross -> webtorrent
+
+commit 26f603e832f0f54393d0124b155e1014c67eb7b8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 20 20:58:56 2017 -0700
+
+    zuul: remove ie
+
+commit 6b9688140284c41514648e73366853abdae3b7b4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 20 20:52:14 2017 -0700
+
+    standard
+
+commit 085e244ae866274e0bd6ee722695e544f5e03245
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 16 15:23:20 2017 -0800
+
+    3.0.9
+
+commit c3b453a5d854bb2a6b4b69dda1463a9064fec4db
+Merge: 9ad8185 a86daa2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 16 15:13:56 2017 -0800
+
+    Merge pull request #19 from feross/dep
+    
+    bencode@0.11
+
+commit a86daa2460a41ae4b72e03b8f2d8395fff878f7e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 16 14:57:22 2017 -0800
+
+    bencode@0.11
+
+commit 9ad818555dde0f54216531eb156c6ef0a61d833d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 17:58:44 2016 -0700
+
+    standard
+
+commit cd0a63689c90258d914ecc912699c45d4b60b1cd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 30 01:43:12 2016 -0700
+
+    3.0.8
+
+commit 9a1ddf367ddbcb9345016954b1fe0eb20c922d14
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 30 01:42:05 2016 -0700
+
+    add missing requires
+
+commit 6a18461ba986cb95b80b8bb49653dca78d5e0145
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 30 01:38:56 2016 -0700
+
+    bencode@0.10
+
+commit e6aafdb3323161e206fd37adaa5a5f7195365ca0
+Merge: 37c7395 9e9c187
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 30 01:38:07 2016 -0700
+
+    Merge pull request #17 from feross/safe-buffer
+    
+    Use safe-buffer
+
+commit 9e9c187bf3f14abe88297139f7e6aeb386106b5c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 30 00:56:47 2016 -0700
+
+    Use safe-buffer
+    
+    Use the new Buffer APIs from Node v6 for added security. For example,
+    `Buffer.from()` will throw if passed a number, unlike `Buffer()` which
+    allocated UNINITIALIZED memory in that case.
+    
+    Use the `safe-buffer` package for compatibility with previous versions
+    of Node.js, including v4.x, v0.12, and v0.10.
+    
+    https://github.com/feross/safe-buffer
+
+commit 37c73958ebed78f0ec4a1d33dceab23e2f7a5907
+Merge: 6977f98 50f97ee
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed May 4 17:18:17 2016 +0200
+
+    Merge pull request #16 from feross/greenkeeper-standard-7.0.1
+    
+    Update standard to version 7.0.1 🚀
+
+commit 50f97ee821d0c5c39285c86f8082289e0b417925
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Wed May 4 16:54:16 2016 +0200
+
+    chore(package): update standard to version 7.0.1
+    
+    https://greenkeeper.io/
+
+commit 6977f98a409ad95286c740c373187cf703dd0721
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Apr 24 01:32:47 2016 -0700
+
+    standard
+
+commit 7f2a017982ab7be2025c77ca1558c285d8ff3a97
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Apr 24 01:07:50 2016 -0700
+
+    3.0.7
+
+commit 934517cfe68b08dadb77668d9bbe8f0e2828c3fd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Apr 24 01:03:02 2016 -0700
+
+    standard
+
+commit 9e5c1fbe944f9fc8b8e24d3afc58d5726fe4d106
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 4 04:11:55 2016 -0700
+
+    3.0.6
+
+commit f872039875c22208efb75cf01b65f549e35ed840
+Merge: 297cf6e 0d54b8a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Apr 3 21:38:53 2016 -0700
+
+    Merge pull request #13 from feross/greenkeeper-bencode-0.9.0
+    
+    Update bencode to version 0.9.0 🚀
+
+commit 0d54b8a3993b9617531ac60c95edf5887d4c35f8
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Sat Apr 2 18:24:38 2016 -0700
+
+    chore(package): update bencode to version 0.9.0
+    
+    http://greenkeeper.io/
+
+commit 297cf6e9a6238888529de8a510f9215555365244
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 23 18:27:42 2016 -0700
+
+    3.0.5
+
+commit 84bc722156b067c9c7d5de08df7baf44054f130e
+Merge: e247069 d20d1e1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 23 18:22:32 2016 -0700
+
+    Merge pull request #12 from feross/greenkeeper-bencode-0.8.0
+    
+    Update bencode to version 0.8.0 🚀
+
+commit d20d1e10e846a9aed8f1d481d8a5aa8fff611dff
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Wed Mar 23 17:12:02 2016 -0700
+
+    chore(package): update bencode to version 0.8.0
+    
+    http://greenkeeper.io/
+
+commit e247069bcfadc3a635d0f1b0b99ec34440824d60
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 12:35:44 2016 -0700
+
+    3.0.4
+
+commit c91d132b6b27d287fa99fe16fcbfb2dd192a1529
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 12:33:57 2016 -0700
+
+    use webtorrent-fixtures
+
+commit dfcbfdf1d252b36932c638a886492f43492c8572
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 10 16:35:38 2016 -0800
+
+    zuul
+
+commit 5fad79dd0387719e7f6d9b65f642311cea108413
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 27 22:57:52 2016 -0800
+
+    3.0.3
+
+commit b92c13afa80596c582305bc3fae6f31885b635a7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 27 22:55:46 2016 -0800
+
+    zuul: remove flaky ios tests
+
+commit e0bcac622ed582c67d0d68ef6ce7751968b91d3c
+Merge: cb95505 0e05220
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Feb 14 01:23:48 2016 -0800
+
+    Merge pull request #7 from feross/greenkeeper-parse-torrent-5.7.1
+    
+    parse-torrent@5.7.1 breaks build 🚨
+
+commit 0e05220ed91c88c252c7f965c8bca61a73ff3e71
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Sun Feb 14 00:48:03 2016 -0800
+
+    chore(package): update parse-torrent to version 5.7.1
+    
+    http://greenkeeper.io/
+
+commit cb95505f14b4befffc964e715214bc7ab00418bd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 9 22:20:07 2016 -0800
+
+    3.0.2
+
+commit b2824bb228f9eb663fe8543c77f9db842fc98439
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 9 22:10:22 2016 -0800
+
+    standard@6
+
+commit 0734f4b4e0cf9a36254bb21caf3a5f0d69610644
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 9 22:09:48 2016 -0800
+
+    add debug log
+
+commit 9bf62ed1352b79e1567e130af8182dc38a5390c5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Feb 5 14:32:52 2016 -0800
+
+    standard 6 prep
+
+commit a04ea1dab5d6de66a137c13bdfd34e9a13b80ecd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Feb 5 14:32:49 2016 -0800
+
+    badges
+
+commit afd5e5955e4afad54df01e51449185ac046bf958
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 6 05:25:14 2016 +0100
+
+    badge
+
+commit 6fc24a9db2c274ea64839dfbc25968e9a7b1cedd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:38:57 2015 -0800
+
+    3.0.1
+
+commit aabe79dde1b3b6e4c92bd98dcd903fb825d7a2ce
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:33:10 2015 -0800
+
+    add missing zuul dependency
+
+commit 62fbe8bd1b3b624c03ea760805d4f5c05ae57f22
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:31:14 2015 -0800
+
+    fix badge
+
+commit 25598089a139cc01a539e0616b86e86c26467a05
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:29:32 2015 -0800
+
+    3.0.0
+
+commit 5e87a38157e36eddd0292c6d0163bb7f8ab78009
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:26:44 2015 -0800
+
+    add sauce labs tests
+
+commit 9e819ba3fee4c42b977e4962cab13010188e2af1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:24:10 2015 -0800
+
+    standard
+
+commit 32f5c04b00a9941f6f431d9e5e52771491822a82
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:17:31 2015 -0800
+
+    standard
+
+commit f77090a35cf91c62894293afcd565cfcbe021b85
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:17:15 2015 -0800
+
+    Changes for bittorrent-protocol@2
+
+commit 3b97b75c15db411a7bc5b86b71bff8150cb628da
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:12:53 2015 -0800
+
+    bittorrent-protocol@2
+
+commit 6b4d4a3ff11755fd10997b28caa0f2a9dbfe3d50
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 18:12:36 2015 -0800
+
+    parse-torrent@5
+
+commit 6b2b79c8752563a29a178b40ae9048178083990d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 6 15:49:55 2015 +0200
+
+    2.7.4
+
+commit 4a464c4bbbb33aa58da6fbd7a12464d94570b608
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 6 15:49:35 2015 +0200
+
+    fix "npm docs" command
+
+commit 093837f212d87edf8bd96cab684a0a0a22963746
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 4 17:27:29 2015 -0700
+
+    2.7.3
+
+commit 9df4368701e4574a9e527e89d8b9e9f713da33d5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 4 17:26:59 2015 -0700
+
+    tape@4
+
+commit c7890651e76d6ceca7bd5575757778136474a2c7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 28 17:07:36 2015 -0500
+
+    2.7.2
+
+commit 772567c1d6eb22fb2b507ad7d9b2e934e5a120ac
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 28 17:06:27 2015 -0500
+
+    parse-torrent@4
+
+commit b0ec983a45e7aa37c6f780dcbd7747e4c7cf98d3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 28 17:05:42 2015 -0500
+
+    bencode@0.7
+
+commit fa6ef7a5ce5596723b4f0eb495983bb3e7e41cd4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jan 22 15:11:11 2015 -0800
+
+    2.7.1
+
+commit ed8b7caff5d73f3e0391a034ecb73c11b8b1f9c4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jan 22 15:11:01 2015 -0800
+
+    parse-torrent@3
+
+commit 1e76d4d466b32af99b1fc5caeac0e7d5fc8715e0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jan 22 15:10:55 2015 -0800
+
+    tape@3
+
+commit a49ecbd4d9f9aedf128e4671358b1475f93484b6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jan 22 15:10:49 2015 -0800
+
+    badges
+
+commit 363ddd0acfccc77c45df3c9926b3fa27ee657773
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 4 21:54:53 2015 -0800
+
+    2.7.0
+
+commit 633f2ad531c3cf630881b7bb43531c549efc69fe
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 4 21:54:47 2015 -0800
+
+    use simple-sha1
+
+commit 463c5278c56cf04f676fb5383a37346111587885
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 17 22:17:15 2014 -0800
+
+    2.6.1
+
+commit cc6c738538de6caa67192f1b521b019154a00d51
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 17 22:17:08 2014 -0800
+
+    update comment for clarity
+
+commit 720da46c442e7f9b17141549e9b8a6a05a5ab6fd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 15 09:11:00 2014 -0700
+
+    2.6.0
+
+commit 19c4543e44c3f4f22e0ada1878d2b6da2772b7a7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 15 09:10:50 2014 -0700
+
+    use git-sha1 (for smaller bundle size)
+
+commit 1e4851c9a34290617e1251c35531dbb04ab63a36
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 14 01:26:37 2014 +0100
+
+    2.5.1
+
+commit 3d37d497bfccfc98f74a5151e6b39812f9afe68a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 14 01:26:31 2014 +0100
+
+    update parse-torrent devdep
+
+commit 2d15afd848f152afb86cb03f3cc247ba02e414e3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 17 03:09:05 2014 -0700
+
+    2.5.0
+
+commit 9c7f5da4321812df30c7dbda97b5c1679c98478b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 17 03:06:45 2014 -0700
+
+    ignore peers who report maliciously large metadata
+
+commit 478cb136707781369f270f1a8a8602293e9de398
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 17 03:06:31 2014 -0700
+
+    update deps
+
+commit c2ac02076ba5c2286de63b32ed9b9cb86548ffae
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 10 05:14:17 2014 -0700
+
+    license
+
+commit 2c65e06bbe829f9c22504fff23ed0864ea3f521a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 2 15:23:53 2014 -0700
+
+    2.4.0
+
+commit 30b5380ce3c20e6f778d96b3a248a8a4f9e363b0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 2 15:23:48 2014 -0700
+
+    remove rusha dep
+
+commit 6c7adecf25095d61e6df71f53690a0c5686efaa3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 11 17:56:30 2014 -0700
+
+    2.3.0
+
+commit b1e28a04a500642a1d55e3d6624d754e0dbe6f27
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 11 17:56:20 2014 -0700
+
+    bncode -> bencode
+
+commit fe95752c37aba011ef41a352a07be7de1d22e7fa
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 23:50:34 2014 -0700
+
+    ie10+
+
+commit 3ea372cfcf516744d3fa8839e443a956e0cb4a6c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 23:43:12 2014 -0700
+
+    2.2.1
+
+commit b55e0c306cdf97a5e7156e727fddd4204d36979d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 23:43:05 2014 -0700
+
+    support IE
+
+commit a33e454002f0f75ac946626e37f0e2b4b26d8f55
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 23:11:17 2014 -0700
+
+    2.2.0
+
+commit 7b4a8881572f9bdebe6ab385274fd016cc760463
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 23:11:04 2014 -0700
+
+    setMetadata handles info dict or full torrent dict
+
+commit e2b3a256700503f048be3bc707139253bbb76840
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:30:09 2014 -0700
+
+    readme typo
+
+commit 69e25b5d2cb161995e267de8f106b64f7f007c16
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:29:45 2014 -0700
+
+    remove pointless examples
+
+commit ec7c1e8a3759df6418e5edf5e02931c26b9ee559
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:29:06 2014 -0700
+
+    2.1.0
+
+commit e894a977f98f6810dfe9f4efc34dfa70ca637453
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:27:33 2014 -0700
+
+    add setMetadata test
+
+commit b9741d834b3c889a5d26690f4848cb13d2db5b4c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:17:43 2014 -0700
+
+    improve readme
+
+commit 47237ba54a63216969a82178e5785ff6b81db16b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:17:25 2014 -0700
+
+    expose `setMetadata` method
+
+commit 9562a84c5ae7117130e3f5094f62aca9b90f0882
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 3 21:17:16 2014 -0700
+
+    send reject message when we don't have piece
+
+commit d3d937fe270f1db6e16a3da3853e594889d1eae2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat May 17 13:33:01 2014 -0700
+
+    2.0.2
+
+commit 77b25ddeeb3ea4b26a8a84639e308708140effcf
+Merge: 1e19a56 6857b65
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat May 17 13:32:00 2014 -0700
+
+    Merge pull request #5 from fisch0920/master
+    
+    small bugfix for issue where peer may not have any extensions as advertised
+
+commit 6857b65d0b58a5918d58e39ac42f24c00184b473
+Merge: 677e452 1e19a56
+Author: fisch0920 <fisch0920@gmail.com>
+Date:   Thu May 15 06:31:58 2014 -0400
+
+    Merge remote-tracking branch 'upstream/master'
+
+commit 677e4522ea8d5918d1adfe9bef3b40a9097a0777
+Author: fisch0920 <fisch0920@gmail.com>
+Date:   Thu May 15 06:31:42 2014 -0400
+
+    bugfix for issue where peer may not have any extensions as advertised
+
+commit 1e19a567ff926f5f8992db18ac776852a9fb7b3e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 11 14:33:03 2014 -0700
+
+    2.0.1
+
+commit c998828d7260bf8b2ccd3d6454fb87f423eb3f0b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 11 14:32:49 2014 -0700
+
+    improve invalid metadata test
+
+commit 82a02fd81a711fa6fe833b20c39d7edd53197556
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 11 14:23:19 2014 -0700
+
+    throw exception when metadata is bad
+
+commit 1968e8ac104b1c0fbf87c825cf4d233ea24bdaed
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 11 14:21:47 2014 -0700
+
+    2.0.0
+
+commit 5a3c0abe72c28af4f76f089091a9272ae065d5b2
+Author: fisch0920 <fisch0920@gmail.com>
+Date:   Sun May 11 01:56:31 2014 -0400
+
+    added missing ubuntu torrent file from last test case
+
+commit 1eef75b61e4649acec62d9a0cb868b708716f194
+Author: fisch0920 <fisch0920@gmail.com>
+Date:   Sun May 11 01:53:46 2014 -0400
+
+    added test case confirming support of multi-block metadata
+
+commit bc3d1ea668e912505ec8356df9a78f2d83e3fcdb
+Author: fisch0920 <fisch0920@gmail.com>
+Date:   Fri May 9 07:11:14 2014 -0400
+
+    fixed buggy metadata vs metadata.info
+
+commit 1fde6fefbc157d9a129444b61939365d3014c195
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed May 7 12:10:13 2014 -0700
+
+    1.4.0
+
+commit 2b60a6bde68bc541222cb8e4da5efdf72acf01d9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed May 7 12:09:39 2014 -0700
+
+    simplify metadata done check
+
+commit 4f002d7a76a20f66f23be5def53f901775958e62
+Author: fisch0920 <fisch0920@gmail.com>
+Date:   Wed May 7 02:00:17 2014 -0400
+
+    fixed issue where ut_metadata thought it should have the whole torrent metadata whereas it actually only has the info dictionary part of the metadata
+
+commit 57b57522bb98aa3256f0b5b888c525ff04cde027
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 23 15:38:50 2014 +0200
+
+    style
+
+commit be756d1711f3bd30106a34a71df0002253bd6721
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 19 18:26:29 2014 -0700
+
+    1.3.1
+
+commit 05abd138cd2322a738fe31c4a7db13f22af64e2f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 19 18:26:19 2014 -0700
+
+    reduce max bitfield size by 100x
+
+commit 2d0be5bb80918747af8b66b25482aecef0871eaf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 19 18:13:56 2014 -0700
+
+    1.3.0
+
+commit b7f0d65c1002dfd01175bd32818d0918c40bc9f5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 19 18:12:51 2014 -0700
+
+    update deps
+
+commit 03798c1c0ddfbbf7e738649369c68717585a3af4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 19 18:12:44 2014 -0700
+
+    no infinite bitfield grow from malicious peers
+
+commit 64b42aab476f64da147ba6c28d725d98f4fa0245
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 9 22:32:01 2014 -0700
+
+    badges
+
+commit 9a49a7bd8e6247c6d898d6ad38e439a2f918c3fa
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 28 02:05:11 2014 -0700
+
+    use brfs on tests 2
+
+commit bacceb2698ef6bf81ad1f133e8b5c009089008ba
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 28 01:55:45 2014 -0700
+
+    use brfs on tests
+
+commit 520a8616faf33ab8014444a6ee2c91203fbbf9da
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 27 23:36:07 2014 -0700
+
+    1.2.1
+
+commit c28d792a8a986b92fc88901b9193433f08732961
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 27 23:36:04 2014 -0700
+
+    expect metadata to be a Buffer
+
+commit 3bef511a48020b6fb4ab0e024aa51c8d9c3199c1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 27 00:53:15 2014 -0700
+
+    Update README.md
+
+commit 63768d53a1ab3d4a01120afbc5e5a8f79fbaee91
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 26 02:03:17 2014 -0700
+
+    1.2.0
+
+commit 9a30eb2ca24c6fdbb67d433153b80f61d9a049fd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 26 02:03:13 2014 -0700
+
+    get rid of wire.ext()
+
+commit bb14f5990b17045414b01458e8ecd78a7e755c09
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Mar 23 00:30:50 2014 -0700
+
+    readme
+
+commit bb029ca16d6a55b3bbad6572c5046a46771482b1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 23:48:26 2014 -0700
+
+    readme
+
+commit b4df62450c8c9250aa7c4bbb7dd1c2f477b99857
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 22:36:18 2014 -0700
+
+    1.1.0
+
+commit 7298e9bde761b8596b7551e40e9ebef95a1eaf24
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 22:36:12 2014 -0700
+
+    get rid of weird spaces
+
+commit 0dda562ba99a47335ddd4be7131367cea285ddbe
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 22:15:57 2014 -0700
+
+    add metadata verification
+
+commit 5eab98f3bf7f5cbac29c37913a5e138f5ac8b1fc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:52:38 2014 -0700
+
+    remove gotMetadata from tests
+
+commit af67fc4c5fb86e136c948f19ce65f5674f5b59ba
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:44:29 2014 -0700
+
+    1.0.1
+
+commit f8a6d99ae226a1b3cccaf32c4c62f14286000da1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:44:18 2014 -0700
+
+    fix bitfield module name
+    
+    os x masked this b/c case insensitive filesystem
+
+commit 1ae6db4204b8f7fff2f0a96adeaf542a031bbe29
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:42:49 2014 -0700
+
+    readme
+
+commit a2b4e5fff621b6b0aa363d6d54b04dbbb08ff6d1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:41:45 2014 -0700
+
+    tabs to spaces
+
+commit c408cf6bb22072b4eb1c067627614df32543bdfa
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:38:29 2014 -0700
+
+    1.0.0
+
+commit 55b25515607a49045e63db3e44464d4d3e3af6f6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:38:04 2014 -0700
+
+    add README
+
+commit 3ab3dd5efdd9a54ba9a271ec9131e8671cab28ba
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:10:23 2014 -0700
+
+    emit more warnings
+
+commit 289b7c3e06fc87066930b610a53d4cbf1759e2f4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 21:09:55 2014 -0700
+
+    dont expose gotMetadata
+
+commit bda3920643a711895ee5e4bc46cd79e4a905f4ec
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 22 20:34:50 2014 -0700
+
+    working implementation with tests
+
+commit 9375b636ef6c74cf124dc7b7378be3937c53903e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 21 23:42:00 2014 -0700
+
+    initial commit

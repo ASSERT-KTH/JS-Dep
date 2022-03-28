@@ -1,0 +1,5285 @@
+commit 79dc823cb0b29a3edb3b918948af65dc1b1d3ca4
+Merge: de9e7d7 78e1201
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 28 00:32:29 2022 +0200
+
+    Merge pull request #329 from openhab/dependabot/npm_and_yarn/minimist-1.2.6
+
+commit 78e1201293546d2c313490cf885a7969d5bcf0a0
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Mar 27 22:22:48 2022 +0000
+
+    Bump minimist from 1.2.5 to 1.2.6
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.5 to 1.2.6.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.5...1.2.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: minimist
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit de9e7d78285c2c1c7a810f59c70b6021fd2e5368
+Merge: 5bb45ae d647ab2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 28 00:22:44 2022 +0200
+
+    Merge pull request #328 from openhab/dependabot/github_actions/google-github-actions/deploy-cloud-functions-0.10.0
+
+commit 5bb45aee4b4624c671dba7ccfd51f60fc53d1bc0
+Merge: 24a94bf 21adb62
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 28 00:22:26 2022 +0200
+
+    Merge pull request #327 from openhab/dependabot/npm_and_yarn/prettier-2.6.0
+
+commit d647ab2868b288ae385a9759db726c1c9fc18902
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 21 09:14:07 2022 +0000
+
+    Bump google-github-actions/deploy-cloud-functions from 0.9.0 to 0.10.0
+    
+    Bumps [google-github-actions/deploy-cloud-functions](https://github.com/google-github-actions/deploy-cloud-functions) from 0.9.0 to 0.10.0.
+    - [Release notes](https://github.com/google-github-actions/deploy-cloud-functions/releases)
+    - [Changelog](https://github.com/google-github-actions/deploy-cloud-functions/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/deploy-cloud-functions/compare/v0.9.0...v0.10.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/deploy-cloud-functions
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 21adb62d47f41467dca236c18dd28b5d8b32060c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 21 09:01:07 2022 +0000
+
+    Bump prettier from 2.5.1 to 2.6.0
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.5.1 to 2.6.0.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.5.1...2.6.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 24a94bf54ec676d22526e4396ab67b56ef4f4179
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Mar 17 21:19:23 2022 +0100
+
+    Revert "Reduce memory allocation of cloud function"
+    
+    This reverts commit 169d47f4aee8223c65d64c70f0b0e66655e60e73.
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 883b3c61e6a76fa485b25ce2f127f727160c6d39
+Merge: 4a4a1dc 34bff15
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 16 14:26:19 2022 +0100
+
+    Merge pull request #326 from openhab/dependabot/github_actions/google-github-actions/deploy-cloud-functions-0.9.0
+
+commit 4a4a1dcf05eaa323b10e87bef72a94b555562e1a
+Merge: 6592865 faf139e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 16 14:26:08 2022 +0100
+
+    Merge pull request #325 from openhab/dependabot/npm_and_yarn/eslint-8.11.0
+
+commit 34bff15051c63a3fdea1a18b2001b1776ed19cd1
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 14 09:08:25 2022 +0000
+
+    Bump google-github-actions/deploy-cloud-functions from 0.8.0 to 0.9.0
+    
+    Bumps [google-github-actions/deploy-cloud-functions](https://github.com/google-github-actions/deploy-cloud-functions) from 0.8.0 to 0.9.0.
+    - [Release notes](https://github.com/google-github-actions/deploy-cloud-functions/releases)
+    - [Changelog](https://github.com/google-github-actions/deploy-cloud-functions/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/deploy-cloud-functions/compare/v0.8.0...v0.9.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/deploy-cloud-functions
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit faf139eb300e0062d5acb64fc0b55a99513ab026
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 14 09:00:55 2022 +0000
+
+    Bump eslint from 8.10.0 to 8.11.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.10.0 to 8.11.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.10.0...v8.11.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 65928652562c1623ec2e81256cb86d3128899026
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Mar 13 21:15:43 2022 +0100
+
+    :bookmark: Release (minor): 3.4.0
+
+commit 6fc2ec5ec428faec6b42408c7042928e7d4244e4
+Merge: e025b7d 6458a88
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Mar 13 21:14:48 2022 +0100
+
+    Merge pull request #319 from michikrug/state-errors
+
+commit e025b7da3c0079d8760084eb9134f159f2ce8558
+Merge: 185fb3b fcf00a2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 7 16:10:28 2022 +0100
+
+    Merge pull request #324 from openhab/dependabot/github_actions/actions/checkout-3
+
+commit 185fb3b1251cdda8e84ffc36a48c903649604ef0
+Merge: c664ae0 6e6139d
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 7 16:09:55 2022 +0100
+
+    Merge pull request #323 from openhab/dependabot/npm_and_yarn/eslint-config-prettier-8.5.0
+
+commit fcf00a20d26063551b13b46f24b364ef37db3f37
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 7 09:07:53 2022 +0000
+
+    Bump actions/checkout from 2 to 3
+    
+    Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 3.
+    - [Release notes](https://github.com/actions/checkout/releases)
+    - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/checkout/compare/v2...v3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/checkout
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 6e6139d8c332fad72a7ed2f1dcae89e5951fca76
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 7 09:00:46 2022 +0000
+
+    Bump eslint-config-prettier from 8.4.0 to 8.5.0
+    
+    Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 8.4.0 to 8.5.0.
+    - [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+    - [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/eslint-config-prettier/compare/v8.4.0...v8.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-config-prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit c664ae060fff042c9cc2ed2a79a9a40bc5b5b9f3
+Merge: a0b5f3f ae889a0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 28 13:11:18 2022 +0100
+
+    Merge pull request #320 from openhab/dependabot/npm_and_yarn/eslint-8.10.0
+
+commit a0b5f3fd88dba23951f28f6a7bb83612f5e5243c
+Merge: dc39ab6 da2429c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 28 13:10:57 2022 +0100
+
+    Merge pull request #322 from openhab/dependabot/github_actions/actions/setup-node-3
+
+commit ae889a0c5c8b629184bac631c33c855f00af0a8c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 28 12:09:24 2022 +0000
+
+    Bump eslint from 8.9.0 to 8.10.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.9.0 to 8.10.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.9.0...v8.10.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit dc39ab6df883791d08f190f7fc965288e1cc0511
+Merge: 169d47f b41b1b2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 28 13:08:42 2022 +0100
+
+    Merge pull request #321 from openhab/dependabot/npm_and_yarn/types/jest-27.4.1
+
+commit da2429c3ce29af473318916759820c8812166086
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 28 09:07:05 2022 +0000
+
+    Bump actions/setup-node from 2.5.1 to 3
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.5.1 to 3.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.5.1...v3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit b41b1b29d5ddde8d90922c82ef85702389f7c1b9
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 28 09:01:04 2022 +0000
+
+    Bump @types/jest from 27.4.0 to 27.4.1
+    
+    Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 27.4.0 to 27.4.1.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/jest"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 6458a88f34fbf8ff48b74cc893d8c2e1581e36ee
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Feb 26 22:41:05 2022 +0100
+
+    Remove irrelevant tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 1ee03f9ab4c61826767961bf998add71135d3a6d
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Feb 26 22:35:16 2022 +0100
+
+    Add positive test case for checkState with group item
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 9e11124d0d7dff68a9fe927da6020314fa87c5a5
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Feb 26 22:20:31 2022 +0100
+
+    Improve checkState group condition
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 48c8aee7a677684002a6548c344a87fb4254ca3a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Feb 26 21:55:30 2022 +0100
+
+    Add test case for checkState with group item
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit d3ab7a198062ce62816b17875365fcdf2e96865d
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Feb 26 21:36:34 2022 +0100
+
+    Update usage documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 82402bdfbdc4752223b802cd741b7c468fe191c6
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Feb 26 21:24:25 2022 +0100
+
+    Fix issue with Numbers with dimensions
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 9fcedef9e8ab87fae19eb589bf7584dbb70d2dfc
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Feb 23 10:28:34 2022 +0100
+
+    Minor adjustments
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c9c7a7707d0663812ef2e6b453a558ebd6403255
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Feb 22 23:35:08 2022 +0100
+
+    Revert getItemName changes
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c96d60e4eb903901da31300130e9fccd49d3be3c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 21 23:31:02 2022 +0100
+
+    Add generic state validation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 169d47f4aee8223c65d64c70f0b0e66655e60e73
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Feb 22 15:57:26 2022 +0100
+
+    Reduce memory allocation of cloud function
+    
+    As 256MB seem to be not used anyways
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ea15479fc15bc74700e5bc36e76eaf7a83cd4f97
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 11:36:52 2022 +0100
+
+    Adjust release script
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit e03dad8816e9f418bf4a9864b26cc865d3c206f5
+Merge: bca8396 3a318c0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 21 17:16:58 2022 +0100
+
+    Merge pull request #318 from openhab/dependabot/npm_and_yarn/express-4.17.3
+
+commit bca8396f1fc9da0bd1da185e7e5d024602d666b3
+Merge: 0be050d aa4232b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 21 17:16:22 2022 +0100
+
+    Merge pull request #317 from openhab/dependabot/npm_and_yarn/eslint-config-prettier-8.4.0
+
+commit 3a318c03e8f7f309c99845fe7f668c522e07be04
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 21 09:00:53 2022 +0000
+
+    Bump express from 4.17.2 to 4.17.3
+    
+    Bumps [express](https://github.com/expressjs/express) from 4.17.2 to 4.17.3.
+    - [Release notes](https://github.com/expressjs/express/releases)
+    - [Changelog](https://github.com/expressjs/express/blob/master/History.md)
+    - [Commits](https://github.com/expressjs/express/compare/4.17.2...4.17.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: express
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit aa4232b5ef956764b05b62754c1024969fe13686
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 21 09:00:46 2022 +0000
+
+    Bump eslint-config-prettier from 8.3.0 to 8.4.0
+    
+    Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 8.3.0 to 8.4.0.
+    - [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+    - [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/eslint-config-prettier/compare/v8.3.0...v8.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-config-prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 0be050dabbfc69899f3ffa7df5b23f9be42b9c72
+Merge: 884f894 b5f0765
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Feb 17 21:59:58 2022 +0100
+
+    Merge pull request #315 from openhab/dependabot/npm_and_yarn/eslint-8.9.0
+
+commit 884f894b3985d67ec1663a6d5e97456f8deded8f
+Merge: 16b6fc4 c2ccc4d
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Feb 17 21:59:42 2022 +0100
+
+    Merge pull request #314 from openhab/dependabot/npm_and_yarn/jest-27.5.1
+
+commit b5f07659d92a6379b618598521658e4349ab89ef
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 14 09:01:21 2022 +0000
+
+    Bump eslint from 8.8.0 to 8.9.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.8.0 to 8.9.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.8.0...v8.9.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit c2ccc4d18d6fb6a502f308e5c9c637004f0e4881
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 14 09:01:12 2022 +0000
+
+    Bump jest from 27.5.0 to 27.5.1
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.5.0 to 27.5.1.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.5.0...v27.5.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 16b6fc498a11903a60ca9cfc9d7e0a719329c8dc
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 11:27:34 2022 +0100
+
+    :bookmark: Release (patch): 3.3.1
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit bf5d1c28050ea33e0de5705ca61b0afdda2bee45
+Merge: 6857c7b a7c867a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 11:26:31 2022 +0100
+
+    Merge pull request #309 from openhab/add-mediastate
+
+commit 6857c7b492a9c60789b9e7cb630903365586251f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 11:20:53 2022 +0100
+
+    Adjust min/max instances for cloud function
+
+commit 7ecf35f8c51489901aa58718adb693e4ae6a1ad6
+Merge: 88e681a 319e2e3
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 10:52:51 2022 +0100
+
+    Merge pull request #311 from openhab/dependabot/npm_and_yarn/jest-27.5.0
+
+commit 319e2e379989b629c67de8b910602d82f7dce3d6
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 7 09:50:54 2022 +0000
+
+    Bump jest from 27.4.7 to 27.5.0
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.4.7 to 27.5.0.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.4.7...v27.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 88e681a34fa227ac8a9db068a9d22579766a18b6
+Merge: b4b1b25 66b69d8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 10:50:29 2022 +0100
+
+    Merge pull request #313 from openhab/dependabot/github_actions/google-github-actions/auth-0.6.0
+
+commit b4b1b25ee0f997ff20816273b2f8ace07790b509
+Merge: e41a3aa 1c423ad
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 10:48:56 2022 +0100
+
+    Merge pull request #312 from openhab/dependabot/github_actions/google-github-actions/deploy-cloud-functions-0.8.0
+
+commit e41a3aac2a27f4631f4134eba6d416989ba172db
+Merge: ff7e78a f3a17e7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Feb 7 10:48:17 2022 +0100
+
+    Merge pull request #310 from openhab/dependabot/npm_and_yarn/nock-13.2.4
+
+commit 66b69d8c5fdcf9fa11fd385720d5bdf8e7b8bbf8
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 7 09:06:53 2022 +0000
+
+    Bump google-github-actions/auth from 0.5.0 to 0.6.0
+    
+    Bumps [google-github-actions/auth](https://github.com/google-github-actions/auth) from 0.5.0 to 0.6.0.
+    - [Release notes](https://github.com/google-github-actions/auth/releases)
+    - [Changelog](https://github.com/google-github-actions/auth/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/auth/compare/v0.5.0...v0.6.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/auth
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 1c423ad508b802f2ff04ae47c1103d388e2f4545
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 7 09:06:51 2022 +0000
+
+    Bump google-github-actions/deploy-cloud-functions from 0.7.2 to 0.8.0
+    
+    Bumps [google-github-actions/deploy-cloud-functions](https://github.com/google-github-actions/deploy-cloud-functions) from 0.7.2 to 0.8.0.
+    - [Release notes](https://github.com/google-github-actions/deploy-cloud-functions/releases)
+    - [Changelog](https://github.com/google-github-actions/deploy-cloud-functions/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/deploy-cloud-functions/compare/v0.7.2...v0.8.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/deploy-cloud-functions
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit f3a17e7546f619e7713bc1aa225954e9af400e59
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Feb 7 09:00:35 2022 +0000
+
+    Bump nock from 13.2.2 to 13.2.4
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.2.2 to 13.2.4.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.2.2...v13.2.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit ff7e78a1d012ba408487d4068d198aba31732538
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Feb 1 17:24:47 2022 +0100
+
+    Fix source path in USAGE.md
+
+commit a7c867a745c3c745993f4c0db3ba8204a916699e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 31 21:23:46 2022 +0100
+
+    Add mediastate trait to tv
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 5ec7d210f2808fd99e317cc506b937016dc8c9dc
+Merge: 3431050 4f8df28
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 31 21:09:43 2022 +0100
+
+    Merge pull request #308 from openhab/dependabot/npm_and_yarn/eslint-8.8.0
+
+commit 3431050abdc66cb72751af9363c5e0c1a2ea9a0d
+Merge: 8f4dc33 fc210f0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 31 21:09:28 2022 +0100
+
+    Merge pull request #307 from openhab/dependabot/npm_and_yarn/functions/node-fetch-2.6.7
+
+commit 4f8df28636dc3ce6584360b8c2c6d2fdf2c02777
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 31 09:00:46 2022 +0000
+
+    Bump eslint from 8.7.0 to 8.8.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.7.0 to 8.8.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.7.0...v8.8.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit fc210f0552705174b376ba27836f493eb7f03be6
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Jan 29 14:45:46 2022 +0000
+
+    Bump node-fetch from 2.6.1 to 2.6.7 in /functions
+    
+    Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.1 to 2.6.7.
+    - [Release notes](https://github.com/node-fetch/node-fetch/releases)
+    - [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.1...v2.6.7)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: node-fetch
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 8f4dc33c9cdf33b3496df233bd63da2f9c247def
+Merge: 25c7eec f36dbbf
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Jan 29 15:45:24 2022 +0100
+
+    Merge pull request #306 from openhab/dependabot/github_actions/google-github-actions/auth-0.5.0
+
+commit f36dbbfa948fa5a650506b04f6e3a02b514ee2ed
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 24 09:08:24 2022 +0000
+
+    Bump google-github-actions/auth from 0.4.4 to 0.5.0
+    
+    Bumps [google-github-actions/auth](https://github.com/google-github-actions/auth) from 0.4.4 to 0.5.0.
+    - [Release notes](https://github.com/google-github-actions/auth/releases)
+    - [Changelog](https://github.com/google-github-actions/auth/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/auth/compare/v0.4.4...v0.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/auth
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 25c7eec502ed5c95a865a40ba3b4ef1546cf5593
+Merge: fa0544f 941e9a2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 17 12:07:05 2022 +0100
+
+    Merge pull request #304 from openhab/dependabot/npm_and_yarn/eslint-8.7.0
+
+commit fa0544ffc8bc2ad6a1f269d17455eabba86570cb
+Merge: d5515d7 61b453b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 17 12:06:53 2022 +0100
+
+    Merge pull request #303 from openhab/dependabot/npm_and_yarn/nock-13.2.2
+
+commit 941e9a2059c1cd495c20b799b798d7fdb4699426
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 17 09:00:50 2022 +0000
+
+    Bump eslint from 8.6.0 to 8.7.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.6.0 to 8.7.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.6.0...v8.7.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 61b453bd05ce3db5a65b36d58a6b106dbfac1a51
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 17 09:00:42 2022 +0000
+
+    Bump nock from 13.2.1 to 13.2.2
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.2.1 to 13.2.2.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.2.1...v13.2.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit d5515d7983cff2372c80b739c6221ad36985da5b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jan 13 18:25:21 2022 +0100
+
+    Woops, skipping required checks will also skip the deployment
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 4f812875b9cc2c706bedb9f08bf2e8d5a7e21dec
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jan 13 18:13:00 2022 +0100
+
+    :bookmark: Release (minor): 3.3.0
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 9be391f2db391ede406041c2188d2255873843ed
+Merge: 60da1ba 059b6ad
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jan 13 18:11:58 2022 +0100
+
+    Merge pull request #301 from michikrug/charger
+
+commit 059b6ad0d7fa63d37d08aea05f683bfdcb350c23
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jan 13 18:08:02 2022 +0100
+
+    Minor attribute fix
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 60da1ba925651ddc6c81fec8f7173ebeeea41d78
+Merge: 6db9f62 fdb09fb
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Jan 11 12:03:17 2022 +0100
+
+    Merge pull request #302 from openhab/dependabot/npm_and_yarn/jest-27.4.7
+
+commit fdb09fb0e34d1b7a6c5a9f606f68359aeb43b304
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 10 09:01:27 2022 +0000
+
+    Bump jest from 27.4.5 to 27.4.7
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.4.5 to 27.4.7.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.4.5...v27.4.7)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 233ef2edf31a8a287505c8388030e2a8a377ab06
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Jan 7 20:50:58 2022 +0100
+
+    Add USAGE documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 385ad7bc1f1fadd06129658340fba2aaea1ba610
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jan 6 23:53:29 2022 +0100
+
+    Remove useless test data
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit eb5d25d7ccf783a860bb49e47a2d84b9eb9ed1e9
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jan 6 21:36:56 2022 +0100
+
+    Add Charger device and Charge command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 6db9f62effca90e8814e5d3d091fb35838601d2f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Jan 4 09:37:55 2022 +0100
+
+    Set theme jekyll-theme-cayman
+
+commit ca7db79193ec9b1bf2227af45bf28d419b2716a9
+Merge: 0818a55 2af4211
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Jan 4 09:34:16 2022 +0100
+
+    Merge pull request #297 from openhab/dependabot/npm_and_yarn/eslint-8.6.0
+
+commit 2af4211c85f6630a8bab75d425aa685dee49c82b
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 3 16:04:43 2022 +0000
+
+    Bump eslint from 8.5.0 to 8.6.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.5.0 to 8.6.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.5.0...v8.6.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 0818a556d0d8f5ecbac581f9008f96ac992dcf5c
+Merge: 75b971a 7a83e24
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 3 17:03:58 2022 +0100
+
+    Merge pull request #296 from openhab/dependabot/npm_and_yarn/types/jest-27.4.0
+
+commit 75b971a82fe729c75d85c6360ac3175e73f828b9
+Merge: 3274acf a05778e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 3 17:03:46 2022 +0100
+
+    Merge pull request #298 from openhab/dependabot/github_actions/actions/setup-node-2.5.1
+
+commit 3274acfebd07943b9bc4515d3f107ae24b9a54ec
+Merge: b058aaf 5b2540f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 3 17:03:21 2022 +0100
+
+    Merge pull request #295 from openhab/dependabot/github_actions/google-github-actions/auth-0.4.4
+
+commit b058aafb46a58bc0eb0fd7ac06a0ec5cf31d3af0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 3 17:02:27 2022 +0100
+
+    Delete markdownlint-problem-matcher.json
+
+commit d6f4c6a4e50e9a91b4d4a561ab042f4d6bbc3f0f
+Merge: 634c4a5 fdfc2db
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jan 3 17:02:10 2022 +0100
+
+    Merge pull request #294 from openhab/dependabot/github_actions/nosborn/github-action-markdown-cli-3.0.1
+
+commit a05778eb06cc591ccf538068c423866abf8ebcc6
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 3 09:04:39 2022 +0000
+
+    Bump actions/setup-node from 2.5.0 to 2.5.1
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.5.0 to 2.5.1.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.5.0...v2.5.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 7a83e241ebaced256e9742b6ca6854715bf8dddd
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 3 09:00:31 2022 +0000
+
+    Bump @types/jest from 27.0.3 to 27.4.0
+    
+    Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 27.0.3 to 27.4.0.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/jest"
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 5b2540f4353ff39787770882fe72881ad8e70a75
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 27 09:06:55 2021 +0000
+
+    Bump google-github-actions/auth from 0.4.3 to 0.4.4
+    
+    Bumps [google-github-actions/auth](https://github.com/google-github-actions/auth) from 0.4.3 to 0.4.4.
+    - [Release notes](https://github.com/google-github-actions/auth/releases)
+    - [Changelog](https://github.com/google-github-actions/auth/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/auth/compare/v0.4.3...v0.4.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/auth
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit fdfc2db69daaae9d3f3f9cba36cd230fdb50dff4
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 27 09:06:53 2021 +0000
+
+    Bump nosborn/github-action-markdown-cli from 3.0.0 to 3.0.1
+    
+    Bumps [nosborn/github-action-markdown-cli](https://github.com/nosborn/github-action-markdown-cli) from 3.0.0 to 3.0.1.
+    - [Release notes](https://github.com/nosborn/github-action-markdown-cli/releases)
+    - [Commits](https://github.com/nosborn/github-action-markdown-cli/compare/v3.0.0...v3.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nosborn/github-action-markdown-cli
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 634c4a5f4b1b2922c7b1f6333edf7cee4bce7f81
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:36:10 2021 +0100
+
+    Add min_instances config
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 2685a7b8b9b5bb2bb8322b1ee782d148819f2d12
+Merge: 1f158cc f48ea6f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:34:01 2021 +0100
+
+    Merge pull request #293 from openhab/dependabot/github_actions/nosborn/github-action-markdown-cli-3.0.0
+
+commit 1f158cc347dbb5c53147e24cba6de6586299758a
+Merge: 7abaf2f 5f6dd4b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:31:13 2021 +0100
+
+    Merge pull request #291 from openhab/dependabot/npm_and_yarn/express-4.17.2
+
+commit f48ea6f11cface3d87afee1b19013ed3b4f8a04e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:30:57 2021 +0100
+
+    Add required problem matcher file
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 5f6dd4bff708c1483e57ba79842bda54a0bc5dd0
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 20 10:27:16 2021 +0000
+
+    Bump express from 4.17.1 to 4.17.2
+    
+    Bumps [express](https://github.com/expressjs/express) from 4.17.1 to 4.17.2.
+    - [Release notes](https://github.com/expressjs/express/releases)
+    - [Changelog](https://github.com/expressjs/express/blob/master/History.md)
+    - [Commits](https://github.com/expressjs/express/compare/4.17.1...4.17.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: express
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 7abaf2f81c5495f815bf72d2f7fb46b368ae477d
+Merge: 3b2d766 a2f4b96
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:26:45 2021 +0100
+
+    Merge pull request #292 from openhab/dependabot/github_actions/google-github-actions/deploy-cloud-functions-0.7.2
+
+commit 3b2d766981e8f6c08e7c6ba5fb4d3161da645e2a
+Merge: ede3919 0865645
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:26:12 2021 +0100
+
+    Merge pull request #290 from openhab/dependabot/npm_and_yarn/eslint-8.5.0
+
+commit ede391946a3be0ca242dc9eb56b535955a0ff5c8
+Merge: 9682bf0 6727e83
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:25:57 2021 +0100
+
+    Merge pull request #289 from openhab/dependabot/npm_and_yarn/jest-27.4.5
+
+commit 9682bf0ea6db507f09d33cb2ddae1990a6b2760e
+Merge: 7b2322e 96e5a0f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 20 11:25:47 2021 +0100
+
+    Merge pull request #287 from openhab/dependabot/github_actions/google-github-actions/auth-0.4.3
+
+commit 72bb5c1580d453a86cff6172d1591e1c70f87bfb
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 20 09:07:41 2021 +0000
+
+    Bump nosborn/github-action-markdown-cli from 2 to 3.0.0
+    
+    Bumps [nosborn/github-action-markdown-cli](https://github.com/nosborn/github-action-markdown-cli) from 2 to 3.0.0.
+    - [Release notes](https://github.com/nosborn/github-action-markdown-cli/releases)
+    - [Commits](https://github.com/nosborn/github-action-markdown-cli/compare/v2...v3.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nosborn/github-action-markdown-cli
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit a2f4b96997afaef5392e192192ee9515d6b08a38
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 20 09:07:39 2021 +0000
+
+    Bump google-github-actions/deploy-cloud-functions from 0.6.0 to 0.7.2
+    
+    Bumps [google-github-actions/deploy-cloud-functions](https://github.com/google-github-actions/deploy-cloud-functions) from 0.6.0 to 0.7.2.
+    - [Release notes](https://github.com/google-github-actions/deploy-cloud-functions/releases)
+    - [Changelog](https://github.com/google-github-actions/deploy-cloud-functions/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/google-github-actions/deploy-cloud-functions/compare/v0.6.0...v0.7.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/deploy-cloud-functions
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 0865645cb07723a5077d650da412d26e4e674af8
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 20 09:01:40 2021 +0000
+
+    Bump eslint from 8.4.0 to 8.5.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.4.0 to 8.5.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.4.0...v8.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 6727e8382b4b3870ccca03faebc08c5683f8d86a
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 20 09:01:29 2021 +0000
+
+    Bump jest from 27.4.3 to 27.4.5
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.4.3 to 27.4.5.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.4.3...v27.4.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 96e5a0fd741000c83b2ebafb1a501dccabb8a7d5
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 13 09:06:18 2021 +0000
+
+    Bump google-github-actions/auth from 0.4.1 to 0.4.3
+    
+    Bumps [google-github-actions/auth](https://github.com/google-github-actions/auth) from 0.4.1 to 0.4.3.
+    - [Release notes](https://github.com/google-github-actions/auth/releases)
+    - [Commits](https://github.com/google-github-actions/auth/compare/v0.4.1...v0.4.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/auth
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 7b2322e7c51d8295f1f85fd36b6a5afebbd68427
+Merge: d13cb16 31dd24c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 6 11:23:52 2021 +0100
+
+    Merge pull request #282 from openhab/dependabot/npm_and_yarn/eslint-8.4.0
+
+commit d13cb16c338b402360f7a214d2771b127606c793
+Merge: 72f6b67 9c04ea9
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 6 11:23:43 2021 +0100
+
+    Merge pull request #284 from openhab/dependabot/github_actions/actions/setup-node-2.5.0
+
+commit 72f6b673a700d7e32c535a8e07702f78eee4248a
+Merge: bafb4b7 cb20854
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 6 11:23:03 2021 +0100
+
+    Merge pull request #283 from openhab/dependabot/github_actions/google-github-actions/auth-0.4.1
+
+commit 31dd24cca3b5f00bd78f27a4fd06a5fdcb28ffa8
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 6 10:21:24 2021 +0000
+
+    Bump eslint from 8.3.0 to 8.4.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.3.0 to 8.4.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.3.0...v8.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit bafb4b7435a0ae7eff2ee6e38c8d96fefa7a348a
+Merge: cfc07c9 2f00a45
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 6 11:21:00 2021 +0100
+
+    Merge pull request #281 from openhab/dependabot/npm_and_yarn/jest-27.4.3
+
+commit cfc07c93170ab1fce1d99b3b00d1b23e0e13e121
+Merge: ddc2d8a 14a95fe
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Dec 6 11:20:43 2021 +0100
+
+    Merge pull request #280 from openhab/dependabot/npm_and_yarn/prettier-2.5.1
+
+commit 9c04ea935717b652998d0f77ebcf38dabfcbff62
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 6 09:06:20 2021 +0000
+
+    Bump actions/setup-node from 2.4.1 to 2.5.0
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.4.1 to 2.5.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.4.1...v2.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit cb20854a729fafcc86d3a2eb49a9578df74e3108
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 6 09:06:16 2021 +0000
+
+    Bump google-github-actions/auth from 0.4.0 to 0.4.1
+    
+    Bumps [google-github-actions/auth](https://github.com/google-github-actions/auth) from 0.4.0 to 0.4.1.
+    - [Release notes](https://github.com/google-github-actions/auth/releases)
+    - [Commits](https://github.com/google-github-actions/auth/compare/v0.4.0...v0.4.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: google-github-actions/auth
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 2f00a450d46b3541c189996d869c04531a4d27ce
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 6 09:01:34 2021 +0000
+
+    Bump jest from 27.3.1 to 27.4.3
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.3.1 to 27.4.3.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.3.1...v27.4.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 14a95fe50510ce48dec6f0f32e5bf18a14261085
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 6 09:00:41 2021 +0000
+
+    Bump prettier from 2.5.0 to 2.5.1
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.5.0 to 2.5.1.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.5.0...2.5.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit ddc2d8a9162de5e3385e2e07a6e6fbbff3410c03
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 30 10:03:13 2021 +0100
+
+    Skip testing on release
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit fb240763d492064043fe995050c355523d2cab30
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 24 11:20:14 2021 +0100
+
+    Increase timeout for the cloud function
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit f6c0e202f8fd7d0d7a609062b55610c566d5909c
+Merge: 13e73e1 35f1355
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 29 13:41:34 2021 +0100
+
+    Merge pull request #279 from openhab/dependabot/npm_and_yarn/prettier-2.5.0
+
+commit 35f13556aa2f07bdd79d82d8ac3b4d413087520e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Nov 29 09:00:54 2021 +0000
+
+    Bump prettier from 2.4.1 to 2.5.0
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.4.1 to 2.5.0.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.4.1...2.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 13e73e1617848a8740dfde9bdbb8810f9b9badfd
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 23 23:26:10 2021 +0100
+
+    Rework deprecated credentials usage
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 0cb1d5f688b8fb806dddec69f4f18ecebeb3cb35
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 23 23:14:37 2021 +0100
+
+    :bookmark: Release (patch): 3.2.1
+
+commit b7f0b113fb5b5464a633a9513dd6cacbea12da1c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 23 23:14:05 2021 +0100
+
+    Prepare new release
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 6e8b654399bc190f3235b79370bf9c585b724451
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 23 23:12:04 2021 +0100
+
+    Remove redundant log line
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit efb75d26ef7171a705c1f70da3561aa09664fb0d
+Merge: a0ca87e 6b25c30
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 23 23:10:43 2021 +0100
+
+    Merge pull request #277 from openhab/catch-json-error
+
+commit a0ca87eb3d20e190545227156b6d4c547899edb7
+Merge: 3039252 bc6e048
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 22 19:56:22 2021 +0100
+
+    Merge pull request #275 from openhab/dependabot/npm_and_yarn/eslint-8.3.0
+
+commit bc6e0484132b457e7b21004b25d88b2ce7a95c8c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Nov 22 18:37:15 2021 +0000
+
+    Bump eslint from 8.2.0 to 8.3.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.2.0 to 8.3.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.2.0...v8.3.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 30392523b697c7940e0649a08f113f047adda26e
+Merge: dc70d8b 0e37f39
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 22 19:36:48 2021 +0100
+
+    Merge pull request #276 from openhab/dependabot/npm_and_yarn/types/jest-27.0.3
+
+commit 6b25c301135670056b18a0c53bcd55edbb7038f3
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 22 11:29:36 2021 +0100
+
+    Catch JSON parse error in apihandler
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 0e37f398c02049ab842fb1662f06e9c575a9e49c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Nov 22 09:01:00 2021 +0000
+
+    Bump @types/jest from 27.0.2 to 27.0.3
+    
+    Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 27.0.2 to 27.0.3.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/jest"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit dc70d8bfb3a76abcfbdd164137c52d30ebd60544
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 22:32:22 2021 +0100
+
+    :bookmark: Release (minor): 3.2.0
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit a0f05fb4d4bca79ed8b1f4bccd5ee9c6029ff8f2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 23:01:51 2021 +0100
+
+    Adjust release drafter config
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c44fd4e30264f898d122c10ed7392a6e2fa0b41e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 23:01:28 2021 +0100
+
+    Fix circular dependency warning
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit db4b9ef006accd2e3ccd48b6b8c05081fcae68fa
+Merge: 27b3598 0f95f5d
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 22:29:09 2021 +0100
+
+    Merge pull request #226 from duanemck/feature/securitysystem
+
+commit 27b35983f746b61dda3a7ec53dd6e4a6ef36e67d
+Merge: 669e047 053ee8f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 22:25:32 2021 +0100
+
+    Merge pull request #274 from openhab/node14
+
+commit 053ee8ffb6e7d9f6b3c80a8fddd0f53c3871425c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 22:14:33 2021 +0100
+
+    Use node.js v14
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 0f95f5d6c104893f37ad23bd5e70cad75674b13c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 21:23:25 2021 +0100
+
+    Remove comments
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit dd650b15641c0bef0a58a4720589db28249b9159
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 21:05:37 2021 +0100
+
+    Fix typo
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit e01ab2b7190f985281c13d37b226fbc3b3118029
+Merge: 8abd6d2 669e047
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 21:03:10 2021 +0100
+
+    Merge branch 'main' into feature/securitysystem
+
+commit 669e0473f87c3b9ed46fb873ba0bc2c7ec7b60b6
+Merge: ea7af18 f2b9d34
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 21:01:28 2021 +0100
+
+    Merge pull request #270 from michikrug/markdown-checks
+
+commit f2b9d3457d13312d2551cdd0885c99fc07235ef7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 20:57:43 2021 +0100
+
+    Adjust release drafter version logic
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ab488d149077c03df5989a6a82b5d0f6e9cced52
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 20:36:31 2021 +0100
+
+    Just reorder jobs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ea7af186ba36763b8b5db544aa4e2894272087c8
+Merge: d2b6e14 002f418
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Nov 15 10:37:50 2021 +0100
+
+    Merge pull request #273 from openhab/dependabot/npm_and_yarn/nock-13.2.1
+
+commit 002f4186122dc3d7a389c9dde3a835c8d46d4376
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Nov 15 09:00:35 2021 +0000
+
+    Bump nock from 13.2.0 to 13.2.1
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.2.0 to 13.2.1.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.2.0...v13.2.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit d809e604f2ab48cb2fc8689f905ff49aae4c40d2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 10 23:38:23 2021 +0100
+
+    Fix errors
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c1e4201b2cf12050757198f0d0920ad57bc415e8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 10 22:32:59 2021 +0100
+
+    FIx first batch of reported errors
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 799e00e13a2312084cf2805d6bf480bf210671bf
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 10 22:23:06 2021 +0100
+
+    Configuration test
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit d2b6e14b16351faf4756a1223d02c72071f219cd
+Merge: df5ff4d cd2edd8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 10 22:01:40 2021 +0100
+
+    Merge pull request #272 from openhab/dependabot/npm_and_yarn/nock-13.2.0
+
+commit df5ff4de396702a96bc2425d584c71cc91517bef
+Merge: f0fec4d 0d67f39
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 10 22:01:18 2021 +0100
+
+    Merge pull request #271 from openhab/dependabot/npm_and_yarn/eslint-8.2.0
+
+commit cd2edd837a8219d76fd511eac4d3cee6107934d7
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Nov 8 09:00:52 2021 +0000
+
+    Bump nock from 13.1.4 to 13.2.0
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.1.4 to 13.2.0.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.1.4...v13.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 0d67f3931f6e9fa2ecb71455d0f2f28df1e623e5
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Nov 8 09:00:44 2021 +0000
+
+    Bump eslint from 8.1.0 to 8.2.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.1.0 to 8.2.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.1.0...v8.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 78419d8474b9adf79ddff99399c4eea9fb77d277
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 3 20:58:40 2021 +0100
+
+    Fix first intended error
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 6279aaa5b43c1bd0bbfca58e7c675037e0a95b7b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 3 20:56:15 2021 +0100
+
+    Test new checks
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 565caed396a9e9fafd06a22278ee411ec7175603
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Nov 3 20:47:57 2021 +0100
+
+    Add markdown check workflow
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit f0fec4dc96b76781acdf22158fe9f0f898516100
+Merge: 818a694 75c1a50
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 2 16:39:58 2021 +0100
+
+    Merge pull request #269 from bccrew/main
+
+commit 75c1a50b5afbb94da3bb0e88cd2cbdf88f591f45
+Merge: 4d9bfe6 818a694
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Nov 2 16:38:13 2021 +0100
+
+    Merge branch 'main' into main
+
+commit 4d9bfe60c13c47591660550972e691e38eba214f
+Author: bccrew <8138958+bccrew@users.noreply.github.com>
+Date:   Tue Nov 2 09:38:02 2021 +0100
+
+    Fix Typo
+
+commit 818a694e30bd4f5e68436b16b065b299660a26e7
+Merge: 4185a48 c9545d9
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Oct 28 13:55:51 2021 +0200
+
+    Merge pull request #267 from openhab/dependabot/npm_and_yarn/jest-27.3.1
+
+commit 4185a480dd5ebaf9f00fc9bc8d53f9eb20025667
+Merge: 1a0d281 45b98bf
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Oct 28 13:55:37 2021 +0200
+
+    Merge pull request #268 from openhab/dependabot/npm_and_yarn/eslint-8.1.0
+
+commit c9545d9f0c126237d1612990e4ae43b6554db9e3
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Oct 28 11:52:07 2021 +0000
+
+    Bump jest from 27.2.5 to 27.3.1
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.2.5 to 27.3.1.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.2.5...v27.3.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 45b98bff1a12251d570ca414912fa8789a80306f
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Oct 28 11:51:21 2021 +0000
+
+    Bump eslint from 8.0.0 to 8.1.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 8.0.0 to 8.1.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v8.0.0...v8.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 1a0d28111cf1e1a2b65b28562c942c4a1fef0af6
+Merge: e526527 ab231c2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Oct 28 13:50:49 2021 +0200
+
+    Merge pull request #266 from openhab/dependabot/npm_and_yarn/nock-13.1.4
+
+commit e526527aa4aa178ca3513db2ac1874ba79a0cf75
+Merge: 116a737 3636709
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Oct 28 13:47:22 2021 +0200
+
+    Merge pull request #261 from bccrew/patch-1
+
+commit ab231c28cf671e14607d178e8555d9b5c31ed827
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 25 09:00:50 2021 +0000
+
+    Bump nock from 13.1.3 to 13.1.4
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.1.3 to 13.1.4.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.1.3...v13.1.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 58a1a552fc493c21504b49c6f7d63e378a2a9ea5
+Author: bccrew <8138958+bccrew@users.noreply.github.com>
+Date:   Thu Oct 14 16:50:11 2021 +0200
+
+    Fix Typo
+
+commit 3636709db2bbe537053f66fde3fa9f54fe7d96fd
+Author: bccrew <8138958+bccrew@users.noreply.github.com>
+Date:   Thu Oct 14 11:45:14 2021 +0200
+
+    Fix typo
+
+commit 116a73745c463da2a14727abc851c7b65df4b481
+Merge: 9450bba 3c567e7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Oct 11 17:40:25 2021 +0200
+
+    Merge pull request #260 from openhab/dependabot/npm_and_yarn/jest-27.2.5
+
+commit 9450bba41ed3f11269d73bd077964878ca1909f0
+Merge: 76f1de8 83ee41c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Oct 11 17:40:11 2021 +0200
+
+    Merge pull request #259 from openhab/dependabot/npm_and_yarn/eslint-8.0.0
+
+commit 3c567e73d9c5dc6d66ca82f8c5b853dff1168e81
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 11 09:01:24 2021 +0000
+
+    Bump jest from 27.2.4 to 27.2.5
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.2.4 to 27.2.5.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.2.4...v27.2.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 83ee41c9fe2a028d195db66e73fbe0b9c84cc1a7
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 11 09:00:41 2021 +0000
+
+    Bump eslint from 7.32.0 to 8.0.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 7.32.0 to 8.0.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v7.32.0...v8.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 76f1de8a52ba87e76eb9da4857b0a8cc7bd40c5d
+Merge: 850b2d2 0add1d1
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Oct 11 10:08:41 2021 +0200
+
+    Merge pull request #258 from openhab/dependabot/github_actions/actions/setup-node-2.4.1
+
+commit 850b2d27b612222db3b00f91702f54b5cb6e7e38
+Merge: 4a75e8c 3cf0456
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Oct 11 10:08:28 2021 +0200
+
+    Merge pull request #257 from openhab/dependabot/npm_and_yarn/jest-27.2.4
+
+commit 0add1d1a776972b815f4ed83c52df9c7e2d05695
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 4 09:05:14 2021 +0000
+
+    Bump actions/setup-node from 2.4.0 to 2.4.1
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.4.0 to 2.4.1.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.4.0...v2.4.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 3cf0456de6d42bf08aee390ed1472693149192ba
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 4 09:01:14 2021 +0000
+
+    Bump jest from 27.2.2 to 27.2.4
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.2.2 to 27.2.4.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.2.2...v27.2.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 8abd6d237a9a04561efc08ad8ab27445713b7745
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Oct 4 10:24:17 2021 +0200
+
+    Fix broken test
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 8c8ad89abf272b88f1f14d981f6ad34a72501934
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Oct 4 00:49:19 2021 +0200
+
+    Minor adjustments
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 76888986ab75ca3a67c2a177b029346928ee8a9b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Oct 3 23:11:16 2021 +0200
+
+    Fix linting issue in apihandler test
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit f27686feb67dd87c6939b0e8c711f539a11ca10e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Oct 3 14:59:21 2021 +0200
+
+    Refactor update validation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b1f288409f3bebc5e21eb808a4c3447c52ad4e16
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Oct 3 14:10:50 2021 +0200
+
+    Fix apihandler tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 62bb0002a153113b3069f5197ae57d6f1bfacbf2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Oct 3 14:04:23 2021 +0200
+
+    Adjust documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 4bebcce110cb4052916c8ed35afe626b8f17f039
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Oct 2 02:25:07 2021 +0200
+
+    Second round of code review
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 11a79bc8aa402cab07a5c89aff85a36e187245d6
+Merge: 8ea1073 4a75e8c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Oct 2 00:17:22 2021 +0200
+
+    Merge branch 'main' into feature/securitysystem
+
+commit 8ea10732fabd88e897ff93adb67631bc806aaa58
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Oct 2 00:17:16 2021 +0200
+
+    Remove debug log
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b024a095c73ad662412afc14424ac02f97c149bd
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Oct 2 00:11:44 2021 +0200
+
+    First iteration of code review
+    
+    Remove Switch case, Improve device type checks, Add more tests for missing members, Add inverted checks
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 57c7bb0efc7caf84f4f2ee6af100a06f4fa29bc4
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Oct 2 00:05:47 2021 +0200
+
+    Introduce SimpleSecuritySystem to ease case handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 4a75e8cac7f805290382edfc452a53f07aef3a0d
+Merge: a7d5aa2 23c1e3c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Oct 1 21:12:22 2021 +0200
+
+    Merge pull request #250 from cromefire/rgb-cct
+
+commit 23c1e3c3babb63b07ad9106ca02dae58277a0e67
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Oct 1 20:58:39 2021 +0200
+
+    Get item in ColorAbsolute for SpecialColorLight
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit dc7198e79bbf497982c817c525474876499ccd70
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Sep 30 22:35:04 2021 +0200
+
+    Adjust lightColorTemperature and useKelvin case
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b7b171c6fde743d2e06fda36d995efdd21baeb64
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Sep 30 22:30:28 2021 +0200
+
+    Add documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ec0f10242f58e0dffec2b0723c17bbe73b64593f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Sep 29 22:07:49 2021 +0200
+
+    Minor consistency adjustments
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit a7d5aa2087d9ccb37556a82ba986daf103e47c0f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Sep 29 21:21:22 2021 +0200
+
+    :bookmark: Release (patch): 3.1.1
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit e7d61a58106c127b015fdd337f09d1d47c1484fb
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Sep 29 17:59:15 2021 +0200
+
+    Re-Add http support for apihandler (port fix)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 2e24d3aaffd9d37a7879ca10e19733622c431a86
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Sep 29 17:38:24 2021 +0200
+
+    Revert "Add http support for apihandler"
+    
+    This reverts commit 588381d1608798b5f61088250d61dd009838b30f.
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 2c73b9f270cdbe0f46bd531c197f0d4ac3b96cf2
+Merge: 11c30fd dd226cf
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Sep 28 17:15:48 2021 +0200
+
+    Merge pull request #256 from openhab/dependabot/npm_and_yarn/functions/glob-7.2.0
+    
+    Bump glob from 7.1.7 to 7.2.0 in /functions
+
+commit 11c30fd35c6d3a76609ebcbf11991024b644dcfe
+Merge: 6e0f60e 5e108b8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Sep 28 17:15:24 2021 +0200
+
+    Merge pull request #254 from openhab/dependabot/npm_and_yarn/types/jest-27.0.2
+    
+    Bump @types/jest from 27.0.1 to 27.0.2
+
+commit 6e0f60ea75166d97da20b241b09025110bc4dc4c
+Merge: a2e289d b68fedc
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Sep 28 17:15:06 2021 +0200
+
+    Merge pull request #255 from openhab/dependabot/npm_and_yarn/jest-27.2.2
+    
+    Bump jest from 27.2.0 to 27.2.2
+
+commit dd226cfbaf2ed94beeb26ae92c774d165adee1f2
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 27 09:01:31 2021 +0000
+
+    Bump glob from 7.1.7 to 7.2.0 in /functions
+    
+    Bumps [glob](https://github.com/isaacs/node-glob) from 7.1.7 to 7.2.0.
+    - [Release notes](https://github.com/isaacs/node-glob/releases)
+    - [Changelog](https://github.com/isaacs/node-glob/blob/master/changelog.md)
+    - [Commits](https://github.com/isaacs/node-glob/compare/v7.1.7...v7.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: glob
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit b68fedcbc75e5fdf3a659156e8ee5d8d70f74718
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 27 09:01:18 2021 +0000
+
+    Bump jest from 27.2.0 to 27.2.2
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.2.0 to 27.2.2.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.2.0...v27.2.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 5e108b86c90c9e61db3c0051bd40157abb0bce36
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 27 09:00:34 2021 +0000
+
+    Bump @types/jest from 27.0.1 to 27.0.2
+    
+    Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 27.0.1 to 27.0.2.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/jest"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit a2e289d9a3b981523d9cc9671b7349aaae7c7cc9
+Merge: efd649e 260fdb9
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Sep 21 22:53:08 2021 +0200
+
+    Merge pull request #253 from openhab/dependabot/npm_and_yarn/prettier-2.4.1
+    
+    Bump prettier from 2.4.0 to 2.4.1
+
+commit 260fdb9988abcaaaabb7ed9fbaadb94a03f2dff7
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 20 09:00:44 2021 +0000
+
+    Bump prettier from 2.4.0 to 2.4.1
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.4.0 to 2.4.1.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.4.0...2.4.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit efd649e8ad4440fc1d678abf22d0744098be1c35
+Merge: b50c417 3a11505
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Sep 14 17:42:49 2021 +0200
+
+    Merge pull request #252 from openhab/dependabot/npm_and_yarn/jest-27.2.0
+    
+    Bump jest from 27.1.0 to 27.2.0
+
+commit b50c4172ca667985f063a664ce6b4d3e9df2728b
+Merge: b4af88b 33b5f91
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Sep 14 17:42:35 2021 +0200
+
+    Merge pull request #251 from openhab/dependabot/npm_and_yarn/prettier-2.4.0
+    
+    Bump prettier from 2.3.2 to 2.4.0
+
+commit 3a115053a06651f14121f17477515e5bb7923384
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 13 09:01:01 2021 +0000
+
+    Bump jest from 27.1.0 to 27.2.0
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.1.0 to 27.2.0.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.1.0...v27.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 33b5f91710ca6e00e4e273aa275e5a4d61acb692
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 13 09:00:37 2021 +0000
+
+    Bump prettier from 2.3.2 to 2.4.0
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.3.2 to 2.4.0.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.3.2...2.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit b4af88b7cd7a9fa1c3346b933e9cd49a0c9879bb
+Merge: a3b5702 d43bf38
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Sep 10 09:24:08 2021 +0200
+
+    Merge pull request #249 from openhab/dependabot/npm_and_yarn/eslint-plugin-prettier-4.0.0
+    
+    Bump eslint-plugin-prettier from 3.4.1 to 4.0.0
+
+commit de731182a722cd91537ee610f5ed143a257c013a
+Author: Cromefire_ <cromefire_@outlook.com>
+Date:   Fri Sep 10 01:45:55 2021 +0200
+
+    Added test lightColor
+    
+    Signed-off-by: Cromefire_ <cromefire_@outlook.com>
+
+commit 8093886a797a286d6f101d8998cd4a7017dc3a64
+Author: Cromefire_ <cromefire_@outlook.com>
+Date:   Fri Sep 10 01:18:12 2021 +0200
+
+    Added RGB-CCT capabilities to SpecialColorLight
+    
+    Signed-off-by: Cromefire_ <cromefire_@outlook.com>
+
+commit d43bf38f180440fd8929deab1d797f0364d3f251
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 6 09:00:36 2021 +0000
+
+    Bump eslint-plugin-prettier from 3.4.1 to 4.0.0
+    
+    Bumps [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) from 3.4.1 to 4.0.0.
+    - [Release notes](https://github.com/prettier/eslint-plugin-prettier/releases)
+    - [Changelog](https://github.com/prettier/eslint-plugin-prettier/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/eslint-plugin-prettier/commits/v4.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-plugin-prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit a3b570242184b22be196ec1c2ad06b0930a43df9
+Merge: d423cfc 640779b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 30 22:10:25 2021 +0200
+
+    Merge pull request #247 from openhab/dependabot/npm_and_yarn/nock-13.1.3
+
+commit 640779bc7fa078065dad5e6d62d0e9f8575b658a
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 30 20:09:09 2021 +0000
+
+    Bump nock from 13.1.2 to 13.1.3
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.1.2 to 13.1.3.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.1.2...v13.1.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit d423cfcade04d3c922186db3ed86400ada1ea648
+Merge: d1cb626 21bae47
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 30 22:08:17 2021 +0200
+
+    Merge pull request #248 from openhab/dependabot/npm_and_yarn/jest-27.1.0
+    
+    Bump jest from 27.0.6 to 27.1.0
+
+commit 21bae471c01517c41cc49173d22d82fd6c94e31e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 30 09:01:22 2021 +0000
+
+    Bump jest from 27.0.6 to 27.1.0
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.0.6 to 27.1.0.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.0.6...v27.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit d1cb6267c5d5fac935e502994d86a85546b715b0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Aug 28 22:04:44 2021 +0200
+
+    Use setup-node cache also in deploy step
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 9376346ff286f79130ed23eb01bd6b7fba5e9dee
+Merge: 7b8314b 81ae36e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 23 20:36:50 2021 +0200
+
+    Merge pull request #246 from openhab/dependabot/npm_and_yarn/functions/actions-on-google-3.0.0
+    
+    Bump actions-on-google from 2.14.0 to 3.0.0 in /functions
+
+commit 7b8314b40eec23f6e119da32ef944af2ba1d3def
+Merge: ca83b3d 6e21ac1
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 23 20:36:38 2021 +0200
+
+    Merge pull request #245 from openhab/dependabot/npm_and_yarn/nock-13.1.2
+    
+    Bump nock from 13.1.1 to 13.1.2
+
+commit ca83b3d42113ca39b8d390c50efeb5a8229d7d43
+Merge: 477d461 1c00f4d
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 23 20:36:26 2021 +0200
+
+    Merge pull request #244 from openhab/dependabot/npm_and_yarn/eslint-plugin-prettier-3.4.1
+    
+    Bump eslint-plugin-prettier from 3.4.0 to 3.4.1
+
+commit 81ae36e86fc75e5759ebac160fcae89d4c160779
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 23 09:01:37 2021 +0000
+
+    Bump actions-on-google from 2.14.0 to 3.0.0 in /functions
+    
+    Bumps [actions-on-google](https://github.com/actions-on-google/actions-on-google-nodejs) from 2.14.0 to 3.0.0.
+    - [Release notes](https://github.com/actions-on-google/actions-on-google-nodejs/releases)
+    - [Changelog](https://github.com/actions-on-google/actions-on-google-nodejs/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/actions-on-google/actions-on-google-nodejs/compare/v2.14.0...3.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions-on-google
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 6e21ac1a7d09d1daaf06041a18bf49380547a475
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 23 09:00:43 2021 +0000
+
+    Bump nock from 13.1.1 to 13.1.2
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.1.1 to 13.1.2.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.1.1...v13.1.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 1c00f4d9f5842ecddeb0647b54037f9a5bfcf24e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 23 09:00:36 2021 +0000
+
+    Bump eslint-plugin-prettier from 3.4.0 to 3.4.1
+    
+    Bumps [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) from 3.4.0 to 3.4.1.
+    - [Release notes](https://github.com/prettier/eslint-plugin-prettier/releases)
+    - [Changelog](https://github.com/prettier/eslint-plugin-prettier/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/eslint-plugin-prettier/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint-plugin-prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 477d4619809aee7b1cb62c16f3bcf428a2b93179
+Merge: 28c7203 44b7c99
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 16 11:05:01 2021 +0200
+
+    Merge pull request #243 from openhab/dependabot/npm_and_yarn/types/jest-27.0.1
+
+commit 44b7c9980488faf05c9984304401982e69ea0a69
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 16 09:00:36 2021 +0000
+
+    Bump @types/jest from 26.0.24 to 27.0.1
+    
+    Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 26.0.24 to 27.0.1.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/jest"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 28c7203a11d94747b8ee8754d29143f53e5cb4e0
+Merge: 3605bfb dc69b9c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Aug 9 12:04:23 2021 +0200
+
+    Merge pull request #241 from openhab/dependabot/github_actions/actions/setup-node-2.4.0
+
+commit dc69b9c95681d18834bb57033982407333ae28fd
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 9 09:06:22 2021 +0000
+
+    Bump actions/setup-node from 2.3.0 to 2.4.0
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.3.0 to 2.4.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.3.0...v2.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 3605bfb28f2c9da78593ff1796cfa06fe748ccf2
+Merge: d3111fc 8b34816
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Aug 4 15:50:20 2021 +0200
+
+    Merge pull request #237 from openhab/dependabot/npm_and_yarn/eslint-7.32.0
+    
+    Bump eslint from 7.31.0 to 7.32.0
+
+commit 8b348163d3f5f6a6bf89704435d8c5dd316a0c0d
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Aug 2 09:00:38 2021 +0000
+
+    Bump eslint from 7.31.0 to 7.32.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 7.31.0 to 7.32.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v7.31.0...v7.32.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit d3111fc379a8aa6fb5eb176b12c5eceecf3af602
+Merge: 4fd563b 9d9bf10
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 26 14:48:09 2021 +0200
+
+    Merge pull request #236 from openhab/dependabot/github_actions/actions/setup-node-2.3.0
+    
+    Bump actions/setup-node from 2.2.0 to 2.3.0
+
+commit 9d9bf103fd5a8fd720bdc0bbd3194e11f8e0ac33
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 26 09:04:49 2021 +0000
+
+    Bump actions/setup-node from 2.2.0 to 2.3.0
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.2.0 to 2.3.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.2.0...v2.3.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 4fd563bb33d8cb7d24d03ecaa4d14c0ff82cf792
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 19 21:23:17 2021 +0200
+
+    Use dependency caching
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 53c100a365377fb27fcdbbb485b9d7b7ea6b952b
+Merge: 0957069 1c72c8c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 19 21:20:08 2021 +0200
+
+    Merge pull request #235 from openhab/dependabot/npm_and_yarn/eslint-7.31.0
+
+commit 095706905bdeaa35874d5835096f0a9a3c72c92e
+Merge: 123af2f 684ba8a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 19 21:19:56 2021 +0200
+
+    Merge pull request #230 from openhab/dependabot/npm_and_yarn/nock-13.1.1
+
+commit 1c72c8c1aee722a927d19718a0b454f54c7fd2e0
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 19 19:16:38 2021 +0000
+
+    Bump eslint from 7.29.0 to 7.31.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 7.29.0 to 7.31.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v7.29.0...v7.31.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 684ba8af00e6053e91fb067a75535f181b27949a
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 19 19:16:01 2021 +0000
+
+    Bump nock from 13.1.0 to 13.1.1
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.1.0 to 13.1.1.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.1.0...v13.1.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 123af2f7c5ebb63a1f1fc74b3944ae319f22d145
+Merge: ce9345d 0bb7bf0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 19 21:15:36 2021 +0200
+
+    Merge pull request #233 from openhab/dependabot/npm_and_yarn/types/jest-26.0.24
+    
+    Bump @types/jest from 26.0.23 to 26.0.24
+
+commit ce9345db10b941f56bb83d95420996f4d6a9091a
+Merge: e2f7857 4e4de19
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 19 21:15:24 2021 +0200
+
+    Merge pull request #232 from openhab/dependabot/github_actions/actions/setup-node-2.2.0
+
+commit e2f7857f501260373d2ea0fa21cb5ceb77d3a2eb
+Merge: eb6f195 4f41d69
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jul 19 21:14:10 2021 +0200
+
+    Merge pull request #229 from openhab/dependabot/npm_and_yarn/jest-27.0.6
+    
+    Bump jest from 27.0.5 to 27.0.6
+
+commit 0bb7bf0ac7502c89bbe4400f9991113f705b5d9b
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 12 09:00:37 2021 +0000
+
+    Bump @types/jest from 26.0.23 to 26.0.24
+    
+    Bumps [@types/jest](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/jest) from 26.0.23 to 26.0.24.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/jest)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/jest"
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 4e4de19adeb4feec8fe99bed3c9f5e6f57130bd2
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 5 09:05:46 2021 +0000
+
+    Bump actions/setup-node from 2.1.5 to 2.2.0
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.1.5 to 2.2.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.1.5...v2.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 4f41d69cd33cfcfce07a8d0c2855d33a2b37eec3
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 5 09:00:50 2021 +0000
+
+    Bump jest from 27.0.5 to 27.0.6
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.0.5 to 27.0.6.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.0.5...v27.0.6)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit eb6f195b8be898fbc8a187e5327b60778a5dc2f1
+Merge: cde1a3b 963e058
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Jul 2 12:57:56 2021 +0200
+
+    Merge pull request #227 from openhab/dependabot/npm_and_yarn/jest-27.0.5
+
+commit cde1a3b9848de1dd04bd4d264cae7104d6441b82
+Merge: 458e97f 04d06f7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Jul 2 12:57:40 2021 +0200
+
+    Merge pull request #228 from openhab/dependabot/npm_and_yarn/prettier-2.3.2
+    
+    Bump prettier from 2.3.1 to 2.3.2
+
+commit 04d06f7e860761d7ecc9b45f5de7fc123c8be541
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 28 09:00:56 2021 +0000
+
+    Bump prettier from 2.3.1 to 2.3.2
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.3.1 to 2.3.2.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.3.1...2.3.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 963e058f87eae40b4289eab0ed231bb3135e38a1
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 28 09:00:48 2021 +0000
+
+    Bump jest from 27.0.4 to 27.0.5
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.0.4 to 27.0.5.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.0.4...v27.0.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 38f90ee93c0e7c3cd134193853df1c083203eef1
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Fri Jun 25 23:07:37 2021 +0200
+
+    Lint fix
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit eb8f5f4922863f52cbbd972562bf2f8718a7ef9c
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Fri Jun 25 23:05:58 2021 +0200
+
+    Remove extra space
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit cae66a06a74c1ab7d873409a3f77331805b6e4a3
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Fri Jun 25 22:56:09 2021 +0200
+
+    Updated docs
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit 8325196858e5345337ede79b362e73c28cd5926d
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Fri Jun 25 14:33:14 2021 +0200
+
+    Fix all tests
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit 84465ced9e9e2554d5841ed15d3d810b8ead42dd
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Fri Jun 25 01:17:41 2021 +0200
+
+    Fixed typo in checking pin
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit 8e91448e6837b976fffea65bc15d86ff1a8da5e6
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Fri Jun 25 01:12:16 2021 +0200
+
+    SecuritySystem - Report blocking zones when arm fails. Option to enfore pin on disarm only.
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit 786d23a0099edcfd1e8ffa93415c3aa83c355f67
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Thu Jun 24 22:50:07 2021 +0200
+
+    Made sure old config of using a Switch still works
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit 795135037c26c007e83d1578613b6bf3ec4f875e
+Author: Duane McKibbin <duane@entelect.co.za>
+Date:   Wed Jun 23 22:40:28 2021 +0200
+
+    Updated securitysystem device to comply with full GA funcitonality
+    
+    Added some extra functionality to allow full support:
+    - Pre-check if item can be transitioned to the desired state
+    - Confirm that transition was successful
+    - Allow for a customizable delay before checking latest state, to allow the device to process the command
+    - Send valid error codes when the new state is invalid
+    
+    Signed-off-by: Duane McKibbin <duane@entelect.co.za>
+
+commit 458e97fe58feaf7414d7304d65c8dee55dd7b158
+Merge: 137b12b 965764a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 21 13:56:18 2021 +0200
+
+    Merge pull request #225 from openhab/dependabot/npm_and_yarn/eslint-7.29.0
+
+commit 965764a1dcf4c9973b3881568687fc8b132e4636
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 21 09:00:34 2021 +0000
+
+    Bump eslint from 7.28.0 to 7.29.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 7.28.0 to 7.29.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v7.28.0...v7.29.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 137b12b2d86f730cc25410edd3464180b3b92a83
+Merge: 14e9f72 c29eab4
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Jun 19 12:49:04 2021 +0200
+
+    Merge pull request #224 from openhab/dependabot/npm_and_yarn/jest-27.0.4
+
+commit c29eab4f6e9434a2d7aed4dff83c2b41bb8177b8
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 14 05:02:03 2021 +0000
+
+    Bump jest from 27.0.3 to 27.0.4
+    
+    Bumps [jest](https://github.com/facebook/jest) from 27.0.3 to 27.0.4.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v27.0.3...v27.0.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: jest
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 14e9f728991d9c1ff6a7db6bb3f6304f2cffc41f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Jun 8 23:19:23 2021 +0200
+
+    Fix error in require path for package.json
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 2df56af7743279692c3efe365bfa1a4b8e9bf126
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 23:45:46 2021 +0200
+
+    Adjust release drafter config
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b564803f9b6c125e567de947091aead3a7036ebe
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 23:14:01 2021 +0200
+
+    :bookmark: Release (minor): 3.1.0
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 5ec172bc8200cac725c4eb5079ced064aa5a1960
+Merge: 5939a51 f8ae01a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 23:12:59 2021 +0200
+
+    Merge pull request #216 from michikrug/apihandler-http
+
+commit 5939a510d77f5f2c2f71bd0c21f782f257117d6b
+Merge: 8b17f6b 08c7024
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 23:10:29 2021 +0200
+
+    Merge pull request #215 from michikrug/specialcolorlight-switch
+
+commit 8b17f6bc4972f0178cda174c1d1c76b1ceec8fd2
+Merge: 7fdccda bb01d1c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 23:09:35 2021 +0200
+
+    Merge pull request #217 from michikrug/fix-sensor
+    
+    Fix sensor state format
+
+commit 7fdccdab46d09568651e26f0a7b92aeeb3fbc8cf
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 23:08:35 2021 +0200
+
+    Use current cloud function region
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 77eb87e7e69d3b2bcbb58efa092ef5242a53f902
+Merge: edcf11e e3a727b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 22:04:42 2021 +0200
+
+    Merge pull request #220 from openhab/dependabot/npm_and_yarn/prettier-2.3.1
+
+commit e3a727b7aad909cd00ec5de956bd2ae8d70fa260
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 7 20:02:41 2021 +0000
+
+    Bump prettier from 2.3.0 to 2.3.1
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.3.0 to 2.3.1.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.3.0...2.3.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: prettier
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit edcf11e6b74f6999cdfad96f80401590e69813ed
+Merge: 887a815 cea3191
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 22:01:54 2021 +0200
+
+    Merge pull request #219 from openhab/dependabot/npm_and_yarn/eslint-7.28.0
+
+commit 887a815d8632cb1d6313e5ae53cf0262ef9c11af
+Merge: 005ae2b 77ac4b7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Jun 7 22:01:35 2021 +0200
+
+    Merge pull request #218 from openhab/dependabot/npm_and_yarn/nock-13.1.0
+
+commit cea3191bac43b65506892eb4cc5f376b396b9314
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 7 05:04:13 2021 +0000
+
+    Bump eslint from 7.27.0 to 7.28.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 7.27.0 to 7.28.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v7.27.0...v7.28.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: eslint
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 77ac4b788d32802ddda5815707fd76134d83150e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 7 05:03:51 2021 +0000
+
+    Bump nock from 13.0.11 to 13.1.0
+    
+    Bumps [nock](https://github.com/nock/nock) from 13.0.11 to 13.1.0.
+    - [Release notes](https://github.com/nock/nock/releases)
+    - [Changelog](https://github.com/nock/nock/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/nock/nock/compare/v13.0.11...v13.1.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: nock
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit bb01d1c7033b9cbf1631f388ef626a6a64261ca7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jun 3 23:12:22 2021 +0200
+
+    Fix sensor state format
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 08c702423059bc7d236fc3ba13dd28289dd94c9b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jun 3 22:27:25 2021 +0200
+
+    Add usage documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 0e9b4310a0bb5c352057b6ae0feea3c11f17f6e7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jun 3 22:21:24 2021 +0200
+
+    Add separate power switch for specialcolorlight
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 005ae2b3f1be27b57f16cc5efbf3da0dccf534ed
+Merge: 5951adc bba117e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Jun 3 21:50:42 2021 +0200
+
+    Merge pull request #213 from openhab/dependabot/npm_and_yarn/jest-27.0.3
+
+commit bba117e3f91bc3890c8477226b71330d1d798f6e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 31 05:02:33 2021 +0000
+
+    Bump jest from 26.6.3 to 27.0.3
+    
+    Bumps [jest](https://github.com/facebook/jest) from 26.6.3 to 27.0.3.
+    - [Release notes](https://github.com/facebook/jest/releases)
+    - [Changelog](https://github.com/facebook/jest/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/facebook/jest/compare/v26.6.3...v27.0.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit f8ae01a54fc1be586347c0ff5b465b4226558a76
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 29 01:43:09 2021 +0200
+
+    Remove invalid test case
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 588381d1608798b5f61088250d61dd009838b30f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 29 01:42:57 2021 +0200
+
+    Add http support for apihandler
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 5951adcfe9a325474690e366cd2e98c5a7ff6cdb
+Merge: fb6bec9 a790689
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 29 01:41:31 2021 +0200
+
+    Merge pull request #194 from michikrug/remove-tag-support
+
+commit a790689f9b22e0376cc8f337730ac81bec3ecf5f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 29 01:38:12 2021 +0200
+
+    Add metadata filter
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 328c3d7a8d6cb3ab841d77308575cd2bf38f8b1a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 02:23:48 2021 +0100
+
+    Remove note in documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ba93bc44a92c5b4fbc5b388048571205ed9c7367
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 02:22:31 2021 +0100
+
+    Remove tag support
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit fb6bec9469217d5caad01eec9b17e3744d40ff6d
+Merge: 5465fc1 8ef414b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu May 27 00:55:28 2021 +0200
+
+    Merge pull request #212 from openhab/dependabot/npm_and_yarn/eslint-7.27.0
+
+commit 5465fc116d07ba1d028f45f80cbaa434bf07cede
+Merge: 6353a7b 514f49f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu May 27 00:55:05 2021 +0200
+
+    Merge pull request #210 from michikrug/fix-sub-types
+
+commit 6353a7b1530d1bb9a59fbdc06789db99ed77add3
+Merge: ff60305 29e8c24
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu May 27 00:53:46 2021 +0200
+
+    Merge pull request #211 from michikrug/handle-missing-challenge
+
+commit 514f49fc9602b371a8eaef6ad79a811dcdb204b0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu May 27 00:52:46 2021 +0200
+
+    Simplify code
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 8ef414ba2eb57feb35fffaaed6978992063ab406
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 24 05:03:50 2021 +0000
+
+    Bump eslint from 7.26.0 to 7.27.0
+    
+    Bumps [eslint](https://github.com/eslint/eslint) from 7.26.0 to 7.27.0.
+    - [Release notes](https://github.com/eslint/eslint/releases)
+    - [Changelog](https://github.com/eslint/eslint/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/eslint/eslint/compare/v7.26.0...v7.27.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 29e8c24999f7a273b2f81cb51515eb99cee7a192
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon May 17 22:35:51 2021 +0200
+
+    Fix exception when challenge is missing
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 431d271de1797814600c25f842b3adc4ef6e8be5
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun May 16 20:58:49 2021 +0200
+
+    Support types with dimension
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ff60305f90cdd0ec4cdef0a9f6fe02313e221664
+Merge: 78bfd39 39e255a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun May 16 20:55:49 2021 +0200
+
+    Merge pull request #200 from michikrug/use-package-version
+    
+    Use package version as swVersion
+
+commit 78bfd3925f743149f7f1c441ad549557deb1a310
+Merge: dc88e9e be663df
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun May 16 20:55:09 2021 +0200
+
+    Merge pull request #207 from michikrug/markdown-fix
+    
+    Fix markdown warnings
+
+commit dc88e9ea045a5d9f78087c40f94c4dc599c0798f
+Merge: d1a8fa6 354cdcb
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun May 16 20:53:20 2021 +0200
+
+    Merge pull request #208 from openhab/dependabot/npm_and_yarn/prettier-2.3.0
+    
+    Bump prettier from 2.2.1 to 2.3.0
+
+commit 354cdcb58b7cb04f3268850da03bf53d86ffab82
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 10 05:02:39 2021 +0000
+
+    Bump prettier from 2.2.1 to 2.3.0
+    
+    Bumps [prettier](https://github.com/prettier/prettier) from 2.2.1 to 2.3.0.
+    - [Release notes](https://github.com/prettier/prettier/releases)
+    - [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/prettier/prettier/compare/2.2.1...2.3.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit be663dfe91bd84266081a8e6acd8cea715a7d4c8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 20:39:02 2021 +0200
+
+    Fix markdown warnings
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 39e255a3ff93aff90cfff8bf1ede5f4dab8dbb98
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Mar 21 17:42:13 2021 +0100
+
+    Use package version as swVersion
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit d1a8fa6c772c0c223f75ea2b889dd368c9bfe9e1
+Merge: bfb0648 b5fb530
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 17:47:13 2021 +0200
+
+    Merge pull request #206 from openhab/dependabot/github_actions/actions/setup-node-v2.1.5
+    
+    Bump actions/setup-node from v1 to v2.1.5
+
+commit bfb06487e3864f59d250d292c864df588505579c
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 17:34:36 2021 +0200
+
+    Add CODEOWNERS file
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b5fb530395586559cbb9191e64cbf4043a79ca4c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat May 8 15:23:38 2021 +0000
+
+    Bump actions/setup-node from v1 to v2.1.5
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from v1 to v2.1.5.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v1...46071b5c7a2e0c34e49c3cb8a0e792e86e18d5ea)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit ac45fc09728fdb3628b0d3664bd6fe5de7888ddf
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 17:22:29 2021 +0200
+
+    Add dependabot.yml
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 97ed9b4764dfba7c804f865bd598cb260e0fa6c2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 14:40:28 2021 +0200
+
+    :bookmark: Release (patch): 3.0.1
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 52dbec245dcaa243dc29d141369943fa68696cd5
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 14:33:26 2021 +0200
+
+    Adjust productive function name
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 0492cb6813d05b6613e549dcdbe22146ad0b9909
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 14:21:52 2021 +0200
+
+    :bookmark: Release (major): 3.0.0
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 83717c186a6e70632040dcb67fc93c13d20a2e30
+Merge: 88b4fc9 d946412
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 14:20:23 2021 +0200
+
+    Merge pull request #193 from michikrug/add-deployment
+
+commit 88b4fc9d482a72a7b387c4be0583b06eb90dda6e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 13:47:10 2021 +0200
+
+    Fix syntax error
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit d9464126e8bae2226bb25a601ea78209c05c62a9
+Merge: 1a34f20 6ecf0ee
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat May 8 13:34:05 2021 +0200
+
+    Merge branch 'main' into add-deployment
+
+commit 6ecf0eeddcb2aeb708e6a8b50a6c809e9f2cc6c5
+Merge: dc694bd b59bef8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue May 4 10:02:18 2021 +0200
+
+    Merge pull request #204 from wborn/fix-links
+    
+    Fix broken links
+
+commit b59bef8c1fa5dfd141b338d97ea0d4afdde51b84
+Author: Wouter Born <github@maindrain.net>
+Date:   Tue May 4 00:41:55 2021 +0200
+
+    Fix broken links
+    
+    Signed-off-by: Wouter Born <github@maindrain.net>
+
+commit dc694bddf4ba90c1f9a7fb7042fbd050fe58f7ef
+Merge: 5678064 dc487a5
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Apr 30 10:57:27 2021 +0200
+
+    Merge pull request #196 from michikrug/rework-doku
+
+commit 56780640e47bd171c016b12d375a724faf1ce40a
+Merge: 17666a5 87ba1de
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Apr 30 10:46:41 2021 +0200
+
+    Merge pull request #201 from michikrug/tv-appselector
+
+commit dc487a575dde3453b211e56c5e14a5ae32c96548
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Apr 25 22:29:50 2021 +0200
+
+    Fix missing equal sign
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit a4a23a432b87c3c0c31a21999b74cc89c502a9ac
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Apr 25 20:21:38 2021 +0200
+
+    Add sensor
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 7c7c75eb8bf0e891aaa3fc872e40899d485f0865
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Apr 25 20:07:26 2021 +0200
+
+    Add thermostatTemperatureSetpointLow/High
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 1ea0731d58d165a8b5f342358838badc0e33d56f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Apr 25 20:03:12 2021 +0200
+
+    Adjust language example
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 2f99850ff57b48743af5258d83ad03adc14164ac
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Apr 25 20:00:42 2021 +0200
+
+    Adjust queryOnly and discreteOnly
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 3654e0460b97be655189039890dfbd7e8ba26edd
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Apr 13 17:27:27 2021 +0200
+
+    Add link to GitHub repo
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 9fdc2e1d452911a19d17436a65d2210fe6777a04
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 24 21:43:37 2021 +0100
+
+    Add documentation for new AppSelector trait
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 3b6fcee4062f1a6d2e5552a82f833547018e1dec
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Mar 23 19:22:40 2021 +0100
+
+    Minor consistency change
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit dd7b086d880e771a1b3239032098988b95295401
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 21:19:20 2021 +0100
+
+    Minor changes, use shell as code highlighting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit e0d092bd6c00cec4529a9bab4a0c9b180ecfb696
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 21:12:37 2021 +0100
+
+    Remove redundant information
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 3f8a81be30a48b78966298bd48ef8ba8f37fb944
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 00:47:47 2021 +0100
+
+    Align members
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 0b8de52240a22fe650713cd55071422e54124ce1
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 00:40:16 2021 +0100
+
+    Use line breaks for options
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 417da90482e1ec8964182db705332fd46ffc853a
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 00:23:20 2021 +0100
+
+    Restructure usage documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 17666a500e5c7ea1e3ed35740cb75a030c59a152
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Apr 25 19:57:12 2021 +0200
+
+    Use discreteOnly and queryOnly for OpenClose devices
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 1a34f20a1d58cb2c8b9a01328320b3a5d0a0304f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Apr 8 14:52:47 2021 +0200
+
+    Add env vars to deployment
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit d330202ce679fcb32acde01f9f9bd8865fae567a
+Merge: e47dc1b 963a860
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Apr 8 12:59:35 2021 +0200
+
+    Merge pull request #197 from michikrug/volumeMaxLevel
+    
+    Add volumeMaxLevel option to Speaker and TV
+
+commit 0aa71868a1bede316ce81fa4b381780f03cb4f8b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Apr 8 12:40:03 2021 +0200
+
+    Use config from ENV
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 4536d67f637fa8342ebd2ecadfd917cfac9e94c0
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Mar 9 11:14:30 2021 +0100
+
+    Add release scripts
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 545d705243750d6507f42c3e99c9c67015e79636
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Mar 9 11:13:54 2021 +0100
+
+    Add release drafter
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c729ead82b3252dc88dbd4dada07ef9cb6e41189
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 00:38:58 2021 +0100
+
+    Remove coverage comment as token prohibits this
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 35d38a93b6f0f78f26aa1848b65d17d9fc5955ac
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Mar 5 23:49:17 2021 +0100
+
+    Add release event
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 88961011c9b9204bc83697c366c27d8f03261673
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Mar 5 23:14:00 2021 +0100
+
+    Add deployment on tag
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit e47dc1b9c1c7aaa6861dd7f1b2b519329c84f5c8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Apr 8 12:39:41 2021 +0200
+
+    Replace deprecated body-parser
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 08d83c2acd97fb2514aa08bf06c7dc960f6a7dac
+Merge: 69b64bb b67eb42
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Mar 25 20:22:12 2021 +0100
+
+    Merge pull request #198 from michikrug/cameraprotocols
+    
+    Adjust new camera stream protocols
+
+commit 963a860b49abb3d495b105615028aa375d3a857e
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 00:32:28 2021 +0100
+
+    Add volumeMaxLevel option to speaker and tv
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b67eb424f921bf80c2f7832abbcbfc7e1290c553
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Mar 8 00:23:44 2021 +0100
+
+    Adjust new camera stream protocols
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 87ba1de1424fd9dba7b2151a24ed4a3cf52d399b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 24 21:35:30 2021 +0100
+
+    Add appSelect command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 32c7063b92ad6f17f911b448eb1a80cf77af05cd
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 24 20:52:54 2021 +0100
+
+    Add tvApplication as member of TV
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 69b64bb4625f8c74c5098931c4cbd2729643cf06
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 24 22:21:40 2021 +0100
+
+    Update dependencies
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 2d09b37e304959fdbc0cff4cb97b7dbd70e12dd8
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Wed Mar 24 22:19:32 2021 +0100
+
+    Fix typo in apihandler test
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 28f5389761d6f7cb1976729cb5278ac46063bf72
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Mar 21 17:28:33 2021 +0100
+
+    Add fallback when label is missing
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit ae86dafbd3f96df9077aaa2873249320834a6ee2
+Merge: 41ae0ac f43cfbd
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 21:25:13 2021 +0100
+
+    Merge pull request #195 from janwo/main
+
+commit f43cfbd5853c209345624c38c224b3ec3cd52751
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 21:21:42 2021 +0100
+
+    Wrap getAttributes tests in describe block
+
+commit d8deee0e1519dcb213ddbe97152584990a7f9780
+Merge: 1066472 41ae0ac
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 21:11:47 2021 +0100
+
+    Merge branch 'main' into main
+
+commit 41ae0acef29cbe1d339789ed5e437165c281ba28
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 21:11:29 2021 +0100
+
+    Remove coverage comment as token prohibits this
+
+commit 10664725d4bce368e2ca424d0e536b3dabb72bcd
+Author: Jan Wolf <mail@jan-wolf.de>
+Date:   Sat Mar 6 14:21:33 2021 +0100
+
+    Make sceneReversible configurable for scene device
+    
+    Signed-off-by: Jan Wolf <mail@jan-wolf.de>
+
+commit 9d0b48c7354abee190881ec13dc421cb6e82623a
+Merge: 74ea9a3 08f8d7b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 02:31:55 2021 +0100
+
+    Merge pull request #185 from Confectrician/patch-1
+
+commit 08f8d7b00b1ff3df1ae029dfd43fcae643c69371
+Merge: fb6af1d 74ea9a3
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sat Mar 6 02:30:47 2021 +0100
+
+    Merge branch 'main' into patch-1
+
+commit 74ea9a30622438e8dac2f66e6b1e51cd73b05c35
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Mar 5 18:42:38 2021 +0100
+
+    Extensive Refactoring (#175)
+    
+    * Add Sensor device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add support for Contact items for Locks and OpenClose devices
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add attributes for OpenClose devices
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add and update tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove unnecessary customData, Rename tfaAck & tfaPin
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add note about tags to docu
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Improve efficiency of getting items, fix synonyms
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor code, increase robustness
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Restructure devices into single files
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Restructure commands into single files
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update dependencies, increase version
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Minor fixes
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add TV device
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix select channel
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix volume relative, add onoff for TV
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add temperature sensor
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Check type attribute for sensors
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Change device filter logic
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix copy paste error
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Move conversions to utilities file
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for temperature sensor
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add special color light device
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix typo
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Minor refactoring
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix brightness command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Invert percentage of color temperature
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make requiresItem dynamic
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * SpecialColorLight extends Default instead of ColorLight
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Move color conversion functions to utilities
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Support OnOff for TV
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix typo
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Adjust volumeRelative parameter
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix SpecialColorLight attributes
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add mute command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add volumeCanMuteAndUnmute for TV
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Rework test structure (WIP)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make traits a function
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update dependencies
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add new attributes to speaker
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix specialcolorlight check
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove old code
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make check for sensor more strict
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make check for thermostat more strict
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add alternative temperature unit attribute
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove or disable old tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Extend utilities tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor TV device
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add or extend tests for devices
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Minor fixes
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for commands (WIP)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add JSDoc, Remove unused defaults
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make mute invertable
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Rework OpenClose and StartStop default conversion
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add pausable attribute
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add volume attributes to TV
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update device tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor color command tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add a lot of command tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Set Volume trait when tvMute is provided
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for default command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add new tests for OpenHAB class
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for config
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Replace tab with two spaces
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add ApiHandler tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Create codeql-analysis.yml
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Rework index & openhab to be more testable
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add test workflow
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Upload coverage as artifact
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix intent handler calls
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Only run workflows for pushes on master and PRs, Comment test coverage on PRs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update jest dependency
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Do not use matrix builds
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Use Node 12.x explicitly for tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix two-factor auth
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Adjust test for two-factor auth
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add useKelvin option for SpecialColorLight
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Consistent naming of useFahrenheit
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor commands
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update dependencies, add linting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Adjust thermostat modes to use array
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix test workflow
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Udate codeql workflow
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update workflows
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation
+    
+    Applied markdown lint
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Change test-ci script command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make colorTemperatureRange optional if useKelvin is set
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Switch workflows to main branch
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add prettier for code formatting
+    
+    Update dependencies
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Apply code formatting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add compatibility for previous tfa attributes
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update dependencies
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit fb6af1dfe9cd6eed533eeb84f6eb84ed568daa8c
+Author: Jerome Luckenbach <github@luckenba.ch>
+Date:   Sun Jan 3 22:25:42 2021 +0100
+
+    Introduce Info box with redirect url
+    
+    Signed-off-by: Jerome Luckenbach <github@luckenba.ch>
+
+commit d0c4a35ea42844d52769a4612c424e45a3079fd3
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Aug 13 20:32:35 2020 +0200
+
+    Improve efficiency of getting items, fix synonyms (#169)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 25a0ea8d19471a810e4371e7fb8543b39ff6b26f
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Aug 13 20:21:09 2020 +0200
+
+    Add thermostatTemperatureRange for Thermostat (#168)
+    
+    * Add thermostatTemperatureRange for Thermostat
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Adjust documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix broken tfa link
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 8c70c3a406a59b24acb0a573e0a6453d7c7fea9b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Aug 13 20:16:46 2020 +0200
+
+    Add support for inverted option for more devices (#158)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 8bf57c18c375bcabed504f1ab0ef5dd1566962fe
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Thu Aug 13 20:13:55 2020 +0200
+
+    Fix wrong metadata label for coffee maker (#159)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 6f8629b34b17b88d0897e63d340174f4ee3b5b22
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Apr 17 21:53:35 2020 +0200
+
+    Update dependencies (#157)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit b8d547bec74b0ddf364205097de9ce25f7424fa4
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Mon Apr 13 12:58:24 2020 +0200
+
+    Correction of contributors (#156)
+    
+    Signed-off-by: Mehmet Arziman <mehmet.arziman@home-ix.com>
+
+commit ebda8a1c06446228c675e9eb99b07a14a6d04c75
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Mon Apr 13 12:33:09 2020 +0200
+
+    Correction of contributors (#155)
+    
+    Signed-off-by: Mehmet Arziman <mehmet.arziman@home-ix.com>
+    
+    Co-authored-by: Mehmet Arziman <mehmet.arziman@home-ix.com>
+
+commit 750a79916d7f4d37b3c3fc33179a45361789daf1
+Author: Eiko Wagenknecht <eiko.wagenknecht@web.de>
+Date:   Mon Apr 13 12:08:30 2020 +0200
+
+    Fix thermostat group documentation (#140)
+    
+    Fix wrong description of thermostatTemperatureSetpointHigh/Low items.
+    
+    Signed-off-by: Eiko Wagenknecht <eiko.wagenknecht@web.de>
+
+commit 8a2e755dc645fecd27ab937ebfcffb9429332841
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Apr 13 12:07:03 2020 +0200
+
+    Bump acorn from 5.7.3 to 5.7.4 (#150)
+    
+    Bumps [acorn](https://github.com/acornjs/acorn) from 5.7.3 to 5.7.4.
+    - [Release notes](https://github.com/acornjs/acorn/releases)
+    - [Commits](https://github.com/acornjs/acorn/compare/5.7.3...5.7.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 53fcfbb3a30cc2a7e7d5f7d0ecc9fdf0aeb94ca7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Mon Apr 13 12:06:13 2020 +0200
+
+    Allow multiple types per device / Add Inverted for Switches (#151)
+    
+    * Allow multiple types per device
+    
+    Also allow Switch for OpenClose devices
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add inverted config option for Switch devices
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 1ccc0a4298414090ca9152a87802eba15d3f80d7
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Feb 23 11:16:30 2020 +0100
+
+    Add user-configurable thermostat mode map (#134)
+    
+    * Add user-configurable thermostat mode map
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Do not store thermostat members in customData
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Improve test for member existence
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit bec4cd04cb7a04501050cde1f587287b0243583b
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Feb 23 11:13:13 2020 +0100
+
+    Store correct itemType for groups (#136)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c7b01affd3460ca11fe8297e2e6f3f42fcee3fc5
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Jan 19 12:11:05 2020 +0100
+
+    Fixes and tests (#132)
+    
+    * Adjust acknowledge check
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix lock response state
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add scene sync test
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for tfa
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Check limits for relative volume
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit c7f21bf333bb8e200704e82c464959ae808c07c2
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Sun Jan 19 12:10:02 2020 +0100
+
+    Extend documentation (#131)
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 16999ce039ed6cf9f0cfae9ea04229038d5e1299
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Tue Jan 7 06:18:14 2020 +0100
+
+    Use Metadata instead of Tags (#120)
+    
+    * Fix obvious issues
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove unused parameters, Fix formatting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add states to response
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Use action.devices.traits.ColorSetting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor a lot
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Reduce redundancy
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix thermostat handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docu
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add compatibility with homekit definition
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Lock type, Improve tag handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Rework everything
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update logging
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix wrong authorization method
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add LockUnlock command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix command response states
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove openDirection for Blinds
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix check for empty response state
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Reorder fields, Add Valve device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Base simple on/off devices on Switch type
+    
+    Add Pergola, Gate & Garage devices types
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Shutter, Curtain, Door & Window device types
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove redundant code
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add special handling of StartStop for Switch items
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add a lot of new device types
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add special handling of OpenClose for Switch items
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make openHAB version a variable
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix README issues
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Increase version
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add SecuritySystem type with ArmDisarm trait
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Speaker type with Volume trait
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix tag for SecuritySystem
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix relative volume handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add support for two-factor auth
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor tfa, Make commands completely static
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix Fahrenheit conversion
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Use metadata instead of tags
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor getMetadata, some cleanup
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix getCommandType
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Minor cleanup
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix customData
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix typo
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add check for metadata existence
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Thermostat to exports
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add more metadata
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Use metadata for auth and thermostat, only get item when required
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add member data to items list
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix names, add roomHint and structureHint
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Handle common configuration error
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Camera device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Do not send command with no data
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add option to invert OpenClose items
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Return deviceNotReady when item state is null
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add improved Fan device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation, change Thermostat members
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add SimpleFan working as Switch
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Do not return error on null state when device has members
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix overwriting params
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update Fan state
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Hood device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Set queryOnlyTemperatureSetting for Thermostats without control items, add configurable modes
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix typo
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add first tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix brightness state
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add more tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix conversion to celsius
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Improve metadata access
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add backward compatibility for tags
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for metadata
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix issue with state of thermostat
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Minor fixes for number states
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add first execute test
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add test for ThermostatSetMode
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Reduce redundancy
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for OpenClose
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add experimental color temperature support
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Use current brightness value
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add "name" property to metadata, add sync test with metadata, increase OH version in sync
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor thermostat member handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add experimental temperature range support
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Do not replace heatcool with on
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Separate tag and metadata tests, add more tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove leftover snapshot
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add tests for FAN device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add AIRPURIFIER device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit fde3b3e51beb7ee9758f0f58e9c989c59d861521
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Dec 20 09:55:33 2019 +0100
+
+    Fix conversion of Fahrenheit to Celsius (#126) (#127)
+    
+    * Fix conversion to celsius
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add first tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix brightness state
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add more tests
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix ThermostatTemperatureSetpoint with Fahrenheit
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit 7b28720221fcd76936db6e47480155a27c55b9b6
+Author: Michael Krug <michi.krug@gmail.com>
+Date:   Fri Nov 15 18:59:46 2019 +0100
+
+    Complete Rework (#118)
+    
+    * Fix obvious issues
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove unused parameters, Fix formatting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add states to response
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Use action.devices.traits.ColorSetting
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Refactor a lot
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Reduce redundancy
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix thermostat handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docu
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add compatibility with homekit definition
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Lock type, Improve tag handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Rework everything
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update logging
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix wrong authorization method
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add LockUnlock command
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update documentation
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix command response states
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove openDirection for Blinds
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix check for empty response state
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Reorder fields, Add Valve device type
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Base simple on/off devices on Switch type
+    
+    Add Pergola, Gate & Garage devices types
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Shutter, Curtain, Door & Window device types
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Remove redundant code
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add special handling of StartStop for Switch items
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add a lot of new device types
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add special handling of OpenClose for Switch items
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Make openHAB version a variable
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Update docs
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix README issues
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Increase version
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add SecuritySystem type with ArmDisarm trait
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Add Speaker type with Volume trait
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix tag for SecuritySystem
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix relative volume handling
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+    
+    * Fix error handling for query and execute
+    
+    Signed-off-by: Michael Krug <michi.krug@gmail.com>
+
+commit a000669c606d29e052851a541fae8ef18a2e700d
+Author: pythen <reinshagen@posteo.de>
+Date:   Thu Oct 24 21:50:01 2019 +0200
+
+    Quickfix to resolve wrong reply "Sorry, I'm unable to reach X" /fix #44 (#114)
+    
+    * Bugfix: Sends the correct shutters commands to OpenHab
+    The process intent "action.devices.DISCONNECT" implemented
+    
+    Signed-off-by: Sascha Reinshagen <reinshagen@posteo.de>
+    
+    * Quickfix to resolve wrong reply "Sorry, I'm unable to reach X" /fix #44
+    
+    https://developers.google.com/assistant/smarthome/traits/onoff#device-commands
+    
+    Signed-off-by: Sascha Reinshagen <reinshagen@posteo.de>
+
+commit a5d15b675b656db07de278114bbc467977091bd3
+Author: Luca Calcaterra <calcaterra.luca@gmail.com>
+Date:   Tue Oct 1 22:01:32 2019 +0200
+
+    Update README.md (#108)
+
+commit c23df447142c1e7861a8ec2ba64c1ef31a3f8f33
+Author: BennieGe <geensben@gmail.com>
+Date:   Tue Oct 1 22:01:19 2019 +0200
+
+    Update USAGE.md (#106)
+
+commit 4fd07381c6961865c897ad8f23c6c8fdad37839c
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Tue Oct 1 21:58:23 2019 +0200
+
+    Fixing Security Warning for diff
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit a43f1c9fd60565a471f6b8f612c3581ac6d33b47
+Author: Søren Thorsen <st@debian-linux.dk>
+Date:   Fri Jul 12 22:15:51 2019 +0200
+
+    Fixing Humidity item itemname (#93)
+    
+    Signed-off-by: Soren Thorsen <st@debian-linux.dk>
+
+commit cafe837a1878db686f5159bb68a98b91f1ffe848
+Author: kennetn <kennetn@gmail.com>
+Date:   Fri Jul 12 22:14:46 2019 +0200
+
+    Added blinds to documentation (#101)
+    
+    Signed-off-by: Kennet Nielsen <kennetn@gmail.com>
+
+commit eae7c66c3d819f3f52b3d9cdadda72cc6b7c3fbc
+Author: Andre Lackmann <andre@lackmann.net>
+Date:   Sat Jul 13 06:14:14 2019 +1000
+
+    Scope & different Google account (#95)
+    
+    Signed-off-by: Andre Lackmann <andre@lackmann.net>
+
+commit 333aa2385f5a9edc125cacb78f02a2b4748ea055
+Author: Wouter Born <github@maindrain.net>
+Date:   Fri Jul 12 22:11:51 2019 +0200
+
+    Update license to EPL-2.0 (#94)
+    
+    The license headers on all JavaScript files have been updated to EPL-2.0.
+    Also updates the LICENSE file and adds a NOTICE file.
+    
+    Signed-off-by: Wouter Born <github@maindrain.net>
+
+commit cdab79e5fda58f07961092f4921a07669047ca59
+Author: macfly92 <macfly92@gmail.com>
+Date:   Mon May 27 12:42:42 2019 +0200
+
+    Update README.md (#89)
+    
+    Add the action.js option to specify foreign vocal recognition. Please feel free to update the text as english is not my primary language.
+    
+    Signed-off-by: macfly92 <macfly92@gmail.com>
+
+commit 26d774c00bb170082e8323663e22cbe168da4a5f
+Author: macfly92 <macfly92@gmail.com>
+Date:   Wed May 22 15:31:39 2019 +0200
+
+    Update README.md (#90)
+    
+    Deploy the `openhabGoogleAssistant` (openHAB home automation) function: --runtime is mandatory now to deploy the function for the first time. nodejs6 is marked as deprecated but I tested with nodejs8 and get ssl routine error.
+    
+    Signed-off-by: macfly92 <macfly92@gmail.com>
+
+commit 5b7e13fcbee9fc8d803513138dad7b4460d91c12
+Author: pythen <reinshagen@posteo.de>
+Date:   Wed May 22 15:28:25 2019 +0200
+
+    Bugfix: Sends the correct shutters commands to OpenHab (#84)
+    
+    The process intent "action.devices.DISCONNECT" implemented
+    
+    Signed-off-by: Sascha Reinshagen <reinshagen@posteo.de>
+
+commit 42b073f26e1b8dc678cd7df00d00f3d55fc3b032
+Author: Luca Calcaterra <calcaterra.luca@gmail.com>
+Date:   Fri May 17 01:10:20 2019 +0200
+
+    Update README.md (#72)
+    
+    changed  line of comment scope
+
+commit 53fcaa0ba9bef664f78e6926cc9196c6592e3f5e
+Author: izzy84075 <izzy84075@gmail.com>
+Date:   Tue May 7 14:33:53 2019 -0700
+
+    My attempt at supporting floating-point mode numbers, by converting them to integers with parseInt, and adding two additional utility functions for converting as needed. (#68)
+
+commit 4be632fa95d4b14178de4ce70f724cc41b5d98dd
+Author: pythen <reinshagen@posteo.de>
+Date:   Tue May 7 23:29:34 2019 +0200
+
+    Added support for blinds (#77)
+    
+    * Added support for blinds
+    
+    The openhab item rollershutter need "Blinds" Tag.
+    
+    Signed-off-by: pythen <reinshagen@posteo.de>
+    
+    * Delete spaces and unnecessary rows
+    
+    Signed-off-by: pythen <reinshagen@posteo.de>
+    
+    * Fix errors and style
+    
+    Signed-off-by: pythen <reinshagen@posteo.de>
+    
+    * Fix code style
+    
+    Signed-off-by: pythen <reinshagen@posteo.de>
+
+commit 108b829ea17eb7c88a088e7d2ca3eca523466b78
+Author: Jerome Luckenbach <github@luckenba.ch>
+Date:   Wed Apr 10 23:00:23 2019 +0200
+
+    Fix wrong relativ image paths (#69)
+    
+    * Fix wrong relativ image paths
+    
+    Signed-off-by: Jerome Luckenbach <github@luckenba.ch>
+    
+    * Fix edit this page on github link.
+    
+    Signed-off-by: Jerome Luckenbach <github@luckenba.ch>
+
+commit 37f88d36d2b60da12b69859938aec19b757c3afc
+Author: Ghostbomb <12107961+Ghostbomb@users.noreply.github.com>
+Date:   Wed Apr 10 13:58:04 2019 -0700
+
+    Update USAGE.md (#74)
+    
+    Spelling Fix
+
+commit af62fa52a4f94ff458f370bcb0120440e1b8c578
+Author: Jerome Luckenbach <github@luckenba.ch>
+Date:   Wed Dec 12 13:42:57 2018 +0100
+
+    refactor usage.md including its images (#61)
+    
+    Signed-off-by: Jerome Luckenbach <github@luckenba.ch>
+
+commit a7abbea88d12c944f45be0e4e3acadb3ff670ef1
+Author: Christoph Weitkamp <github@christophweitkamp.de>
+Date:   Wed Dec 12 13:41:54 2018 +0100
+
+    Update README.md (#64)
+    
+    - Fixed spellings (e.g. openHAB, openHAB Cloud, HomeKit and Google Assistant)
+    - Fixed linter errors
+    
+    Signed-off-by: Christoph Weitkamp <github@christophweitkamp.de>
+
+commit aa971e2b4a0e49b0a915e48a8175beb8bb921d47
+Author: Aart <37931625+alibahba@users.noreply.github.com>
+Date:   Thu Oct 25 00:53:49 2018 +0200
+
+    Update the USAGE.md (#58)
+    
+    * Update USAGE.md
+    
+    Added new screenshots from the new Google Home app.
+    Rewrite the setup part.
+    Added FAQ.
+    
+    * Added new screenshots
+    
+    * Delete openhab_google_app.png
+
+commit e372076d6af7630ea89eaa178317246e92c7ca97
+Author: Aart <37931625+alibahba@users.noreply.github.com>
+Date:   Thu Oct 25 00:53:36 2018 +0200
+
+    Update Openhab.js for fixing merge conflicts (#57)
+    
+    Update Openhab.js for fixing merge conflicts.
+    Line 87: grouping multiple case statements.
+    Line 114: removing scene item date since scenes are stateless in google home graph.
+    Line 719: added a disappeared break.
+
+commit 19b3ccf768518963e7e50efddf333366ff7ca28c
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Wed Oct 24 01:25:07 2018 +0200
+
+    Fix for Security Vulnerability in Debug lib
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 546541a28337d468e6c7685acf3362441c70abf4
+Author: Aart <37931625+alibahba@users.noreply.github.com>
+Date:   Wed Oct 24 00:19:14 2018 +0200
+
+    Alibahba patch scene (#53)
+    
+    * Added ThermostatSetMode
+    
+    * Added the Scene tag.
+
+commit 3160481c83a6406f75d1fee2323cd0d70f392074
+Author: Aart <37931625+alibahba@users.noreply.github.com>
+Date:   Wed Oct 24 00:11:42 2018 +0200
+
+    Alibahba update usage.md (#56)
+    
+    * Added ThermostatSetMode
+    
+    * Update USAGE.md
+    
+    Added the [ "Scene" ] and [ "Outlet" ] tags to the item configuration part
+    
+    * fixt formating
+    
+    * Update README.md
+    
+    Added Scene and Outlet tags to the item configuration part.
+
+commit b5cc84f2b2ecbfab6a4d5df779dbee688318538c
+Author: Aart <37931625+alibahba@users.noreply.github.com>
+Date:   Wed Oct 24 00:09:52 2018 +0200
+
+    Alibahba patch outlet (#52)
+    
+    * Added ThermostatSetMode
+    
+    * Added the Outlet tag
+
+commit 6cf4a9bdfcaef2cfd56b27db815ec1e3d801ad9a
+Author: Jerome Luckenbach <github@luckenba.ch>
+Date:   Sat Oct 20 15:06:43 2018 +0200
+
+    [Usage.md] Added font matter (#40)
+    
+    * Added font matter to Usage.md
+    
+    Signed-off-by: Jerome Luckenbach <github@luckenba.ch>
+    
+    * Added meta description
+    
+    Signed-off-by: Jerome Luckenbach <github@luckenba.ch>
+
+commit 23cc782f9666b3bee8a2fff212b163386c02da7f
+Author: aart <37931625+alibahba@users.noreply.github.com>
+Date:   Sat Oct 20 15:03:15 2018 +0200
+
+    Added ThermostatSetMode Functions (#51)
+    
+    Added ThermostatSetMode Functions.
+    Changed hardcoded way of retrieving the params from the request because of some errors when changing the thermostat mode.
+
+commit 186f4303e32c35d5eae11ecb9eba2a60050395f2
+Author: nono <aschor@users.noreply.github.com>
+Date:   Sun Oct 14 15:21:57 2018 +0200
+
+    Update USAGE.md (#45)
+    
+    clarify what part of openhab Item definition is to be used as vocal name. Also clarify where (and how) tags can and cannot be assigned
+
+commit 032b281fadea4b8d343e79f7827c6f4297dffa4d
+Author: Ryan Johnston <github@shopandlearn.net>
+Date:   Sun Oct 14 09:21:01 2018 -0400
+
+    Fix a Typo (#47)
+    
+    follwoing updated to following.
+
+commit 58f53f9cb10f8dc992a37b6e0d5a795c24c26bf3
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Mon Jun 11 03:50:32 2018 +0200
+
+    Fixes old growl package with security vulnerability
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 725d157b668be0d9d64217d6e4043ec20b1f99b7
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sat May 26 02:30:22 2018 +0200
+
+    Added USAGE.md and modified small parts in README.md
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 4536d55023507b5804995a527a54fe335de6daac
+Author: skimdankish <32886013+skimdankish@users.noreply.github.com>
+Date:   Fri May 25 19:05:20 2018 -0400
+
+    Should fix #21 (#36)
+    
+    * Should fix #21
+    
+    I have tested with mispelled tags, multiple tags, etc. and SYNC will resolve each time.
+    
+    * Update README.md
+    
+    - Thermostat Item Examples
+    - Notes on Thermostat Item/Group Setup
+    - Example Voice Commands
+    
+    * Fixes Humidity Reporting
+    
+    Line #427, Humidity was never pulled with the other group members (e.g. Current Temp, Target Temp, Mode, etc.)
+
+commit cf16e75a606a389e597f7f0d8e5ab36474591b68
+Author: nils2410 <nils.reese85@gmail.com>
+Date:   Wed Apr 11 05:20:00 2018 +0200
+
+    Update README.md (#32)
+
+commit 188fdd4efaeabfac6d5790d8ba45cc480a314a6a
+Author: skimdankish <32886013+skimdankish@users.noreply.github.com>
+Date:   Tue Apr 10 23:16:26 2018 -0400
+
+    Additional Functionality & General Updates (Thermostat, Query Behavior) (#26)
+    
+    * Function Overhauls
+    
+    Highlights:
+    - Adds Thermostat functionality (testing with heating so far)
+    - Ignores misspelled or unsupported tags (should not crash on sync)
+    - You can dim generically without specifying by how just "Dim [x] lights" instead of "Dim [x] lights 50%".
+    
+    Changelog:
+    - UPDATE -> Split Query and Execute to separate functions
+    - UPDATE -> Query Function retrieves item data, then process response by trait (per @mdopp)
+    - UPDATE -> Execute function goes also by trait (per @mdopp)
+    - NEW -> getLightData: retrieves lighting attributes OH item (on/off for switch lights and also brightness 0-100 for dimmers)
+    - NEW -> getSwitchData: retrieves switch attriutes from OH item (on/off)
+    - NEW -> getColorData: retrieves color attributes from OH item, SpectrumRGB
+    - NEW -> getTempData: Google requires to first query thermostat before executing.  Therefore this code will provide appropriate response based on query.
+    - UPDATE -> getThermostatItems: fixed to allow for CurrentTemperature tag (standalone sensor/item without Thermostat group)
+    - UPDATE -> adjustTemperatureWithItems: Fixed isF (function from utils is from Alexa code)
+    - UPDATE -> syncAndDiscoverDevices: Named loop to allow switch default to break out to avoid crashing on sync on mismatch item tags
+    - UPDATE -> syncAndDiscoverDevices: Google wants deviceType as string, removed brackets as it was a soft-warning from their reference docs
+    - UPDATE -> getSwitchableTraits: Allow for Temperature and Thermostat to handle Query-Trait functionality (per @mdopp)
+    
+    * Break out Query/Execute to Separate function calls
+    
+    * Fix Thermostat Mode Normalization
+    
+    Current coding is for Alexa, reformatted to be Google-friendly
+    
+    * Update Version
+    
+    * Fix getLightData
+    
+    Dimmer would compare on strict equality, item.state string to number (e.g. "0" === 0).  Corrected by first converting lighting state to Number then comparing.  Confirmed functionality fixes issue.
+
+commit 6c2f8667f52a0cffd0f8c8292515fe91d247ab66
+Merge: 010975c 6fb171e
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sun Mar 4 23:35:04 2018 +0100
+
+    Merge pull request #22 from kubawolanin/cleanup
+    
+    ESLint introduced + code cleanup
+
+commit 010975c894faa4c883988057dea3b480f8619914
+Merge: b0596c0 c1fe26b
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sun Mar 4 23:24:40 2018 +0100
+
+    Merge pull request #17 from holmes/holmes/README
+    
+    Update the README
+
+commit 6fb171e3cb94d5e59a177e7a5f5137bb66931908
+Author: kubawolanin <hi@kubawolanin.com>
+Date:   Thu Feb 22 19:24:43 2018 +0100
+
+    ESLint introduced + code cleanup
+    
+    Signed-off-by: kubawolanin <hi@kubawolanin.com>
+
+commit c1fe26bfb2071b9e646f3c02b5a51945bb834c4e
+Author: Jason Holmes <holmes@squareup.com>
+Date:   Mon Jan 29 06:33:19 2018 -0800
+
+    Update the README section on config.js
+    
+    Found out the hard way about the server & rest location. Don't use https
+    and include trailing slashes!
+
+commit 3977f84a7be3a96c35edb9db0b65c280bbd4189e
+Author: Jason Holmes <holmes@squareup.com>
+Date:   Fri Jan 26 07:14:26 2018 -0800
+
+    Update the README
+    
+    Be a little more descriptive about what you need to do to get this set up.
+    
+    Note that this isn't working for me. I can get everything linked, fire up
+    OAuth, but I'm getting Google Cloud error logs after that.
+
+commit b0596c0b0fa826d59a8df4849e7cea2192867ba2
+Merge: 08db898 02c44f4
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Fri Jan 26 22:02:08 2018 +0100
+
+    Merge pull request #16 from tdeckers/master
+    
+    Handles QUERY requests from Google Assistant
+
+commit 02c44f4201a7bde2c6c76ec86279f19ba52d323a
+Author: Tom Deckers <tom@ducbase.com>
+Date:   Sat Jan 20 18:07:09 2018 +0100
+
+    Handle async nature of Openhab queries.
+
+commit 70191447bb115999377c7494d47de79777a9b3a6
+Author: Tom Deckers <tom@ducbase.com>
+Date:   Thu Jan 18 05:55:54 2018 +0100
+
+    Add support for QUERY intent.
+
+commit 08db8984226454abd8daf89821c836ea1d1183f6
+Merge: 5a5507b 916a5dc
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Fri Dec 15 20:21:50 2017 +0100
+
+    Merge pull request #14 from claell/patch-1
+    
+    Removed fixed issue from known issues section
+
+commit 916a5dc6cef9220e66b845490894f3411710742e
+Author: Claudius Ellsel <claudius.ellsel@live.de>
+Date:   Thu Dec 7 13:11:38 2017 +0100
+
+    Removed fixed issue from known issues section
+    
+    The color transformation problem https://github.com/openhab/openhab-google-assistant/issues/8 has been fixed in https://github.com/openhab/openhab-google-assistant/pull/11 afaik, so removing it from the readme.
+
+commit 5a5507b749fbce45631feecc541d70477653a5e1
+Merge: ba2e664 4ccfb6c
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Mon Dec 4 19:37:51 2017 +0100
+
+    Merge pull request #10 from sk8ter/master
+    
+    Added support for action.devices.commands.BrightnessAbsolute command
+
+commit ba2e66438f4f3ca3668fa40654b6d8f9da125461
+Merge: d42e9eb d96fdb1
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Mon Dec 4 19:37:27 2017 +0100
+
+    Merge pull request #7 from mdopp/patch-1
+    
+    Update openhab.js for
+
+commit d42e9ebd1cfc76e20b804eb201b9a1a5a37ff59a
+Merge: c76d1d2 effc353
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Mon Dec 4 15:47:10 2017 +0100
+
+    Merge pull request #11 from dandanx/fix-color-lights
+    
+    Fix for the RGB conversion
+
+commit effc353e5852cd72f848202e32ab4efed7a89256
+Author: Daniel Hirsch <hwzsmindman@gmail.com>
+Date:   Sun Nov 5 13:53:55 2017 +0100
+
+    Fix for the RGB conversion
+    
+    Signed-off-by: Daniel Hirsch <hwzsmindman@gmail.com>
+
+commit 4ccfb6c0564b8068c1e25b12305c0262b2a8d2d4
+Author: Viktor Kostov <viktor.kostov@fortnox.se>
+Date:   Wed Oct 25 09:22:42 2017 +0200
+
+    Added support for action.devices.commands.BrightnessAbsolute command
+
+commit d96fdb1b3b87afc950131f966706ef96f8605766
+Author: mdopp <mdopp@web.de>
+Date:   Wed Oct 18 20:19:25 2017 +0200
+
+    Update openhab.js
+    
+    For tag "Lighting" the devicetype was overwritten to "SWTICH"
+
+commit c76d1d23ea98e5240dc318a21d66d6e07b5bc7fb
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Fri Oct 13 19:56:19 2017 +0200
+
+    Added Item Configuration to Docu
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 9f199030bb68ba65cc9a6cbe9a5afd259dead0a3
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Fri Oct 13 19:13:42 2017 +0200
+
+    Small docu Improvements
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 50d66377a679e739f3cf1e508077fc387bb6eab1
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Fri Oct 13 19:10:21 2017 +0200
+
+    Added docu and formatting
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 169709e09c62abe612415fb862517b689ecd21a8
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Fri Oct 13 19:04:23 2017 +0200
+
+    Extended documentation and added howto
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit aebfdf1a6b38ceff13337ef7f7588b8c20cc6680
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sun Oct 1 14:57:10 2017 +0200
+
+    Changed the content of the README
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 0bd9ccacfd6d2c6f502520947c204e8a57a1919a
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sun Oct 1 14:44:47 2017 +0200
+
+    Corrected some more formatting
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 7da21d6d202aad23789adfbb51234b5e2a004d0b
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sun Oct 1 14:43:14 2017 +0200
+
+    Corrected some Readme formatting
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit fdc87844036dcc7956c99b5b3d92d6ef69a06a15
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sun Oct 1 14:30:47 2017 +0200
+
+    Extended documentation with Actions on Google
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 6cf39934ba716ce2f8cef545191d441622b702a0
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sat Sep 23 16:23:02 2017 +0200
+
+    Initial corrections and formatting
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit 402ac6e509b3ba051dc466ff9257a9d32d1606ae
+Author: Mehmet Arziman <mehmet@arziman.de>
+Date:   Sat Sep 23 15:07:28 2017 +0200
+
+    Initial contribution of the openHAB Google Assistant implementation
+    
+    Signed-off-by: Mehmet Arziman <mehmet@arziman.de>
+
+commit fa480d3fac363afcdf08cc49d98af3d9d030e92f
+Author: Kai Kreuzer <kai@openhab.org>
+Date:   Tue Aug 8 15:19:09 2017 +0200
+
+    Initial commit

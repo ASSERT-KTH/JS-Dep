@@ -1,0 +1,4713 @@
+commit c0ff28ffffa0df4bc3dc6b286c1f505225d68f89
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 27 16:16:08 2022 -0500
+
+    Add recent series and authors bookshelf rows on home
+
+commit 58dfa65660134a9a62e84705d4ece98ed2bd465a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 27 15:46:57 2022 -0500
+
+    Fix update podcast episode api route;
+
+commit 3f8e685d64c4df5ec040cc207c3f7c8caaad6a46
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 27 15:37:04 2022 -0500
+
+    Podcasts add get episode feed and download, add edit podcast episode modal
+
+commit 08e1782253f2d95677bf522955bcebc15a86aeeb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 27 09:45:28 2022 -0500
+
+    Fix use first accessible library depending on display order, default library id checked on server when authenticating
+
+commit 0dd219f303ebee4148c90886a44b9608b3a218ac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 19:58:59 2022 -0500
+
+    Add podcast episode auto download new episodes cron
+
+commit d5e96a34220a2f4d5026f492267b96a4fbdb247c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 19:00:55 2022 -0500
+
+    Fix podcast re-scan, fix more menu item
+
+commit 03bfecefee5d11cde45a60bc01ba381cc532ce62
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 18:30:58 2022 -0500
+
+    Podcast episode playing fix title and author
+
+commit 12027b9a76717458a688f6c7473d074692e730b1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 18:23:33 2022 -0500
+
+    Podcast episode player fixes, episode table ui updates
+
+commit 0e665e20913e003f799134270e9090e6b264ce0c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 17:41:26 2022 -0500
+
+    Add playing podcast episodes, episode progress, podcast page, podcast home page shelves
+
+commit e32d05ea279eb64e253c94eb138a5dd98e46c9a5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 15:23:25 2022 -0500
+
+    Podcast library item card, edit details, batch edit
+
+commit 5446aea910b4d51c5320236421aa9f668b65bdc4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 14:29:49 2022 -0500
+
+    Add Scanner support for podcasts
+
+commit 86e7c7fc33150dd48fec103633d912d32b4b020b
+Merge: 173b72c 9a96d17
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Mar 26 12:51:51 2022 -0500
+
+    Merge pull request #426 from jflattery/master
+    
+    Upgrade Node to v16 and update packages
+
+commit 173b72c3b583da15df34cc1e685d6ea29bba5881
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 12:08:05 2022 -0500
+
+    Add:Purge cache promp alert
+
+commit 3150822117987b2714c68607ba5488716933ffbf
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 26 11:59:34 2022 -0500
+
+    New data model removing media entity for books
+
+commit 9a96d17a307e4bfcab4a2914cd94e1a7a6f9fe84
+Author: jflattery <6561797+jflattery@users.noreply.github.com>
+Date:   Fri Mar 25 22:14:02 2022 +0000
+
+    Update NPM Packages
+    
+    Update all NPM packages addressing several CVEs
+
+commit c98409b9ae081ee03d7ed668118478bf7debabc3
+Author: jflattery <6561797+jflattery@users.noreply.github.com>
+Date:   Thu Mar 24 17:34:34 2022 +0000
+
+    Address three CVEs
+    
+    Addresses CVE-2021-3749 (HIGH), CVE-2022-0155 (HIGH), and CVE-2022-0536 (MEDIUM).
+
+commit 0e3640c24625c6926b74373782c26ef0d45aff68
+Author: jflattery <6561797+jflattery@users.noreply.github.com>
+Date:   Thu Mar 24 15:38:02 2022 +0000
+
+    Upgrade Node to v16
+    
+    As Node.JS v12 is EOL in April 2022, project should move to a newer version.
+
+commit e030b59bae8a231d804abcd07736b84d9cc2da99
+Author: RailRoad <conductor@intapp.man.flattery.me>
+Date:   Thu Mar 24 15:19:48 2022 +0000
+
+    Address CVE-2022-21676
+    
+    Upgraded socket.io to 4.4.1 to address uncaught Exception in older version of engine.io
+
+commit 920ca683b9107dcd10e6dd70327271a09ab6e245
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Mar 21 19:24:38 2022 -0500
+
+    Podcast episode downloader, update podcast data model
+
+commit 28d76d21f1a6356a3a3174eace42fa6eb2a1f452
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Mar 21 05:08:33 2022 -0500
+
+    Add expand library item authors to /items/:id route
+
+commit e1e6b464565f02d3412f75eb1bbfa369978c19ac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 20 16:41:06 2022 -0500
+
+    Create podcast manager and re-organize managers
+
+commit 122f2a255635ff835b2431d8f952be69e99e13bc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 20 16:16:39 2022 -0500
+
+    New data model fix collections page & table
+
+commit 27f1bd90f994ee6ceeed56d6a6ee86f94593002b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 20 06:29:08 2022 -0500
+
+    Add:Restrict user permissions by tag
+
+commit f8d03841551a0e6e3c0d274dc6f1423196873c1d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 19 10:13:10 2022 -0500
+
+    Migration change metadata folder from /books to /items, podcast data model updates, add podcast routes
+
+commit 43bbfbfee372d1133a9f267fb1ce8bc4a3c9086e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 19 06:41:54 2022 -0500
+
+    Fix library check path and set provider, update podcast model and UI
+
+commit deadc63dbb17f219f9aae5209060dfae5e03a7b3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 19:16:54 2022 -0500
+
+    Add podcast add modal
+
+commit a9b9e23f46ab1a89e1336c7b695ff79c130736df
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 17:09:17 2022 -0500
+
+    Library update migrate to use book mediaType, disable editing mediaType, set icon instead of media category
+
+commit 6a06ba43271a675dc31d41cf546123a75be9823d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 15:31:46 2022 -0500
+
+    Fix player content url, update user progress object include media entity id, update reset progress  route
+
+commit 3d2bbc7719cfec3bc0b5266f1f94fbda6e46a8f8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 14:08:57 2022 -0500
+
+    Fix bug with creating new series & authors on scan
+
+commit c9ea5dd2d79b36d45b2d50448467770b2457e6ce
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 13:44:29 2022 -0500
+
+    New data model backups and move backups to API endpoints
+
+commit eea3e2583cd37597ad5d1712277b83413594ec2c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 12:37:47 2022 -0500
+
+    New data model fix library stats
+
+commit 57399bb79e17ffc6172fc1fef825a1016e783d6d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 11:51:55 2022 -0500
+
+    Clean up ApiRouter adding MiscController, move upload and scan to api endpoints
+
+commit 69fcb103e4cdd1cd758d5822120a4dec47cdd7a7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 09:38:36 2022 -0500
+
+    Fix:Updating author name to update author name on each library item
+
+commit f00b120e960f6d941d03a96e8fdfc290dab500d3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 18 09:16:10 2022 -0500
+
+    New data model scanner update and change scan chunks to be based on total file size
+
+commit 14a8f844464d599e0deb309e70d12b72bf0923c3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 20:28:04 2022 -0500
+
+    New data model update bookmarks and bookmark routes to use API
+
+commit 099ae7c77612860177c2df33a8e319826203a93b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 19:10:47 2022 -0500
+
+    New data model play media entity, PlaybackSessionManager
+
+commit 1cf9e85272dade12fdff8650f4d5cecf57431a18
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 13:33:22 2022 -0500
+
+    New data model update MeController user progress routes
+
+commit c4eeb1cfb746a3c9a21694bf57a8875582fafc11
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 12:25:12 2022 -0500
+
+    New data model Book media type contains Audiobooks updates
+
+commit 1dde02b170aafb33196f3b0465ca6b1e0b8ff5bb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 09:28:31 2022 -0500
+
+    Add user API token with copy to clipboard
+
+commit 08e648a3bcce8b4363dea612040cd2633a36e5b0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 09:07:02 2022 -0500
+
+    Fix db migration
+
+commit 755e70b4a9bd03e3b8b3043253ed25056a307aa0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 09:04:10 2022 -0500
+
+    Fix db migration
+
+commit 5ff4cd2c0bfc48a50a554aad577c021bbdeea721
+Merge: 5243a22 e36c31c
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Thu Mar 17 08:18:55 2022 -0500
+
+    Merge pull request #423 from Quietus/configurablehost
+    
+    Allowed the configuration of a "HOST" parameter to enable ipv6 support.
+
+commit e36c31c5e77ec51422054d42186ede85d1a03271
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 17 08:18:39 2022 -0500
+
+    Add HOST config for docker and debian
+
+commit d561a48229c37e34ae2f50978a415f77e3cd97af
+Author: Quietus <2498842+Quietus@users.noreply.github.com>
+Date:   Thu Mar 17 11:06:52 2022 +0000
+
+    Allowed the configuration of a "HOST" parameter to enable ipv6 support.
+
+commit 5243a225e87c4c574a3fa3591e5ca75ce47991b3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Mar 16 19:22:16 2022 -0500
+
+    Update sample book library item
+
+commit 4fe60465e5cef666a57bf7bedda8a83539046a46
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Mar 16 19:15:25 2022 -0500
+
+    New data model change of Book media type to include array of Audiobook and Ebook objects
+
+commit 0af6ad63c1d53600345a4ef05aa5e95c1f14530a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Mar 15 19:28:54 2022 -0500
+
+    New data model start of PlaybackSessionManager to replace StreamManager, remove podcast & ip npm package
+
+commit 68b13ae45f2d96f76943d864f0535f37f5817cb1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Mar 15 18:57:15 2022 -0500
+
+    New data model migration for users, bookmarks and playback sessions
+
+commit 4c2ad3ede5f1f2c4acdf1f900fafcc53c0e67234
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Mar 14 18:53:49 2022 -0500
+
+    Add author edit modal & remove from experimental
+
+commit deea6702f01b3f5183e53d10a2f5151250fe11cf
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Mar 14 09:56:24 2022 -0500
+
+    Change Library object use mediaCategory, allow adding new manual folder path, validate folder paths, fix Watcher re-init after folder path updates
+
+commit 7348432594dcd60b87b0ca0330ce3f6b390adf95
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Mar 14 08:12:28 2022 -0500
+
+    New data model update for Match tab
+
+commit 7d66f1eec952202e4996ba569235e515e75df28d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 19:34:31 2022 -0500
+
+    New data model edit tracks page, match, quick match, clean out old files
+
+commit be1e1e7ba070514256377dc43c95fcf733d5bc34
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 17:33:50 2022 -0500
+
+    New data model update stats page and routes, update users page
+
+commit 4bdef893af2d0f92c8ef880401e82bfaf78b5047
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 17:10:48 2022 -0500
+
+    New data model batch routes and batch editor
+
+commit 6597fca5768d5bb3df9ba574f7ee2439c0538339
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 13:47:36 2022 -0500
+
+    New data model fix scan for creating series/authors and mapping ebooks
+
+commit ea9ec138453292109ae13d76d5aea5bbdd988643
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 12:39:12 2022 -0500
+
+    New data model for global search input and search page
+
+commit 30f15d3575233629b4e0d93228288b5903c8ce71
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 10:35:35 2022 -0500
+
+    Add:Authors page match authors and display author image
+
+commit dad12537b626cb198f0f38ff506e1c7383e104a2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 13 06:42:43 2022 -0500
+
+    New data model authors routes
+
+commit 65df377a499d5973226fa4d2416fd6c342956199
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 12 19:59:35 2022 -0600
+
+    New model update audio player, stream, collections
+
+commit 2d19208340b4cf44f3924d4ac5066f3de2ce2d47
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 12 18:50:31 2022 -0600
+
+    New model updates for series, collections, authors routes
+
+commit 73257188f646ec313d97fc224c124862a307deb4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 12 17:45:32 2022 -0600
+
+    New data model save covers, scanner, new api routes
+
+commit 5f4e5cd3d87992d98e34ec0b9531ebdf2e6c7d62
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 11 19:46:32 2022 -0600
+
+    New model update details, author and series inputs with create new, compare & copy utils
+
+commit f2be3bc95ebc44b9d18c96bb2bfdcdbda14460df
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 10 19:13:19 2022 -0600
+
+    Add multi select dropdown with query from server
+
+commit 2a30cc428f2dc1769ee08884e5ff76efefc0bc44
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 10 18:45:02 2022 -0600
+
+    New api routes, updating web client pages, audiobooks to libraryItem migration
+
+commit b97ed953f759551dcd43d807e008e732aa81efa6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Mar 9 19:23:17 2022 -0600
+
+    Add db migration file to change audiobooks to library items with new data model
+
+commit 65793f7109eb44ecc9684077e69c1b846703105a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Mar 8 19:31:44 2022 -0600
+
+    Start of new data model
+
+commit 2b7f53b0a7c77c9abde65184215fb918462c99df
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Mar 7 16:22:20 2022 -0600
+
+    Add:Support for book folders with CD# subfolders #393
+
+commit c6eb1096e83b11d34bc430adbd90cf63dc6b108a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 6 19:02:06 2022 -0600
+
+    Add:Podcast search page
+
+commit a907c88f66f5ff42581874c7863b9dc28ba6bac9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 6 17:26:35 2022 -0600
+
+    Add:iTunes search api metadata provider #381
+
+commit 43f48b65f81e0f221527ed97072e40828e5ed08a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 6 16:32:04 2022 -0600
+
+    Add:Podcast iTunes search api and iTunes provider
+
+commit 2a4cbd48b897cb85cab933a650ae72fce3296ad0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Mar 6 09:51:56 2022 -0600
+
+    Remove old API routes
+
+commit b6e4f3a8c5e6ca867fa20de514807a1419980014
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 18:54:24 2022 -0600
+
+    Add:Podcast RSS feed parser
+
+commit 83976b5549405d2cf5baa0ad33cba32f0d9a79b5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 17:28:15 2022 -0600
+
+    Fix:Encode filename for audio player direct plays
+
+commit 9f29b245d7e2f367da3f55f0aed52b1b79e0afdb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 15:46:06 2022 -0600
+
+    Version bump 1.7.2
+
+commit ecf62c5443ad4980f5e84970291a674d9e1fabf2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 15:37:30 2022 -0600
+
+    Add:Experimental direct play support
+
+commit eb82d9c30052edec757f21ce44b42bbc1952fa00
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 12:30:46 2022 -0600
+
+    Add:Sleep timer #165
+
+commit 45582343b8c349bbae37c0b270ec3a86f2ecdc67
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 10:23:30 2022 -0600
+
+    Fix:Backups table UI
+
+commit 6a4d3a55b128bb8402698d7805ce9374d142eae8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Mar 5 10:10:42 2022 -0600
+
+    Fix:User last activity
+
+commit 95bacce5e55244cf389dd1edc89c739a5f24228e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Mar 4 18:44:20 2022 -0600
+
+    Add:Start/complete date on audiobook page #383, Fix local hls stream url
+
+commit 408775a25a7af220fbe744ff1003e84eeca033bb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Mar 3 19:03:34 2022 -0600
+
+    Add:Library media type selection and library icons
+
+commit d3a8ecc8d1d7907fdcff2c70b4d7c23187efe60a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Mar 1 17:59:47 2022 -0600
+
+    Remove unnecessary env
+
+commit ecc425d89d4996e7812fb9a19638044e763e4268
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 19:03:38 2022 -0600
+
+    Fix:Remove epub dependency from server
+
+commit 289b3e9f94821a1c7813cb5339b819ef50e13f25
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 19:02:07 2022 -0600
+
+    Version bump 1.7.1
+
+commit 74a68a455714df4cfbbbb437730798a68bb7cb70
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 18:58:23 2022 -0600
+
+    Add:Check metadata.abs file modified date to rescan
+
+commit 42604331ff0446b6532b2865b2998cf02522664c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 18:18:38 2022 -0600
+
+    Add:Sort by file birthtime and modified timestamps #215
+
+commit 428a515c6a7240fbe3c02a9c8a112f0260f23db9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 18:07:36 2022 -0600
+
+    Add:mtime,ctime,birthtime to audiobook folder and files
+
+commit c81b12f45989ed5d2d8930e3e288842384cf4762
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 16:52:01 2022 -0600
+
+    Add:Book folder name starting with number and has series folder use as volume number
+
+commit 779d22bf55ddee9f7a2e45a605da71c51174e611
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 16:14:57 2022 -0600
+
+    Add:Parse abmetadata metadata.abs file, save metadata.abs on all audiobook insert/update
+
+commit 295c6b0c746254ff4de591d90eef88f9d3dac8a1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 14:28:18 2022 -0600
+
+    Add:Generate book metadata file when book details are changed,Add:Server setting for storing book metadata in book folder
+
+commit aa50cc2d816415dcd913e0d1f8020db2ceaa49ee
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 13:47:52 2022 -0600
+
+    Change:Main dir paths moved to global vars, server settings stored in globals vars
+
+commit eb109c398f1eac9bad20b5f6cdc1621016148c9e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 12:47:56 2022 -0600
+
+    Change:Server setting for coverDestination to storeCoverWithBook boolean, Add:abmetadata generator
+
+commit 4e7d2ddc585b7aadd30cc2e0d303a280fde3c532
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 11:03:10 2022 -0600
+
+    Fix:Quick match requiring cover
+
+commit a5b10aac96947550384e6cdb5af38ad8a0a8a059
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 27 11:02:33 2022 -0600
+
+    Readme update features
+
+commit fcbccaeb4eab049fee94b9f838820125a64f0918
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 18:28:09 2022 -0600
+
+    Fix:Drag n drop uploader
+
+commit 90d1e159d764aaceba3faacc8d13eca1d6c4319b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 16:38:35 2022 -0600
+
+    Version bump 1.7.0
+
+commit cf4824d3493e336a721196afbebb89c7785fa984
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 16:38:01 2022 -0600
+
+    Change:Chromecast support no longer experimental #367
+
+commit 3a34daef7c9972835fbbc7b79bed5eb5f4156efa
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 16:35:40 2022 -0600
+
+    Fix:Client emitter users not found no longer is an error
+
+commit d368988899f844a5ee5392809c37da747cf2bded
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 16:34:54 2022 -0600
+
+    Add:Disable watcher library specific #378
+
+commit aa675422a9a237c9bf7a15ad1df6cb62300dd4d2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 16:19:22 2022 -0600
+
+    Add:Support multiple book upload #248
+
+commit 907790fe922e7e1973b638d8133cd226e5c18694
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 26 09:37:19 2022 -0600
+
+    Remove unnecessary fields in audiobook json
+
+commit 7f1fc1901b0ab51f4c3d5cd339327fdd1c130145
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 23 17:52:21 2022 -0600
+
+    Add:Server setting to disable folder watcher #378
+
+commit 1a89b6e493af9fd608f65a0d3618077969171095
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 23 17:01:11 2022 -0600
+
+    Add:Chromecast non-secure alert
+
+commit d2c6f1bab10fdc2c55c94ee6763f9c1a02a2750d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 22 19:02:01 2022 -0600
+
+    Fix:Stream url format issues
+
+commit 74d5174cfc5737d242dde2d8520059b864e35483
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 22 17:37:05 2022 -0600
+
+    Version bump 1.6.70
+
+commit 530e70c7d00b256f4d2db355cea246f003b9493e
+Merge: 89f498f a22b81e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 22 17:33:57 2022 -0600
+
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit 89f498f31a31daff0ca31a4da87ac04225e9b07b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 22 17:33:55 2022 -0600
+
+    Add:Chromecast support in experimental #367, Change:Audio player model for direct play
+
+commit a22b81e365e64ea7dba8f9a3cd7c236ff30b395c
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Feb 20 18:52:56 2022 -0600
+
+    Delete chromecast_receiver.css
+
+commit 2e78fb2b64fb81921aa785866fe90a1bfa00c868
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Feb 19 10:17:20 2022 -0600
+
+    Update chromecast_receiver.css
+
+commit 45f340dd130408c780eb0788ff76eba5e210351e
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Feb 19 06:19:27 2022 -0600
+
+    Update chromecast_receiver.css
+
+commit b7bc858517490849338da2d392ee07aa7b4a8997
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Feb 19 06:12:49 2022 -0600
+
+    Update chromecast_receiver.css
+
+commit 8959ec755fa5b3682bb5b6335b07a615907ad568
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Feb 19 06:09:42 2022 -0600
+
+    Add:Chromecast styled media receiver css
+
+commit 9f133ba98cb3cd05d30aede5378689a3042534a8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 17 17:40:23 2022 -0600
+
+    Version bump 1.6.69
+
+commit f51299c798888fc33e2e1bcb7ac5376867cd541e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 17 17:39:38 2022 -0600
+
+    Add:Start of chromecast plugin & update cors accept header, move sortable to static
+
+commit 6c6a0b4ba6db55b89db612cac63c9dc25c368acb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 17 15:19:50 2022 -0600
+
+    Add:Change volume with hover and scroll wheel #366
+
+commit 08922914992724cd6e8cda0573dafc307eb71431
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 17 14:33:12 2022 -0600
+
+    Add:Batch set book details #370
+
+commit 82afefc1331219837e9377f53868ec0281386ba3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 18:35:01 2022 -0600
+
+    Version bump 1.6.68
+
+commit 11be49a5352a7399a0b66801a8b56484091cb881
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 18:33:33 2022 -0600
+
+    Add:Library match all books #359
+
+commit c953c3dee0d6e96fa9c17d83a2ee75aceafa0ac0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 16:36:22 2022 -0600
+
+    Add:Library route quick match all books
+
+commit 088969e1fe53edc60a57e7b57b234432d9b0175c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 16:15:09 2022 -0600
+
+    Add:Quick match option
+
+commit de32698ea522fd0df92be9dab3a148b71be043c8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 14:59:46 2022 -0600
+
+    Add:Metadata provider option to library
+
+commit c046f9ee98093a6f30b983b7a494690b44093de4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 14:38:06 2022 -0600
+
+    Add:Edit button and play button on audiobook landing page cover #360, Fix:Playback rate controller sending change events
+
+commit db25affd4370f35a4d680461e2c1cbb976758cab
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 15 12:57:56 2022 -0600
+
+    Fix:Reactivity for book cards on home page
+
+commit 86f39ccc8385bd9a84915438129d11d14ab7c0d7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Feb 14 17:46:40 2022 -0600
+
+    Update readme spacing and header
+
+commit ad8a15c9ead340998b8ef8dbb10d5a8c07d329e2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Feb 14 17:45:37 2022 -0600
+
+    Update readme add discord invite
+
+commit aa2fa0a748f670a21cad95c76bc5948051696682
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Feb 14 17:33:24 2022 -0600
+
+    Version bump 1.6.67
+
+commit d78cc90276796f631b3a56793cb08949d2ad7088
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Feb 14 17:32:35 2022 -0600
+
+    Add:Discord invite to config
+
+commit 3be32a2813b98deb0d3b067fcc38c8067dab4689
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Feb 14 16:01:53 2022 -0600
+
+    Add:Alternate bookshelf view show sorting/filtering keys and ignore The prefix title #232 #361
+
+commit f15be4c96eec8a5bdd9420f75f1c7bf8d11fab57
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 13 15:00:59 2022 -0600
+
+    Add:Server setting to ignore "The" infront of titles and series when sorting #361
+
+commit e0a66313966dc2f0803b2f039f3e04be55088ba9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Feb 12 17:19:14 2022 -0600
+
+    Update readme screenshot
+
+commit 7658433d728fa94700bf3e39bae902bd92d24527
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Feb 11 17:18:56 2022 -0600
+
+    Fix readme header and spacing
+
+commit 38668ec17ba24f346e55c449209adab33fee1212
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Feb 11 17:17:27 2022 -0600
+
+    Update readme with synology reverse proxy setup
+
+commit 43b5b87799036fbe7b3602ef7a20e83e690c0343
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Feb 11 17:08:33 2022 -0600
+
+    Update readme with nginx proxy manager setup
+
+commit 0dca8472de2106e6091ae4edf3295786c0ba1636
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Feb 11 08:50:28 2022 -0600
+
+    Fix:Mobile flag max size
+
+commit 30e0cc4c07f6cfbdc408a1cb9f5b4d1c358cd2a2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 10 17:05:15 2022 -0600
+
+    Cleanup & start of abs metadata file
+
+commit 8a0508342bd187c1bb1c72d4bcc6126e93dca7b5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 9 12:15:36 2022 -0600
+
+    Fix:PWA icon sizes
+
+commit f315e77b10f5c3e579e6cdd4020f2d92af0e04a2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 9 11:19:29 2022 -0600
+
+    Version bump 1.6.66
+
+commit 70c5db453474878c490184ccc44259a29274dfc3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 9 11:19:02 2022 -0600
+
+    Mobile UI adjustments
+
+commit 18a095c6e487f39ebf4afdd213a4255eab823c62
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 9 09:02:37 2022 -0600
+
+    Fix:Only show collapse series checkbox on library page
+
+commit 922214f2410eabc073c2fa6e32374bb3436291aa
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Feb 9 08:57:34 2022 -0600
+
+    Add:PWA support #354
+
+commit 42e7b7f5902334b8670ae0878ec6ec216d299138
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 8 19:09:24 2022 -0600
+
+    Add:Initial setup for PWA #354
+
+commit 3906031d6295d79edc965e69dc8c065fb21f6c68
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 6 17:31:47 2022 -0600
+
+    Version bump 1.6.65
+
+commit 668330110697c4d32d552d9c46b8c7a4084ebc74
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 6 17:31:04 2022 -0600
+
+    Fix:FLAC files use mpegts segment type and force AAC transcode
+
+commit c0c4b1fa23e6a34859c93a7c1be92905f57cad02
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Feb 6 17:14:55 2022 -0600
+
+    Fix:FFprobe path for node-ffprobe
+
+commit 0336b65bca188ad1f4e55a594279416f1116a5bc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 3 18:12:44 2022 -0600
+
+    Version bump 1.6.64
+
+commit d2c1c7aee004b5952da3b749cffea2e2555aa60e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 3 18:12:12 2022 -0600
+
+    Fix:Init user audiobook map before mobile app sync #345
+
+commit 590dbe399127c36d364383a72275e0b3c3f60490
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 3 18:08:39 2022 -0600
+
+    Fix:Downloader sets file permission and owner on files #286
+
+commit 405d333d601d0f692de3871f7a7960125ffb6303
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 3 17:27:22 2022 -0600
+
+    Change:Download m4b file set proper metadata id3 tags #286
+
+commit 663ab2db90d11998b9365f4df9c6c4b296462a4b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Feb 3 16:39:05 2022 -0600
+
+    Fix:Save library updating name only #350
+
+commit 964cba04918a8808bf8e6a0593182c9399a6a042
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Feb 1 16:58:11 2022 -0600
+
+    Fix:Cover aspect ratio init #341
+
+commit 316ae4ff7973774bd9ae1d416aceb2fd2e2454d6
+Merge: 812818b 4212251
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Tue Feb 1 14:36:28 2022 -0600
+
+    Merge pull request #343 from igorkaldowski/master
+    
+    Fetch Narrators from opf custom column
+
+commit 4212251c7858726ecb93ee3d26a416340f3c4eb5
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Tue Feb 1 16:50:42 2022 +0000
+
+    Added try catch to opf fetchNarrators
+
+commit 4e329a3f8ed325bcb91478f99f39b6bee5071498
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Tue Feb 1 02:32:03 2022 +0000
+
+    Fetch Narrators from opf custom column
+
+commit 812818bdff87cbe0d8fff6144db4de5bc93f9aa8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 31 16:07:32 2022 -0600
+
+    Version bump 1.6.63
+
+commit 1581557080503021ed373110690d8340f8ab3432
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 31 16:07:02 2022 -0600
+
+    Fix:Revert njodb to 0.4.29
+
+commit b3ed29b280a2e07508179c3a18169990078a9269
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 31 16:01:49 2022 -0600
+
+    Add:Collapse series no longer experimental #322
+
+commit d9a31958314715af7cfc2c5f378cb68631e11e12
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 30 13:33:51 2022 -0600
+
+    Version bump 1.6.62
+
+commit 9b8401f6e1dd327815e741fb83b5966539fd727f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 30 12:24:52 2022 -0600
+
+    Njodb version bump
+
+commit 7f0a9fc79d8d7ed1a84a745e2fd23f6a3acf6746
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:43:32 2022 -0600
+
+    Update feature.yml
+
+commit 1f81739ade700bd23f2fc4d10d7a6f37864aaa21
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:39:30 2022 -0600
+
+    Update bug.yaml
+
+commit 02c29b374f11c82f65f81f0b8478f013b578e83d
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:37:17 2022 -0600
+
+    Add Feature Request template
+
+commit f8cd5da7c4c12304e1642f0f687967cfe5bdd37c
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:32:00 2022 -0600
+
+    Update bug.yaml
+
+commit f0f80a4edd5d8c42b0d83be1dadc328a14fc691e
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:30:38 2022 -0600
+
+    Update bug.yaml
+
+commit 38752c3db7a2a78ed3d16ef13286bd24d01e115a
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:30:09 2022 -0600
+
+    Update bug.yaml
+
+commit 68d43f122c846023df4014ff63edc05ed6f374e1
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:28:46 2022 -0600
+
+    Update bug.yaml
+
+commit 9a5cbf11bec7cfc1c91485335dba3f99fe55ce3a
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:26:54 2022 -0600
+
+    Update bug.yaml
+
+commit 1fc7ecba6cb07ebb24b3bc5ca52f98a88fa1d4f4
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:26:27 2022 -0600
+
+    Update bug.yaml
+
+commit f55ade813abb78f679f354d6d4bc002806d90f8d
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:25:28 2022 -0600
+
+    Update bug template
+
+commit d0b2a73b2266998f30214d1677dbd0d6dabe016f
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 29 11:23:06 2022 -0600
+
+    Add bug issue template
+
+commit fe18321e0ce7ee81d3a767c6848565f5e2f85a09
+Merge: c3376ad 6b476b8
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Thu Jan 27 16:56:14 2022 -0600
+
+    Merge pull request #330 from mx03/groupcoverlimit
+    
+    Fix: Group cover does not use full width
+
+commit c3376ad0ae16de74029241bd0eccf825801ebc71
+Merge: 28b900d 676eb13
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Thu Jan 27 16:55:02 2022 -0600
+
+    Merge pull request #331 from igorkaldowski/master
+    
+    Add continue series category to home
+
+commit 676eb13fc67a4d6d16a4aca9c763aa29cbb7e674
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Jan 27 16:53:18 2022 -0600
+
+    Remove unnecessary series volume sort
+
+commit 6b476b84b2e465cb688e42d0e4367fa00eaa49ec
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Thu Jan 27 23:27:18 2022 +0100
+
+    Update GroupCover.vue
+    
+    Groupcover limit 10
+
+commit 28b900d6ba49073de3025b725638deca3cd5c6a6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Jan 26 18:01:10 2022 -0600
+
+    Version bump 1.6.61
+
+commit 454e51bf5387696eedfe33101bec632eda75ffee
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Jan 26 18:00:40 2022 -0600
+
+    Add:Api route for syncing local downloaded audiobook progress
+
+commit 00e205ac2dac7ec31b7473591dd7323d06568968
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Jan 25 17:15:42 2022 -0600
+
+    Change:Hide batch select and more menu for collapsed series
+
+commit 503bfbf2ef9a742e0d60a939463c3178775fa201
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Tue Jan 25 10:05:39 2022 +0000
+
+    Add continue series category
+    
+    Added section to home with next book in series
+
+commit 372a0a2c3f346bdf4c960b64090f8bc63290272e
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Tue Jan 25 12:10:51 2022 +0100
+
+    Fix: Group cover does not use full width
+
+commit 111f038cb236286813980e28a559248f1b41c27a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 24 18:04:51 2022 -0600
+
+    Version bump 1.6.60
+
+commit d8cc0b57a5e85cb3fc457b847ba307b274bc711a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 24 18:03:54 2022 -0600
+
+    Add:Experimental collapse series for library option #322
+
+commit 5bd6c8f5535615f6f4d27472988c547a5fa37d3a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 24 16:53:35 2022 -0600
+
+    Update njodb version
+
+commit ff4ca0f675d7236cf83f11bfff49db0e36884595
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 24 16:46:14 2022 -0600
+
+    Add:Number of series over series covers #321
+
+commit 28b5e3919f09b2e8d3bc08afd48a2f6726cf2b45
+Merge: 0abfa58 73347f1
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 22 09:13:47 2022 -0600
+
+    Merge pull request #326 from MartinCa/master
+    
+    Fix: Series link from search goes straight to series
+
+commit 0abfa58dbf9ee21d68f7d90fac9dee53b65247d2
+Merge: 336fbed a9eb64f
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Jan 22 09:12:57 2022 -0600
+
+    Merge pull request #325 from mx03/groupcoverlimit
+    
+    Limit group cover
+
+commit 73347f15d95aacf4614d0e6d1248e7725911cdd5
+Author: Martin Caspersen <martin@cas.gl>
+Date:   Sat Jan 22 13:04:32 2022 +0100
+
+    Fix:Series link from search goes straight to series
+
+commit a9eb64fdc6c8c5c753e6d3a832ce977dc6526367
+Merge: 7b6e432 336fbed
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Sat Jan 22 11:26:23 2022 +0100
+
+    Merge branch 'master' into groupcoverlimit
+
+commit 336fbedc759a9c47f20f2d385b844c129bb4c4b5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 16 14:10:46 2022 -0600
+
+    Fix:Library controller middleware for user accessible libraries
+
+commit 156a4ed01d3301f70cc062f5ec4740d67716e7df
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 16 13:37:32 2022 -0600
+
+    Fix:Get library check user access
+
+commit 8442a629fbc7b16b63cf2c7fdfa11866f03d1354
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 16 11:17:09 2022 -0600
+
+    Fix:Get libraries endpoint return only libraries accessible to user
+
+commit 48921c315000d528bad97d703186e637e9bd273f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 15 12:15:59 2022 -0600
+
+    Change:Remove post remove bash
+
+commit 06c7776b152464dce291c6378cceab007d474249
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 15 12:01:28 2022 -0600
+
+    Fix:Bash debian postrm script
+
+commit 8a71a6f9637f47de54e0aee9408ad339790482c7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 15 11:48:25 2022 -0600
+
+    Fix:postrm bash functinos
+
+commit f1f55e9c4f49ea1431645c0aa3bbc288b1cde150
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 15 11:41:10 2022 -0600
+
+    Fix:Linuxpackager debian not overwriting
+
+commit be7aa3e39f13252c9c459618bfbb6dd485ac2466
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 15 11:11:50 2022 -0600
+
+    Version bump 1.6.59
+
+commit 0335da44776e05be4aa8718769ad35206948d9b2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 15 10:31:05 2022 -0600
+
+    Change:Debian packager post install and post remove
+
+commit 5280ab222bcc64618272a5681e8424f09e7132ac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Jan 14 19:10:17 2022 -0600
+
+    Readme update
+
+commit 024627fefca7f3ffb2136e248d1af6591a6f51af
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Jan 13 16:43:32 2022 -0600
+
+    Fix:Ensure chapter start/end are numbers
+
+commit c45f74cbf164d8835bb71127bb92f0ac85c40d22
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Jan 11 18:19:08 2022 -0600
+
+    Fix:Debian pkg validateFunction #302
+
+commit 3abb1fdf4891713ede2033d95abeb9678876f1bf
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 10 17:58:39 2022 -0600
+
+    Version bump 1.6.58
+
+commit 712aad2f14c885097f869ac08ebfcbee9043b137
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 10 17:57:51 2022 -0600
+
+    Fix:FFprobe requires path update config #302
+
+commit 018cebb0f52d35c53a72627a8adf590aaa215d10
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 10 11:13:12 2022 -0600
+
+    Version bump 1.6.57
+
+commit e5f8be5b2460ed98f38564e9ff4a04622c578951
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 10 11:12:47 2022 -0600
+
+    Fix:Scanner smart re-order
+
+commit 411183e4b43cf2c8d8985103df1459e7f27e89b9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 9 19:21:13 2022 -0600
+
+    Fix:Typo in function for language tags #305
+
+commit 59d6c377e5b86436c4e21d365bdca71a6c509afb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 9 18:37:47 2022 -0600
+
+    Version bump 1.6.56
+
+commit b284a9bd577b09adf0093932377baf618429778b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 9 18:37:16 2022 -0600
+
+    Add:Language and ASIN id3 tag parse, language filter, asin search, asin audible match, add fields to details #305
+
+commit afd2b8c98f9ec7c7615b469bffce23f9bc1b8094
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 9 17:36:25 2022 -0600
+
+    Add:Smart audio track order based on best match track and disc #155
+
+commit c22eaae3bfe99fe953d686376d8e373d4f44ac07
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 8 18:15:06 2022 -0600
+
+    Version bump 1.6.55
+
+commit 19cb8ba9a97b4814746806b866d5b6a742b7fa48
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 8 18:05:38 2022 -0600
+
+    Add:Alt bookshelf view add volume number infront of title #232
+
+commit 1be0ff7654b01eb36e0839f20206e291954e17bf
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 8 17:03:33 2022 -0600
+
+    Add:Scanner set default cover provider #291
+
+commit 2c29a273f39610637842d3e802cd67570c13ff51
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 8 16:42:30 2022 -0600
+
+    Change:Make square covers the default
+
+commit aa287cb5a11e415ea1f2bde19e6a1284c11abd9f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 8 15:07:52 2022 -0600
+
+    Change:Readme for iOS
+
+commit f6a03f866c3e66ce3da52facbda2a67018327888
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Jan 7 18:07:23 2022 -0600
+
+    Version bump 1.6.54
+
+commit ab62ec689d4ad9ebe45eaaf825ad645505e0dc64
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Jan 7 17:26:12 2022 -0600
+
+    Fix:Sort series before limiting #295
+
+commit 0a4ecc21255fd1aa7847ef8783859e35ce199d38
+Merge: cfba1c8 f2e09e5
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Fri Jan 7 16:51:34 2022 -0600
+
+    Merge pull request #300 from ISO-B/ffprobe_using_json
+    
+    Fixes reading multiline data from file tags
+
+commit f2e09e524f1ef625f7bf6c386960209e057a34de
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Fri Jan 7 15:17:35 2022 +0200
+
+    Cleaned unused require from prober
+
+commit dc05c384307e4c7f27938f4adec9c636810a443f
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Fri Jan 7 15:15:53 2022 +0200
+
+    Fixes reading multiline data from file tags
+    
+    Swiched fluent-ffmpeg to node-ffprobe.
+    Fluent's ffprobe can't handle multiline tag data due to it's parsing process.
+    node-ffprobe supports getting probe data using json format which keeps line changes.
+
+commit cfba1c8ec536641601eb361a6f37c5c361832055
+Merge: b91c386 98c678a
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Thu Jan 6 16:46:37 2022 -0600
+
+    Merge pull request #297 from mx03/master
+    
+    Update package.json licence
+
+commit 98c678afc7cf5d19978ea8f49c98bda6f095cb2c
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Thu Jan 6 20:36:10 2022 +0100
+
+    package.json licence updated
+
+commit b91c386af04e9971b68aaee8dab1c728461708d1
+Merge: 559bb6d 7fa2ec2
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Thu Jan 6 05:03:11 2022 -0600
+
+    Merge pull request #296 from ISO-B/show_book_description_lines
+    
+    Book view shows line changes on description
+
+commit 7fa2ec278977ddbca11878a92111539e981df05a
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Thu Jan 6 12:50:33 2022 +0200
+
+    Bookview shows description line changes
+
+commit 559bb6dec467adfc3f3b523277d497f434be5a1f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Jan 5 19:10:03 2022 -0600
+
+    Version bump 1.6.53
+
+commit 8ee4751cacd869f61d0ce33262fb17a2486d1e4d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Jan 5 19:07:32 2022 -0600
+
+    Fix:Sync audiobook progress
+
+commit 4778d09501ec4fa587e3001bb5b13ac74915d3a3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Jan 5 18:01:33 2022 -0600
+
+    Fix:Stream container not opening on mount
+
+commit d0d19ed1ad48fa70ffe63a609d31a550607655fb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Jan 4 08:16:50 2022 -0600
+
+    Version bump 1.6.52
+
+commit 2115895e81504e2dd2bf412680b55e5c1be36408
+Merge: 4aa6c84 47dbd90
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Tue Jan 4 07:38:28 2022 -0600
+
+    Merge pull request #287 from ISO-B/search_isbn
+    
+    Added isbn search
+
+commit 47dbd90971b0470b475bb069e15ed1d0ef4b58f2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Jan 4 07:36:52 2022 -0600
+
+    Add:ISBN highlighting to book search card
+
+commit 7607381ea43c2927d47622c21d1d85212d7af9b9
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Tue Jan 4 14:46:40 2022 +0200
+
+    Added _isbn to Book so it's always string
+
+commit 01c8013309f2ea849f056dc8335d736cfbb6d57d
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Tue Jan 4 14:41:34 2022 +0200
+
+    Changed replaceAll to replace since node12 doent' have it
+
+commit 2f8a90c21a4eea257dbdbb85e4cec6a5e76794ab
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Tue Jan 4 12:20:28 2022 +0200
+
+    Added isbn search
+    
+    Search now also searches books using isbn.
+    ISBN match has to be exact to prevent isbn matches to flood results.
+
+commit 4aa6c842520767144886630da465354966f881cb
+Merge: 511a330 021d3cf
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Mon Jan 3 18:59:10 2022 -0600
+
+    Merge pull request #284 from ISO-B/isbn_from_metadata
+    
+    Added isbn fetching for metadata
+
+commit 021d3cfa1a0801aad5c0759542898b35db2d2c6d
+Author: ISO-B <3048685+ISO-B@users.noreply.github.com>
+Date:   Mon Jan 3 21:40:03 2022 +0200
+
+    Added isbn fetching for metadata
+    
+    If file metadata has isbn tag it will be fetched and used for book
+
+commit 511a330aa432eb8ab6b95e3f172ed3c69107f25c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 3 07:59:53 2022 -0600
+
+    Version bump 1.6.51
+
+commit 5a32fba88e1dcf6ef80fe0d7b0fa875dadf14390
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Jan 3 07:59:24 2022 -0600
+
+    Fix:Batch new collection #282
+
+commit 55e253ac60d7d32c4b9d842dfc31f0877b81c49f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Jan 2 12:20:39 2022 -0600
+
+    Fix:Audiobook page progress track cover z-index
+
+commit 8b587314e9399ffc6606b0aa04d998fd09e372b7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Jan 1 15:04:29 2022 -0600
+
+    Add:LICENSE #272
+
+commit 384d8ec423b272c4b1c0ff6219dda52dd999608e
+Merge: 5edff98 02db145
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Thu Dec 30 09:27:15 2021 -0600
+
+    Merge pull request #276 from mx03/fixescapeurl
+    
+    Fix: escape special characters in provider urls
+
+commit 02db145a0c4fbaa81af6e7e83e6a8a6f5d70ee62
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Thu Dec 30 10:57:28 2021 +0100
+
+    Fix: escape special characters in provider urls
+
+commit 5edff98942c80939d57a97b50be975739ab87ec6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 29 16:21:07 2021 -0600
+
+    Fix:Stat sessions title text overflow
+
+commit 72b5579842b4a269cdb48b3e6602e41cb0759234
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 29 15:54:54 2021 -0600
+
+    Version bump 1.6.50
+
+commit b80d735750c3c6bd613e64d6ebcf7faa1e8f5852
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 29 15:53:19 2021 -0600
+
+    Add:User listening stats page and new library stats
+
+commit 7845e06a248d50e9941bded946ea09f25f09dd27
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 28 15:50:42 2021 -0600
+
+    Version bump 1.6.49
+
+commit e56196a137a523433e8643b6718257552e89e28b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 28 15:50:17 2021 -0600
+
+    Add:Alternative bookshelf view with titles #232
+
+commit 7b6e432650037b7664d2bec507308e6d50fca136
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Mon Dec 27 22:43:51 2021 +0100
+
+    Limit Group Cover to 30 Items
+
+commit 3905ef677d7f29453ee1981f75d9d355ba144170
+Merge: c173584 ace37cc
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Mon Dec 27 11:36:12 2021 -0600
+
+    Merge pull request #270 from mx03/patherror
+    
+    Bug: Missing path variable
+
+commit ace37cc54f74e4c04932607dd4733d849edc846d
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Mon Dec 27 17:51:19 2021 +0100
+
+    Missing Path variable
+
+commit c1735845f70ce7149fa115e375045ebf51329ac3
+Merge: dd7aed8 090a6a3
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Mon Dec 27 05:14:31 2021 -0600
+
+    Merge pull request #266 from mx03/sortfilters
+    
+    Sort filters ascending
+
+commit 090a6a36966e0fdc8b4ed045d03e907a34f73107
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Mon Dec 27 11:43:07 2021 +0100
+
+    Sort filters
+
+commit dd7aed8f90f1d845152fa3d7f966c279c45cacca
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 26 16:17:10 2021 -0600
+
+    Fix:Add natural sort to books/all route #261
+
+commit 1e83f08288e8cbfc1491f430db5216d603113de5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 26 14:40:39 2021 -0600
+
+    Version bump 1.6.48
+
+commit 6b9ce453b9c0f1bafff24c254c6d967c628d1588
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 26 14:40:00 2021 -0600
+
+    Fix:Series bookshelf to use books/all api endpoint and limit books per request #264
+
+commit 0e656dfdd0d6df6ec4804e71c07260bc0166b653
+Merge: de57934 b70b93c
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Dec 26 13:49:20 2021 -0600
+
+    Merge pull request #262 from mx03/master
+    
+    Fix Series cover hover works only with 30 books
+
+commit b70b93cdec95ca8522b77ac02a85907768d80127
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Sun Dec 26 20:42:27 2021 +0100
+
+    Removed unused class
+
+commit de579347e8e8b8764e7a7c4ebaf4b885043d0a8e
+Merge: ef94a6b b311137
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 26 11:28:48 2021 -0600
+
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit b3111378a04a51b6e5d42c13c153d926b8fc6f4a
+Merge: 49fcaef 46e13f8
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Dec 26 11:28:36 2021 -0600
+
+    Merge pull request #263 from mx03/fixcover
+    
+    Fix local cover change dont work
+
+commit ef94a6bb2900a2993ad5a8f86299bcc06799ba40
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 26 11:25:07 2021 -0600
+
+    Change:Series volume numbers to use language sensitive sorting #261
+
+commit 46e13f89716f79575e5a5bea0bc72a6562faa020
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Sat Dec 25 21:56:39 2021 +0100
+
+    fix cover cache not purged after change
+
+commit 0581fb0547989239f15050a6ab1d9c6cef4d3c63
+Merge: 3cfafc5 49fcaef
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Sat Dec 25 20:58:40 2021 +0100
+
+    Merge branch 'master' of github.com:mx03/audiobookshelf
+
+commit 3cfafc5bf716d3c6e85c9ff5cd18f13769297487
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Sat Dec 25 20:57:48 2021 +0100
+
+    Series cover hover fix
+
+commit 49fcaefd01ee6e30cf0db23d8aa9dfc838edc8d6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Dec 25 07:22:46 2021 -0600
+
+    Fix:Open stream update with full audiobook object #255
+
+commit e62037c91c44407f9d327761d78f56a411ec1160
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 24 18:07:24 2021 -0600
+
+    Version bump 1.6.47
+
+commit a17348f916f6781f5409c132393fd8eb8920fcad
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 24 18:06:17 2021 -0600
+
+    Change:Fallback to audio stream tags if probe format has no tags and remove old scanner #256
+
+commit 3f8551f9a1af9cb824a5b2dc074825e6591bc761
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 24 16:37:57 2021 -0600
+
+    Change:Bookshelf to return minified audiobook objects and limit 100 #255
+
+commit 18fa7a0b10dfa2cd916845b1e459f24366051041
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 24 16:06:17 2021 -0600
+
+    Fix:Mouse drag outside of modal closing modal #251
+
+commit 52c69a1cf237fbe3e02b0f9ea6e8c4a8ddec3abc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 22 19:18:32 2021 -0600
+
+    Update readme docker port #252
+
+commit 7a73899e6bcfaa3f2e3f030c1cddf52c22400499
+Merge: f4ee288 6fb5352
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Tue Dec 21 09:17:12 2021 -0600
+
+    Merge pull request #249 from mx03/master
+    
+    Fix audible match if title or author has special characters
+
+commit 6fb5352ed58df36effdbbd1f7045b5031ed5314c
+Author: mx03 <mx03@users.noreply.github.com>
+Date:   Tue Dec 21 14:02:27 2021 +0100
+
+    Fix audible match if title or author has special characters
+
+commit f4ee2889fec64943b0eb3e999b78b4359acbe4a3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 20 20:21:25 2021 -0600
+
+    Version bump v1.6.46
+
+commit 43668cfe0314ed4e0f96d94506eac2e8ee878312
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 20 19:26:22 2021 -0600
+
+    Fix:Bookshelf rebuild when server settings are set (race condition) #247
+
+commit c89319ffc5f79441df7f5fcf52c22867a064c25f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 20 19:12:09 2021 -0600
+
+    Fix:Batch edit genres not updating #246
+
+commit 8721dbda98fd9af70567e949a0a7e7d92b21977e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 20 19:02:52 2021 -0600
+
+    Fix:Remove dropdown menus on component destroy and edit modal keep alive #245
+
+commit a913e9811ef83b716444f4a55b41af0d1233e64d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 19 18:46:16 2021 -0600
+
+    Version bump 1.6.45
+
+commit 1b03af4041e6087deabc0d9b2633ea829691b062
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 19 18:45:56 2021 -0600
+
+    Add:Api route to sync stream data for use in android native
+
+commit a052366dac50007e8941ae69db55a27da829c413
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 17 20:52:52 2021 -0600
+
+    Version bump v1.6.44
+
+commit 6d5f6bc46e440e9bac18c73eab8cd0c352ffb8f0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 17 20:52:11 2021 -0600
+
+    Fix:Native audio player set time and play on load #227, Change:Mobile UI updates & cleanup old bookshelf
+
+commit 4592e1f4940cf3642a8c144727951dca2a2a7438
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 16 19:12:34 2021 -0600
+
+    Version bump v1.6.43
+
+commit 4d8c0c55d71135eab21a9b87a9b81e9629ab3b21
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 16 19:11:55 2021 -0600
+
+    Fix:Set user current time when not using HLS.js player (for iOS) #227
+
+commit 6160da475f02f14d8cd2ccd1fc9cd43650b160a4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 16 19:08:02 2021 -0600
+
+    Fix:Accounts user page fix cover images
+
+commit 1463af28ce84d203465e035f5370b4680ae9fb38
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 16 18:44:50 2021 -0600
+
+    Add:Support AAC audio files #244
+
+commit 8722cc35d97fd31afc49a2612ce0b24329b51a57
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 15 19:48:56 2021 -0600
+
+    Version bump v1.6.42
+
+commit 861fab3ceacbc432f6211e7b6969d1856c72ea48
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 15 19:48:24 2021 -0600
+
+    Change:updated readme
+
+commit 394789d64ed55631384c35b323ba26c952591f7b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 15 19:39:26 2021 -0600
+
+    Fix:metadata covers check file exists on scan #239
+
+commit 91018e3c9b525908cc6b4252b0ef80422d16d523
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 14 19:28:20 2021 -0600
+
+    Change:Debian installer
+
+commit 7f32100ea5f991981903f7795d60ace3beaa7e5a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 14 18:56:09 2021 -0600
+
+    Change:Debian preinstall remove interactive install #242
+
+commit b18af414b6c6714fd1165811b56a7f5793d922f9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 14 15:19:23 2021 -0600
+
+    Fix:Check failed ffmpeg image command +additional errors logs #239
+
+commit ac4a0830a0d6c07f4f88c5423a223b9756bc8ce9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 13 16:58:29 2021 -0600
+
+    Version bump v1.6.41
+
+commit 87216bbd880ebbcefc251e413ec444af11da1d2a
+Merge: 9452d0e 57b464c
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Mon Dec 13 16:56:25 2021 -0600
+
+    Merge pull request #240 from keaganhilliard/master
+    
+    Remove sharp in favor of ffmpeg, fallback to cover
+
+commit 57b464c867da8a8e12ea66cc1a087615f4321464
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 13 16:53:04 2021 -0600
+
+    Fix:Set full cover path for extracted covers & use temp fix to update books without a full cover path
+
+commit d6ae50f89ab8b06e7eac19dcd1df80630b55863b
+Author: Keagan Hilliard <keagan.hilliard@gmail.com>
+Date:   Mon Dec 13 11:29:31 2021 -0800
+
+    Remove sharp in favor of ffmpeg, fallback to cover
+
+commit 9452d0eca9bcbd3f03bc4ffdb358ddcefb95aaa1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 12 19:48:29 2021 -0600
+
+    Fix:Window resize build bookshelf
+
+commit 0abc9ea416b8332ce8cb0a53999ee8c4d0b7db23
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 12 17:16:09 2021 -0600
+
+    Version bump v1.6.40
+
+commit ddf0fa72e8dd9f2a2f548fb1be98e01911b3bf6c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 12 17:15:37 2021 -0600
+
+    Add:Cover image cache, resize & use webp image #223
+
+commit d04f3450ec68327561d059a8aef8e1e0082efdb3
+Merge: c92175c 69fa006
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Dec 12 13:53:19 2021 -0600
+
+    Merge pull request #233 from keaganhilliard/master
+    
+    Added an endpoint to serve different cover sizes
+
+commit 69fa00608f16a3d9c83e494116de501b8b1319fb
+Author: Keagan Hilliard <keagan.hilliard@gmail.com>
+Date:   Sun Dec 12 08:52:27 2021 -0800
+
+    Added an endpoint to serve different cover sizes
+
+commit c92175cdc72aa3c8192f7acbe8ab67c060bf9927
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 8 14:29:37 2021 -0600
+
+    Version bump v1.6.39
+
+commit 3d6bbeb3cd2a13fc7b46869ed5d0e240da12a9bd
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 8 14:29:10 2021 -0600
+
+    Fix:Find books api endpoint #225
+
+commit c711c2ef821b5350237c9480fc3497449d80fd4e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 7 18:43:35 2021 -0600
+
+    Version bump v1.6.38
+
+commit c5465ad8e0f72f58c6fddb4a3543f899f508cab9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 7 18:42:56 2021 -0600
+
+    Add:Select cover search provider, Add:Persist selected provider, Change:API routes for searching
+
+commit bb1a5b2e6d732199b61aaf467dfee7d87a0d0997
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 7 18:17:21 2021 -0600
+
+    Fix:Modal overlay z-index
+
+commit 9548be70756b25784199194e356eb18a27ab6837
+Merge: ae839aa 2b3688b
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Tue Dec 7 18:11:32 2021 -0600
+
+    Merge pull request #226 from keaganhilliard/master
+    
+    Added ASIN support in the title field
+
+commit 2b3688b141f1a0446befda18e596ccd5daebe4a7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Dec 7 18:10:56 2021 -0600
+
+    Update async function, update debug log
+
+commit 059d6d96a7e06fa05bc29035315c6c5cd91f0876
+Author: Keagan Hilliard <keagan.hilliard@gmail.com>
+Date:   Tue Dec 7 10:27:30 2021 -0800
+
+    Added ASIN support in the title field
+
+commit ae839aa68227503457c90f3e0dd55fafd52d5ec4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 6 17:59:04 2021 -0600
+
+    Version bump 1.6.37
+
+commit fde6700a82a9018666d1d71d3982db1e716cb966
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 6 17:55:43 2021 -0600
+
+    Fix:Multi select dropdown menus overflow and update on scroll,Fix: Batch edit only submit updates that were made #222
+
+commit c17af1fc285a9c534ce777cd04dfc91b4e26c055
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Dec 6 16:18:26 2021 -0600
+
+    Fix:Sort books for series #220
+
+commit 04cbc4957727184ec4f70ad8a43dbf3e83c3713a
+Merge: a0777d2 5751cac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 5 19:22:24 2021 -0600
+
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit a0777d229010c953bd868ebf22e4801faf02e01f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 5 19:22:18 2021 -0600
+
+    Version bump 1.6.36
+
+commit 5751cac290ff76361059ee7bc4c39c6d1a2ef144
+Merge: f6d43ea 609c1d0
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Dec 5 19:21:26 2021 -0600
+
+    Merge pull request #219 from igorkaldowski/master
+    
+    Add: Force re-scan library
+
+commit 609c1d0cd2322d690cc179d51ddbbc93e4430143
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 5 19:21:06 2021 -0600
+
+    Add:Force re-scan note, Fix:Z-index issue with toolbar menus
+
+commit 975984e8d1b05d4c084e385b50159e0b1016bb9e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 5 11:29:42 2021 -0600
+
+    Add:forceRescan rescans existing audio files,Fix:False positives for if an audio file was updated
+
+commit 040548c6db413efdb09b5da4afe7693d99bd0dd3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Dec 5 09:52:23 2021 -0600
+
+    Fix:Reorder libraries route and draggable table,Fix:Update filter daata
+
+commit b68c181631c79ee00184334591080f69386571b4
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Sat Dec 4 23:57:47 2021 +0000
+
+    Add: Force re-scan library
+
+commit f6d43ea60f912caa0c1e920c286af59ca89081f9
+Merge: 0c1a0f5 415b58e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Dec 4 16:22:40 2021 -0600
+
+    Merge version bump 1.6.35
+
+commit 0c1a0f5d01715214400f565e1ed9175a8adab2b0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Dec 4 16:21:10 2021 -0600
+
+    Fix:Bookshelf shadow,Fix:Series volume sort
+
+commit 415b58e39312ad88f933c1df6f35d63439a91f26
+Merge: 9423727 4ac0bd6
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Dec 4 16:17:53 2021 -0600
+
+    Merge pull request #218 from igorkaldowski/master
+    
+    Get more data from opf
+
+commit 4ac0bd6770912d904c38ed84fe3647532e227c16
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Sat Dec 4 22:15:23 2021 +0000
+
+    Moved getting xml meta entries to opf parser
+
+commit 60aeb237979ebb07b9b72796f29aa0e7627cf8b3
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Sat Dec 4 22:10:26 2021 +0000
+
+    Fix Series Sort
+
+commit 670a4617526e2ab6d9e2a6683bc5b8c14526d314
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Sat Dec 4 21:07:43 2021 +0000
+
+    Strip html from opf descriptions
+
+commit 6e621ecce163247b395f7af4bcbc0ca6250c174a
+Author: Igor Kaldowski <igor.kaldowski@gmail.com>
+Date:   Sat Dec 4 21:07:31 2021 +0000
+
+    Get series info from opf
+
+commit 9423727f893b779aae5b0b3913bf29a54941420d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 3 18:30:51 2021 -0600
+
+    Fix:Size and duration sort
+
+commit 95ab2ab4b5f272d19cdc6ee5415d9f0a6df67a8b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 3 18:08:08 2021 -0600
+
+    Version bump 1.6.34
+
+commit 87fbf4f1da6d0a4d141761a7674cc24e2f5b72c4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 3 18:07:42 2021 -0600
+
+    Fix:Series URL paths #217
+
+commit 3e5ddf90ed8a0b2c9e34b663ce330b9ad9a0a9a4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 3 18:03:34 2021 -0600
+
+    Add:Socket not connected toast
+
+commit 28d071f574bb20263ec38f7439be13edc3bf6f97
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 3 17:25:09 2021 -0600
+
+    Fix:Realtime update filters
+
+commit bbcc8fbb91cd9bc4ef7bbbd26e3963098955b455
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Dec 3 17:05:13 2021 -0600
+
+    Change:Cover background blur #216
+
+commit 8225d350220d7a5e59708aa4ddfe8847351e688f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 2 19:40:42 2021 -0600
+
+    Fix:Cover aspect ratio for search match,Fix:Dynamic route 404s
+
+commit d9997d68923e42576c48894fb1dd3336745354a1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 2 19:03:04 2021 -0600
+
+    Version bump 1.6.33
+
+commit d544540454d7f4e116f5f58bba886c96c8375447
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 2 19:02:38 2021 -0600
+
+    Add:Experimental authors page layout #187,Add:Square covers #210
+
+commit 9a6ba3d0de28f81a72286b02b9d564599ff6c0be
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 2 15:49:03 2021 -0600
+
+    Add:Server option to use square cover images #210
+
+commit 0d6f83e9d9f1a50618170fb3a38bb540e260f584
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 2 11:45:05 2021 -0600
+
+    Version bump 1.6.32
+
+commit c61c0cfc6bb7e448a7a6a21e6b13588549b4e12e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Dec 2 11:44:45 2021 -0600
+
+    Fix:Mobile app api endpoint middleware
+
+commit 033a9d73ba007637679d31a319ee2a20d78ab958
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 1 19:07:18 2021 -0600
+
+    Version bump 1.6.31
+
+commit 1ef9a689bc83c243fa4563ed34acff06fdd8105a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Dec 1 19:07:03 2021 -0600
+
+    Lazy bookshelf finalized
+
+commit 5c92aef04838555f01ed3e2046f033a29cbe42cb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 30 20:02:40 2021 -0600
+
+    Lazy bookshelf, api routes for categories and filter data
+
+commit 4587916c8e7b243a16fecbf37d2776e8b84a3397
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 28 19:36:44 2021 -0600
+
+    Lazy bookshelf
+
+commit 3941da1144b9b08500ebd7b930b0ad5ac1d64d8e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 27 20:11:35 2021 -0600
+
+    Add:Experimental change bookshelf texture #186
+
+commit dd8a28848b7d199e75980ad90511c7d9e1d506f4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 27 16:38:29 2021 -0600
+
+    Change:Audio playback playback speed control adjustable by incremenets of 0.1 #202
+
+commit 448514af9eff12cb24ae95bfc3824506bcac37ae
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 27 16:01:53 2021 -0600
+
+    Add:Batch add/remove books from collection
+
+commit b76e3e4c54df43b31b0adf2b8eab4397be01bf6e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Nov 26 15:46:32 2021 -0600
+
+    Version bump 1.6.29
+
+commit ad8670aeb4a8c85dd949947f4a122593043751ca
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Nov 26 15:46:07 2021 -0600
+
+    Add:Support volumes with decimal #196, Change:Time remaining adjusted for current playback rate, Change:Series bookshelf shows shelf label with series name, Fix:Search bookshelf UI, Add:Show current chapter under audio track, Change: Highlight colors for chapters modal
+
+commit 24d2e09724de426af14e2ea9d912b6de2718e4ee
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 25 20:25:44 2021 -0600
+
+    Fix:Cancel library scan
+
+commit 4be004290ddc3240a3aea8207021b3ab701bd1a7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 25 19:23:22 2021 -0600
+
+    Add:Alternative ID3 tags
+
+commit 60654ae45d8442b44a14b80a733f40d33dada199
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 25 18:39:26 2021 -0600
+
+    Version bump 1.6.28
+
+commit a5fc382cadb5cc2130818d8136fda782fc933b9a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 25 18:39:02 2021 -0600
+
+    Add:New scanner and scanner server settings
+
+commit bf11d266dc3e29de4638db2513c35ffb1edf78ae
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 24 20:15:50 2021 -0600
+
+    New scanner updates with library scan data
+
+commit 14128f3e298707abaf0699bd50e910ed5e674605
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 23 15:02:03 2021 -0600
+
+    Version bump 1.6.27
+
+commit f2b970f8125a4d11e056e2245c55975fa61393f7
+Merge: be9f535 9cccb0d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 23 15:01:30 2021 -0600
+
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit 9cccb0de4b08202ae0a5e6efe807a5723bc34695
+Merge: 3fa0fe4 c0a4ec2
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Tue Nov 23 15:01:20 2021 -0600
+
+    Merge pull request #192 from keaganhilliard/master
+    
+    Better handle books with multiple series
+
+commit be9f535911a015e875c5813ec8ab4337c279bc1e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 23 14:59:20 2021 -0600
+
+    Fix:Create collection url #193
+
+commit c0a4ec23d716a14dce6f7f8cb813ce45db143d34
+Merge: b5d58a3 3fa0fe4
+Author: Keagan Hilliard <keagan.hilliard@gmail.com>
+Date:   Mon Nov 22 18:40:15 2021 -0800
+
+    Merge branch 'advplyr:master' into master
+
+commit b5d58a3d0bb5291fb61811ddb6259f4173d4abfc
+Author: Keagan Hilliard <keagan.hilliard@gmail.com>
+Date:   Mon Nov 22 18:38:40 2021 -0800
+
+    Better handle books with multiple series
+
+commit 3fa0fe4b64c9e64491ffb8b4efc10bd670026132
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Nov 22 19:58:20 2021 -0600
+
+    Fix: Scanner check path and inode value for removed books, scanner v5 outlined
+
+commit ea366c00cab4ece22945e6cebae479b868cc2f0b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 21 20:01:21 2021 -0600
+
+    Version bump 1.6.25
+
+commit 66a490365af53132c9cb409ab992efa833b3fd1e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 21 20:00:40 2021 -0600
+
+    Fix:Relative file path for single book scans, Change:Route names & refactor api
+
+commit 2194d55cc0585b79b6c4254229071982515c8859
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 21 15:30:57 2021 -0600
+
+    Version bump v1.6.24
+
+commit b56e773d687ae9e5062378ba707c371ae7c1c1a9
+Merge: 66911a4 d250314
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Nov 21 15:30:12 2021 -0600
+
+    Merge pull request #190 from keaganhilliard/master
+    
+    Added support for audible metadata
+
+commit d2503143ecfedecf728be6fac86af32192dad8b6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 21 15:28:57 2021 -0600
+
+    Removing debug log
+
+commit ae8046823f11a18ee51b51a39f2ace58a7c7c949
+Author: Keagan Hilliard <keagan.hilliard@gmail.com>
+Date:   Sun Nov 21 10:59:32 2021 -0800
+
+    Added support for audible metadata
+
+commit 66911a4b70bd35fdfec44d2dc821e4debe8fd509
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Nov 19 20:08:03 2021 -0600
+
+    Add: route for syncing local progress from app
+
+commit 43dc85ad81be33c01d5719389e1bfccf91f53967
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 18 18:53:00 2021 -0600
+
+    Fix: download cover
+
+commit 67886d3bbea9027d8821a54b262275bad4566f0e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 17 19:19:52 2021 -0600
+
+    Version bump 1.6.21
+
+commit 53088015404869015842911e5e345686be2a24e6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 17 19:19:24 2021 -0600
+
+    Add: author object, author search api, author images #187
+
+commit 979fb70c3184508dc1127e9451f4390cb5c07bac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 17 16:13:16 2021 -0600
+
+    Add: Support multiple narrator parse and filter #182
+
+commit bf2b5341706c8927914f8b1571aa8b48b16773c6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 16 17:38:39 2021 -0600
+
+    Version bump 1.6.20
+
+commit 41f05f7a7b86effbb1f3edbeb801f416138ada5f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 16 17:37:49 2021 -0600
+
+    Fix: iOS mobile audio stream support #180
+
+commit 72f9732b67e2196cf1126d2dcb2f3aa646d99ec0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Nov 15 20:09:42 2021 -0600
+
+    Fix: book id length & check duplicate ids, Change: library to lazy load book cards
+
+commit ca6f2c01f6899ba824599861fbc1b6214c710e1f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 13 19:18:04 2021 -0600
+
+    Version bump 1.6.18
+
+commit 02da95377e4b7797b0c6dbf382dbc0cb1b721b8f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 13 19:17:33 2021 -0600
+
+    Add: Listening statistics and chart on stats page #167
+
+commit 416aa3bd60629313b45af69a67e2c6eeb393c46f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 13 16:06:32 2021 -0600
+
+    Add: collections no longer experimental & add collections in book card more menu
+
+commit ac72ec1317e6bdb391e809254f6ac5f40a54779b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 13 15:24:56 2021 -0600
+
+    Fix: temp fix for aac codec error by forcing aac encode #172, Change: Failed streams will close the stream and show error
+
+commit 8316a8c18bd83f86c543f57db0c03975d04607f9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 13 11:05:06 2021 -0600
+
+    Change: allow 3 seconds of audio player time not increasing before pausing #180
+
+commit 91e44bc2f920a01d3db2c506e29f72d10e8fc035
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Nov 12 19:43:16 2021 -0600
+
+    Add: User listening sessions and user listening stats #167
+
+commit 663d02e9fecad131a3dd6a22cd8d72413e1467c9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 11 08:39:21 2021 -0600
+
+    Add: api endpoint for starting streams for android auto support
+
+commit 2451861e0e6ca949ce96c83bafb8defd5851405e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 9 20:31:17 2021 -0600
+
+    Version bump 1.6.14
+
+commit 54570a3b27ff401538ff5ee75aadbc7119e7fb6c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 9 20:30:44 2021 -0600
+
+    Add: More menu on book card #173, Fix: Download worker ffmpeg logs
+
+commit 7141f70aa5e655cd3ee5bc5c396e797b3175174d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 9 17:54:28 2021 -0600
+
+    Change: scanner uses any .opf file, use description if plain text, use genres #141, Add: language book detail
+
+commit 3eb0dc9ac33945670866fa5fc2c9536d81191c57
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Nov 9 16:55:50 2021 -0600
+
+    Fix: collection mark as read #178
+
+commit fa8d02c72957b1d67d2596c569bf3d46fe592cd6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Nov 8 20:05:12 2021 -0600
+
+    Fix: books read stat #167, Add: scanner parse metadata.opf and metadata.xml and use data #141
+
+commit c7b0e1e2a2dbd02c558379ee20f79b540db38e7c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 7 19:52:13 2021 -0600
+
+    Add: Stats page in config #167
+
+commit 5e5792c0f8b6a9a08c6395aa3f2e855f8e46eacb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 7 18:11:29 2021 -0600
+
+    Add: Sortable collection books, play from collections, collection book table row updates #151
+
+commit 0980b6d5d5b1828923379bbfc8b6ccbcd23bb32b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 7 15:28:06 2021 -0600
+
+    Fix: Setting root socket error, Change: collection books table ordering and icons #151
+
+commit d115382abe40d39c0db6151d6480faaefadfdb99
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Nov 7 13:02:56 2021 -0600
+
+    Change: njodb version bump, Fix: Socket reconnect & toast, Fix: Mobile config nav drawer
+
+commit 2af017e3b1f9b4cdc51970ca5861a2027db61b00
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 6 20:32:17 2021 -0500
+
+    Version bump 1.6.8
+
+commit 465e6869c0da27f6b4bedf93c55a578e6e3029de
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 6 20:31:46 2021 -0500
+
+    Add: Experimental collections edit, book list, collection cover #151
+
+commit 28ccd4e56829ea90b12e3390974076793d39ce24
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Nov 6 17:26:44 2021 -0500
+
+    Change: Using posix file paths, Change: njodb version bump, Change: Ignore directories and files starting with . #169
+
+commit 36d7c04d2100c7284a9251754f0ed798c89b2b06
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Nov 5 20:24:30 2021 -0500
+
+    Versino bump 1.6.6
+
+commit bf0893d759ea76f66fc46ed283403d9a70f23820
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Nov 5 20:24:02 2021 -0500
+
+    Add: Experimental collections add/remove & db #151
+
+commit 3d35b7dc3d4bb1dba767bb87112a7035b3b5341e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 4 17:58:01 2021 -0500
+
+    Fix: Cover image on audiobook landing page
+
+commit b827667a720e9d8d98c72cd925df926e977a9d46
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 4 17:35:59 2021 -0500
+
+    Change: UI to display correctly on mobile #162
+
+commit b0ea2f80081528b4d2eb8fb074c2fe36a402fdd3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Nov 4 07:59:28 2021 -0500
+
+    Fix: daily log rewrite, Add: purge user audiobook data for audiobooks that no longer exist
+
+commit 411409d67e867e33b4a9d23a72f3e9f574c1374c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 3 19:39:49 2021 -0500
+
+    Fix: data recovery, Fix: Create bookmark when no user audiobook data exists #115, Fix: Book cover padding covering progress bar
+
+commit cf8984a96a7e120c6ed666f17fd26ea5210358a2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 3 19:12:50 2021 -0500
+
+    Version bump 1.6.4
+
+commit f212ea91f921626d12b147696bb6b1293a052828
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 3 19:12:17 2021 -0500
+
+    Add: db error recovery check, Fix: bookmarks modal UI overflow #115
+
+commit f7a780032f701d59d61544c54d73b37189a70fd3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 3 17:46:19 2021 -0500
+
+    Version bump
+
+commit 908b9da112f1fdb94149cc029899e9d5e0d33450
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Nov 3 17:45:47 2021 -0500
+
+    Change: Bookmark UI #115
+
+commit 76f28971a98d17c0d8c76cf2c9f91dd174603ccc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Nov 1 15:40:39 2021 -0500
+
+    Update readme SWAG reverse proxy
+
+commit 67b0f0d1bfa3733b86c334d1bfc1d9c2d7b1bf04
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 19:11:03 2021 -0500
+
+    Version bump 1.6.2
+
+commit 8ca6c62a03da36be5c41a9e8625f49326832598c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 19:10:45 2021 -0500
+
+    Fix: Daily log file not adding newlines to logs, Add: Config log page loads last 5000 logs for the current day #72
+
+commit 6ccde8f66fe29f6acf74d6150acba613d029c649
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 17:55:55 2021 -0500
+
+    Version bump 1.6.1
+
+commit 75ba884932b5c8169a8547cd3007c80cf21b6c2b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 17:55:28 2021 -0500
+
+    Add: Daily file logs and log server settings
+
+commit 2c6cfae6a10e33a6f5435f97b8847f427348bbab
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 16:40:27 2021 -0500
+
+    Change: Multiple authors are treated separately for filtering and searching #103
+
+commit d38d4dcd623dc7040bba7455a3c4471e4fb746d4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 15:37:53 2021 -0500
+
+    Version bump 1.6.0
+
+commit 724aa67cf4664f2f644156258fbd848e684ac56a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 15:35:13 2021 -0500
+
+    Add: Bookshelf list view no longer experimental
+
+commit 5a0eb6d52ba3909ea6559542cac22cb856ffc9f5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 15:33:27 2021 -0500
+
+    Add: Bookmarks no longer experimental
+
+commit bf9cb5ddecfbd7df0695d2f07a26fea4b7768eb2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 15:31:03 2021 -0500
+
+    Fix: List view overflowing titles #149
+
+commit e073577574bd22daf6332c4232c3f48c5bfe47c3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 14:59:39 2021 -0500
+
+    Add: Support for multiple authors separated by & #160
+
+commit 94f47b855b536e24784b1813f32545a69cce5e4d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 09:58:30 2021 -0500
+
+    Fix: docker compose example
+
+commit 8a684ccdc47a692c3990bc4f85c4527491f0e659
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 31 09:54:58 2021 -0500
+
+    Add: Docker compose example and readme #164
+
+commit e564c80ed2301c37509864b357976a24087985c3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 30 20:12:36 2021 -0500
+
+    Add: Bookshelf list link to audiobook page
+
+commit 729654f5b293dfcf32b87d692fce028218afcc36
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 30 18:50:49 2021 -0500
+
+    Add: Experimental list view #149
+
+commit 6fd331745426c586b203c8f5bc8d5f761073a8ad
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 29 20:42:28 2021 -0500
+
+    Add: experimental library list view #149, Add: experimental series fan out on hover #149
+
+commit 9057afb5eedb5883e3f3dff838199c4f0b3abd29
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 28 19:39:51 2021 -0500
+
+    Version update
+
+commit 7933eb369ea89f361cd2f3940585ebef7dcaab9d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 28 19:34:29 2021 -0500
+
+    Change: Series show first cover on top #149
+
+commit 866ee18016cbc58d0be8eabfeedc10fd0d9bb7e7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 28 17:54:53 2021 -0500
+
+    Fix: backups toast message on successful backup #101
+
+commit ff92fbb849641f9478fdf4c43f4665abb29cb8f5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 28 17:19:09 2021 -0500
+
+    Change: AudiobookProgress becomes UserAudiobookData, Change: Delete audiobook progress route
+
+commit ad4dad1c29565fd9d45be6e04e84e6219ed3ab5a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 28 14:41:42 2021 -0500
+
+    Add: experimental match tab with google books search #59, Add: isbn field for books #59
+
+commit 7c1789a7c24c202366a62736bba7f509aef9ab64
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 28 06:35:22 2021 -0500
+
+    Fix: filter out invalid bookmarks
+
+commit b6ae6d86faa7b67ca8fe5f977e98333f432edbd8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 20:09:35 2021 -0500
+
+    Version update
+
+commit 9f66054a72272adb5a74ed6e37fa540b5af1a54f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 20:09:04 2021 -0500
+
+    Add: Experimental bookmarks edit and delete #115
+
+commit fffa02e7e8e10b7e05bcc8569607e4946464a759
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 18:35:37 2021 -0500
+
+    Change: Book details modal re-scan and save metadata buttons shifted right #147
+
+commit 6fbd9dc260c737bc7774e08b234a7431e2c442f9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 18:29:04 2021 -0500
+
+    Fix: initializing backup settings #146
+
+commit c6614aba054d79effd0b89eecf088a3e5b878a71
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 18:24:42 2021 -0500
+
+    Fix: listen to changing series query string #140
+
+commit ee62385980c35ae2d2c5c47e32489970a383e7b2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 18:12:19 2021 -0500
+
+    Change: audio player author and duration styles #122
+
+commit 806017175dd867886a9dc34affb304b3908bfe0d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 17:55:48 2021 -0500
+
+    Fix: seconds to timestamp floor #144
+
+commit 1a3a7c5823bc916270135f3f000c9303cfaf560f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 17:38:02 2021 -0500
+
+    Version update
+
+commit 550873ff874626632c3f36e2fa0bd533a591ac40
+Merge: 8b31c65 4dd9f77
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Tue Oct 26 16:53:06 2021 -0500
+
+    Merge pull request #150 from svdztn/seekback-support
+    
+    Seekback support
+
+commit 4dd9f779e22431b13068ce671baa8e3ded72095f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 26 16:52:45 2021 -0500
+
+    Fix check user audiobook data exists when getting last update
+
+commit 580b961c4a689d3132ee06ed044f2d84c42470c0
+Author: svd <svd@svd.svd>
+Date:   Tue Oct 26 11:36:23 2021 +0800
+
+    log modify
+
+commit 28b1132171cc639e109ccc75958625f63415eb5e
+Merge: 8ffb4f8 8b31c65
+Author: svdztn <39606957+svdztn@users.noreply.github.com>
+Date:   Tue Oct 26 10:53:01 2021 +0800
+
+    Merge branch 'advplyr:master' into seekback-support
+
+commit 8b31c6555a394ce48d702d07e638e6d6a6575e6d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Oct 25 21:14:54 2021 -0500
+
+    Fix: audiobook progress emitter emit to all user sockets #145, Fix: save user after progress update
+
+commit 8ffb4f88c980616c6a0f5e0731a062d0c93dc344
+Author: svd <svd@svd.svd>
+Date:   Tue Oct 26 09:38:09 2021 +0800
+
+    transcoding maxSeekBackTime more; json add lastUpdate
+
+commit c5eafdfa8a1b93e442d6baa7d930300bd9a2a8aa
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 24 18:25:44 2021 -0500
+
+    Change: audio player shows time remaining and percent #122, Add: experimental bookmarks start #115
+
+commit f9bf846b3095eae23b22f24a33ea83172aeebf81
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 24 16:05:58 2021 -0500
+
+    readme and version update
+
+commit 335bbac81d88ada522cf4de0d56073c21207be2b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 24 15:53:51 2021 -0500
+
+    Add: Filter and side rail button to show books with issues #132, Add: realtime updates for audiobook progress
+
+commit 874c910e24d5f75a24ba3662c8d732314b8384d7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 24 14:02:49 2021 -0500
+
+    Fix: hotkeys prevent default browser behavior #135, Fix: mark audiobook as read when less than 10s remaining
+
+commit aca88f73ad9303d5e53f4b64a3414e9947d88e99
+Merge: ed80e15 3f13d35
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 24 11:32:59 2021 -0500
+
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit ed80e15b7d7e3ec192b10fbde0f61e136adfd861
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 24 11:32:52 2021 -0500
+
+    Fix: stream to use actual timestamp, update start time to tenth of second string #116
+
+commit 3f13d35241c70818b5c206ce655db45be12e013d
+Merge: 1cca288 05be496
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sun Oct 24 06:29:22 2021 -0500
+
+    Merge pull request #136 from zv0n/master
+    
+    Updated Readme to include Apache config.
+
+commit 05be496817e554fb32bab68368aaa37ee4ebdecc
+Author: zvon <tom.zvon@gmail.com>
+Date:   Sun Oct 24 10:26:29 2021 +0200
+
+    Updated Readme to include Apache config.
+
+commit 1cca288031e6be96a8e51efba83d7b758c98f17a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 21:09:23 2021 -0500
+
+    Version update
+
+commit d05e9ebfdd2f8fe1134d6e9af5e4c6efce66ce98
+Merge: 92c2c53 80f8a78
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Oct 23 20:32:07 2021 -0500
+
+    Merge pull request #131 from jarrodCoombes/master
+    
+    Updated Readme to include nginx config.
+
+commit 92c2c53c0991c7c9c81903e51d2a5f251238e21b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 20:31:48 2021 -0500
+
+    Add: track manager sort by filename #128, Add: Support publish year wrapped in parenthesis, Change: Parse out CD Num from filename, Change: Show First Last author everywhere when Last, First is used in folder name, Fix: Re-Scan updates parsed track nums
+
+commit 80f8a784c8946d51bb843f1bca23e2b1f9c8838d
+Author: JRC <58901318+jarrodCoombes@users.noreply.github.com>
+Date:   Sat Oct 23 17:13:29 2021 -0700
+
+    Fixed minor formatting issue.
+
+commit de9c0ef0344f3e35489205bca063a4416c3bdac3
+Author: JRC <58901318+jarrodCoombes@users.noreply.github.com>
+Date:   Sat Oct 23 17:12:32 2021 -0700
+
+    Updated the readme to include the nginx settings
+
+commit b32b99418ae45256d76e86034e1f88941221a980
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 17:32:42 2021 -0500
+
+    Add: map series and series-part meta tags #129
+
+commit 98c1ee01fdc45728368e404321bfce37ac6478bb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 16:49:34 2021 -0500
+
+    Add: add hotkeys to modals, player, and ereader #121, Fix: audio player track not resizing on window resize #123, Add: sortable columns on manage tracks page #128
+
+commit 97a065030e4a76aeee5613ac439b1f1787c7909d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 13:42:07 2021 -0500
+
+    Change: ffmpeg stream avoid negative timestamp #116
+
+commit ee1dc928984167563cf5a6849da16a94f5298ba0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 10:57:01 2021 -0500
+
+    Fix: hls fmp4 init.mp4 filename to stream flac files
+
+commit 74d298731009d53ce0b0bb3e021c5f47dcf79ff1
+Merge: c20aaf3 994eb28
+Author: advplyr <67830747+advplyr@users.noreply.github.com>
+Date:   Sat Oct 23 10:52:27 2021 -0500
+
+    Merge pull request #124 from zv0n/master
+    
+    Change: Dockerfile install ffmpeg from source to support more architectures
+
+commit c20aaf3cb2eb8c55767c6c9d0a73fd5b5a5eee1d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 23 06:50:13 2021 -0500
+
+    Fix: genre tag map check empty array and check metadata on rescan #114
+
+commit 994eb2862e7303f89ce9853180c2f8d1d6f37da3
+Author: zvon <tom.zvon@gmail.com>
+Date:   Sat Oct 23 13:18:58 2021 +0200
+
+    Change: support more architectures in Dockerfile
+
+commit ff1eeda4682d591a3dcc5cebbbd789c82a3e0e82
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 22 20:08:02 2021 -0500
+
+    Change: config page to multiple pages, Add: user permissions for accessible libraries #120, Add: map genre metadata tag #114, Add: experimental audio player keyboard controls #121, Add: view user audiobook progress list
+
+commit 7d9ed75a28073d7963b667a03577b0c826cd94b9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Oct 20 18:54:05 2021 -0500
+
+    Change: audio player default volume to 100% #118, Change: username case insensitive #117, Fix: allowing multiple users of the same name, Added: experimental scan audio tracks show raw tags #114
+
+commit 09aed354b397fd2c7b5660a6525fb2e6809d9f10
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Oct 18 19:53:33 2021 -0500
+
+    Fix: icon font size
+
+commit e3425acd752e6c165bbcdb659d57c7b9e2686910
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 17 18:05:43 2021 -0500
+
+    Fix icon size issue, clean up reader interface, extract metadata from comics #113
+
+commit 03e39640be79ffcbb3deed28fff67eebf2a1e8e1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 17 12:18:26 2021 -0500
+
+    Fix series displayed on global search menu book
+
+commit 48f0e039e58039f5ca0fbab222bbb81b2760c5ac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 17 11:29:52 2021 -0500
+
+    New search page, updated search menu includes tags #112
+
+commit aa872948d526d524ff0a71e7b59867ac9088ba0f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 17 07:09:40 2021 -0500
+
+    Fonts saved locally #111, Fix select cover from search
+
+commit 88e2bac3f5a9a5d49657641fb58a42ed374858a8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 16 20:33:49 2021 -0500
+
+    Support cbr and cbz comics and comic reader #109
+
+commit 18c1d8f1a3723f483373ba84f2f4508d129216fb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 16 15:49:34 2021 -0500
+
+    Add: user settings for mobile sort & filter
+
+commit b9dee8704f428032fdf62d584b8351bf93cba41b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 16 07:49:12 2021 -0500
+
+    add db init logs for checking root user #81, add track number check on edit page #108
+
+commit 03963aa9a12124be5fafca7355000ade32f75891
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 15 20:31:00 2021 -0500
+
+    change color of book read icon #105, basic .pdf reader #107, fix: cover path updating properly #102, step forward/backward from book edit modal #100, add all files tab to edit modal #99, select input auto submit on blur #98
+
+commit 315592efe54d73915bd4b871a21ab194ffa3c60f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Oct 14 19:22:59 2021 -0500
+
+    Backup manager to only zip specific directories in config #89
+
+commit cd6e99b4c37fcb4e4775b5e63db06119a9412fe9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 12 20:07:42 2021 -0500
+
+    Update users table info #94, Reorder libraries in config #95, Use dropdown for library menu #96, update mobi reader
+
+commit 9715c53332aba0982c15cc4090a3d30ac45c1cf2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Oct 11 16:59:41 2021 -0500
+
+    Fix: root user password change #93, Change: link to series filter on ab page #90, Add: basic mobi and azw3 ereader support
+
+commit 120c70622a5e2a04e8f0de292aa939df1ad06a61
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 10 19:29:22 2021 -0500
+
+    Fix folder browser, fix track number parsed from filename too large, add mp4 audiobook support
+
+commit 04f92c33c250d71c002e9feb4cc50aebac79f3ba
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 10 16:36:21 2021 -0500
+
+    Abort backup if it is getting too large #89, support for ebook only book folders #75
+
+commit 0c168b3da447af72c55fb3f8ecaf64ef65d32f02
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 14:54:45 2021 -0500
+
+    New screenshot
+
+commit 2ed0468b33d7b90a8a2ef4292a5172a19aedb3b2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 13:17:07 2021 -0500
+
+    Banner3
+
+commit d9c8aa287d253d0a9c3cf69d2ba0fd3962301ff6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 13:14:41 2021 -0500
+
+    Banner 2
+
+commit 1d118d13642a9106abd8c0698760a6d158e0bfbd
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 13:13:34 2021 -0500
+
+    Banner
+
+commit c94d9e620c501c295cc00ddb0e2b5834076ea956
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 13:06:10 2021 -0500
+
+    Readme
+
+commit ff68440d26b4f06df12795a4717b41a0d1585972
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 12:19:29 2021 -0500
+
+    Readme
+
+commit 125a8a8e326389405bb3584c7d7d8f7b1d621433
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 12:18:57 2021 -0500
+
+    Readme
+
+commit 2d507a455eccf321459c9d1634fa8bf4376c862e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 12:18:31 2021 -0500
+
+    Readme
+
+commit 32bc9d5282156baa5c5bbc26cd4ff720fd8d3aa3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 9 11:09:06 2021 -0500
+
+    Update global search, fix toggling between automated backup, add open search cover in new tab #83
+
+commit 59d12ef5def1012d612c02745f30d8fe36b80698
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 8 17:51:09 2021 -0500
+
+    Remove Match Tab
+
+commit e80ec10e8a5cdb330af5de395593b3f2b27db8f7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 8 17:30:20 2021 -0500
+
+    Fix ebook url #75, download other files #75, fix book icon disappearing #88, backups #87
+
+commit f752c19418672b10e2168bddbcd6a8612cccef4d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Oct 6 21:08:52 2021 -0500
+
+    narrator filter, no series filter, full paths toggle, book landing page details, new sans font, update query string on filter/sort, persist experimental feature flag, batch edit redirect bug, upload file permissions and owner
+
+commit 75aede914fb1fe56b8eef1e228183ca4218fec55
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Oct 6 13:00:12 2021 -0500
+
+    Fix URL encoding, fix download m4b cover art
+
+commit 19dcb6173e145d08026135eace199160ac9a6698
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Oct 6 07:23:32 2021 -0500
+
+    Fix download requests, v1.4.0 rollout
+
+commit d9d34e87e0b034005d5c8182c9ab99d075ae9b30
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Oct 5 21:10:49 2021 -0500
+
+    Support multi library 1.4.0
+
+commit a65f7e6fad6b7b9de627bfb8fff79f37c11fce1b
+Merge: 577f3be 4907276
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Oct 4 22:11:50 2021 -0500
+
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit 577f3bead9a12c56c8067b3b8f246769ff2c2850
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Oct 4 22:11:42 2021 -0500
+
+    Support for libraries and folder mapping, updating static cover path, detect reader.txt
+
+commit 49072769a5641fc98d137a5b7d04c294e2d2ec9e
+Merge: b20cbb0 a590e79
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Oct 3 19:41:53 2021 +0000
+
+    merge
+    
+    Merge branch 'master' of https://github.com/advplyr/audiobookshelf
+
+commit a590e795e321800a5e3586e4c5f4518d97d4ed65
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 2 15:36:33 2021 -0500
+
+    Fix ebook url, add opus to uploader, set chapters after track updates
+
+commit b20cbb020a4fb44ac3797fe796279a625831dc2e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 2 15:36:33 2021 -0500
+
+    Fix ebook url, add opus to uploader, set chapters after track updates
+
+commit 1637b6c7f058e4de5aa4fc5ec8ff8c5c3e92746c
+Merge: bd33634 ef2b9a0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 2 13:55:40 2021 -0500
+
+    merge
+
+commit 78449d918bdec70dd73119314a2fc591ab9169d0
+Merge: 326663d 509d9e5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 2 13:55:40 2021 -0500
+
+    merge
+
+commit bd336345ee6f81a902f931edd0ab15ae04567b7c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 2 13:50:39 2021 -0500
+
+    Support for opus audio type, experimental features toggle, epub reader starting point
+
+commit 326663d9d92ccee5adf78cdb856c33ace1bf3b9c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Oct 2 13:50:39 2021 -0500
+
+    Support for opus audio type, experimental features toggle, epub reader starting point
+
+commit ef2b9a0415c1d71e84ca96578a284a77b6638c9d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 1 20:29:00 2021 -0500
+
+    Scan for covers now saves covers, server settings to save covers in audiobook folder
+
+commit 509d9e5e030d8140e1eb9c92fadb83173cb12626
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 1 20:29:00 2021 -0500
+
+    Scan for covers now saves covers, server settings to save covers in audiobook folder
+
+commit 3dd8dc6dd4cf936ab1b47df20b850585885f178c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Oct 1 20:29:00 2021 -0500
+
+    Scan for covers now saves covers, server settings to save covers in audiobook folder
+
+commit a4bf3a759fbc003fd2e548cdbbeb5c2ecdbda959
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 1 20:29:00 2021 -0500
+
+    Scan for covers now saves covers, server settings to save covers in audiobook folder
+
+commit 8d9d5a8d1bad1641c8c6c2e75860c40d81782502
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Oct 1 18:42:48 2021 -0500
+
+    Always sync file inodes, save http url covers in cover directory
+
+commit 28cbe0a95c02517eb5d81034ac63eeb588543f4b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 1 18:42:48 2021 -0500
+
+    Always sync file inodes, save http url covers in cover directory
+
+commit 0db34dcab5202916156813418a3627da2005d5d1
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Oct 1 14:52:10 2021 -0500
+
+    Scanner update check for mismatched inode and update
+
+commit 4e45ff83c6bc49644a44fcae3299d5b0a4df7160
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Oct 1 14:52:10 2021 -0500
+
+    Scanner update check for mismatched inode and update
+
+commit 47c6c1aaada6248a7102adc12b535c9396da6547
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Sep 30 19:57:13 2021 -0500
+
+    Readme update
+
+commit d7536830901a64e19bea5d49af52427c79f848f8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Sep 30 19:57:13 2021 -0500
+
+    Readme update
+
+commit d6cab8e591dd6276b02093727cd163e3d5e0c4fb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Sep 30 18:52:32 2021 -0500
+
+    logLevel as server setting, logger config page, re-scan audiobook option, fix embedded cover extraction, flac and mobi support, fix series bookshelf not wrapping
+
+commit de5baba930ef39be537a290ecae445aad2c8e370
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Sep 30 18:52:32 2021 -0500
+
+    logLevel as server setting, logger config page, re-scan audiobook option, fix embedded cover extraction, flac and mobi support, fix series bookshelf not wrapping
+
+commit dc18eb408e9161b830e7e3b8830d7587c7999d17
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 29 20:43:36 2021 -0500
+
+    Scanner v4, audio file metadata used in setting book details, embedded cover art extracted and used
+
+commit b26c1ba8866483bb162fd6851c0685385278cd8d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 29 20:43:36 2021 -0500
+
+    Scanner v4, audio file metadata used in setting book details, embedded cover art extracted and used
+
+commit 6f891208d0216d602a1ab34516d87e8a4228cf26
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 29 11:04:35 2021 -0500
+
+    Update readme
+
+commit b74b12301c0d2debe945da85f46c16a62114359c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 29 11:04:35 2021 -0500
+
+    Update readme
+
+commit 643040e6357c6dcf07457308444075e0e6526af7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 29 10:52:59 2021 -0500
+
+    Readme update
+
+commit bb7e580ee33f2910452d72d99bb7b889d831dfcc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 29 10:52:59 2021 -0500
+
+    Readme update
+
+commit 4c07f9ec25f43933b8a8a5653d1dea2763ea906c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 29 10:16:38 2021 -0500
+
+    Write metadata file option, rate limiting login attempts, generic failed login message
+
+commit c82d888b5adab161897424f3581370064d541da3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 29 10:16:38 2021 -0500
+
+    Write metadata file option, rate limiting login attempts, generic failed login message
+
+commit 0ba38d45bc4bf1241a1a1a96a0ad432f1333d813
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 28 17:59:44 2021 -0500
+
+    Readme update
+
+commit 07207b091d926a9076b372b01324b693da6aab54
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 28 17:59:44 2021 -0500
+
+    Readme update
+
+commit 0da327222edddc8c26057892ec85f174aa7a8d3f
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 28 17:36:41 2021 -0500
+
+    Fix config page not scrolling, add scroll arrows on home page, fix routing issue on back button, fix continue reading shelf
+
+commit 8dc0acb6b70d88df94e6d4671b86f16e93ff8574
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 28 17:36:41 2021 -0500
+
+    Fix config page not scrolling, add scroll arrows on home page, fix routing issue on back button, fix continue reading shelf
+
+commit 868e1af28a5bb9fedbd154280657334b3e0eda1a
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 28 06:44:40 2021 -0500
+
+    Starting point for home page
+
+commit 8389a31775b64f86e167fcc2a870beac38c8fe2a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 28 06:44:40 2021 -0500
+
+    Starting point for home page
+
+commit a343a1038c02b7947ca441737bf90d22018c9929
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 27 07:02:31 2021 -0500
+
+    Remove ino from file tables
+
+commit 893032bcc0fe907c8c046434bd64b1b86cce79c5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 27 07:02:31 2021 -0500
+
+    Remove ino from file tables
+
+commit 3e5338ec8ec4b35bd2ab7b0dfbb75174953b3ce7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 27 06:52:21 2021 -0500
+
+    Fixing scanner inodes, select all fix, starting ebook reader
+
+commit 26b37def46d0586dd9d1b4bfd9f14109849570c5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 27 06:52:21 2021 -0500
+
+    Fixing scanner inodes, select all fix, starting ebook reader
+
+commit 01fdca4bf9565444ac043c54f7c59ec1ae0fdfbd
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 26 17:21:10 2021 -0500
+
+    Fix docs link url
+
+commit 29ba62357d007d53411c144015a7081099d2db8b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 26 17:21:10 2021 -0500
+
+    Fix docs link url
+
+commit ed96dd7c81ba110271441669bf3319f64424435b
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 26 17:20:41 2021 -0500
+
+    Readme update docs
+
+commit 8ddfc6e7ac50e904642c78905bfab7885c696901
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 26 17:20:41 2021 -0500
+
+    Readme update docs
+
+commit 1ead5de9f54a448708d84b3c6918e6ad408d6419
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 26 15:44:25 2021 -0500
+
+    Hide volume number on selection mode
+
+commit ef8ec3d7ab965640f95fe24c7c993cac90de32b2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 26 15:44:25 2021 -0500
+
+    Hide volume number on selection mode
+
+commit 06554811e2060fe66c62724fd52465cf4f48da29
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 26 15:34:08 2021 -0500
+
+    Series order by volume number, show volume number, keyword filter, fix overflow bug
+
+commit 68f534a97e7e972488a44f5fd56f17820c73db6b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 26 15:34:08 2021 -0500
+
+    Series order by volume number, show volume number, keyword filter, fix overflow bug
+
+commit 9935bd2ffaf536c0b77092a01043176c5c0e6fbd
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 26 12:08:48 2021 -0500
+
+    Readme audiobookshelf.org
+
+commit 0d556c3f76939ff57c7e36592a7ced72b245faef
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 26 12:08:48 2021 -0500
+
+    Readme audiobookshelf.org
+
+commit 4260903bbe6c88a0adb01f1a2f30466c44c6043a
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 17:58:06 2021 -0500
+
+    Readme update install instructions
+
+commit 8c91ef85c900e026a150da1c12604a044e0a343d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 17:58:06 2021 -0500
+
+    Readme update install instructions
+
+commit 64ae8ef849e0016b29d9966e9f24c2520c4679ac
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 17:37:21 2021 -0500
+
+    linux installer use existing config
+
+commit ac950f21739f007dbaec56306ea9410f4b9dc820
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 17:37:21 2021 -0500
+
+    linux installer use existing config
+
+commit be15f2f5a0786711c308a4c396004b950e8fad20
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 17:14:06 2021 -0500
+
+    Fix installer
+
+commit bf1e6051bed8808625ce42f17d23589be6f97b26
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 17:14:06 2021 -0500
+
+    Fix installer
+
+commit 341de6a196e9bf21cebc577c34077daa0d55ee78
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 17:10:02 2021 -0500
+
+    Fix linuxpackager control file
+
+commit 0eb00c88205fdfd260f6d594bf2145daed1d5747
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 17:10:02 2021 -0500
+
+    Fix linuxpackager control file
+
+commit 740f6966baffa34f1fd6a8b3d23674d8bd6218ff
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 17:07:48 2021 -0500
+
+    Linuxpackager create debian control file
+
+commit 6067aecc4f4fb74f61c2c753ad0277e90f801c31
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 17:07:48 2021 -0500
+
+    Linuxpackager create debian control file
+
+commit 2e889ff9fe3c143c56227e32c81e6cbe0d1297cf
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 16:45:53 2021 -0500
+
+    Increment version, linuxpacakger executable permissions
+
+commit f0b070ca1bac658a5449312b47980f35d50f9fcb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 16:45:53 2021 -0500
+
+    Increment version, linuxpacakger executable permissions
+
+commit d123abd4cdaf1b000fd29095c5b70966bd77412d
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 16:34:36 2021 -0500
+
+    Linuxpackager to use /dist directory
+
+commit 34f081531955e86a10f2bf046e49a0dba1d01589
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 16:34:36 2021 -0500
+
+    Linuxpackager to use /dist directory
+
+commit cc84349d6d30bd1da86249551d212d84aed582ca
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 16:23:57 2021 -0500
+
+    Adding linux and ppa install to readme
+
+commit 2ed27905501409ec8c7d67626f28ad3e590c11e4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 16:23:57 2021 -0500
+
+    Adding linux and ppa install to readme
+
+commit b5e83d8866e4ff8bc0cd39cb0c0cb4f9cdee8cf1
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 14:14:22 2021 -0500
+
+    Preinstall prompt more readable
+
+commit e2a6bf6c1a6d01a2b3c45d9d594f2b189b0921e3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 14:14:22 2021 -0500
+
+    Preinstall prompt more readable
+
+commit ca9521ac9abc395b2e8ceac46aa58343e355858d
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 14:05:27 2021 -0500
+
+    Debian package remove conf file, generate in preinst now
+
+commit cce860ff74bd271fc2c2791be3488bca9e80c509
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 14:05:27 2021 -0500
+
+    Debian package remove conf file, generate in preinst now
+
+commit 078f404fe465ed70cc8cf39a941282ef9c869408
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 14:02:50 2021 -0500
+
+    Linux builder bash script
+
+commit 73ef4cd4b5132136ef7e3c2d1da82c296c2e2ba9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 14:02:50 2021 -0500
+
+    Linux builder bash script
+
+commit bc47dfa343d0aa0f70f557ed2d9ce64cf99ada2f
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 13:01:53 2021 -0500
+
+    Debian preinstall script for config and ffmpeg
+
+commit d95689a0780efa87bea46a401c160828bd56a7ac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 13:01:53 2021 -0500
+
+    Debian preinstall script for config and ffmpeg
+
+commit 03f39d71e3b683b50d3ee4c68b43e92760cde13d
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 25 10:35:33 2021 -0500
+
+    Fix check old streams in metadata, download manager worker thread path
+
+commit 784ffbc568b6ce8bb28b4347b530de28e95031f4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 25 10:35:33 2021 -0500
+
+    Fix check old streams in metadata, download manager worker thread path
+
+commit 69cd6aa4d01c0db79d9150ffac16d102b31a93cb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 20:18:02 2021 -0500
+
+    Update debian build
+
+commit 77eee0c85a6d530e5fa5b3c2e1da95306ffb6094
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 20:18:02 2021 -0500
+
+    Update debian build
+
+commit e161f707104c0f37500dd0467eb1ccd366f6023f
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 19:37:35 2021 -0500
+
+    Debian package builder
+
+commit 0d33ed98d963675aa23b823e8d51454f76b7d54d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 19:37:35 2021 -0500
+
+    Debian package builder
+
+commit 3ef0173226feec4283ab5e5c14d05cc54fe5da76
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 17:38:35 2021 -0500
+
+    build script permissions workaround
+
+commit 4de3ffac63984cc8d39c970014edd515fa3bad23
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 17:38:35 2021 -0500
+
+    build script permissions workaround
+
+commit 87a308f749d39149ab4ee7c278425b5dfce4b8fc
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 17:26:10 2021 -0500
+
+    Fix build script
+
+commit be6da8dad9ffad39a1fa6e8b90c60d1c5ad93c70
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 17:26:10 2021 -0500
+
+    Fix build script
+
+commit f45a1c416126a544d26bcfa38f8326545914d1a7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 17:23:40 2021 -0500
+
+    Ignore dist dir
+
+commit ec2325027329cdfb72b94e44c61ceb05ed1d2b92
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 17:23:40 2021 -0500
+
+    Ignore dist dir
+
+commit 5e15695f64902f135e3c68b7c2e17bdf8da40bbb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 17:21:47 2021 -0500
+
+    Build scripts
+
+commit 8fdbe58da8f3a27790a452cd98e438de2a4194a0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 17:21:47 2021 -0500
+
+    Build scripts
+
+commit b35997e8be2dc27d777c1e990bdbaf48f4d6b724
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 16:14:33 2021 -0500
+
+    Update chapters modal, search page, fix version check, ignore matching audio file paths on rescan
+
+commit e1fd74caaf40ea714e9e908e0d25ea6de12a866e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 16:14:33 2021 -0500
+
+    Update chapters modal, search page, fix version check, ignore matching audio file paths on rescan
+
+commit fcd664c16e0d10032fb1e88d61b4fc25321fb219
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 24 07:32:38 2021 -0500
+
+    Side rail, book group cards, fix dropdown select
+
+commit 37c38e69dff90331108a93473d123e637fa57466
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 24 07:32:38 2021 -0500
+
+    Side rail, book group cards, fix dropdown select
+
+commit 94741598af003f2f9c631625642020980184810c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 22 20:40:35 2021 -0500
+
+    Pkg scripts win/linux
+
+commit 31e109d0f0c9669eaab8d4655575f0354e81dc88
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 22 20:40:35 2021 -0500
+
+    Pkg scripts win/linux
+
+commit 6cb418a87126615ea704a43748a870759e3d1d17
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 21 20:57:33 2021 -0500
+
+    Book cover uploader, moving streams to /metadata/streams, adding jwt auth from query string, auth check static metadata
+
+commit b23f9362ef21628f3d8d7305f8bdafb3162ef69a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 21 20:57:33 2021 -0500
+
+    Book cover uploader, moving streams to /metadata/streams, adding jwt auth from query string, auth check static metadata
+
+commit d234fdea112ce8c52b09ced8571df58ffd04dba1
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 21 17:28:43 2021 -0500
+
+    Fix player track tooltip overflowing page
+
+commit ae1b94e9918279f5d11e37f04e839acbecf30b00
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 21 17:28:43 2021 -0500
+
+    Fix player track tooltip overflowing page
+
+commit 13ac5f1d2ad7326e68b70170791d0e00d1f9bbe0
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 21 16:55:32 2021 -0500
+
+    Fix package.json script
+
+commit 03feaf6e5ab5b3fecabaaef320c043700b4733d9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 21 16:55:32 2021 -0500
+
+    Fix package.json script
+
+commit f4d6e65380312507201540f2f320db6c0f142e07
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 21 16:42:01 2021 -0500
+
+    Player track chapter tickmarks, highlight current chapter, progress filters, links in stream container
+
+commit c821ef424fc2012cd8b6760194a091e4b581ed51
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 21 16:42:01 2021 -0500
+
+    Player track chapter tickmarks, highlight current chapter, progress filters, links in stream container
+
+commit baccbaf82a6582c783391e5d0e3ae18a283a66c4
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 19 20:38:24 2021 -0500
+
+    Remove production from prod script
+
+commit 9e668bbf3549f99c1804e26038231a4034af8eb0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 19 20:38:24 2021 -0500
+
+    Remove production from prod script
+
+commit d6969e0b8535591a874418a45404404ca4c82bbb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 19 19:52:08 2021 -0500
+
+    Update readme for running on local. Add command line arg parser.
+
+commit 9e8ea43d5bb1fb89cea8e788d799b8f1af4fb2f5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 19 19:52:08 2021 -0500
+
+    Update readme for running on local. Add command line arg parser.
+
+commit b3ad9c95ce3393b5b8ff403a6f054c647a0aa394
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 19 19:22:35 2021 -0500
+
+    Add script & file for running production without docker
+
+commit c7b01165fdc021818342ce949893ecd79a7c92cf
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 19 19:22:35 2021 -0500
+
+    Add script & file for running production without docker
+
+commit 2f6417dec221669735c33746df04057c3a7aad19
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 16:42:20 2021 -0500
+
+    Remove test stream, add prod script
+
+commit a63d76985cb2fb028f6ca4fb8474d84e53eb7457
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 16:42:20 2021 -0500
+
+    Remove test stream, add prod script
+
+commit f54d48270e680db72eef5fead19e52d15a966c55
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 13:26:02 2021 -0500
+
+    Update regex for volume scanner
+
+commit ea61400329dbfd659066dd20e5b237ec3f1fbf2f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 13:26:02 2021 -0500
+
+    Update regex for volume scanner
+
+commit 57321084af75d8d16c728d0448460b9cc3ade58e
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 13:09:30 2021 -0500
+
+    Fix regex misplaced \b in volume parser
+
+commit 3ba3069894b1cc4a3bf41afb8ddd0d6c59c925da
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 13:09:30 2021 -0500
+
+    Fix regex misplaced \b in volume parser
+
+commit 1d974220112612c4074d713485dafb27baf39feb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 12:53:52 2021 -0500
+
+    Readme update
+
+commit 6738c51f6e79d76c8621be11d62332519e7504ac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 12:53:52 2021 -0500
+
+    Readme update
+
+commit 2f2a64b89e96b0285dadb81c8b8c7495c0af270f
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 12:53:14 2021 -0500
+
+    Readme update
+
+commit ef587a5f580df6b80dedde56bc7eb92308db4637
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 12:53:14 2021 -0500
+
+    Readme update
+
+commit b2e129eec7fe32a9fe391b7bf17dc3b5b513ff0f
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 12:52:38 2021 -0500
+
+    Readme update
+
+commit 540f3e4196aa94ca29aa10408bdd6acdaeff9426
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 12:52:38 2021 -0500
+
+    Readme update
+
+commit cb79e486854ff7d15e1e1f6f77040e29534e129d
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 12:50:22 2021 -0500
+
+    Readme Update
+
+commit 043b353333c135917f475123c8465d4e1fbdac0f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 12:50:22 2021 -0500
+
+    Readme Update
+
+commit e735ef7869b3eaa815eebd18311dbb053d24f141
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 12:49:21 2021 -0500
+
+    Readme update
+
+commit 737f8342f4592ed234de360e526304f3833a546c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 12:49:21 2021 -0500
+
+    Readme update
+
+commit 8f1152762ababba222c33f9b0feb2f01e58ebbb1
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 12:45:34 2021 -0500
+
+    Adding upload permission to users, directory structure readme update
+
+commit c884fd6880a028428d8a9cfae9ee5689596393cc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 12:45:34 2021 -0500
+
+    Adding upload permission to users, directory structure readme update
+
+commit 587adb3773537a8f2d9a721984730a0590b34567
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 18 11:13:05 2021 -0500
+
+    Add volume number parsing to scanner
+
+commit 07994d38d5285fa947711a951a223d9b72050fda
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 18 11:13:05 2021 -0500
+
+    Add volume number parsing to scanner
+
+commit db01db3a2bd8e832927eb32e856ba93dd38bfe9a
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 17 18:40:30 2021 -0500
+
+    Missing audiobooks flagged not deleted, fix close progress loop on stream errors, clickable download toast, consolidate duplicate track error log, improved scanner to ignore non-audio files
+
+commit 80e2e35dcd665cf83b4ecfb60bdfbff31bd70def
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 17 18:40:30 2021 -0500
+
+    Missing audiobooks flagged not deleted, fix close progress loop on stream errors, clickable download toast, consolidate duplicate track error log, improved scanner to ignore non-audio files
+
+commit 0851a1e71e0fcd5943f8084eb13f2fa9b80934ad
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 17 14:15:15 2021 -0500
+
+    Fix sort by volume number, show batch read/not read update for users
+
+commit bb7e79004db27541a17aabd730a14d4bef79d2c0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 17 14:15:15 2021 -0500
+
+    Fix sort by volume number, show batch read/not read update for users
+
+commit 0addfc8269c271fc4df207998a6864f24054b002
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Sep 16 08:44:39 2021 -0500
+
+    Readme upcoming features update
+
+commit 62d0a82dde7b881484e4115dbd344e5d2c71bf3a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Sep 16 08:44:39 2021 -0500
+
+    Readme upcoming features update
+
+commit b2ab5730f56d6ec19a7acb4264c9f6409705ddbe
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Sep 16 08:37:09 2021 -0500
+
+    Add batch read/not read update, Update tooltip positions
+
+commit 5f69339a27dabb8540c14d75f96667849fcd3cac
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Sep 16 08:37:09 2021 -0500
+
+    Add batch read/not read update, Update tooltip positions
+
+commit 7859d7a5029f67f2cc5480d84b65e5c0bfcae6bd
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 15 17:59:38 2021 -0500
+
+    Add version checker
+
+commit bd0e8518bea69f5cc9f482bd19f4e879a485bbc1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 15 17:59:38 2021 -0500
+
+    Add version checker
+
+commit 174fce9614832c8cea0739fbcc38d20866e69a96
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Sep 14 20:45:00 2021 -0500
+
+    Adding download zip file, fix local cover art for m4b download
+
+commit a56b3a8096ac5b0ad1ffbbc0172baf6aa1ceff45
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Sep 14 20:45:00 2021 -0500
+
+    Adding download zip file, fix local cover art for m4b download
+
+commit 3dfd7ea03523aa2fcfaf1033f8620359edc8c77c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 13 20:18:58 2021 -0500
+
+    Add audiobook uploader
+
+commit a7c538193c825f48e553e180c7013b314a80fa0b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 13 20:18:58 2021 -0500
+
+    Add audiobook uploader
+
+commit 6cb253598bf7cb16c341858f2fff5cd77b47c541
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 12 18:22:52 2021 -0500
+
+    Update user progress reset and delete logic
+
+commit 5dd1542af0e3b8b0ee8a0064883eb152a34cb55d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 12 18:22:52 2021 -0500
+
+    Update user progress reset and delete logic
+
+commit 11f4caffa8e36ecdc23fba4677ab23cefa0de2b6
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 12 16:10:12 2021 -0500
+
+    Add socket event to remove download, fix clearInterval on stream loop
+
+commit 9107620b3ca731a64532b7942cb59073914ecb86
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 12 16:10:12 2021 -0500
+
+    Add socket event to remove download, fix clearInterval on stream loop
+
+commit 80f90907d4bdff1d8498aa58d2886903f7436750
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 11 19:59:48 2021 -0500
+
+    Update merge for m4b files, add progress event for local audiobooks
+
+commit c30955f9098459b5fb51a23c70975fc2a660cfef
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 11 19:59:48 2021 -0500
+
+    Update merge for m4b files, add progress event for local audiobooks
+
+commit 4e92ea3992ec8789e76750caaa7b03022b89ef6e
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 10 19:55:02 2021 -0500
+
+    Update scanner v3, add isActive support for users
+
+commit beaa1e14bb6ea9a91ce2694ebed79bcee3ad45d6
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 10 19:55:02 2021 -0500
+
+    Update scanner v3, add isActive support for users
+
+commit ddbf678a8bb8c1b13a4df64326c343d6bce63621
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Sep 9 05:10:55 2021 -0500
+
+    Merge tracks with codec copy'
+
+commit 394d312282bfc494a23e0cc14f529a7a9a20b353
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Sep 9 05:10:55 2021 -0500
+
+    Merge tracks with codec copy'
+
+commit 315de87bfc0ceb186b1b6cc74cba725713402e79
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 8 09:15:54 2021 -0500
+
+    Adding chapters and downloading m4b file
+
+commit 299fc95c789602a7a541cf4e443a382761c299cd
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 8 09:15:54 2021 -0500
+
+    Adding chapters and downloading m4b file
+
+commit 26d922d3dc1d9f4022f0b44f79e90c3952b25df7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 6 20:14:04 2021 -0500
+
+    Auto add/update/remove audiobooks, update screenshots
+
+commit 07a2a0aefd39b19cbe17ec0528da9fea04bef715
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 6 20:14:04 2021 -0500
+
+    Auto add/update/remove audiobooks, update screenshots
+
+commit ee452d41eedda7f975f3fb43aaea8da14d87f950
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 6 17:42:15 2021 -0500
+
+    Adding permissions per user, add volume number sort
+
+commit 2e823704088214fea39d48dca3467e69122973e8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 6 17:42:15 2021 -0500
+
+    Adding permissions per user, add volume number sort
+
+commit 1d7d2a1dac3274ee62a7f5993026b91f47a907da
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 6 16:11:37 2021 -0500
+
+    Fix details tab save
+
+commit c8d857edb91e6c7da265ec217d1d34e1f2d2ee92
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 6 16:11:37 2021 -0500
+
+    Fix details tab save
+
+commit 41c391e87b55a5c8b6f751b343d2759fad626536
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Sep 6 14:13:01 2021 -0500
+
+    Update user audiobook progress model, add mark as read/not read, download individual tracks
+
+commit 11d7330c5db8c22ecdc465aab77830ce76eb8dc2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Sep 6 14:13:01 2021 -0500
+
+    Update user audiobook progress model, add mark as read/not read, download individual tracks
+
+commit 1f2afe4d9271a5a458b7fee6b63aaa1c67f3e239
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 5 18:20:29 2021 -0500
+
+    Editing accounts, change root account username, removed token expiration
+
+commit 4f094df0b25ea597005511867a6012f87f7e3bd2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 5 18:20:29 2021 -0500
+
+    Editing accounts, change root account username, removed token expiration
+
+commit e534d015bec3fff3b0a9125a9f31bc825ef5a465
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 5 14:30:33 2021 -0500
+
+    Allow any utf-8 char in genre and tags, fix stream manager user undefined
+
+commit 838d188504848099044df4026e6bb3a3d6a1d52a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 5 14:30:33 2021 -0500
+
+    Allow any utf-8 char in genre and tags, fix stream manager user undefined
+
+commit d2a2f3ff6a590bef7a10084c17a44d07faf29100
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Sep 5 13:21:02 2021 -0500
+
+    New filters using base64 strings, keyword filter
+
+commit 6f6a3f71b332561776cf1f2d9633c4edb50e6b4b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Sep 5 13:21:02 2021 -0500
+
+    New filters using base64 strings, keyword filter
+
+commit af05e78cdfa540d762ae636acb5f8b28da87dc70
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 4 19:58:39 2021 -0500
+
+    Add Subtitle and Narrarator fields, add server settings object, scanner to parse out subtitles
+
+commit a66a84bd2d180de0675b73557b867f684c753004
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 4 19:58:39 2021 -0500
+
+    Add Subtitle and Narrarator fields, add server settings object, scanner to parse out subtitles
+
+commit e566c6c9d5f2556b6c3a085dbbefa074832bbd4d
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 4 18:02:42 2021 -0500
+
+    Improve track order detection, allow for excluding audio files from tracklist
+
+commit af0365c81fc311f6525e814c71fc4877ab748c64
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 4 18:02:42 2021 -0500
+
+    Improve track order detection, allow for excluding audio files from tracklist
+
+commit 197012e66260d0a23bb6bdcdd569d4c6e075cb4e
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 4 14:35:25 2021 -0500
+
+    Version 1.0.0, updating readme
+
+commit 45ee42bddd4ac18bdb086ae0dcb9b17cf8809045
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 4 14:35:25 2021 -0500
+
+    Version 1.0.0, updating readme
+
+commit e4dac5dd05a566511ff3a28a6e4370c67c4a28cc
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Sep 4 14:17:26 2021 -0500
+
+    Adding download tab and download manager, ffmpeg in worker thread
+
+commit 1aff2551703e97bf7fd05b255d46b40e16ba392e
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Sep 4 14:17:26 2021 -0500
+
+    Adding download tab and download manager, ffmpeg in worker thread
+
+commit a86bda59f60d46b6215e1c577c90b68eff9abbf3
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Sep 3 06:40:59 2021 -0500
+
+    Fix server client.user undefined, update logo
+
+commit 27956bd67aed71f96592be115a239d7e3706e157
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Sep 3 06:40:59 2021 -0500
+
+    Fix server client.user undefined, update logo
+
+commit 5b1269cbe8b87e4a40093aa5ad287c28ad8855e3
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 1 19:50:18 2021 -0500
+
+    fix variable typo
+
+commit 6a2d7af7208c1a55387e07a7f4cb1015e56d9a97
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 1 19:50:18 2021 -0500
+
+    fix variable typo
+
+commit c81a0260e2b518dc1cb0bf32706abf453c3b7860
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 1 19:39:38 2021 -0500
+
+    Emit stream_closed even if stream is not found
+
+commit 3c854ca32b27e14a19ec123522ad620293d202b7
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 1 19:39:38 2021 -0500
+
+    Emit stream_closed even if stream is not found
+
+commit 2b1e6b0c3b1447d0e7cfccb9bcad1c01cf8d6943
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 1 16:01:53 2021 -0500
+
+    Update ver
+
+commit c5bc865e6ca1b5a670629db96487fc5a918b580f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 1 16:01:53 2021 -0500
+
+    Update ver
+
+commit bff42962ba28c36401aef3351f100ee56dc669aa
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 1 16:01:15 2021 -0500
+
+    Logo update, fix book card shadow
+
+commit 7a35342577688f8b100e382072d3dc2625bda790
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 1 16:01:15 2021 -0500
+
+    Logo update, fix book card shadow
+
+commit 73e2f184cf841c567d16d7709569bc158008758e
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 1 13:50:37 2021 -0500
+
+    Remove test fonts
+
+commit 1b63d90cd7cfdcd22939c9e3dd214d1c4f2be271
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 1 13:50:37 2021 -0500
+
+    Remove test fonts
+
+commit 0c017c42278b56044d92bd55cba6bbe809f4576a
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Sep 1 13:47:18 2021 -0500
+
+    Fix multi-select, add new book flag
+
+commit 7ddb4f05390fe336f671fa62852012427361572c
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Sep 1 13:47:18 2021 -0500
+
+    Fix multi-select, add new book flag
+
+commit 234653b549461484c4c5ff969582b45b3e3b13af
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Aug 27 14:35:16 2021 -0500
+
+    Add m4a filetype
+
+commit 28966e191b1f5101e93a5810fa14fcc13ad1dbf9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Aug 27 14:35:16 2021 -0500
+
+    Add m4a filetype
+
+commit 23f343f1df8d3b2f7010a171ccba86e5dc6ea3f7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Aug 27 07:01:47 2021 -0500
+
+    Adding and deleting users
+
+commit 35808abdf63f2db6498ed59234e639e2b273d6de
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Aug 27 07:01:47 2021 -0500
+
+    Adding and deleting users
+
+commit 88c7c1632e3cd13d4030f9dd4a10e46b7be1e2d0
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 26 18:32:05 2021 -0500
+
+    Batch updating and deleting, multi-select
+
+commit db0ecfb51bccf0dba6c767854ed02f219bd316d9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 26 18:32:05 2021 -0500
+
+    Batch updating and deleting, multi-select
+
+commit 8c9fb0d45e4b40f426c9a7ff7baa3b5cb99ea45c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 26 10:43:46 2021 -0500
+
+    Fix set card size index on mount
+
+commit 64cc7efa6a466edfe397e60b088ffd3b2625ba6b
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 26 10:43:46 2021 -0500
+
+    Fix set card size index on mount
+
+commit e54535f4655a13817ba290192b9a8c85d68dbd2b
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 26 09:47:51 2021 -0500
+
+    Bookshelf cover size setting and widget
+
+commit b4a62dbf4bb2a0cb401346fc32c2a19f302f6e69
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 26 09:47:51 2021 -0500
+
+    Bookshelf cover size setting and widget
+
+commit 46d7c45ca58e5664d372d6ba4a03b9c35bc81752
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 26 08:04:52 2021 -0500
+
+    Cover image aspect ratio solution
+
+commit 091aa6ef827105945237e8c99af2e897a836e20f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 26 08:04:52 2021 -0500
+
+    Cover image aspect ratio solution
+
+commit 9c32e4cbdaa09b3ce3b8635ab55d126265991640
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 26 07:09:23 2021 -0500
+
+    Fix update tracklist and invalid parts alert, update readme screenshots
+
+commit c208e876d26a5850cd876ff0bf9af3d16df5e1a9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 26 07:09:23 2021 -0500
+
+    Fix update tracklist and invalid parts alert, update readme screenshots
+
+commit dc0f25aca3a908fe8159d220f8d3e4cce42c4e53
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 25 19:32:17 2021 -0500
+
+    Sync tracks always
+
+commit 3141e74513cc6ba133ba860ccc1384fbfd4642b1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 25 19:32:17 2021 -0500
+
+    Sync tracks always
+
+commit 93c78a672cca857632e186b709b84ab898730ccb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 25 19:15:00 2021 -0500
+
+    Fix listener for audiobook updates in edit modal, add remove cover button
+
+commit 1dc01615dd26e0bf14171a631ed0ac07b0d22657
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 25 19:15:00 2021 -0500
+
+    Fix listener for audiobook updates in edit modal, add remove cover button
+
+commit 63cae5b0ed0f357778622acdff5792377df5b9db
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 25 17:36:54 2021 -0500
+
+    Adding inode to files and audiobooks to support renaming, setting up watcher and removing chokidar
+
+commit cb40e063da4d714cb16a2308baeb80d26f1aacdb
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 25 17:36:54 2021 -0500
+
+    Adding inode to files and audiobooks to support renaming, setting up watcher and removing chokidar
+
+commit 81487d1dba9a2a6c233c5144c955797eddf2e772
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 25 06:38:32 2021 -0500
+
+    Parse and update author name on each update
+
+commit 0c1a29adbf56703da16146c18cdc0efc807ba5e5
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 25 06:38:32 2021 -0500
+
+    Parse and update author name on each update
+
+commit 6ca7e9e6a6d066d5cc27ad000382443ad99aaa8b
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 24 20:32:13 2021 -0500
+
+    Emit update when cover is updated
+
+commit 6e8270c5eaf3e9c379cce5a11922ba3f4b68d16d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 24 20:32:13 2021 -0500
+
+    Emit update when cover is updated
+
+commit e230cb47e8a386283be710fd30bd7e7266925559
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 24 20:24:40 2021 -0500
+
+    Clean and parse author name from directory, sort by author last name, scan for covers
+
+commit 51357195e24d7fd8aaa9833180cccad4572a704a
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 24 20:24:40 2021 -0500
+
+    Clean and parse author name from directory, sort by author last name, scan for covers
+
+commit 9300a0bfb662938c2918b906de95acb9927f4881
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 24 08:04:32 2021 -0500
+
+    Fix ab undefined
+
+commit 759be593b6065014cc7adfda3e8985b42ab05a6d
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 24 08:04:32 2021 -0500
+
+    Fix ab undefined
+
+commit 3d641150511e70af44cbedaac08c520f6291d5e1
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 24 07:50:36 2021 -0500
+
+    Fix incorrect audiobook file paths before a scan
+
+commit 82241fd2f205d9af306b46876de990615cdc3cad
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 24 07:50:36 2021 -0500
+
+    Fix incorrect audiobook file paths before a scan
+
+commit 2f215ed2e58584ca35083aea8e4cd5cec90f835c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 24 07:36:20 2021 -0500
+
+    package lock sync
+
+commit d63e582e56844c03854ca6f2ccc7271ed0cd81e4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 24 07:36:20 2021 -0500
+
+    package lock sync
+
+commit bda0c0c804e307e0cc8b363797d89638cb94e629
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 24 07:15:56 2021 -0500
+
+    Scanner update - remove and update audiobooks on scans
+
+commit c59cc52667c6d79af119d8ad8bee16a76be70e27
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 24 07:15:56 2021 -0500
+
+    Scanner update - remove and update audiobooks on scans
+
+commit bf38004b5ecf740cad4ded26f3ddb442d1bdc995
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Aug 23 19:37:40 2021 -0500
+
+    Fix dynamic route requests, add auth middleware
+
+commit db2f2d6660ebfeacc50bdd45525950bba30d0ff3
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Aug 23 19:37:40 2021 -0500
+
+    Fix dynamic route requests, add auth middleware
+
+commit f83c5dd4405329b99b5657e4e16007b251836d6d
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Aug 23 18:31:04 2021 -0500
+
+    Moving settings to be user specific, adding playbackRate setting, update playbackRate picker to go up to 3x
+
+commit 7ef977b783bd11d7f92d99c8e1ede0e85ab7aaa4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Aug 23 18:31:04 2021 -0500
+
+    Moving settings to be user specific, adding playbackRate setting, update playbackRate picker to go up to 3x
+
+commit 2548aba840b4bde358f8f61c382c695b9b4e0967
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Aug 23 14:20:33 2021 -0500
+
+    Update readme
+
+commit 40502aab1e4925eedcf25013a348f4c6a5c64310
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Aug 23 14:20:33 2021 -0500
+
+    Update readme
+
+commit 580355918371c6a16c6acf5c598b02da2710aec4
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Aug 23 14:14:19 2021 -0500
+
+    Increment beta verison
+
+commit 33bbf1a49bdae6b931ced611bbbeec89e6fcb065
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Aug 23 14:14:19 2021 -0500
+
+    Increment beta verison
+
+commit 73a786879e8c0f71ce1dc5fffe2f026b12c2decb
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Mon Aug 23 14:08:54 2021 -0500
+
+    Fix scan for audiobook directories in root dir
+
+commit a93f409dcd35de58957f782c3807e3c39ae6d5a4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Mon Aug 23 14:08:54 2021 -0500
+
+    Fix scan for audiobook directories in root dir
+
+commit f4cb5d101ecd5faca34ba4ac7a273246e015bd9a
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Aug 22 10:46:04 2021 -0500
+
+    Reset password and users table on settings page
+
+commit 5ecfaa88c23a3ddff46a895bfe2668a1f13ceac0
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Aug 22 10:46:04 2021 -0500
+
+    Reset password and users table on settings page
+
+commit 9331b5870faf8754e7447446478df8a4072c5f7b
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Aug 22 09:26:03 2021 -0500
+
+    remove comment
+
+commit e7898377ed8d0efb5b2cd4a195732b969dc34677
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Aug 22 09:26:03 2021 -0500
+
+    remove comment
+
+commit dd213ddfd1419461b2fe8978eddab897fab07f71
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sun Aug 22 08:52:37 2021 -0500
+
+    Series as a dropdown and filter, fix genre list in details modal
+
+commit c3fd9045a861f75c71894bd97d9c2380078e1906
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sun Aug 22 08:52:37 2021 -0500
+
+    Series as a dropdown and filter, fix genre list in details modal
+
+commit 0990c61c932194541cac91c5ede5af67278b3427
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 16:23:35 2021 -0500
+
+    Add global search, add reset all audiobooks
+
+commit f70e1beca158fbb2bb46dcd9c708e45d08ee4c81
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 16:23:35 2021 -0500
+
+    Add global search, add reset all audiobooks
+
+commit 5b64453101e79a75d5cccdfe62deb05c97f59a31
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 14:02:10 2021 -0500
+
+    Removing release-it
+
+commit fb0a6f4ec2d813e8364793b3d87ab0a6ad610f65
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 14:02:10 2021 -0500
+
+    Removing release-it
+
+commit cbf2938c9c64c8bef23a5c2f3457d8349a79cc6a
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:28:32 2021 -0500
+
+    Release 0.9.61-beta.0
+
+commit 696766945cb5545853fd8f00f73c3a04fa4bb6fe
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:28:32 2021 -0500
+
+    Release 0.9.61-beta.0
+
+commit 04643ad68626fe64ce4570bfd083bc35bd339744
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:27:46 2021 -0500
+
+    update release-update command
+
+commit 5e9d40b66346d19210c5ce324a28e46cb4dacefe
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:27:46 2021 -0500
+
+    update release-update command
+
+commit 13cd5a404165c4b9e15088336eb3de8d1dcd12f3
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:26:43 2021 -0500
+
+    release-update command
+
+commit 1c453a3560d9e316d12c22ed01270258d468c34f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:26:43 2021 -0500
+
+    release-update command
+
+commit ae962a3ff8f6ed45a349590d534d75207946d7d7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:15:45 2021 -0500
+
+    Release 0.9.61-beta
+
+commit 343657fe9718b1ca27555f36a6a60908eaacacf2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:15:45 2021 -0500
+
+    Release 0.9.61-beta
+
+commit 15e329c68399bf32d4789c27be89754333422bf5
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:13:33 2021 -0500
+
+    Disable npm publish release-it
+
+commit e04b5d3152c511f758342815571c6dfc1c6b4612
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:13:33 2021 -0500
+
+    Disable npm publish release-it
+
+commit e17e0802c83e257bab81903b04470656bc9c39d7
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:05:46 2021 -0500
+
+    Updating version to include -beta
+
+commit 30ce8fee766811ac4664e308060ffcc57a4383cf
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:05:46 2021 -0500
+
+    Updating version to include -beta
+
+commit eab8edce8df59d6fdd916c8a910bacb101fc8493
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 13:02:24 2021 -0500
+
+    Use local image as cover if found, adding release-it version control
+
+commit f30fa2fb0cbe5f972f2437e3c04c2e30bac634a2
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 13:02:24 2021 -0500
+
+    Use local image as cover if found, adding release-it version control
+
+commit 30700c1eb0f0fe7fd2a47e7f742e058ab0321991
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Sat Aug 21 09:15:44 2021 -0500
+
+    Update book finder and cover matching - includes LibGen provider
+
+commit 7d4e2e3d97e9906f63bb2d9ce6cb75a1f9499e61
+Author: advplyr <advplyr@protonmail.com>
+Date:   Sat Aug 21 09:15:44 2021 -0500
+
+    Update book finder and cover matching - includes LibGen provider
+
+commit be7e2576f101d0323c94bd5b62fd1a9e50e8008c
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Fri Aug 20 18:29:10 2021 -0500
+
+    Adding audio playback speed control, updating volume control UI, fix stream play for small streams
+
+commit 744aacbb4ba229a8d77c0be47e6a2672b0982b08
+Author: advplyr <advplyr@protonmail.com>
+Date:   Fri Aug 20 18:29:10 2021 -0500
+
+    Adding audio playback speed control, updating volume control UI, fix stream play for small streams
+
+commit 4bcb346365e3a5651033c4d60d73a50810667060
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 19 19:21:04 2021 -0500
+
+    Fix readme
+
+commit 506f16c431f10b252b965291fe8bb48960134ef1
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 19 19:21:04 2021 -0500
+
+    Fix readme
+
+commit dd12e3ac7336b3179a55f375cef6566edd531ced
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 19 19:14:24 2021 -0500
+
+    Supporting more file structures for series and publish year
+
+commit 08c3f84c06400be8dc50198c5410f40cf1ee3ab9
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 19 19:14:24 2021 -0500
+
+    Supporting more file structures for series and publish year
+
+commit 15445ad54818f4fe0256647d256970613f3a6449
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 19 17:32:40 2021 -0500
+
+    Update readme image urls
+
+commit 7df0708f385f2ea64f26eb3eae63e43b41dfc6dc
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 19 17:32:40 2021 -0500
+
+    Update readme image urls
+
+commit 307b5b83a9992363ed2ffeb6a4095938ca6418ec
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 19 17:29:36 2021 -0500
+
+    Cleaning up, adding readme and images, genre filter
+
+commit d59aefd8c70f6c3b497037cf9dcc693f88997b88
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 19 17:29:36 2021 -0500
+
+    Cleaning up, adding readme and images, genre filter
+
+commit 53e46ff54d03987364ebf78877f1fc99fe063789
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Thu Aug 19 11:31:03 2021 -0500
+
+    removing .nuxt
+
+commit 2c5b5dbeaeea2bb8c01f78aed4918ce71357b795
+Author: advplyr <advplyr@protonmail.com>
+Date:   Thu Aug 19 11:31:03 2021 -0500
+
+    removing .nuxt
+
+commit 7532b756a7d1fd9185bcfaa9a1c2ce933c3d2c2e
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 18 20:18:44 2021 -0500
+
+    Sorting and filtering
+
+commit 1c88c0a796c2c22a605432dac8470dc6088105d8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 18 20:18:44 2021 -0500
+
+    Sorting and filtering
+
+commit a89d2e71ccccc3b7648f479e9655d505c6bfebbf
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 18 18:31:19 2021 -0500
+
+    Adding files tables, fixing loading when switching streams
+
+commit 7e482352b1f48add71a774f05b42aecd0b93bb4f
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 18 18:31:19 2021 -0500
+
+    Adding files tables, fixing loading when switching streams
+
+commit 30ca0bb95f0d6bcae96daba8d4564e1f32e65191
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Wed Aug 18 06:50:24 2021 -0500
+
+    Sorting, fix user object bug, add settings module
+
+commit 6e8fe32bf5e6ea0697e47a811de2261019ff28da
+Author: advplyr <advplyr@protonmail.com>
+Date:   Wed Aug 18 06:50:24 2021 -0500
+
+    Sorting, fix user object bug, add settings module
+
+commit e1aa95af97035a8ebf9cb0ba73f46ae918b1f4b2
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 17 17:51:07 2021 -0500
+
+    Add version to config
+
+commit 9a74825bad3c9f6897b532a6b1296d133518a543
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 17 17:51:07 2021 -0500
+
+    Add version to config
+
+commit 033cc3ffe1459d346fd3aabd249a41cd1cef01db
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 17 17:43:29 2021 -0500
+
+    Update cover url, audiobook player speed
+
+commit dee7bcb2c2fd89d91ae2d7e1858e64812ebd25b8
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 17 17:43:29 2021 -0500
+
+    Update cover url, audiobook player speed
+
+commit 4736fa1468a277307951d129c1a11f482caec35b
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 17 17:19:57 2021 -0500
+
+    Update Logo, Add docker template
+
+commit 8fbdc1523de3915c3ef906b7e8764973aca38395
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 17 17:19:57 2021 -0500
+
+    Update Logo, Add docker template
+
+commit a0c60a93ba8abcc8604b8634e1dbefe6c1917e27
+Author: Mark Cooper <mcoop320@gmail.com>
+Date:   Tue Aug 17 17:01:11 2021 -0500
+
+    Init
+
+commit 6930e69b551b2e8ec1c125ecbf386c4536da86c4
+Author: advplyr <advplyr@protonmail.com>
+Date:   Tue Aug 17 17:01:11 2021 -0500
+
+    Init

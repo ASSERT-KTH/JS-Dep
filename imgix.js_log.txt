@@ -1,0 +1,4900 @@
+commit b1d373c7ffbb7b52ef1b5cf6fe868efaf159f3c8
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 21 01:46:32 2022 +0000
+
+    chore(deps): lock file maintenance
+
+commit 147622f23f69790de0b5fe957e43700f072f65a7
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 14 02:33:35 2022 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.15.3
+
+commit cb8cbee9c497d3fed848beed528e673a147d513a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 7 01:23:42 2022 +0000
+
+    chore(dev-deps): update dependency @semantic-release/npm to v9.0.1
+
+commit 7b0c6ac24fe6aa919f277947a6d6bc3929b105e2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Feb 28 01:32:04 2022 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.15.2
+
+commit 9e7bc569662e33d4764541741af5f210230d44f0
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Feb 21 01:50:25 2022 +0000
+
+    chore(deps): lock file maintenance
+
+commit a585e1606cc73a7a12ddbe5b0b49885b4c0f2522
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Feb 14 00:41:00 2022 +0000
+
+    chore(dev-deps): update dependency cypress-terminal-report to v3.4.2
+
+commit dcb456b85deb23b0643d21fc3d71a902d2cb5b6a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Feb 7 00:48:09 2022 +0000
+
+    chore(dev-deps): update dependency sinon to v13
+
+commit eb21222ae223f9cc0130751be5dbab97b3e54114
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 31 02:00:54 2022 +0000
+
+    chore(dev-deps): update dependency @semantic-release/npm to v9
+
+commit 323294376e5bc1817128338dc73eb0922a776af4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 31 00:05:17 2022 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.15.0
+
+commit c4e0e60b061520fb6b8bf4b16b71a96e85416246
+Author: bubble-bub <cwen@imgix.com>
+Date:   Wed Jan 26 13:49:58 2022 -0500
+
+    docs: updated lazyload section of README
+
+commit 8650d53b511f6faa548d361c68541a515691c4dd
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 17 02:15:19 2022 +0000
+
+    chore(deps): lock file maintenance
+
+commit 2b8de6195dad6911724fa0b9bc7b8c559d184625
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 17 00:01:30 2022 +0000
+
+    chore(dev-deps): update dependency jasmine to v4
+
+commit d861dba64caa4b50b8974b72924343efeb11a7c0
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 10 00:54:18 2022 +0000
+
+    chore(dev-deps): update dependency jasmine to v3.99.0
+
+commit 40675c7ed3d7a323b3d7711a7d0e4a0aa67c4d20
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 3 02:23:13 2022 +0000
+
+    chore(deps): lock file maintenance
+
+commit 535f03287bf7968083f56d896873d1db44e9aaa7
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 27 01:07:31 2021 +0000
+
+    chore(deps): lock file maintenance
+
+commit 86c5228c3787ff064ac5f0b034ad08ccffa12e44
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 20 02:58:46 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.14.5
+
+commit 1240b92797731435d92ffb0dcb5acc60b60d4e96
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 20 00:38:05 2021 +0000
+
+    chore(dev-deps): update dependency cypress-terminal-report to v3.4.1
+
+commit 5669cba4c4af38766db5b8f6e5accb7b7b4dc6c6
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 13 01:21:27 2021 +0000
+
+    chore(dev-deps): update semantic-release monorepo
+
+commit 1533cc4bb28aa3cd190f6257934792a2249b8b9f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 6 02:49:50 2021 +0000
+
+    chore(dev-deps): update dependency prettier to v2.5.1
+
+commit e8d980af14121f1ceb5b460cf1fdddcd54091651
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 6 00:42:25 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.14.4
+
+commit f367f0e21e8e72895aadfae80a2ef425d5d49c79
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 29 02:00:48 2021 +0000
+
+    chore(dev-deps): update dependency sinon to v12
+
+commit 04ebedf8a4fbdad91ed5a3222aa83ee33b5aecc4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 29 00:16:32 2021 +0000
+
+    chore(dev-deps): update dependency jasmine to v3.10.0
+
+commit ac38a876adad05810da43d4597620ff094bb4336
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 22 01:35:41 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.14.3
+
+commit 96f8af6cc2269fba0b214194642456ba26cb1556
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 15 02:59:51 2021 +0000
+
+    chore(dev-deps): update dependency cypress-terminal-report to v3.4.0
+
+commit 81ab869dae2f9c1803708f9f1971906660e39e1a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 15 00:43:54 2021 +0000
+
+    chore(dev-deps): update dependency nodemon to v2.0.15
+
+commit 05673016adb76cede5c0359c467d29f911bde787
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 8 02:01:42 2021 +0000
+
+    chore(dev-deps): update dependency nodemon to v2.0.14
+
+commit 796c09548b7fecaaddf782802cdf74eb748abe3a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 1 01:53:50 2021 +0000
+
+    chore(dev-deps): update dependency standard-version to v9.3.2
+
+commit 95eb3ff2539e90b0901e64bbd697138ab7a2dde3
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Oct 11 00:53:25 2021 +0000
+
+    chore(dev-deps): update dependency cypress-audit to v1.1.0
+
+commit 49d7ef83699977812a32d348c595eaa666df1c43
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Oct 4 02:04:24 2021 +0000
+
+    chore(dev-deps): update dependency @google/semantic-release-replace-plugin to v1.1.0
+
+commit aaba9b7b2c0510d4c44a9e187d89cbbb95079fd7
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Sep 27 02:02:20 2021 +0000
+
+    chore(dev-deps): update dependency nodemon to v2.0.13
+
+commit f7afda4410abf9711d46e628eeae417f7544935b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Sep 20 01:25:22 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.14.2
+
+commit aaec60d83674172512bf6d17572582f26f331171
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Sep 13 00:14:26 2021 +0000
+
+    chore(dev-deps): update dependency @semantic-release/git to v9.0.1
+
+commit 38765cd5ea35914147d9965fc21c694ca826c059
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Sep 6 01:22:59 2021 +0000
+
+    chore(dev-deps): update dependency jasmine to v3.9.0
+
+commit 3d833e1b3e8c50844038025b1e0a66392533f4ed
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 30 01:58:04 2021 +0000
+
+    chore(deps): lock file maintenance
+
+commit 7826751591854021e6da0feb5267e15f05a86c9c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 23 00:23:01 2021 +0000
+
+    chore(dev-deps): update dependency cypress-terminal-report to v3.3.2
+
+commit 6daf9eb5c0a050d21ed5803f0b8bd070c645da4b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 16 00:40:56 2021 +0000
+
+    chore(dev-deps): update dependency sinon to v11
+
+commit b40656d20257c21da4931965e40cb091b9957c46
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 9 18:27:08 2021 +0000
+
+    chore(deps): pin dependencies
+
+commit a6f16e3c19ce445fdbdcec12f4f302bd0cd3e6b9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 9 02:47:50 2021 +0000
+
+    chore(deps): pin dependency @google/semantic-release-replace-plugin to 1.0.2
+
+commit d7982de58a24b9f5a7f7f932421e98cf98833c8a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 9 00:51:35 2021 +0000
+
+    chore(dev-deps): update dependency chokidar-cli to v3
+
+commit d3eebd630eb830264e94415bbeebcdd68c37a2a3
+Author: Luis H. Ball Jr <luqven@gmail.com>
+Date:   Mon Aug 2 17:34:00 2021 -0700
+
+    chore: fix typo in replace plugin for semantic release
+
+commit f41b37aaa17f2b738dfd8bbc116bbb70678f7793
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon Aug 2 14:01:30 2021 -0400
+
+    build: add semantic release everywhere
+    
+    This commit adds semnatic-release to all branches for this repository.
+
+commit 6329359a67f968bc03568dbe586cb358770ba4d0
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 2 00:13:04 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.14.1
+
+commit 6c668150610cf5563fa00e8ebdf5120653f55e8e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 26 01:27:39 2021 +0000
+
+    chore(deps): lock file maintenance
+
+commit a820456e8e20f5682b894e0873012aa7d1e7f88d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 19 02:19:16 2021 +0000
+
+    chore(dev-deps): update dependency standard-version to v9.3.1
+
+commit fe705d5bb84c6bc81f4ca14ae92062653cd076ab
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 19 00:09:50 2021 +0000
+
+    chore(dev-deps): update dependency nodemon to v2.0.12
+
+commit db6eacb2fcc90b345b96ce723e7a8483460fa214
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 12 02:17:14 2021 +0000
+
+    chore(dev-deps): update dependency jasmine to v3.8.0
+
+commit f6382d708c7eafc1db239baf2e9793046a96d71d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 12 00:45:45 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.13.10
+
+commit 7e27c6e82484ca9756fc5af3c823d89deee3d3f1
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 5 02:15:52 2021 +0000
+
+    chore(dev-deps): update dependency prettier to v2.3.2
+
+commit 4daa3dc40c1224d2bdb54650582299797fd9d8e9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jul 5 00:57:58 2021 +0000
+
+    chore(dev-deps): update dependency nodemon to v2.0.9
+
+commit bc2e2858f7ab29570f987a91eec9536d7446210e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jun 28 00:38:49 2021 +0000
+
+    chore(dev-deps): update dependency cypress-audit to v1
+
+commit d444529f2b3ee75a18e7bfeafa728f6a41b2a93e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jun 21 01:43:56 2021 +0000
+
+    chore(dev-deps): update dependency prettier to v2.3.1
+
+commit 932e1b5a6a095f9ec309929f512ca6554f0bb8e3
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jun 21 00:23:35 2021 +0000
+
+    chore(dev-deps): update dependency standard-version to v9.3.0
+
+commit 2027ec9f7a96862024c64557e7966f4845e29ae0
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jun 14 02:19:21 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.13.9
+
+commit 58692db7177936c3a26c8f55e45247122f7509ec
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jun 14 00:22:58 2021 +0000
+
+    chore(dev-deps): update dependency cypress-terminal-report to v3.2.2
+
+commit e070c1ccb822a37ef54cb727380f740ab47549a5
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon Jun 7 17:17:42 2021 -0400
+
+    chore(release): 3.5.1
+
+commit a8c6e1053d9bc1013a8f7d988bb6c7a0918d8491
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon Jun 7 16:56:48 2021 -0400
+
+    fix: bump version to match current
+    
+    index.js had not been updated to relfect the currently released version
+    which was affecting out internal reporting for this version of the
+    library. This commit fixes the version number.
+
+commit dc56b55c93e4ffaff7ab1c5365619ed77137b18e
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 28 13:19:27 2021 -0400
+
+    docs: remove deprecated release section
+
+commit 9b653d04fabe2b5c03fc7b3384598fa7ea501696
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 25 15:12:10 2021 -0400
+
+    test(sizes): ensure ix-sizes used as fallback only when sizes not set
+
+commit 8ab58bf83f1f64df07c19cc2d6eeb55a8fc9a306
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 25 15:11:23 2021 -0400
+
+    chore: add sizes examples to fixture
+
+commit c360d282075671e1105921f00026c1a7c99dedeb
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 21 10:36:24 2021 -0400
+
+    refactor: chang alt and data-test-id tags
+
+commit d01b1542e884415922669292a4f8749429819a3c
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 21 10:32:57 2021 -0400
+
+    test(sizes): ensure sizes fallbacks respect browser defaults
+
+commit b97d5799d1def6e10efafa4a7d4f11f73f711294
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 21 10:07:01 2021 -0400
+
+    chore(sizes): update comments
+
+commit a6ad5cd5a1524890fc9e77b1caa6f00d45a91291
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 21 09:49:36 2021 -0400
+
+    fix(sizes): use ix-sizes as sizes fallback if ix-sizes not auto
+
+commit b247d60bce5c37f4a7e703d583844878ed746867
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 25 09:14:27 2021 -0400
+
+    chore: change useHttps to true to fix blocked assets error
+    
+    Browsers were blocking the image requests since the expected scheme,
+    https, did not match the src URL scheme, http. The meta property,
+    ix:useHttps, had to be set to "true" to fix this issue.
+
+commit c8a7f95a7d00de1695c171886c9bad15f3958b05
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 21 12:05:06 2021 -0400
+
+    chore(release): 3.5.0
+
+commit ff101db9aab9831a2824f84ea7065978332cbd32
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 20 11:22:56 2021 -0400
+
+    docs(sizesAutoSpec): update comment to fix newlines
+
+commit d6ae3505a8804c9761312b0691064b9536fa59ee
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 20 11:13:53 2021 -0400
+
+    refactor(sizes): handle existingSizes falsy values
+
+commit e098a715f7fe7a1e288fa3c8c1ba0cbcab742b65
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 20 11:12:49 2021 -0400
+
+    docs(sizeAutoSpec): explain use of width attribute
+
+commit 9b5929cc282775bec75a01830afbb41e79dd7eab
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 21:26:16 2021 -0400
+
+    chore: change all dataSizes refs to ixSizes
+
+commit 8ee9c48b123f35ca0f407347cf2aabf46a3d979b
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:47:33 2021 -0400
+
+    chore: change data-sizes refs to ix-sizes
+    
+    This commit changes all refs in the source from data-sizes to ix-sizes.
+    This attribute was changed to avoid collisions with the lazysizes.js
+    library.
+
+commit 0cd9b170f02b3e3e0c7b61f2f4b353aba44af6c0
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:46:07 2021 -0400
+
+    fix(imgixtag): fix issue where sizes was set to null & use ix-sizes
+    
+    This commit fixes an issue where ImgixTag.sizes() would return null if
+    sizes had previously been left as null or undefined. This could happen
+    when stubbing an image attribute for tests or if a user accidentally
+    set the value to null.
+    
+    The commit also changes data-sizes to ix-sizes. This is done to avoid
+    possible collisions with the lazysizes.js library.
+
+commit 14d961f7dd580d315dffa450887f681244e2b3eb
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:41:02 2021 -0400
+
+    test(autoSizes): remove unneeded cypress wait call
+    
+    This commit removes a call to `cy.wait()` that had been added before
+    the issue where the script tag was loading before the style tag had
+    been fixed.
+
+commit 03d2f3ee64acf57384b53bb50418d2bed280ddcd
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:37:02 2021 -0400
+
+    chore(index): use data-sizes on image tag
+    
+    This commit removes the `sizes` attribute and adds the `data-sizes`
+    attribute to an image tag that had accidentally not been changed.
+
+commit 58780a68f2b8d2358f32d801f113549ca10065a3
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:34:45 2021 -0400
+
+    chore(index.html): remove unused script tag
+
+commit 880e5acde1ffdaaa543da736bda1ea90ccb29245
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:34:19 2021 -0400
+
+    chore(index): re-order stylesheet and script tags
+    
+    This commit re-orders the style and script tags. This is done is order
+    to address an issue where the stylesheet was being loaded after DOM
+    changes were being made.
+
+commit 23f2cef748376f4e01db0b2573e1c32461688450
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:28:53 2021 -0400
+
+    test(fixture): re-order index stylesheet and script tags
+    
+    This commit re-orders the style and script tags. This is done is order
+    to address an issue where the stylesheet was being loaded after DOM
+    changes were being made. It also addresses an issue where cypress would
+    fail to load fixtures correctly.
+
+commit 23731f9a993738bb9250d97745e98999869c6713
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 20:12:26 2021 -0400
+
+    test(fixture): remove unused script tag
+    
+    Unused <script> tag at the footer of the cypress/fixtures/index.html
+    file could cause issues with tests. Better if its removed since it's unused.
+
+commit a9d025fc2095380bb46163b4015a7fda23ba93b0
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 13:37:32 2021 -0400
+
+    test(sizes): use attr width to test invalid image
+
+commit 85e895d107358fb187d0929a80fedfb29cdf64b2
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 13:36:53 2021 -0400
+
+    test(sizes): add data-sizes attr to fixture
+
+commit 1cd6f9f02a59b7682104eac43983958b4c0d5508
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 13:36:06 2021 -0400
+
+    teste(sizes): add catch-all so images have widths
+
+commit 03370f41567cc1ab2e44560a3bf8e7ad2c2222f7
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 13:35:14 2021 -0400
+
+    chore(index): use data-sizes atribute in index html example
+
+commit 9b10eb6738137fff74c0e7f1f1e976936547eef0
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 13:34:47 2021 -0400
+
+    chore(index): add catch-all css rule to ensure images have widths
+
+commit f9a2588bf3fe3487c55a6f2730d3437bc348eeb2
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 18 13:33:48 2021 -0400
+
+    feat(sizes): use dataSizes attribute to conditionally change sizes attr
+
+commit 9db5b5c335d65e8529d0c620d6987faa77caf8eb
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon May 17 16:13:49 2021 +0000
+
+    chore(deps): pin dependencies
+
+commit c6bee37e377af5d563794527e5484b57b9542783
+Author: sherwinski <sherwin@imgix.com>
+Date:   Sat May 15 20:21:41 2021 -0400
+
+    build: limit which files are publish in a release
+
+commit 81c7d1497f9de1a4b617ae8eddd01f72244691a8
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 13 08:53:09 2021 -0400
+
+    chore(debounce): use lodash debounce package
+
+commit a0f1e010988565b7d78f6c8870ba97f9d888efd5
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 13 08:51:42 2021 -0400
+
+    chore(deps): add lodash.debounce
+
+commit cc5402e7fbee77668c02234b08223830b4b0848d
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 12 10:29:14 2021 -0400
+
+    chore(index.js): have text changes happen faster
+    
+    The example `index.js` file was updating the text displaying an image's
+    current size in a delayed fashion. This commit addresses this, making
+    the demo more responsive.
+
+commit baf0f70d40c1fd3c401b31b265b7544094269ed9
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 12 10:20:56 2021 -0400
+
+    chore: rollback dist check-ins
+
+commit 8be9873feb8055f589ec65edf797f7b7ed8b55bf
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 12 10:10:17 2021 -0400
+
+    chore: ensure dist is up-to-date before tests
+
+commit ac088d32dcaf18f97c5990b808f5698d32d7a0a5
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 12 09:51:42 2021 -0400
+
+    chore: reduce DOM calls
+
+commit 0df0f3de5924d60b8e3de7ec058384ceb35c2f90
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 12 09:45:04 2021 -0400
+
+    chore(get-width): refactor calls to parent
+
+commit cb1b4b76fa50285297ad568c2bfde2893a695133
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 12 09:34:52 2021 -0400
+
+    fix: shim rIC for older browsers
+
+commit a4e1da618b8a0c4aa569462b33924e9f3b0af622
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 10 15:30:22 2021 -0400
+
+    chore: remove invalid img from index html
+
+commit 6049d8d6a0e2785eaffe72497c3803ca76013264
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 10 13:55:40 2021 -0400
+
+    chore: create sizes auto example in index.html
+
+commit 8ee66e60e2a798cdb021c6bceabb707bae2fea5f
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 10 13:55:21 2021 -0400
+
+    chore: add start script
+
+commit 3b710bedcd8bc5c87310d763685ea794257a76f6
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 10 12:31:50 2021 -0400
+
+    chore: update index html to give more examples
+
+commit b3182375c00cb958082d7820e11dc1975f13ec16
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 10 11:58:09 2021 -0400
+
+    chore(cypress): rename fixtures
+
+commit 902b0eb369a6a8d790a3f08adffbf846a4aebf96
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 7 16:04:11 2021 -0400
+
+    chore(dev-deps): update package lock
+
+commit f90d7e487724806a18cb0d4fb2dfb57b9125caf4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon May 17 00:33:05 2021 +0000
+
+    chore(dev-deps): update dependency cypress-terminal-report to v3.1.1
+
+commit 0246d6c006dc80a5be7724801444d6818c2bc873
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 10 09:02:12 2021 -0400
+
+    chore: remove comments
+
+commit b21faf3fc850bc3e543e6590407c28f08f8fb23b
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 7 16:05:01 2021 -0400
+
+    test(cypress): use cy-audit for perf tests
+
+commit f3644c35fc25fb404c97d8e480071a94850ad415
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 7 16:04:38 2021 -0400
+
+    test(cypress): add cy-audit for lighthouse tests
+
+commit 1fb94408cb8891307d12a49951b6e400d26d99ee
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 7 16:04:11 2021 -0400
+
+    chore(dev-deps): add cypress-audit
+
+commit b28cc67499af995c7153a03e5171904566675660
+Author: Luis Ball <lball@imgix.com>
+Date:   Fri May 7 15:22:25 2021 -0400
+
+    test(sizes): add test for images that dont load
+
+commit f71c87b56843f342c658b36d04085a251e907d98
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 15:41:26 2021 -0400
+
+    test(cypress): refactor css and clean up html
+
+commit d5ddef46e68c97a7e3d5f50fe989f915e1eca2f2
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 15:41:06 2021 -0400
+
+    test(sizes): compare parent width if invalid img
+
+commit 5caf175a8471273023f81bf3afa0a4c3b74e4097
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 15:39:54 2021 -0400
+
+    chore(autoSize): remove deprecated fn args
+
+commit b397171000a22f7a6dfc654cd2eae18866293f9d
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 12:28:17 2021 -0400
+
+    test(sizes): ensure module waits for debounce before setting sizes
+    
+    Co-authored-by: Frederick Fogerty <frederick@imgix.com>
+
+commit 9db1d9df006273e5c1e3c89ec6fafb78b3053977
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 10:45:24 2021 -0400
+
+    test(sizes): draft debounce test
+    
+    Co-authored-by: Frederick Fogerty <frederick@imgix.com>
+
+commit c497a70da40486cba398f9f7cf89173eafa09045
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 10:32:16 2021 -0400
+
+    chore(debounce): add debounce fn and refactor raf
+    
+    Co-authored-by: Frederick Fogerty <frederick@imgix.com>
+
+commit 5c82eb677b2c9d60d0f2e334eb7699654c5a1df1
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 12:54:43 2021 -0400
+
+    build: check in dist for cypress tests
+
+commit 180d9337f640cb4d521ad3dbcc04839f31ec6505
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 08:54:49 2021 -0400
+
+    chore(sizes): move listener out of getCurrentSize and fix comments
+
+commit cba91cac9d4488ecb787efab42ace997861f4172
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 08:50:02 2021 -0400
+
+    chore(sizes): move setAttribute outside of getCurrentSize
+
+commit 0d258eefbe398ea8f49b84a799ef048060fcb7bd
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 15:36:49 2021 -0400
+
+    test(cypress): use data-test-id instead of calss
+
+commit 9c775daae4052af1d4b16469a255154ac8b147b8
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 15:25:15 2021 -0400
+
+    test(sizes): chain cy get to test img size 100vw
+
+commit 1171e2499d124895b5bacfe84b97144f725b6da3
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 15:24:05 2021 -0400
+
+    test(sizes): add dummy 100vw image
+
+commit 60e4c68488edb61e41beb48609b868d01a0334ad
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 14:16:03 2021 -0400
+
+    chore: update comment
+
+commit c1316deef4e418d6156ce1ecc02c96692bed2dd5
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 12:18:19 2021 -0400
+
+    refactor(sizes): move raf to autoSize module
+
+commit 922a560c0d71b47134fef914039ead15c73c9c56
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 12:17:51 2021 -0400
+
+    chore(autoSize): add loading check & raf functions
+
+commit 5bf3da8b26c5e29150c0097d2ec182b752644e9f
+Author: Luis Ball <lball@imgix.com>
+Date:   Wed May 5 12:16:35 2021 -0400
+
+    test(sizes): add invalid image test
+
+commit 1c5d7afcdc1723d1cc2451a1d236fe92cdf97bfb
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 15:03:05 2021 -0400
+
+    test(cypress): replace magic numbers with atLeast or Most checks
+
+commit 035a6b8ea205e61ab6fb6512957dd29296b49b9a
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:47:45 2021 -0400
+
+    test(cypress): hard code expected sizes to fix CI
+
+commit c8dfd115abc6f3b8df6745684ed62c470c968161
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:40:41 2021 -0400
+
+    build(dist): check in dist to fix cypress failures
+
+commit d021903822aea53ea6aed3388470a6b4ea71fc07
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:20:08 2021 -0400
+
+    test(cypress): add default vw and vh
+
+commit 488dbfa1eb3f0353dc63f3919ff5bed8310c4049
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:19:54 2021 -0400
+
+    test(cypress): refactor to fix timout issues
+
+commit 8b6c7102cbe3ec34efba32c5a694970756fadfe1
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:19:30 2021 -0400
+
+    chore(sizes): add debug attr to autoSize
+
+commit 35170b644767a852b1b38f1c6ac143001e47f0c6
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:19:14 2021 -0400
+
+    chore(sizes): change window ref and add debug attr
+
+commit f7c14275f74dbc46cc30117e0c619cb2a999d415
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 14:18:41 2021 -0400
+
+    chore(config): add window ref
+
+commit 67fc5ae262841b52933be47d266f5d871142b30b
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 11:31:18 2021 -0400
+
+    chore(sizes): use autoSize to set size in rAF
+
+commit eee2dc59c300e427b2b4dce2f197d934f8e5c269
+Author: Luis Ball <lball@imgix.com>
+Date:   Tue May 4 11:30:54 2021 -0400
+
+    chore(sizes): create autoSize module
+
+commit 751c568fca94b0b28a9afd787b601debb1f61749
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 23:03:35 2021 -0400
+
+    test(sizes): add basic on resize sizes test
+
+commit d3e7d0e2c2c9e233516d5e6774a0210905d438eb
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 23:03:03 2021 -0400
+
+    chore(sizes): add window ref and return value
+
+commit e413ab37b11b51453f6151d52c3637c143beee21
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 22:30:29 2021 -0400
+
+    chore(sizes): add naive implementation
+
+commit ec5cffb2bd035e307417e746ddb8453f4b5c3cdf
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 22:21:29 2021 -0400
+
+    chore(sizes): add listener and debounced raf
+
+commit 37af4b096f8e1fef64f91d7a5bc719d564b8db4b
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 22:20:19 2021 -0400
+
+    chore: prettier lint ImgixTag
+
+commit 371b806a2adc87f984389de9ef065e90f5cf922b
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 22:10:15 2021 -0400
+
+    chore: remove comment
+
+commit 8c80e7384a9daf26ac2dde0bd94a2bb4f1fbc454
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 22:01:57 2021 -0400
+
+    test(cypress): add classname to sizes auto image
+
+commit 7a7c448324b7ae55dccc54a437409f7e8798a092
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 22:01:33 2021 -0400
+
+    test(sizes): create cypress spec for sizes auto
+
+commit 9acfe5d7b812978bf8a9df79e73a3494e3f837f9
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 16:52:44 2021 -0400
+
+    test(cypress): update fixture image count
+
+commit c50a9faff6fe533b225a2bafd311c0348610e4a3
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 16:50:43 2021 -0400
+
+    test(cypress): add sizes auto example image
+
+commit b330eb300fc4b85961cf7d207890803e666e8481
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 13:29:12 2021 -0400
+
+    test(cypress): add terminal-report plugin configs
+
+commit 249346f73ae9373744b0552844486b935ad44c78
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 13:23:39 2021 -0400
+
+    deps(dev-deps): add cypress-terminal-report
+
+commit 5f6820f598fd15b115453d53c83776aa6dcf4b61
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon May 10 00:09:34 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.13.5
+
+commit ceed6b1462958f7636fd816652972bd1febd8f26
+Author: Luis Ball <lball@imgix.com>
+Date:   Thu May 6 10:47:55 2021 -0400
+
+    chore(cypress): add cypress:watch script
+
+commit 10d2fb33ce7bb293ada2d23379dfaebf01f5d296
+Author: Luis Ball <lball@imgix.com>
+Date:   Mon May 3 10:46:51 2021 -0400
+
+    chore(dev-deps): add nodemon as dev dep
+
+commit 25ef8161aa3cb829d7a246735eb607b5b886b90e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Apr 26 01:35:26 2021 +0000
+
+    chore(dev-deps): update dependency standard-version to v9.2.0
+
+commit 4e2a7ecd309bd66987307d6d907d8770af2a5f54
+Author: Sherwin Heydarbeygi <sherwin@imgix.com>
+Date:   Fri Apr 23 13:10:08 2021 -0700
+
+    docs: update lazyloading link in TOC
+
+commit 06e6f66173007c979b7906722323eaea32bb59fa
+Author: heyitsbryanm <bryan@imgix.com>
+Date:   Fri Apr 23 07:09:26 2021 -1000
+
+    chore(readme): fixed lazyloading TOC typo
+
+commit 55b9391fa10051a18c177d10b20e95acb58b9ed9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Apr 12 00:23:16 2021 +0000
+
+    chore(dev-deps): update dependency cypress to v6.9.1
+
+commit 466b2a0d3489618adc9dd883ce502bcf0c047b98
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Apr 5 00:09:34 2021 +0000
+
+    chore(deps): lock file maintenance
+
+commit c9566fbcc454a2b2f86347df828c80d9f8cc9003
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 29 07:47:52 2021 +0000
+
+    chore(dev-deps): update dependency uglify-js to v3.13.3
+
+commit 6afd350fd925c1cdeb6bf593775415f08d43b95b
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Fri Mar 26 16:26:06 2021 +0100
+
+    config(travis): build all branches
+
+commit b3fb5a3f430630548bd68d5c924d15dafc900e49
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Fri Mar 26 16:26:06 2021 +0100
+
+    config(renovate): use imgix config
+
+commit b94d50884bfe77d8d09ca25ab5ffa58db6be95d4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 22 17:51:53 2021 +0000
+
+    chore(deps): update dependency sinon to v10
+
+commit d798060d746f2439bd41c892fb385ce9b977b2e7
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 22 14:04:42 2021 +0000
+
+    chore(deps): update dependency standard-version to v9.1.1
+
+commit 6fbb68cb352bf4dd55eac9cb624b70879689b519
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 22 00:53:52 2021 +0000
+
+    chore(deps): update dependency cypress to v6.8.0
+
+commit b1f3d486b959094ef27a8be94491c59a1acdb1c8
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Mar 21 22:19:59 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.13.2
+
+commit 2abbbaed0c3213d11be4aa804305e59e0c280267
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Mar 18 03:30:25 2021 +0000
+
+    chore(deps): update dependency jasmine to v3.7.0
+
+commit ba1fcce47ec1a4c4382e11effa4d06a784e40dca
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Mar 12 00:38:28 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.13.1
+
+commit 424318d1b2a7581fe94b48e32df738c02012b7d3
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 1 21:15:19 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.13.0
+
+commit 1db65b6f9797eaf49db629d43f77d46c5a539a5a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 1 19:26:26 2021 +0000
+
+    chore(deps): update dependency cypress to v6.6.0
+
+commit 4bab882ee854909260880848bf2f6971e81806f2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Feb 16 04:41:20 2021 +0000
+
+    chore(deps): update dependency cypress to v6.5.0
+
+commit a1ef0f484b554c130e7676088824b34dd7382f3a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Feb 13 18:56:19 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.8
+
+commit 2fa1996944c772413ae93076f4887f9dd72b1e38
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Feb 11 20:53:46 2021 +0000
+
+    chore(deps): pin dependency cypress to 6.4.0
+
+commit da1170efe104ec36130b799af36d394ff1dcc0ef
+Author: Luis H. Ball Jr <luqven@gmail.com>
+Date:   Thu Feb 11 15:52:44 2021 -0500
+
+    test(cypress): add cypress tests and move getMetaTagValue to utils (#265)
+    
+    * chore(util): move getMetaTagValue to util file
+    
+    * test(cypress): add cypress testing for imgix meta tags
+
+commit 54dc774e5e9f5d03ad8272a6cf61097670320a27
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Feb 6 22:42:15 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.7
+
+commit 120835835122a9a69c79c97e2a541e94968cf301
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Jan 31 23:25:05 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.6
+
+commit d6e8ab4a37beb1a49b3e43dfe21648e8ffbd5848
+Author: fossabot <badges@fossa.io>
+Date:   Thu Jan 14 16:05:21 2021 -0800
+
+    chore: add license scan report and status
+    
+    Signed off by: fossabot <badges@fossa.com>
+
+commit afba02103c4e572a2304a6ab5506a8e5dba9ab0e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jan 23 10:33:56 2021 +0000
+
+    chore(deps): update dependency sinon to v9.2.4
+
+commit be2959844bfd2c8d35685b240a836707d515a10c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Jan 20 01:13:22 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.5
+
+commit 8ed7515f41eb3accd30d885de045cc73e4590c01
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 18 23:31:09 2021 +0000
+
+    chore(deps): update dependency jasmine to v3.6.4
+
+commit ac1e695c149eb74e7335cc6ea7a323432c6e0f32
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Jan 6 15:24:34 2021 +0000
+
+    chore(deps): update dependency sinon to v9.2.3
+
+commit 7ebe769e43fe4ffc3b5552d729935fd2eb9de936
+Author: sherwinski <sherwin@imgix.com>
+Date:   Tue Dec 22 00:12:01 2020 -0800
+
+    docs: update travis badge to travis-ci.com
+
+commit 9035d6503d6ea23616508b2ae4c987a06bc091c5
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Jan 1 06:36:28 2021 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.4
+
+commit 483565f0f4516fec683f60e77191a61e160eb805
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Dec 22 18:29:14 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.3
+
+commit fe6f44cbeead352c64ccd1faf3de653d2c210341
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Dec 16 17:48:42 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.2
+
+commit d07dcd3b1265df567bcdcbc6c969bcba09f58320
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Dec 11 12:40:38 2020 +0000
+
+    chore(deps): update dependency sinon to v9.2.2
+
+commit 5d8aa6a843b1cfc3424c373f800c60d9d72cd06a
+Author: sherwinski <sherwin@imgix.com>
+Date:   Thu Dec 3 20:07:50 2020 -0800
+
+    ci: test against stable node versions
+
+commit 0e45f12c7eea3996bec24f69e47c28447cee0d28
+Merge: ec45542 e61bf23
+Author: sherwinski <sherwin@imgix.com>
+Date:   Wed Dec 2 11:33:42 2020 -0800
+
+    Merge pull request #249 from 0xflotus/patch-1
+    
+    chore(readme): fixed typo
+
+commit e61bf23b250bca7e3f44b3a1fa13e66d8e3c5dbb
+Author: 0xflotus <0xflotus@gmail.com>
+Date:   Wed Dec 2 16:39:22 2020 +0100
+
+    fix: small error
+
+commit ec45542fc263e8a57df91fba6e93847a3e4bf507
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 30 20:45:21 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.1
+
+commit 9bfa983c70daf7460fd1823c518d5e78d6054ec9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Nov 28 01:34:44 2020 +0000
+
+    chore(deps): update dependency prettier to v2.2.1
+
+commit c80150e190026ab8f17c6f64591d8f8a431cefb0
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Nov 22 18:47:15 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.12.0
+
+commit 19c9c62e7ec13e22a49c79bd84e3c640534ff065
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Nov 20 05:12:29 2020 +0000
+
+    chore(deps): update dependency prettier to v2.2.0
+
+commit 705044faa3b5eed337dc951ae019991286f9cbb2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Nov 14 15:34:45 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.6
+
+commit c8e6d32f3c07bde24c8c0408c3832f340d30a39f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Nov 3 01:44:13 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.5
+
+commit 449304be32771d97300fc8f35afd2d592a06b5e8
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Oct 30 21:07:57 2020 +0000
+
+    chore(deps): update dependency jasmine to v3.6.3
+
+commit da56d0a453f42dd871d1ec754a21f8177e8fd561
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Oct 28 09:08:43 2020 +0000
+
+    chore(deps): update dependency sinon to v9.2.1
+
+commit d116247e99aa76c586142643d2c12f9ebb2f278b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Oct 26 01:10:32 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.4
+
+commit 71cd77a801f118b7410c97e3daa3ca17ab4a5107
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Oct 19 00:38:25 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.3
+
+commit 51f9a1236b8b1f5ec4eb294acf4dd47285d29bc5
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Oct 16 01:24:52 2020 +0000
+
+    chore(deps): update dependency jasmine to v3.6.2
+
+commit 100202e9346755ad3110b5e159157852840917dc
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Oct 11 14:27:08 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.2
+
+commit fdd0ba7d8d17332462c58bd4be83f244d0e8b316
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Oct 10 10:30:39 2020 +0000
+
+    chore(deps): update dependency browserify to v17
+
+commit 084778e36c05ae10859c139c4432c46e8f509b22
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 6 19:17:00 2020 +0000
+
+    chore(deps): update dependency sinon to v9.2.0
+
+commit cf2cfa0197abd1ef4174bd2ebb8018b024409d78
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Oct 4 17:15:42 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.1
+
+commit adafa99485b2bb919723092e91cd37fc7d7cf9a1
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Sep 29 21:07:22 2020 +0000
+
+    chore(deps): update dependency sinon to v9.1.0
+
+commit e33ddbeff24ca236892c9e486c33a945161e68ec
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Sep 27 14:44:08 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.11.0
+
+commit 2b16c8e49abd6f926b3c567cc252006abc14c8de
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Sep 16 01:24:06 2020 +0000
+
+    chore(deps): update dependency prettier to v2.1.2
+
+commit c5f83f5f4ef5aa4d5598da43e414c2e546ad942f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Sep 6 17:50:44 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.10.4
+
+commit 8fa290daaca564572a24a8ab93665d45bf135ea9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Aug 30 17:01:04 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.10.3
+
+commit 0b1e14a4e3d0696e03bb52b8d39cd01b77ced109
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Aug 26 05:03:29 2020 +0000
+
+    chore(deps): update dependency prettier to v2.1.1
+
+commit c87abe6d94869ae12fa7552731df59df06d7de17
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 24 12:14:48 2020 +0000
+
+    chore(deps): update dependency prettier to v2.1.0
+
+commit c81743b13b884c2ab5cc24e15783ea625e98fe56
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Aug 23 19:49:53 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.10.2
+
+commit e557ac6c269fedfaf1adf3eab7a935ccf5fa4e18
+Author: sherwinski <sherwin@imgix.com>
+Date:   Tue Aug 18 13:25:49 2020 -0700
+
+    chore: add project CODEOWNERS
+
+commit ca78b4d0874885d54704c0eb5a43c553c75b5162
+Author: sherwinski <sherwin@imgix.com>
+Date:   Tue Aug 18 13:25:35 2020 -0700
+
+    chore: add pull request template
+
+commit c45d86e71d7f435f698925fe20e6c1a7b3017160
+Author: sherwinski <sherwin@imgix.com>
+Date:   Tue Aug 18 13:25:11 2020 -0700
+
+    chore: add issue templates
+
+commit 319766e76c196752d9f7e1f4ea27dabc8d835e49
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Aug 15 03:46:43 2020 +0000
+
+    chore(deps): update dependency sinon to v9.0.3
+
+commit 6d73d8b36bb6bcea902f27f68018e7bc5d5ce4ce
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Aug 15 00:30:31 2020 +0000
+
+    chore(deps): update dependency standard-version to v9
+
+commit fd8d0b9f5aef035fd1228aa41f4b1c1a9b5af34d
+Author: Sherwin H <sherwin@imgix.com>
+Date:   Tue Aug 11 17:00:06 2020 -0700
+
+    chore: replace ref to master with main
+
+commit 1550db4214fb70f70997228bb4b5520ba967baf2
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Fri Aug 7 12:59:48 2020 +0200
+
+    chore: change refs of master to main
+
+commit 6e707103f5b52c93b263cc6bf3d6ab8d60f0385f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 3 20:18:48 2020 +0000
+
+    chore(deps): update dependency browserify to v16.5.2
+
+commit 84a46529db064fd18d4e7dfa51ec034e86865d16
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Aug 2 16:51:45 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.10.1
+
+commit 244540855dc9869e9174027b9d36e1254100650f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Jul 24 23:42:54 2020 +0000
+
+    chore(deps): update dependency jasmine to v3.6.1
+
+commit 1e3c3751e3d956cf08d147267858e5f456162f2f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Jul 24 00:02:52 2020 +0000
+
+    chore(deps): update dependency jasmine to v3.6.0
+
+commit 3f15bc0625b841e8e0f7894bbf2493cf41ca0a67
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jul 14 01:40:21 2020 +0000
+
+    chore(deps): update dependency standard-version to v8.0.2
+
+commit 29815b152406b9c4974d9ee9bcc1ddbb71ca4011
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Jul 12 08:40:42 2020 +0000
+
+    chore(deps): update dependency standard-version to v8.0.1
+
+commit 3df7fa912ac3b5fd9d72f16ca8f213d03c88149f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Jun 21 13:09:26 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.10.0
+
+commit 1014499a3ec22063e63bfe1ceddb994cbce749ba
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed May 27 12:21:22 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.9.4
+
+commit 27626f512f34117765d9b99fa89ee4cdd31aaff9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed May 13 12:32:03 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.9.3
+
+commit 47763368259bc50ea63cf51acd6bc0a28d13ccf8
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed May 6 21:16:55 2020 +0000
+
+    chore(deps): update dependency standard-version to v8
+
+commit 6cf05b1a170651dbe69eb00d1b998c1f443f1171
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun May 3 08:45:00 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.9.2
+
+commit 15826f40dce81c518000f1b9620272fdcd5c86bd
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Apr 21 17:13:52 2020 +0000
+
+    chore(deps): update dependency prettier to v2.0.5
+
+commit 21f18d9eb75289fc6f64b3b52ff5bb9f3c436441
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Apr 15 11:25:40 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.9.1
+
+commit f6a06baa96478951fda03e3e655fb4a6b8a923c4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Apr 13 15:19:20 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.9.0
+
+commit c76debd5cbbc21452de82b15b00d5a738d4faa09
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Apr 8 11:48:31 2020 +0000
+
+    chore(deps): update dependency sinon to v9.0.2
+
+commit 892696d9afadc9d17bf5caf860a1a9794763b52e
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Apr 6 12:12:59 2020 +0000
+
+    chore(deps): update dependency prettier to v2.0.4
+
+commit 7968e5f3f7fd76df69b7136099a5f88b30b2862a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Apr 5 21:12:41 2020 +0000
+
+    chore(deps): update dependency prettier to v2.0.3
+
+commit 27a0f4d3a0c4de10ed8d7c7454a92a33bcde34d9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Mar 30 10:35:50 2020 +0000
+
+    chore(deps): update dependency browserify to v16.5.1
+
+commit 18b759a43558db8422a5d2311e3f1a04f1c44e0b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Mar 28 01:05:03 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.8.1
+
+commit 0c1c42eb5288a914d87a0ff7ca7b7123b4239459
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Mon Mar 23 16:25:19 2020 -0700
+
+    chore(deps): update dependency prettier to v2.0.2 (#199)
+
+commit ff9ba34fe066924d7e1e8db05329409af4845a8a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Mar 21 23:38:57 2020 +0000
+
+    chore(deps): update dependency prettier to v2.0.1
+
+commit b8f14ee2c03c516d2bc9b25dc3b91a63f8d3079f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Mar 21 20:30:48 2020 +0000
+
+    chore(deps): update dependency prettier to v2
+
+commit 54163aedd4209118c1c9de79446397ccb9fa416d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Mar 10 09:09:02 2020 +0000
+
+    chore(deps): update dependency sinon to v9.0.1
+
+commit ff8117f885efdde6c6ffd6923c4b9dacb3e2f2be
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Feb 19 11:18:09 2020 +0000
+
+    chore(deps): update dependency sinon to v9
+
+commit d4c91379bde0f714e2a1f16abd2bf1841ed3feec
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Feb 18 14:31:39 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.8.0
+
+commit 20657165001316e5a891ce3565ba9ee74753d6fa
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Feb 3 23:09:30 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.7
+
+commit ecfb14936c2e58e6c45a559c08a20893a5e48600
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Jan 22 10:35:30 2020 +0000
+
+    chore(deps): update dependency sinon to v8.1.1
+
+commit e8448ea0ff12e485f7523b5d2de131cd13880b14
+Author: sherwinski <sherwin@imgix.com>
+Date:   Tue Jan 21 15:36:16 2020 -0800
+
+    docs: restructure README header; style/text changes (#184)
+
+commit e27c6c425f1b9b0dc4baf5d82c9af8018f3dadbb
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jan 21 21:40:53 2020 +0000
+
+    chore(deps): update dependency standard-version to v7.1.0
+
+commit cc7cd7c26f3b5e335c421d18ef8a5af3fd1fd06c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jan 21 01:41:34 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.6
+
+commit 8e14c8b93d06ae72fbf890dbf254e81f08d4e754
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Jan 16 08:10:06 2020 +0000
+
+    chore(deps): update dependency sinon to v8.1.0
+
+commit 17d797d3cb2cb8c7e235917a4ff3806634b1686a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Jan 12 12:43:09 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.5
+
+commit 5c133344559ef851c6cd211f456a77d1b7afae47
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jan 7 01:28:40 2020 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.4
+
+commit 1b926f1e2e14bab117062d1518150be66052edf0
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Jan 6 15:21:31 2020 +0000
+
+    chore(deps): update dependency sinon to v8.0.4
+
+commit c0605ea4cb4da71cf5aa86673e9ed9b4f5f8e23a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 30 15:16:47 2019 +0000
+
+    chore(deps): update dependency sinon to v8.0.2
+
+commit a78cc49456ec386d34fcf9dd9965e4e2efe9b451
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Dec 27 00:53:28 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.3
+
+commit 479d4ab6dadc1830a7dddb2d000f07a23a0a52a4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Dec 23 09:30:22 2019 +0000
+
+    chore(deps): update dependency sinon to v8.0.1
+
+commit 519dcfef4f80e252b47da070d78abfb046d6598c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Dec 22 16:15:54 2019 +0000
+
+    chore(deps): update dependency sinon to v8
+
+commit d4c2b6fae1b069da8e621fd8981c92f3e16b89ab
+Author: Sherwin H <sherwin@imgix.com>
+Date:   Mon Dec 9 16:57:41 2019 -0800
+
+    chore(release): 3.4.2
+
+commit 98a7d7b7978d42d1956f71c0eb31899114e9b32b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Dec 8 17:20:48 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.2
+
+commit 58b3df2930475af4e9a576e6ad5ca98c64c0df31
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Dec 4 19:27:20 2019 +0000
+
+    chore(deps): update dependency gulp-rename to v2
+
+commit ab5cb633d7655a06faf428a92efe7bba2c77d2e2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Nov 30 04:30:37 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.1
+
+commit ccd3098926b136f50248e85dea08c6936f9703b4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Nov 26 22:38:24 2019 +0000
+
+    chore(deps): pin dependency sinon to 7.5.0
+
+commit a996feb8fb105e28ca3762e7b90e94a1c2521565
+Author: sherwinski <sherwin@imgix.com>
+Date:   Tue Nov 26 14:38:01 2019 -0800
+
+    fix: skip over tags that fail validations (#175)
+
+commit 67449d3705d817d6c6ced71e17377cbe26675322
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 25 17:03:21 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.7.0
+
+commit 843227372864a195ca2a484336951ca9ac3a4a61
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Nov 18 17:00:11 2019 +0000
+
+    chore(deps): update dependency standard-version to v7.0.1
+
+commit 86f698fc1da606dfc1e9e7dc7dff4485a87b40f8
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Nov 12 21:21:23 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.9
+
+commit 30bb07c843fcaa9c6339de2e0b21d4895e48df03
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Nov 9 12:43:43 2019 +0000
+
+    chore(deps): update dependency prettier to v1.19.1
+
+commit 80331b6d5426f24e3a0decea937b1fe112b754ac
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Nov 9 00:38:55 2019 +0000
+
+    chore(deps): update dependency prettier to v1.19.0
+
+commit 8b544b1c71df37bd1e1046ea861dcec2f673cd8d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Nov 6 09:20:20 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.8
+
+commit cb633a566be1c16575b2559bb335e7d64de0e535
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Nov 2 08:07:04 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.7
+
+commit 336bdf1ff55ba86bd3aa3da7b807343eec3a2dfa
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Nov 1 12:52:43 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.6
+
+commit 00d2b56544f1d9a981b323cc2d229b20c3d34b3b
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 29 07:59:30 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.5
+
+commit 4ad75c7e8fcb6e717afce10e972ef42aaeb8017c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 29 00:11:10 2019 +0000
+
+    chore(deps): update dependency chokidar-cli to v2.1.0
+
+commit 24d8df3499592e2a5bddc81131577bbd5228f44f
+Author: sherwinski <sherwin@imgix.com>
+Date:   Wed Oct 23 16:45:18 2019 -0700
+
+    chore(deps): run audit fix for vulnerable dependencies (#161)
+
+commit 863973d2fb7c11d80cc0d2e182b387c06f7ec98a
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Oct 23 14:13:11 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.4
+
+commit b0ec5bac59c76c0d620b1999b3c9276f557191ec
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Oct 19 12:03:07 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.3
+
+commit 3576de180db9fdb0be6632532da41fa4d96731af
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 15 17:37:11 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.2
+
+commit c119c5edf7d2c6e4554ba9e92e832b922b34c3c1
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 8 08:04:54 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3.6.1
+
+commit 0e6901c375f9ad9b5e145b37a3c799221505afa5
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Sep 21 00:23:13 2019 +0000
+
+    chore(deps): update dependency jasmine to v3.5.0
+
+commit 7b58445832ec520b7d115b107290dfd55223166f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Aug 9 05:31:43 2019 +0000
+
+    chore(deps): update dependency browserify to v16.5.0
+
+commit cdef90e390d19ed77a70982ddf4054f90acf2397
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Aug 8 00:17:45 2019 +0000
+
+    chore(deps): update dependency browserify to v16.4.0
+
+commit 235caf8678c6aee24a89e8f17670f2702566c8bb
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Jul 31 20:30:15 2019 +0000
+
+    chore(deps): update dependency chokidar-cli to v2
+
+commit 794085a4ca17518fd3ad9609a143177ab3da42d2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Jul 30 05:16:17 2019 +0000
+
+    chore(deps): update dependency standard-version to v7
+
+commit b5f3f75e98212f93b52c9e8536bdedb16b9f205d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Jul 5 14:55:20 2019 +0000
+
+    chore(deps): update dependency browserify to v16.3.0
+
+commit ee1f447fe7a0c8dc82e87408c879e42563cf8c54
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 06:55:59 2019 +0000
+
+    chore(deps): update dependency uglify-js to v3
+
+commit 1f6aa6bd15d152cf5e6956ef63c215e0709b5cde
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 06:55:37 2019 +0000
+
+    chore(deps): update dependency gulp-uglify to v3
+
+commit aa60d6d8386c345b5cbdb2e70fffa00b6a421c9d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 02:43:43 2019 +0000
+
+    chore(deps): update dependency standard-version to v6
+
+commit 127ff020c2c218938aba606a1ac697548094f59f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 02:43:13 2019 +0000
+
+    chore(deps): update dependency jasmine to v3
+
+commit 6f755dd4c995e326ec45f776c1f942aaa330addf
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 01:54:44 2019 +0000
+
+    chore(deps): update dependency gulp to v4
+
+commit 3fdbca172224fa7c80937c7491b1aa06d3ee25f2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 00:36:30 2019 +0000
+
+    chore(deps): update dependency browserify to v16
+
+commit ea59bdb03c63a166cdc3354f7cc4af071f2821b6
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Jun 8 00:36:03 2019 +0000
+
+    chore(deps): update dependency prettier to v1.18.2
+
+commit 90b5921f3dbe16ad446a144038f9fbe103746287
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Jun 7 23:59:39 2019 +0000
+
+    chore(deps): update dependency chokidar-cli to v1.2.2
+
+commit 1d42e40bd6c84e9deaa9f0c532d615612c00dcb3
+Author: renovate[bot] <renovate[bot]@users.noreply.github.com>
+Date:   Fri Jun 7 16:59:01 2019 -0700
+
+    chore(deps): pin dependencies (#141)
+
+commit b96ba7740fa5b704bf9021751600956cabe0c0f2
+Author: renovate[bot] <renovate[bot]@users.noreply.github.com>
+Date:   Fri Jun 7 16:52:52 2019 -0700
+
+    Configure Renovate (#140)
+
+commit 66737d59a8f47b9b72e76327a379b96bc4765105
+Author: sherwinski <sherwinhb@gmail.com>
+Date:   Thu May 23 23:20:35 2019 -0500
+
+    chore(release): 3.4.1
+
+commit a39b577c86b30c10769589b83fcbc71ffbc73cdb
+Author: sherwinski <sherwin@imgix.com>
+Date:   Thu May 23 23:09:43 2019 -0500
+
+    refactor: switch `const` to `var` for wider browser support (#138)
+
+commit dfce2e9c9cbf10feb95974c3404215f329448084
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Wed Dec 5 10:02:39 2018 +0100
+
+    chore(release): 3.4.0
+
+commit 3ba42e515c80433ae84b891df85ccc53100d3e29
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Wed Dec 5 10:01:26 2018 +0100
+
+    chore: add publish scripts and instructions
+
+commit ab42f741eae1dafa57ba9db07ed017f2ad2e6de9
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Wed Dec 5 09:41:38 2018 +0100
+
+    feat: global default parameters (#134)
+    
+    ## Description
+    
+    This PR allows developers to set default parameters for every img tag. This prevents them from having to set the same parameters over and over again.
+    
+    This fixes #129
+    
+    ## Steps to test
+    
+    Review new unit tests.
+
+commit 8216df452d38970ab4447f8865bfa7cafec2f779
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Tue Dec 4 12:39:56 2018 +0100
+
+    fix: remove support for value-less search parameters (#135)
+
+commit d18a85f0682b8263535002a6dfedcd93d26b973a
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Tue Nov 27 00:02:51 2018 +0100
+
+    feat: use exponential increase for srcset widths (#130)
+    
+    ## Description
+    
+    This PR updates the srcset width-generation logic. The widths now grow exponentially, rather than by a fixed amount. This means that the dimensions of a  rendered image are at most 8% from the "pixel-perfect" dimensions.
+    
+    ## Steps to test
+    
+    Ensure that tests still pass.
+
+commit 4dc149bced548fcb45adcdd52312fde67a5c31d1
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Mon Nov 26 23:47:36 2018 +0100
+
+    chore: add package-lock.json and prettier (#131)
+    
+    ## Description
+    
+    This PR checks in `package-lock.json`, which is recommended to be checked in by npm.
+    
+    This PR also adds code formatting with Prettier. This is accomplished by adding a `npm run pretty` command which anyone can run to format the source code and tests.
+    
+    It is also recommended that PrettierCI be added to this repo to enforce code formatting.
+
+commit 65cae17e40bd5438c0320152e64730024591a9f6
+Author: Frederick Fogerty <frederick.fogerty@gmail.com>
+Date:   Mon Nov 26 23:28:47 2018 +0100
+
+    chore: update travis node version to stable (#133)
+    
+    ## Description
+    
+    This PR updates the Travis node version to follow the "stable" flag
+
+commit d5aa14bb34c574f4d0052a28fb389c7844037f80
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Nov 9 17:36:14 2017 -0500
+
+    Bump to 3.3.2 and check in dist files
+
+commit 2dd3f416b2a7627ad3593596d5c7babb0c8bb73b
+Merge: 6a459c1 682446e
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Nov 9 17:33:30 2017 -0500
+
+    Merge pull request #128 from imgix/fix-baseparam-extraction
+    
+    Fix bug in `ImgixTag._extractBaseParams()`
+
+commit 682446e0b73c206d8b3c70294a7d6f0a71cbfb3c
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Nov 9 16:37:03 2017 -0500
+
+    Fix tests for `ImgixTag._extractBaseParams()`
+
+commit 18ca8504d61f68a454d4aa7d8b3c8d210ba17a8b
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Nov 9 16:36:47 2017 -0500
+
+    Don't output `=undefined` for key-only params
+
+commit 582d68f01bc29be34eb24421c451f59858076d46
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Nov 9 16:36:30 2017 -0500
+
+    Return an empty object when ix-src has no query
+
+commit 6a459c12a0a15b7b8c2f0b60ca54f534752b7042
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Nov 9 12:17:27 2017 -0500
+
+    Fix Browserify instructions in README#installation
+    
+    H/T @Aratramba for [comment](https://github.com/imgix/imgix.js/issues/109#issuecomment-342838491) in #109
+
+commit c54caaca79f45032e3cb94f1b7b7a635f4cebe58
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 26 11:36:56 2017 -0400
+
+    Bump to 3.3.1 and check in dist files
+
+commit 8f2050c61f00e081f0c17aae12504a214c2966f7
+Merge: bed482e eff1944
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Oct 26 11:25:56 2017 -0400
+
+    Merge pull request #127 from imgix/fix-126
+    
+    Don't allow a fractional maxScreenWidthRequired
+
+commit eff194416a0efc9f0c528eb070466cd474ae0bf5
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 26 11:20:57 2017 -0400
+
+    Don't allow a fractional maxScreenWidthRequired
+
+commit bed482e5b191e6df4022fd3ecbd4b55f38264da0
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 19 12:38:35 2017 -0400
+
+    Bump version to 3.3.0 and check in dist files
+
+commit f78ba5cdbb58943bc7858249afa85f6ec7cedc2e
+Merge: f3a7144 e4c48e0
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Jun 19 12:18:02 2017 -0400
+
+    Merge pull request #123 from imgix/allow-null-attributes
+    
+    Allow for skipping attribute-setting
+
+commit e4c48e0b9da3d6b5a223d66002048ea0cf17f023
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Jun 16 16:23:57 2017 -0400
+
+    Ensure missing meta-tags don't kill default config
+
+commit cfa004e772b3a977c9f98e53797a011aff7f5ea9
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Jun 16 15:29:23 2017 -0400
+
+    Update README to mention nulling output attributes
+
+commit 436c1e63641a61a62c590e6bb032535862213cb6
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Jun 16 15:20:46 2017 -0400
+
+    Allow null values for custom attribute names
+    
+    Setting a custom attribute name to null prevents that attribute from being set at all.
+
+commit 0d32b3d8c6f69f039b9892e1acff3cfc21e4fb54
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Jun 16 15:19:45 2017 -0400
+
+    Allow config values set via meta tag to be null
+
+commit 8ef74f937de94eb6229c15c4abeaa18ad66b034c
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Jun 16 15:13:06 2017 -0400
+
+    Adding a utility `.isString()` function
+
+commit f3a7144ace02eadb0dcbd4e2010f88af73705bcf
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 15 19:19:23 2017 -0400
+
+    Fix version number in dist files
+
+commit 1bf8f964ef03c279a7e95a301a4d614183c6886a
+Author: Pedro Aguilar <pedro@imgix.com>
+Date:   Wed Jun 14 10:09:21 2017 -0700
+
+    Create README.md
+
+commit 1b0ad4d614bcf2adaae83dfc3567c3440a3680d5
+Author: Carol Gunby <rakuista@users.noreply.github.com>
+Date:   Fri Jun 9 12:03:26 2017 -0700
+
+    Remove reference to Slack
+
+commit 77bbbdb4be93adac334149e77ed286e1fe65ecbf
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Mar 1 17:49:37 2017 -0500
+
+    Upgrade to 3.2.0 and check in dist files
+
+commit 7ef83aac0e6b0e42c9349fc813ffac33897a6cf9
+Merge: 7412a2e 5a32c37
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Wed Mar 1 17:39:42 2017 -0500
+
+    Merge pull request #116 from imgix/config-changes
+    
+    Simplify configuration setup
+
+commit 5a32c37b07b52b7d95b6943bcb9c67b9a38ee118
+Author: rakuista <rakuista@gmail.com>
+Date:   Wed Mar 1 10:35:24 2017 -0800
+
+    Copyedits
+
+commit c187e4fa7961b30519991264d1840a2759fc32c0
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Mar 1 13:10:06 2017 -0500
+
+    Update README to better describe config options
+
+commit 5ce45481a8f8562d222a31d9d0d15c87f903a368
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Feb 23 10:44:42 2017 -0500
+
+    Combine init option and global config
+    
+    Also allow any config option to be set in a meta tag.
+
+commit 92bccae81f0b4d0aba97180014628e6a66d2dc04
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Feb 23 10:42:25 2017 -0500
+
+    Add utils.objectEach function
+
+commit 7412a2edc94eadf0338d93e5bcab8320a8f64eab
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue Feb 21 11:01:24 2017 -0500
+
+    Bump to 3.1.0 and check in dist files
+
+commit 4eaafdff1170e22a8d6497531066a8ff7ad41799
+Merge: cf9f0d6 b45acfd
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Tue Feb 21 10:55:40 2017 -0500
+
+    Merge pull request #114 from imgix/fix-ixsrc-encoding
+    
+    Fix ix-src b64 encoding issue
+
+commit b45acfd0fc12d90c7a722c483e0636007720db5d
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Feb 20 18:08:12 2017 -0500
+
+    Update README with notes about b64 parameters
+
+commit 57828af8cbf6fa6787ceb155829bb6822092a970
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Feb 20 17:58:38 2017 -0500
+
+    Don't auto-encode b64 param values in ix-src URLs
+    
+    Note: this reverts 88d6fc4d2da5ff7c706cb04a3cde009475f2f73d and f68fb2a88d06de24a89d91b73512a61cee338f1d. We should not be expecting users to provide anything other than complete, valid URLs to the `ix-src` parameter, therefore we should be taking all parameters in an `ix-src` URL at face value and not attempting to auto-encode any of them.
+
+commit cf9f0d62383c35574fe860d8d20beb03bf3ee439
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Feb 20 17:48:51 2017 -0500
+
+    Fix a typo in README.md
+
+commit c6c70ce59f6f5ea0d76126a7255d849837831fad
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Nov 3 12:13:58 2016 -0700
+
+    Add another note about using `sizes`
+
+commit 31c5e2c5f28fcc8c6ed77f791750113d9e85d912
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Oct 17 15:16:56 2016 -0700
+
+    Bump version to 3.0.4
+
+commit 399f62bf540fe238878284c18fc4f1b843546493
+Merge: b5ff976 11b63f8
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Oct 17 15:09:23 2016 -0700
+
+    Merge pull request #112 from imgix/111-editable-input-attributes
+    
+    Editable input attributes
+
+commit 11b63f8c7f03bc444e90eea06ebb130bbd2a9449
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Oct 17 13:04:00 2016 -0700
+
+    Document custom input attributes. Closes #111
+
+commit 40d1cd73ee1584d80d0a36a8b4fda82ada9c0bde
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Oct 17 12:56:28 2016 -0700
+
+    Allow setting custom input attrs.
+
+commit b5ff976dbb41ca7680f8e6e3a41295c0edd0457d
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri Sep 16 13:45:56 2016 -0700
+
+    Update README.md
+
+commit a6dd3dcea33a8b64e48d702013cf86af71a53a56
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri Sep 16 13:45:37 2016 -0700
+
+    Add Browserify note to readme
+
+commit 4cdd06f1f4bbc8f3ca7b08395db86856768c80e6
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Sep 12 13:00:41 2016 -0700
+
+    Bump version to 3.0.3
+
+commit 666aa1e9ebedd72e6780299da525edcb3dd25cd9
+Merge: e5b72fc f68fb2a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Sep 12 12:59:45 2016 -0700
+
+    Merge pull request #110 from imgix/fix-64-params-from-ix-src
+    
+    Properly encode Base64 variant params from ix-src.
+
+commit f68fb2a88d06de24a89d91b73512a61cee338f1d
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Sep 12 12:51:02 2016 -0700
+
+    Fix Base64/ix-src test.
+
+commit 88d6fc4d2da5ff7c706cb04a3cde009475f2f73d
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Sep 12 12:49:28 2016 -0700
+
+    Properly encode Base64 variant params from ix-src.
+
+commit e5b72fc15ae58d4436e83c65185d8797879d4bb5
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jul 21 12:50:36 2016 -0700
+
+    Bump version to 3.0.2
+
+commit 8070661c4e46b9cff8da73c8bd96c4148b4ac5d2
+Merge: 3f8c7a5 48dbb22
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jul 21 12:44:49 2016 -0700
+
+    Merge pull request #107 from imgix/handle-missing-dpr
+    
+    No more errors when missing `window.devicePixelRatio`
+
+commit 48dbb2247bc4cd25de97635be72a8701b1797812
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jul 21 12:38:38 2016 -0700
+
+    No more errors when no `window.devicePixelRatio`.
+
+commit 3f8c7a5c886998df91dd84be05290892f3235498
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jun 30 15:58:59 2016 -0700
+
+    Bump version to 3.0.1
+
+commit 4d553d5313bcd79ed79728e9fe1fa89bbd0971d2
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jun 30 15:53:58 2016 -0700
+
+    Document `includeLibraryParam` meta tag setting.
+
+commit 0db38d18914e8b0110b6e2aacb9081a1bbeff1b8
+Merge: 1d68876 b1fc978
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jun 30 15:51:08 2016 -0700
+
+    Merge pull request #104 from imgix/ixlib
+    
+    Add `ixlib` param, options, and readme info.
+
+commit b1fc9789c8aad5523b2b211656c76f6ebb241e2c
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jun 30 15:47:52 2016 -0700
+
+    Default config tests + includeLibraryParam w/meta
+
+commit a7a966be761e09be9c6b9b13a26282ba741debb7
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu Jun 30 15:36:41 2016 -0700
+
+    Add `ixlib` param, options, and readme info.
+
+commit 1d68876be083deacaa84d4104a6fc6f9c85fb846
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Wed Jun 22 10:03:25 2016 -0700
+
+    Bump version to 3.0.0 (!)
+
+commit 3382066fee96737fdafe35af7bd4f16e8c634d8f
+Merge: 058c9d9 686c96e
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Wed Jun 22 09:58:55 2016 -0700
+
+    Merge pull request #100 from imgix/three-point-oh
+    
+    imgix.js 3.0
+
+commit 686c96e9a551b7023c4efa1badc8427c7e9bc2ae
+Merge: 9e02302 763a1bd
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Jun 20 16:56:49 2016 -0700
+
+    Merge branch 'three-point-oh' of https://github.com/imgix/imgix.js into three-point-oh
+    
+    # Conflicts:
+    #       dist/imgix.min.js
+
+commit 9e02302fb0e51fc729e5e646fbd911069328f3d9
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Jun 20 16:56:36 2016 -0700
+
+    Ability to choose attributes to set for lazysizes.
+
+commit 763a1bd98867b206c3033ab3a7aac82994095a81
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun Jun 5 17:17:09 2016 -0700
+
+    Fix previous change (opposite) + test it.
+
+commit 1aab3c43df5c626671037389e28b9d09e6f37b3b
+Merge: 856f76e b6ac95c
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun Jun 5 17:11:41 2016 -0700
+
+    Merge branch 'three-point-oh' of github.com:imgix/imgix.js into three-point-oh
+    
+    # Conflicts:
+    #       dist/imgix.min.js
+
+commit 856f76e9c3946e4960c8290c7e79289da676fa7a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun Jun 5 17:11:05 2016 -0700
+
+    Only encode b64 params from `ix-params`
+
+commit b6ac95ce18e645015026d0a770f394b87231db25
+Author: rakuista <rakuista@gmail.com>
+Date:   Wed May 18 14:59:15 2016 -0700
+
+    Minor copyedits
+
+commit 7a41f21918d07e6a5c74b43cb8d6aa307e336b48
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 16 17:46:37 2016 -0700
+
+    Some cleanups suggested by @kellysutton
+
+commit a544cc22a07e0092e31f89057cd0ef6cd21d64ff
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 16 17:39:46 2016 -0700
+
+    Fix an old reference to `imgix.config.host`.
+
+commit 4b635c455cea8081d3ecb22559036b07d7040738
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 15:07:05 2016 -0700
+
+    Clarify default global options.
+
+commit 83610b0ead2d924d9934504ac5b1543dcadb9a4c
+Merge: 9e7962e 7045ce7
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 15:06:11 2016 -0700
+
+    Merge pull request #102 from imgix/copyedits
+    
+    Copyedits
+
+commit 7045ce7dd0ecb62b661f3437de9c344b5d2409c8
+Merge: 356086c 9e7962e
+Author: rakuista <rakuista@gmail.com>
+Date:   Fri May 13 15:03:53 2016 -0700
+
+    Merge branch 'three-point-oh' into copyedits
+
+commit 356086c8da1d52f426e74c7f9928fb9be943d68f
+Author: rakuista <rakuista@gmail.com>
+Date:   Fri May 13 15:03:50 2016 -0700
+
+    Fix errors
+
+commit 9e7962eb854634e77ccb138719fe7b4d702c946a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 14:56:35 2016 -0700
+
+    Bold "before you get started" notice.
+
+commit faaaaf39474e8ffcd8ea1c07268342bf090998bc
+Merge: af749f5 a1acb5e
+Author: rakuista <rakuista@gmail.com>
+Date:   Fri May 13 14:55:36 2016 -0700
+
+    Merge branch 'three-point-oh' into copyedits
+
+commit af749f59d1e824d7cf9f6e5b2f42b6b9cf2717c8
+Merge: 08f16ff 4467a74
+Author: rakuista <rakuista@gmail.com>
+Date:   Fri May 13 14:54:18 2016 -0700
+
+    Merge branch 'three-point-oh' into copyedits
+
+commit a1acb5ec53847d2afbb4e9c71c5c09eb58d9b241
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 14:53:02 2016 -0700
+
+    Add ix.js `2.x.x` links, as mentioned in #99
+    
+    (Thanks for the reminder, @rakuista)
+
+commit 08f16ff525232a3a076e58b31efbd25b80ea639c
+Author: rakuista <rakuista@gmail.com>
+Date:   Fri May 13 14:51:44 2016 -0700
+
+    Minor copyedits
+
+commit 4467a7442c89f9fd8f8f3784e1dad0e14017186a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 14:35:51 2016 -0700
+
+    More tests!
+
+commit c7f12c30ea3ac11720f00d6e483d188a17fdc402
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 12:01:33 2016 -0700
+
+    Phrasing.
+
+commit 36a6738a6be4df666dfe8c5dfc2a24a9c569ba79
+Merge: 9e223d4 ddf279f
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 12:00:53 2016 -0700
+
+    Merge branch 'three-point-oh' of https://github.com/imgix/imgix.js into three-point-oh
+
+commit 9e223d4efa78643ef8e5f3a46d8ee8d2eebbc1c6
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 12:00:51 2016 -0700
+
+    More clarification around overview/resources
+
+commit ddf279fcdfe4f9de7ca09e31898be1d70e05f447
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 01:19:45 2016 -0700
+
+    SPA note
+
+commit 334889db6ea4651e69b8712833c14ee85b2c8a6a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 01:18:33 2016 -0700
+
+    Document all recent additions/changes.
+
+commit 50704bb55366e4b46fd095951660b49bac929989
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 00:57:10 2016 -0700
+
+    Allow using `meta` tags to specify global config.
+
+commit 35bc994c92e89a0c3e3bde0db50deda71636eb7d
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 00:44:31 2016 -0700
+
+    Add `force: true` opt  to `imgix.init()`
+    
+    Also switched to a standard `shallowClone` implementation.
+
+commit 76bbe874dbb212d7312a6e0be7990a8f5a3e3f85
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Fri May 13 00:08:29 2016 -0700
+
+    Allow `ix-host` attribute override.
+
+commit 7b16991ecaa43a04c62a443c6233c3dfee0097ff
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 12 23:53:14 2016 -0700
+
+    auto-trigger an `imgix.init()` after DOM ready.
+
+commit afa6b9db8203705a3c39c726658e91ddeda3f7b5
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 12 23:18:17 2016 -0700
+
+    remove unused .gitignore items
+
+commit 585d514bb29a27074240ee7c23c9250be5a20c9d
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 12 16:45:40 2016 -0700
+
+    `ix-params` JSON requirement + Picturefill compat
+
+commit bc3a38a016beeef6a3f560beccf96572bf286177
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 12 11:57:40 2016 -0700
+
+    Update "support request" links
+
+commit 8f0f73be0d47edc684fa6904c976a2afc306bf25
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 12 11:54:47 2016 -0700
+
+    A few fixes for items mentioned by @jayeb.
+
+commit a05a0571989e121fafec1b9eba30fb851b58b6cd
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 16:22:48 2016 -0700
+
+    `picture` tag docs
+
+commit 3545ef5c10c114d84139d13bbf5a07f94a576b43
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 15:59:05 2016 -0700
+
+    Readme fixes from Carol
+
+commit 1e7b54b90d2a27d05a7051e026849a9232a49839
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 15:33:45 2016 -0700
+
+    imgix.js summary in readme
+
+commit 56b477317942c75002af77b08a80e12b9c202450
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 14:39:29 2016 -0700
+
+    Readme updates
+
+commit 9cfd974cbdf245566531ee046f32b091b02278a3
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 14:37:31 2016 -0700
+
+    Contribution guide tweaks.
+
+commit fc2112c25b063acf5c5d8b452af33871283c58e5
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 14:36:41 2016 -0700
+
+    Meta stuff. Mostly readme + build script changes.
+
+commit 0f97eb2230e853f10862a457073fcef7d1a3fef4
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 03:07:35 2016 -0700
+
+    🛎
+
+commit bd279876d251aa3d8e8ad938788a4662a4cf39ad
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 03:06:33 2016 -0700
+
+    Mo' readme + mo' rounding
+
+commit 99887fa77b3c99c5e1d55dcda89e05e1847f749b
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 02:29:04 2016 -0700
+
+    Missed a legacy 2.x file
+
+commit 1617b9b2159ab7fbb08329086211206e3a2cc2cc
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 02:23:08 2016 -0700
+
+    📖
+
+commit 95e13b5a1f6469e378c162e18a51606d9e477e59
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 02:22:55 2016 -0700
+
+    .travis.yml
+
+commit 42f03cd55633c6d404e2a72e4d9020caff9e9964
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 9 02:21:26 2016 -0700
+
+    Bugfixes… cleanups… TESTS!
+
+commit d2f122c5bae19d2b907e968088625c1dc57b0753
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun May 8 16:43:59 2016 -0700
+
+    Started adding some readme resources. 📖
+
+commit 725102af015a4a7433e4fe7b89c03e1f4e1fcabe
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun May 8 16:19:49 2016 -0700
+
+    `picture` tag fixes and examples
+
+commit 6d0e080f16b6ffe85a8e737dd17e595a31caca02
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun May 8 15:11:57 2016 -0700
+
+    I accidentally a comma.
+
+commit f5f8f60aeb34c4f9b28f83a841ba7c0b548c4c66
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun May 8 14:59:08 2016 -0700
+
+    Outputting a `srcset`!
+
+commit 82f6f8cb523782919473709cad67786ce8934370
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sat May 7 18:13:23 2016 -0700
+
+    A temporary build script, and "working" code. 😁
+
+commit 9439e9da380a75de3e58cbcde9f74eac529b339e
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 5 03:19:26 2016 -0500
+
+    🚋 Getting there! More ix.js 3.0 work.
+
+commit f204daa5014232ce07d5a4a577248d807e54a4fd
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 5 02:49:50 2016 -0500
+
+    It's sort of starting to look like a tool again!
+
+commit a1a2954d2de885f03ec2401eb4c15ff7c60bef43
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Thu May 5 02:28:57 2016 -0500
+
+    Started the README. Lots to go, but it's a start.
+
+commit dfacbb61074151b20f4d3796e94518d960f63b08
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Wed May 4 14:45:46 2016 -0500
+
+    Very WIP 3.0 stuff
+
+commit bff93abe5b550594acde938ecfedd26f67d876f1
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Wed May 4 10:14:27 2016 -0700
+
+    So long, imgix.js `2.x`! 👋
+
+commit 058c9d9ab4ea40b2f62289b06009301d17294d4a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 2 10:56:43 2016 -0700
+
+    Bump version to 2.2.3
+
+commit 572d0196ff43bd2afe24c1dff0887bd428be3a01
+Merge: 308917d 1c340de
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 2 10:38:20 2016 -0700
+
+    Merge pull request #93 from jordanthomas/load-callback-timing
+    
+    onLoad Callback Timing Fix
+
+commit 308917dc8582d035176818656733b2ba850e9775
+Merge: 6d98a57 ef9668e
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon May 2 10:36:43 2016 -0700
+
+    Merge pull request #96 from psfrankie/master
+    
+    prevent crashing in node when doing server-side rendering
+
+commit ef9668e3eebc9eb0830f180aa38622b55f233f7a
+Author: Frankie O'Rourke <frankie-orourke@pluralsight.com>
+Date:   Sun May 1 12:37:22 2016 -0700
+
+    Reference `window` only if it is defined
+
+commit 8515b505e7841d96f6b251a73fd235883a5d9b12
+Author: Frankie O'Rourke <frankie-orourke@pluralsight.com>
+Date:   Sun May 1 12:36:37 2016 -0700
+
+    Reference `window` only if it is defined
+    
+    prevent crashing in node when doing isomorphic rendering.
+
+commit 6d98a575fa8755e240c967c4a3b5de67ca23d466
+Merge: beebe34 0a6c7a9
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Wed Apr 27 15:09:28 2016 -0700
+
+    Merge pull request #95 from alessbell/add-lazyLoadScrollContainers-to-docs
+    
+    Update docs to include lazyLoadScrollContainers
+
+commit 0a6c7a974feaaa48d1259f0188f128a31470c9db
+Author: Alessia Bellisario <bellisario.alessia@gmail.com>
+Date:   Wed Apr 27 17:54:32 2016 -0400
+
+    Update docs to include lazyLoadScrollContainers
+
+commit beebe34660a2952a8819f7b4ddba5b89f4b14b94
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Apr 25 18:25:25 2016 -0700
+
+    Bump version to 2.2.2!
+
+commit 5e5cc1e6ed88e05d23e1a8edb9ef5788b0ebe838
+Merge: 4ce2bd1 e6858b5
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Mon Apr 25 18:15:55 2016 -0700
+
+    Merge pull request #94 from matiasnombarasco/patch-1
+    
+    Update polyfills.js to work around Prototype's `Array.prototype` behavior.
+
+commit e6858b575ce8fbf0d2a743d73bfce600f2308f82
+Author: Matias Nombarasco <matias.nombarasco@kathmandu.co.nz>
+Date:   Wed Apr 20 16:17:00 2016 +1200
+
+    Update polyfills.js
+    
+    I found this patch useful to deal with prototypeJs, that library updates the native filter method to use the findAll prototypeJs method, which is not correct, so in order to prevent to this plugins to fail in some circunstancies I found this useful.
+    
+    Please review and let me know if we can merge into the main branch. Otherwise we might diverge from the original repo and use our own fork.
+    
+    Cheers
+
+commit 1c340de04a60fa72b4543ab6f38be5351f12cc9b
+Author: Jordan Thomas <mail@jordanthomas.me>
+Date:   Thu Apr 14 13:51:32 2016 -0400
+
+    Wait for target elem load before triggering callback.
+    
+    In Safari in particular, occasionally a second request occurs when the
+    target element src is updated.
+    
+    Previously the callback is fired once the preload is complete, which in
+    the above scenario, is before the image is truly loaded and ready for
+    render.
+
+commit 4ce2bd1420214b871ef8fe77fb4cdebb467ef8dd
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Sun Apr 3 14:17:16 2016 -0700
+
+    Bump version to 2.2.1
+    
+    Closes #90
+
+commit 16a23696e9577733c0957b85c4ffda5758fbb63a
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Tue Mar 29 12:24:34 2016 -0700
+
+    Bump version to 2.2.0
+
+commit eb389f8a19ddeca65415073b9623f9ee65832b8f
+Merge: 6a98829 9a3594e
+Author: Paul Straw <paulstraw@paulstraw.com>
+Date:   Tue Mar 29 12:06:29 2016 -0700
+
+    Merge pull request #89 from upworthy/scroll-container
+    
+    Accept explicit scroll containers
+
+commit 9a3594e030fe3196b50fbb5fec0bcb382c6b936e
+Author: Josh French <josh@vitamin-j.com>
+Date:   Mon Mar 28 18:02:53 2016 -0700
+
+    Document `lazyLoadScrollContainers`
+
+commit 4f74662ea3c3abc1e440d4b3abf0b8f7a72f3088
+Author: Josh French <josh@vitamin-j.com>
+Date:   Mon Mar 28 17:50:31 2016 -0700
+
+    Test the correct element
+
+commit ae716ffe355c60f62a3e2ef39a49a8fa243de179
+Author: Josh French <josh@vitamin-j.com>
+Date:   Mon Mar 28 17:46:53 2016 -0700
+
+    Revert changes to dist/
+
+commit 94d6218053566a85a216a562020ee6b307f70519
+Author: Josh French <josh@vitamin-j.com>
+Date:   Mon Mar 28 17:43:37 2016 -0700
+
+    Get scroll-container test running
+
+commit 8d646c4ff20bb367706395b582692197e8cd398e
+Author: Josh French <josh@vitamin-j.com>
+Date:   Thu Mar 24 11:59:38 2016 -0700
+
+    WIP: Allow attaching scroll listeners to specific elements
+
+commit 6a988290b3893640ee3035fea361e4452442995b
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 30 15:29:35 2015 -0500
+
+    Updating Changelog for 2.1.0
+
+commit e00f9d1432ae36e3a9d4c95001a968a26f5f0dfd
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 30 15:24:46 2015 -0500
+
+    Bump to version 2.1.0
+
+commit a12a87d2d28e6aae7cabc2782d11c92e1a67374b
+Merge: 910462f 9830a45
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Nov 30 15:21:31 2015 -0500
+
+    Merge pull request #80 from imgix/fix-bg-regex
+    
+    Improving background-image matching methods. Closes #79
+
+commit 9830a45a852eb6cea6054c4870e9f458e5818884
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 30 15:13:32 2015 -0500
+
+    Fallback to checking inline styles, when necessary
+
+commit 84e73c933e5151450402e930a187be088e62e713
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 30 12:39:32 2015 -0500
+
+    Improving background-image matching methods
+    
+    I've merged the little-used, less-needed `imgix.getRawBackgroundImage` method into the `imgix.getBackgroundImage` method. In addition, I updated the url-matching regex we're using (see issue #79) and improved our style-selection to use `getComputedStyle()` where possible, instead of just using `style.cssText`.
+
+commit 910462f59a9ae0d1ab60e7ff309e562f42eb7ede
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue Nov 10 10:44:12 2015 -0500
+
+    Adding notes for 2.0.0 to changelog
+
+commit 00f36871e0f4006efdd4297db32a48eef81b41f3
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue Nov 10 10:44:04 2015 -0500
+
+    Version bump to 2.0.0
+
+commit 6b64b84f6d318bee154cba099c24a4db83773c03
+Merge: 7ecf845 6df7fb7
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Tue Nov 10 10:32:02 2015 -0500
+
+    Merge pull request #75 from imgix/kill-param-list
+    
+    Kill param-specific setters and getters
+
+commit 6df7fb750fac5428117d769ff73c4b9daf910b7a
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:47:12 2015 -0500
+
+    Update docs
+
+commit 1bf62be1224a831e8c2729aaf28cafd8b666ccd5
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:45:47 2015 -0500
+
+    Remove grunt `build-dynamic-method-docs` task
+
+commit cc5c1a93cbfca68b2bf6190a8c6a4c62af905077
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:45:04 2015 -0500
+
+    Remove README references to param-specific setters
+
+commit 15b38f4e9deb03670a00fcee048c59b3f71e90ff
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:44:34 2015 -0500
+
+    Remove references to param-specific g/setters in tests
+
+commit c75f787d5230f539e30062b404cfedb99abc055f
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:43:40 2015 -0500
+
+    Kill Font tests
+
+commit 2a4ef4abb24d70d728e939ab1da6e5f41d3f9ef0
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:43:30 2015 -0500
+
+    Remove unused `helpers.getZoom` method
+
+commit 33c235beb5f8ea0debe4dc2934a629710b793002
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:43:07 2015 -0500
+
+    Rename `helpers.getWindowDPR` to reduce confusion
+
+commit edcb8c8baa9a860a635019bb9132f54bc9987d8f
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:40:25 2015 -0500
+
+    Replace all param-specific s/getters with s/getParam
+
+commit 8db7f2b9f55d2ffacde1cece6f3edd0398341a01
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Nov 9 18:39:49 2015 -0500
+
+    Remove param-handling code entirely
+
+commit 7ecf845a0fc249a745ce7935abd7e92eb3666d26
+Merge: 48f9a6f 1e5e3ac
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Oct 22 13:22:45 2015 -0400
+
+    Merge pull request #74 from imgix/kill-console
+    
+    Adding a helper for console warnings
+
+commit 1e5e3acc60e3e63f72004109517ab63511e489ea
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 22 13:15:21 2015 -0400
+
+    Adding a helper for console warnings
+
+commit 48f9a6fa4f2409beb774a7eefcbc75da52115fe6
+Merge: f174957 8af63e1
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Oct 22 13:07:23 2015 -0400
+
+    Merge pull request #73 from imgix/kill-console
+    
+    Making console calls safer
+
+commit 8af63e1e85b1c58d711ca2ca4f325f2790263913
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 22 13:02:43 2015 -0400
+
+    Making console calls safer
+
+commit f17495796fbf97b608bd2f699c9ec5a3d8c48413
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 16:58:49 2015 -0400
+
+    Copy tweaks for changelog
+
+commit 263fbf557c7b6950286aada9f4a3c1cad2a4408e
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 16:54:39 2015 -0400
+
+    Adding notes for 1.2.0 to changelog
+
+commit 23d3e6f8113b42070e5468411e65e3116881d725
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 16:48:16 2015 -0400
+
+    Bump to version 1.2.0
+
+commit 1c84716214625dd43d808f3a9027f1d68ba75475
+Merge: 7ac6374 fb9839b
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Wed Oct 7 16:43:40 2015 -0400
+
+    Merge pull request #69 from imgix/test-without-polyfills
+    
+    Remove `.bind()` polyfill and add `--no-polyfills` tests to CI
+
+commit fb9839b24779a0773021c32948d29b7fe8fe1436
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 15:59:02 2015 -0400
+
+    Update Travis config to run `--no-polyfills` tests too
+
+commit a3b320fc22c2064419182ce9083956eff3f26814
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 15:54:59 2015 -0400
+
+    Removing `.bind()` polyfill
+
+commit 7ac63743727f9da1a571564232d51490685d96c6
+Merge: fa6fd52 8eb4fd5
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Wed Oct 7 15:53:11 2015 -0400
+
+    Merge pull request #68 from imgix/remove-promise-polyfill
+    
+    Remove promise polyfill
+
+commit fa6fd5252bf6a71500014c4ee4f6b9048f2bf3de
+Merge: d63990a 74c5cfa
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Wed Oct 7 15:29:03 2015 -0400
+
+    Merge pull request #67 from imgix/remove-console-polyfill
+    
+    Removing the console polyfill
+
+commit 8eb4fd528be518e3bbbb0773bce3c31c76c089ea
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 15:20:13 2015 -0400
+
+    Remove Promise polyfill
+
+commit 92c5cadc39c0de1ba77086bdb4e9e0873aa52b1c
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 15:20:06 2015 -0400
+
+    Update imgix.URL.getColors() to use palette=json
+    
+    Now using AJAX instead of injecting a stylesheet and polling the document until it arrives.
+
+commit 74c5cfaa0cbd8b9c12eebaab187b81b8ed97905e
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed Oct 7 14:43:28 2015 -0400
+
+    Removing the console polyfill
+
+commit d63990aa590dafca0cfc86d1ee34b6f1e2f309e6
+Merge: a7f7a5e 4ef821b
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Fri Oct 2 12:14:10 2015 -0400
+
+    Merge pull request #63 from imgix/add-nodejs-versions-to-build-matrix
+    
+    Add 0.12.x and 4.x to the Travis CI build matrix
+
+commit 4ef821b4b4b58d8b40c32cde086550d1c944572a
+Author: Kelly Sutton <michael.k.sutton@gmail.com>
+Date:   Fri Oct 2 09:07:14 2015 -0700
+
+    Adds 0.12.x and 4.x to the Travis CI build matrix
+
+commit a7f7a5e06cdb9dcbcc9d68cac8839a06b651fd93
+Author: Kelly Sutton <michael.k.sutton@gmail.com>
+Date:   Fri Oct 2 09:05:38 2015 -0700
+
+    Adding .validate.json to the .gitignore file to suppress non-idempotent behavior with new checkouts
+
+commit 2571b7d1783cb79ef6d71a61fe13de697710c220
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Oct 2 10:23:11 2015 -0400
+
+    Updating changelog
+
+commit 9d988aea6d225f2d90a50b9bc544ba1a02dba17e
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Oct 2 10:21:16 2015 -0400
+
+    Bump version to 1.1.4
+
+commit 9e3abd729d9d1334b66012c001933857ad22ce78
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Oct 2 10:20:52 2015 -0400
+
+    Updating docs: alphabetized methods
+
+commit e2397bbd7d2c3dc5e4244f3f810d8e96cfdcd138
+Merge: 08eaa37 8b6b6ba
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Fri Oct 2 10:15:33 2015 -0400
+
+    Merge pull request #56 from imgix/breakup-core
+    
+    Break up core into its logical components
+
+commit 8b6b6baf7346567b61c85048ea0d3927c4130da8
+Author: kellysutton <michael.k.sutton@gmail.com>
+Date:   Tue Sep 1 10:20:56 2015 -0700
+
+    Alphabetize the method names in jsdoc
+
+commit 50a5458a09ace1046e72e0edbd7349348c74a2a5
+Author: Kelly Sutton <michael.k.sutton@gmail.com>
+Date:   Mon Aug 31 23:34:23 2015 -0700
+
+    Forgot some 'use stricts'
+
+commit 7548adaf87ce029bdbb5bc39ce8c2ed8447cc8f0
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 1 13:15:59 2015 -0400
+
+    Break apart core.js into its logical components
+
+commit 08eaa37cae66248e29d725d480beb6ec50082ce7
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 1 12:32:42 2015 -0400
+
+    Revert "Fixing `trimcol` parameter"
+    
+    7e68935ed4da7e1a26b41d5a7c685adff199e3a9
+
+commit ff3222e4b51b3cba905fb205625391cb808b282c
+Merge: 4ba5e58 2d16c6c
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Oct 1 12:02:37 2015 -0400
+
+    Merge pull request #62 from imgix/include-port-build-url
+    
+    Ensure port is retained when building a URL
+
+commit 2d16c6c109d71af942ffe532043d1df4236f1ebd
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 1 11:56:47 2015 -0400
+
+    Ensure port is retained when building a URL
+
+commit 4ba5e5853c511677fcb37db8b2f376f75c9e0365
+Merge: 7e68935 7b1a7fd
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Oct 1 11:50:41 2015 -0400
+
+    Merge pull request #55 from imgix/breakup-tests
+    
+    Break tests up into their logical pieces
+
+commit 7e68935ed4da7e1a26b41d5a7c685adff199e3a9
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Oct 1 11:06:38 2015 -0400
+
+    Fixing `trimcol` parameter
+    
+    This closes #61.
+
+commit 8c9b1dcea9089f13b612b71ddb36fbc631011124
+Merge: 7cf06b6 c3d46b3
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Sep 14 13:21:23 2015 -0700
+
+    Merge pull request #59 from imgix/crossorigin-attribute
+    
+    Ensure `crossorigin` attribute is respected
+
+commit c3d46b3f42dd18d9b837648e417224953e0b9127
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Sep 14 12:00:23 2015 -0700
+
+    Ensure `crossorigin` attribute is respected
+
+commit 7cf06b6a94c5643ad4f2fe770714cd2186814baa
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 13:50:03 2015 -0400
+
+    Adding notes for 1.1.3 to changelog.
+
+commit bb10709b241c728e4c598bc48b433e91d96a38ad
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 13:48:22 2015 -0400
+
+    Bump to version 1.1.3
+
+commit f61b6eddd64295f484900812e7f053163906e263
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 13:48:07 2015 -0400
+
+    Committing updated dist files
+
+commit c2febeec847e8f6d00372243f5778382db548942
+Merge: 845aad5 ab66167
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Sep 14 09:57:59 2015 -0700
+
+    Merge pull request #58 from ivanseidel/patch-1
+    
+    Added fast installation instructions
+
+commit ab6616738e6a4770daf99b5d4064632bd0548b82
+Author: Ivan Seidel <ivanseidel@gmail.com>
+Date:   Mon Sep 14 12:20:41 2015 -0300
+
+    Added fast installation instructions
+    
+    Although it might seem obvious, the `name` of the package is not always obvious. Most of times it is different, and some are the same as the repo name. I thought it was `imgix`, and unfortunately `npm` found a package named that way and installed. Took me 30 minutes to figure out...
+
+commit 7b1a7fd46a14637bb7a58262511157edc13ab0c8
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 16:38:34 2015 -0400
+
+    Turn off lazyLoad tests for PhantomJS
+
+commit 5e9b8a1fb8dfe4ae1536150c2863520f8507fa57
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 15:30:03 2015 -0400
+
+    Fix and re-active lazyload tests
+
+commit e0eea5b7377403c180c887aba3de85a7a54b7dd5
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 15:29:28 2015 -0400
+
+    Fix fitImgTagToContainerWidth/Height tests
+    
+    These were passing in PhantomJS but failing in real browsers, because real browsers have chrome that alters the width of the window.
+
+commit 0fec007aaf703f4d6c0d91cb88f036031d29d358
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 15:28:12 2015 -0400
+
+    Take Safari out of test pool
+    
+    For some reason Karma launches eight copies of Safari to run the tests, which then clog the tubes and prevent requests from fulfilling before Jasmine times out. Dumb.
+
+commit 3ba29d8a7bdd69a98f0a3d975f0249661656e0e2
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 15:27:29 2015 -0400
+
+    Make vanilla test config pick up all test files
+
+commit ead6aab71d280ec634069d990199304cca0801b2
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 13:42:09 2015 -0400
+
+    Fix broken fluid onLoad test
+
+commit 737c91bf4d919d5b2410c4f9a011c7500539d036
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 13:40:58 2015 -0400
+
+    Upgrade karma-jasmine package
+
+commit d3ef0d0ad1a026977bf33c2fd16f81b7dc075567
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri Sep 4 13:40:41 2015 -0400
+
+    Fix issue with `grunt test` command
+    
+    Not sure where that config.js file went, but we definitely don't need it.
+
+commit 845aad5ff36466d7deff57971963e3b7ad4fb276
+Merge: c305d46 f65e00f
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Fri Sep 4 11:14:07 2015 -0400
+
+    Merge pull request #53 from imgix/53-node-modules-gitignore
+    
+    Add node_modules to .gitignore
+
+commit c305d46f2a1649e22de5b694c8ecac55fd1abcaa
+Merge: fac137e 249a293
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Fri Sep 4 11:13:17 2015 -0400
+
+    Merge pull request #52 from imgix/scroll-redux
+    
+    Low-hanging perf improvements for scroll handling
+
+commit 249a293c8edc741b17b4bc9e53e1afe8580c833c
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue Sep 1 10:51:59 2015 -0400
+
+    Clean up `versionifyUrl` code
+
+commit cbe9bde508704e1c574e929e9855465dfd56f1c3
+Author: Kelly Sutton <michael.k.sutton@gmail.com>
+Date:   Mon Aug 31 23:05:51 2015 -0700
+
+    Take advantage of the describe function a bit more
+
+commit 049f04a9b0b46a769a408ea1f0af900c93f80b4a
+Author: Kelly Sutton <michael.k.sutton@gmail.com>
+Date:   Mon Aug 31 22:59:14 2015 -0700
+
+    Break tests up into their logical pieces
+
+commit f65e00f0da0104863ed12184f7fa05278d3af768
+Author: kellysutton <michael.k.sutton@gmail.com>
+Date:   Mon Aug 31 16:07:15 2015 -0700
+
+    Include the trailing slash for consistency
+
+commit 9b7ff037a3e945fd59d23e82f3e7e6bc37e5f7ba
+Author: kellysutton <michael.k.sutton@gmail.com>
+Date:   Mon Aug 31 16:06:16 2015 -0700
+
+    Adding node_modules/ to .gitignore
+
+commit 9fd26d8bdb8cd50470f1a6deab686337d48e2718
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Aug 31 17:59:00 2015 -0400
+
+    Cache image URL when getting its details
+    
+    This should reduce a lot of the overhead of calling `getImgDetails()`. It does appear to introduce an issue where we might accidentally cache a reference to the URL after it's been updated, but if changes are made through the `imgix.URL` API, the changes will be handled correctly, and if changes are made just by changing the `<img>`'s `src` attribute, imgix.js isn't gonna behave correctly anyway. Ergo: no regression here.
+
+commit 7feca85efa03112bb7362153f098d94efa4496b1
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Aug 31 17:53:33 2015 -0400
+
+    Simplify versionifying URLs to kill a `imgix.parseUrl()` call
+
+commit fac137e94e8bbb12ad1d5ab5f4a4b127cb13a5f7
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 11 17:12:05 2015 -0700
+
+    Updating changelog for 1.1.2
+
+commit dae5257ff6127a50d732799202964931cbbc4519
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 11 17:10:47 2015 -0700
+
+    Bumping version to 1.1.2
+
+commit 098e2f28af02945da33daf6a744c2bea7509704f
+Merge: 6738911 bc53f77
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu Jun 11 17:06:37 2015 -0700
+
+    Merge pull request #42 from imgix/fix-onready
+    
+    Make `imgix.onready` less insane
+
+commit bc53f77d6f7f683a95a88bf1747ca373230b6fa9
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 11 17:00:10 2015 -0700
+
+    Make `imgix.onready` less insane
+    
+    Also fixes a lurking IE bug
+
+commit 6738911178243a86c50191b5bfd74a09814a21ac
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 17:51:17 2015 -0700
+
+    Adding 1.1.1 notes to changelog.
+
+commit 5c3440f88c4db99605af113f0ae87b8b5d7c5625
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 17:48:05 2015 -0700
+
+    Version bump to 1.1.1
+
+commit f36fef32ab8fcf906ae9d50d85afdfadfdcc6b57
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 17:46:17 2015 -0700
+
+    Updating docs
+    
+    No new content here, just updated formatting since I upgraded jsdocs to latest.
+
+commit 55eae35541bb8b5f6e83a14f4bf4fe2c4f73103f
+Merge: 2fc89e8 0d09579
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Jun 8 15:06:10 2015 -0700
+
+    Merge pull request #40 from imgix/add-hash-function
+    
+    Stop using `window.btoa`, use a simple hashing function instead.
+
+commit 0d095795faceeefd5a624682a94e3684c4452418
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 4 12:05:14 2015 -0700
+
+    Stop using `window.btoa`, use a simple hashing function instead.
+
+commit 2fc89e8f2b72d57aa62bf069bd3fd3ae621ffc8f
+Merge: 8aab92f b1a30ce
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Mon Jun 8 14:47:27 2015 -0700
+
+    Merge pull request #41 from imgix/fix-travis
+    
+    Fix Travis tests
+
+commit b1a30cec983948d73ec861bbb75603fd1de48ec9
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 14:31:45 2015 -0700
+
+    Fix for Travis package loading
+
+commit 0e3a749a7ab1139cd6872b5dca35d1accd883fff
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 14:00:19 2015 -0700
+
+    Try changing Travis global node install
+
+commit 44f0001ed80d39515d75a18065f28f6836193a46
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 13:47:52 2015 -0700
+
+    Rewriting tests to be more robust and compatible with Jasmine 2.x
+
+commit 22e142000d3c29fde9cb5f3ec4bdf93e4534991c
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 13:47:28 2015 -0700
+
+    Minor fixes
+
+commit 1b6f459be0053d13da93a57f030badc3f04929b4
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 13:47:11 2015 -0700
+
+    Updating karma packages
+
+commit b7f565fb99bdba92da37d2d17d76e31bc18b06db
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 13:44:38 2015 -0700
+
+    Remove test config file, since it does nothing.
+
+commit fb27d6ad91c4d2d70057963466d29d7379a1b29d
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon Jun 8 13:44:07 2015 -0700
+
+    Switch Lodash in for Underscore in dev dependencies
+    
+    Also make it accessible to Karma.
+
+commit 800aa98038d0e7b3e643c761f80865c6e4d16c80
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 4 13:00:58 2015 -0700
+
+    Update a bazillion packages.
+
+commit 0204a680decee1a8a1ff5ffb4ddc9e3699250767
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 4 13:00:47 2015 -0700
+
+    Make sure PhantomJS is installed globally
+
+commit 6582863b0a0aa060fe3ebc37fed0d9615f71a8dd
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 4 13:00:29 2015 -0700
+
+    Removing timing from npm install, to reduce chunder.
+
+commit efab683e7d45c3b19f6d98617ff142c3ad27dd84
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 4 12:50:09 2015 -0700
+
+    Removing Opera from testing suite, adding Safari
+
+commit 9790457427574777221f17fa1089babeacf39029
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu Jun 4 12:19:32 2015 -0700
+
+    Attempting to fix Travis
+
+commit 8aab92f17973cf0306ba0f744f30abd6fa8743bc
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 29 14:33:41 2015 -0700
+
+    Updating changelog
+
+commit 4d38e6c31e40b4e2a48dfb859168c271caadd8f9
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 29 14:31:44 2015 -0700
+
+    Version bump to 1.1.0
+    
+    Partytime!
+
+commit 054c89e6076bee9430a1dccc87b8ef609e55fb54
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 29 14:31:18 2015 -0700
+
+    Updating docs
+
+commit e0144dee65887804e9e1a5b8ca1cfdd4d4959c5c
+Merge: 2446441 2d48259
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Fri May 29 14:27:45 2015 -0700
+
+    Merge pull request #38 from imgix/throttle-lazyload
+    
+    Throttle lazyload. Closes #30.
+
+commit 2d4825943efaa5cd445bdd8532ed194b08632d88
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 29 12:59:00 2015 -0700
+
+    Fixing a bug in lazyLoad that was prevent images from properly evaluating their viewport position
+
+commit 51b51d356eb300f299453f20e464e30f33b27c6d
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 29 12:55:23 2015 -0700
+
+    Adding throttle function and applying it to lazyload scrolling
+
+commit 2446441a1c572c86934f3544d9cefd03663cc046
+Merge: f2fe175 d4d4dac
+Author: Kelly Sutton <michael.k.sutton@gmail.com>
+Date:   Thu May 28 22:06:52 2015 -0700
+
+    Merge pull request #37 from imgix/cleanup-readme
+    
+    Cleanup README
+
+commit d4d4dac2d5d8c453dc4cd9ab1e644661d9590b02
+Author: kellysutton <michael.k.sutton@gmail.com>
+Date:   Thu May 28 21:57:32 2015 -0700
+
+    Bump this copyright date
+
+commit 1788f596930be5fc4bad01a9361bb29dc77f95a4
+Author: kellysutton <michael.k.sutton@gmail.com>
+Date:   Thu May 28 21:56:26 2015 -0700
+
+    Use GitHub-flavored Markdown to activate syntax coloring
+
+commit f2fe175f03b83ac6afe8c07442eb609bfe050f61
+Merge: 2b8770c ed1a78c
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu May 28 18:15:18 2015 -0700
+
+    Merge pull request #35 from imgix/prune-signedurl-code
+    
+    Prune a bunch of tokenizing and MD5 code
+
+commit 2b8770c996580f9142d81f0ec9812067d6823e05
+Merge: 49f4ca4 76311c0
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu May 28 17:18:42 2015 -0700
+
+    Merge pull request #36 from upworthy/onload-first
+    
+    Set onload prior to src to ensure callback is run
+
+commit ed1a78c5c7d803ec5d3f5a58afd2e8d79bd7eaad
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 28 17:15:41 2015 -0700
+
+    Fix a couple of tests
+
+commit 3ba9155858247021f190f734ef81365370ee434e
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 28 17:15:26 2015 -0700
+
+    Ensure `imgix.makeCssClass` makes valid class names
+
+commit 6c3ae01afa0d37c2a191ea5d2b9ee0fb5a204bdc
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 28 16:45:52 2015 -0700
+
+    Crush a bunch of tokenizing and MD5 code.
+
+commit 76311c05295a1ab677eea215e93f36f3b54984e1
+Author: Josh French <josh@vitamin-j.com>
+Date:   Thu May 28 16:40:57 2015 -0700
+
+    Set onload prior to src to ensure callback is run
+
+commit 49f4ca4b2ed958e6b7b8df9b259552f560b4e57d
+Merge: f7e92ac 42484a8
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu May 28 15:28:45 2015 -0700
+
+    Merge pull request #34 from imgix/prune-rjurl-code
+    
+    Removing a bunch of RjUrl code from the library.
+
+commit f7e92aca3c9aa1411a029baf89330d19bf9a877a
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 28 15:07:49 2015 -0700
+
+    Remove ineffectvie, unnecessary, undocumented `isMobileDevice()` method
+
+commit cf4bb4b4916f0a687adaa04e7bd4966246e8ccdd
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 28 15:07:13 2015 -0700
+
+    Little refactor of `getZoom()` helper function
+
+commit 42484a8ea81ae1f98f3c631cc73125065a3a3a2b
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 28 11:38:42 2015 -0700
+
+    Removing a bunch of RjUrl code from the library.
+
+commit 0b34bf1d65ed6c2474504bea07dd60a9ac20c1e2
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 20 14:00:43 2015 -0700
+
+    Updating changelog
+
+commit c06c1f47c529eb4fb7effcc82c78aab98c2fc8ee
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 20 14:00:37 2015 -0700
+
+    Bumping version to 1.0.25
+
+commit e765596fefc9048f5154fdbc310e1872a2d5b917
+Merge: c197ea4 181a7b2
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Wed May 20 13:55:44 2015 -0700
+
+    Merge pull request #29 from imgix/version-aware-urls
+    
+    Add method to include imgix.js version in requests
+
+commit 181a7b2feffa1cdd9d606efc7ecef1a0f4cdffe2
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 20 12:25:15 2015 -0700
+
+    Fixing a buttload of broken tests
+    
+    Testing against exact-match URLs was a bad idea!
+
+commit 4aed1a0c9d2fd5e7dd46332dc6562fa60f7b0501
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 20 12:24:51 2015 -0700
+
+    Adding a test for version strings in URLs
+
+commit dc523c3e94ed41700bb2169cd3273033e217333a
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 20 12:24:21 2015 -0700
+
+    Use `imgix.parseUrl` to add version, instead of direct string manip
+
+commit d9e3ef9e4969ef2a62f0cd992f2a3384308e26db
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 20 11:32:36 2015 -0700
+
+    Add method to include imgix.js version in requests
+    
+    This will let us track usage on our backend and better isolate bugs in the future.
+
+commit c197ea4bf70bf32ddfc937f5aa00de9498a05c86
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue May 19 17:15:21 2015 -0700
+
+    Updating Changelog for 1.0.24
+
+commit d11d964def701967f361110d01d60d3f08014f2c
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue May 19 17:10:34 2015 -0700
+
+    Bumping version to 1.0.24
+
+commit 4ab0eb58f45cb93b73d9b8591d057ebfd112a875
+Merge: 7a5ffd6 0f196d0
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Tue May 19 16:52:40 2015 -0700
+
+    Merge pull request #28 from imgix/fix-displaynone
+    
+    Fix `display:none;` bug
+
+commit 0f196d007160b9e939afc1dda436a73c85ea8af6
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue May 19 16:31:19 2015 -0700
+
+    Adding tests for hidden fluid images
+    
+    cc @kellysutton
+
+commit b7a0f61eaded38f5daaa428af7bde4681a905e75
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue May 19 14:17:05 2015 -0700
+
+    Make sure imgs with src='' don't misreport their hiddenness
+
+commit 50b019a73216043b53323ff3e192994c128eeb4b
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon May 18 18:46:53 2015 -0700
+
+    Pull ripcord when calling updateSrc on hidden element
+
+commit c3afd4687c786a0bb8d8edc638d6f22af3e747ed
+Author: Jason Eberle <jason@imgix.com>
+Date:   Mon May 18 18:46:10 2015 -0700
+
+    Fixing a problem with size calc with misewell CSS changes
+
+commit 7a5ffd687d2ebe046e4bc601dfbbd227baaa41fc
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue May 19 16:34:39 2015 -0700
+
+    Small fixups for tests
+
+commit 12eee0edbc95e2f666e923bb9ba2eaadd64056bf
+Author: Jason Eberle <jason@imgix.com>
+Date:   Tue May 19 15:33:51 2015 -0700
+
+    Renaming a bunch of tests for consistency
+
+commit 1a336c75b7397765cc21306621a61ca86452bb07
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 14 12:25:07 2015 -0700
+
+    Add 1.0.23 notes to changelog
+
+commit c87f31e53d13c5e1331f5f869b323a90a51b882d
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 14 12:05:35 2015 -0700
+
+    Bumping version to 1.0.23
+    
+    At some point we really need to just call it 1.1
+
+commit 5f7440c7cb8603708b500ba5d095abc926cbda41
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 14 11:50:49 2015 -0700
+
+    Updating docs for next release.
+    
+    Don't be scared at the massive changeset, it's all just rearrangements.
+
+commit 07b27e51db2bcc3d5fd4e9683fe7643350a88d74
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 14 11:47:25 2015 -0700
+
+    Fix for loading grunt-jsdoc-to-markdown task
+
+commit 002307fb07c61bc6001ae656c5bb1f7b2839a26a
+Merge: 3c7400f b5c6574
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu May 14 10:32:31 2015 -0700
+
+    Merge pull request #23 from imgix/fix-safari-flashing
+    
+    Fix Safari flashing
+
+commit b5c657454ab2e1e28b1c28b4595759e7e51be314
+Author: Jason Eberle <jason@imgix.com>
+Date:   Thu May 14 10:26:07 2015 -0700
+
+    Don't bother applying an identical img.src
+    This will fix a Safari bug that's causing images to constantly flash on scroll, as their src attributes (or bg-image style) is re-applied despite being the same as the current value.
+
+commit 3c7400f618ff55bfd82a92178d3582bbbbf04d1a
+Merge: c041ea2 08fa08f
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Thu May 14 10:19:21 2015 -0700
+
+    Merge pull request #24 from imgix/style-cleanup
+    
+    Style cleanup
+
+commit 08fa08feffe172c7cc7cdc68154254d9c1807789
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 17:47:00 2015 -0700
+
+    Adding `grunt test:quick` option to just do Phantom tests
+
+commit cf873762a3840e96bd0b2a7c49d0f8fb1ea2e1c4
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 17:46:21 2015 -0700
+
+    Scores of little fixes to make JSHint and JSCS happier.
+    
+    Still not quiiiite passing either one, but I'm okay with it for the moment.
+
+commit fbcebba72874d5df289963746cc922bad6977177
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 16:39:34 2015 -0700
+
+    Tabs to spaces
+
+commit 6cb940e5fab59d5b29219a1a88ee7e2eba60b263
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 16:26:51 2015 -0700
+
+    Unify all quotes
+
+commit 93d41e3f131a8d21fb5eef12555d225a7e3d60a5
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 10:44:49 2015 -0700
+
+    Setting up jshint and jscs
+    These rules are probably waaaaaay too strict and will need to be relaxed.
+
+commit 9cfe701c931c73a3d631aa5906267c53989e090e
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 10:43:00 2015 -0700
+
+    Updating .gitignore to ignore dot-directories
+
+commit 2ff819898f75f8649dbd505de4c65c1aa9fe172a
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 16:21:55 2015 -0700
+
+    Fixing a tpyo
+
+commit c041ea261e91a819f6e45250ba32a9013c1ee7c0
+Merge: f9e4014 d742e0c
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Wed May 13 16:16:00 2015 -0700
+
+    Merge pull request #25 from imgix/update-params
+    
+    Update parameter lists
+
+commit d742e0c922401a3a21bf91277a0b19eef233cb40
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 15:54:39 2015 -0700
+
+    Add `class` to list of params, and fix default for `palette`
+
+commit 6e3c531d159d22a91fce75a8b3388a8b8067950d
+Author: Jason Eberle <jason@imgix.com>
+Date:   Wed May 13 15:02:57 2015 -0700
+
+    Updating parameter lists
+    
+    Since they'd gotten out of date with our docs.
+
+commit f9e40141ebe62eac9b3609fe2ebf131c003c77f9
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 8 14:09:27 2015 -0700
+
+    Bump version to 1.0.22
+
+commit 7c63dbf2f86624f93eba6684d6ebe0e8719fa35f
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 8 14:04:16 2015 -0700
+
+    Rebuilding docs [ci skip]
+
+commit 39ea890ccb3002d20ae5305db5888551be263798
+Author: Jason Eberle <jason@imgix.com>
+Date:   Fri May 8 13:55:17 2015 -0700
+
+    Fix for doc-cleanup Grunt task
+
+commit de5a30750370e699e3463ffd874e2f90a61908e8
+Merge: fe23136 d16384a
+Author: Jason Eberle <jayeb333@gmail.com>
+Date:   Fri May 8 13:38:39 2015 -0700
+
+    Merge pull request #21 from upworthy/target-elements
+    
+    Allow imgix.fluid() to operate on individual nodes instead of entire document
+
+commit d16384aadb5febc5c345dcfc7ab607747c4553a1
+Author: Josh French <josh@vitamin-j.com>
+Date:   Fri May 8 12:42:20 2015 -0700
+
+    Remove superfluous test
+
+commit 0b62e618ac4c567b70d33982dad72fff1ada617d
+Author: Josh French <josh@vitamin-j.com>
+Date:   Fri May 8 12:10:08 2015 -0700
+
+    Use document as root if element under test doesn't have a parent node
+
+commit 357204906dc62891f5fee360433cc53c33e67aa1
+Author: Josh French <josh@vitamin-j.com>
+Date:   Thu May 7 14:49:42 2015 -0700
+
+    When given a node, add node and children when appropriate
+
+commit 721e2070bfa8a3f837dba772f2548138b27157f3
+Author: Josh French <josh@vitamin-j.com>
+Date:   Thu May 7 13:51:48 2015 -0700
+
+    Whitespace
+
+commit 3f19902ff791672cbd78796f44031a241d13bff6
+Author: Josh French <josh@vitamin-j.com>
+Date:   Thu May 7 13:49:50 2015 -0700
+
+    Restore tabs
+
+commit 873ba9ae65c74b8645ef3d3215194b7b9c38960b
+Author: Josh French <josh@vitamin-j.com>
+Date:   Wed May 6 18:42:50 2015 -0700
+
+    Allow imgix.fluid to operate on a single node instead of entire document
+    
+    Adds an optional first parameter to imgix.fluid; only images below the
+    given node will be operated on.
+
+commit fe23136076dad9580b6321517ddb8892c2fc171d
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Apr 30 16:00:15 2015 -0700
+
+    update readme
+
+commit a16335b1b8076f92589cb69e3cc8640ac813f07e
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Apr 29 11:07:30 2015 -0700
+
+    bump version to 1.0.21
+
+commit 2bae645fd9883f2e95d0c593b391ac2bd7232200
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Apr 29 11:03:09 2015 -0700
+
+    rebuild docs [ci skip]
+
+commit 6c11221f06b67e82d82cb7b974cc6c035b41fb66
+Merge: c711b28 352e6ee
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Wed Apr 29 11:00:58 2015 -0700
+
+    Merge pull request #20 from imgix/onload-counter-fix
+    
+    fix for imgix.fluid onLoad fluidUpdateCount race condition
+
+commit 352e6ee6cc4417e24c524c2ad8e5a2bdfe2442f9
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Apr 29 10:57:24 2015 -0700
+
+    clean up
+
+commit e6e348dd525e3cc413fca7bc5bd4299ff05d1f6c
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Apr 29 10:41:40 2015 -0700
+
+    fix for imgix.fluid onload update counter race condition
+
+commit c711b28873ce326aab8158ca1ce3be5d7d56c759
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Apr 15 18:40:53 2015 -0700
+
+    improve tests for checking applied gradients cross-browser
+
+commit 7813425fed7ae1a2ac0c7959dbefc5c0dfb61773
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 18:09:06 2015 -0700
+
+    bump version to 1.0.20
+
+commit 6217fab3a649b7481fe90fec8e0b5b71a79fe5a6
+Merge: e64b712 f23e7e4
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Tue Apr 14 18:04:35 2015 -0700
+
+    Merge pull request #16 from imgix/attach-gradient-to-base-color-default
+    
+    do not require a base color for attachGradientTo
+
+commit f23e7e4213f7076e7d8f06c45b3a84b54fb2749c
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 17:54:33 2015 -0700
+
+    cleanup
+
+commit e68e89ffddf5fa853beefe3143625649fc4479ce
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 16:42:07 2015 -0700
+
+    do not require a base color for attachGradientTo
+
+commit e64b71213aaca7df44778f75520412944237f119
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 15:00:06 2015 -0700
+
+    bump version to 1.0.19
+
+commit 93002309eb8a2a5c8da8bbbcf44d2078432c4238
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 14:55:56 2015 -0700
+
+    update auto-generated api docs
+
+commit c304a067effe83f40ba34e07669f6d3f688a3325
+Merge: 73b4d9d 89eed82
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Tue Apr 14 14:50:11 2015 -0700
+
+    Merge pull request #15 from imgix/more-lazyload-options+tests
+    
+    new features: more lazyload options+attachGradientTo
+
+commit 89eed82cccb66dd4b0daca0b34477587bca261ba
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 14:33:09 2015 -0700
+
+    attachGradientTo for imgix.URL instance
+
+commit 65666a1a171b7834a51423b413503cf63f6fda51
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Apr 14 11:35:33 2015 -0700
+
+    also pass image url for onLoad callback
+
+commit 6d7ac3a27b40ae0b90c801332b5254f271ebcd21
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Apr 13 19:38:33 2015 -0700
+
+    onLoad + lazyLoadColor
+
+commit 73b4d9d27cfb2e13e5654d32870b8d6b057a4b4a
+Merge: 54eec99 abb2314
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Fri Apr 3 15:20:39 2015 -0700
+
+    Merge pull request #12 from imgix/amd-support
+    
+    AMD support
+
+commit abb231492ab6d8b5dedd7a600a67262c034ecd5d
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Apr 3 15:13:48 2015 -0700
+
+    do not amd md5
+
+commit da2197bb3c0fd4bab9e67ea6edf942d5857dde27
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Apr 3 15:06:38 2015 -0700
+
+    amd support
+
+commit 54eec99454db4256b5fd6cd0a5b9f60d35e82186
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Feb 12 12:03:45 2015 -0800
+
+    bump to 1.0.17
+
+commit 61af16daa8579f259268572caa5e5fb25a3e670e
+Merge: e85e115 2269ca7
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Thu Feb 12 12:00:36 2015 -0800
+
+    Merge pull request #9 from imgix/better-pinch-zoom
+    
+    get pinch zoom scale directly from gesture event
+
+commit 2269ca73570d7cc833a03b91d8632ed38847bbda
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Feb 12 11:55:22 2015 -0800
+
+    get pinch zoom scale directly from gesture event
+
+commit e85e115353591c6c1a1e2badac8794768598862b
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 16:49:42 2015 -0800
+
+    update README with auto-updated imgix.js <script> srcs
+
+commit 05bd86e3f6d563f4034fac999d07a1167c4c8fd4
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 16:27:00 2015 -0800
+
+    bump to 1.0.16
+
+commit 0e1be252c656763766ce251af2402660f2292a24
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 16:15:39 2015 -0800
+
+    bump to 1.0.15
+
+commit 509296f55f07633c70f41334883e943a4950b2ef
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 16:15:28 2015 -0800
+
+    update examples imgix.js script src
+
+commit ae8b6bb08e68d8093b6c1f36a514c9f8fef2bc66
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 16:14:07 2015 -0800
+
+    update CHANGELOG
+
+commit 802c4fe5b4acfec7351f3d255afdb1f050ae4410
+Merge: 47ecbfb fbd88d0
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Wed Feb 11 16:03:36 2015 -0800
+
+    Merge pull request #8 from imgix/max-height-width
+    
+    Max height+width imgix.fluid options
+
+commit fbd88d06c8ab59231791828cfc5523a9c65ba98e
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 13:15:11 2015 -0800
+
+    remove unnecessary parseFloat
+
+commit 433c430d08865ab148c50827266b150cc58d9d8b
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Feb 11 13:13:38 2015 -0800
+
+    max height/width support for imgix.fluid
+
+commit 47ecbfb55250d022707078e1a82cf9b3340ed7a8
+Merge: 372a8bf 983890a
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Thu Jan 29 17:29:42 2015 -0800
+
+    Merge pull request #7 from imgix/fluid-lazy-loading
+    
+    imgix.fluid lazyLoading option (release 1.0.14)
+
+commit 983890aaebbbc927247291b07febca4e654e374e
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 17:28:18 2015 -0800
+
+    doc rebuild for debounce
+
+commit b70f1e29356c96c64cfd3ac90de115bf51448a8c
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 17:20:29 2015 -0800
+
+    document debounce imgix.fluid option
+
+commit f4193a697fd0e628df04593576e51faf20844c00
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 17:03:11 2015 -0800
+
+    cleanup build
+
+commit b10325a3655dc62f08d2d74ddbe6d97dedcf372b
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 17:02:16 2015 -0800
+
+    cleanup
+
+commit b8e0e2bfc471f8f5dede3b0f88f91572f7619fb6
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 16:58:42 2015 -0800
+
+    imgix.js release 1.0.14 - lazy load support
+
+commit ee8da3a4abefff8903953351fdb402bf7a0be201
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 15:55:51 2015 -0800
+
+    cleanup
+
+commit b65aceccee7d8cbf111d6f25cd9b5a7a405ba86a
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 15:32:43 2015 -0800
+
+    do not use resize listener check on lazy load scroll
+
+commit 07b7563f60b43b7867d97df65be997c0ac292d03
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 15:27:55 2015 -0800
+
+    fix lazyload scroll listener
+
+commit a746760c40d1ee05664c65277bb00965f615be87
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 15:20:22 2015 -0800
+
+    typo. last -> lazy
+
+commit e3d3c72cadd50cf72be7b52e81682adbc7bcdc0d
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 15:14:58 2015 -0800
+
+    lazy load option
+
+commit 542ddb0dab0ed49bdf6dc39727552dcf581590e0
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Jan 29 14:24:20 2015 -0800
+
+    return fluidset reference on imgix.fluid call
+
+commit 372a8bf4228906fa6eed48d4b90506517a91cb1c
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Dec 4 12:36:43 2014 -0800
+
+    build of docs for blend params
+
+commit 60104267b90b58a785af163019a323b3074b9091
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Nov 21 16:27:51 2014 -0800
+
+    1.0.13 release
+
+commit 7ee07a8145811bbfc12a1b9f83b583e3dad50ba3
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Nov 21 16:23:35 2014 -0800
+
+    complete blend api support
+
+commit be1cfb4309a5fff7eddc33409d10159856a93f07
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Nov 21 15:55:07 2014 -0800
+
+    console.warn when invalid config keys are passed to imgix.fluid
+
+commit 98b89f2ad91299a7d0356e4445319984e1b1b785
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 30 10:55:13 2014 -0700
+
+    example whitespace
+
+commit 69754c03488cbc24b7c0e6e7defe359d723def23
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 30 10:44:43 2014 -0700
+
+    update pixelStep examples
+
+commit d8b04abf60778defbac6c3d8256e6930e40a9bcc
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 30 10:39:13 2014 -0700
+
+    update readme example
+
+commit 8f88d38aedc53d176c1a51eea5995d57fc80ed59
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Oct 28 16:22:31 2014 -0700
+
+    readme fixes
+
+commit f7c6fa376173f0a684457fa785557a3fbace756e
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Fri Oct 24 12:06:15 2014 -0700
+
+    update README with build status
+
+commit 72943751315e7d1180169ccc16188ca6cf28feab
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 24 12:01:54 2014 -0700
+
+    tweaks for travis-ci
+
+commit 9cc6565ec66290abcc1028bb801343720513af12
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 24 11:52:15 2014 -0700
+
+    ensure travis-ci installs grunt
+
+commit beca5004e4350d8ada195c62a455ede9d4531bda
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 24 11:47:51 2014 -0700
+
+    first pass at .travis.yml
+
+commit fcfa324263c931389f34796394551162cac87b4b
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 23 14:54:04 2014 -0700
+
+    fix typo in background example
+
+commit 1968fd1c8c4edff97bfef8bb2baab121f877faed
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 20 15:41:18 2014 -0700
+
+    Respect protocol of request 1.0.12
+
+commit 6e86acacce3e832d2f145efded75dba7e856608f
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 20 14:03:15 2014 -0700
+
+    imgix.fluid ignoreDPR option 1.0.11
+
+commit 54fe392099232c2ce36755dfd746673bfcfaad51
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 20 11:46:38 2014 -0700
+
+    1.0.10 changelog
+
+commit 279caab3b759975496c1220f1f525a64230e319a
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 20 11:42:04 2014 -0700
+
+    support signing token in fluid options
+
+commit d2c3469f0ba6934586f7037eb7913085fb5eaf9f
+Merge: fc5ef07 7f641ba
+Author: Jack Angers <jacktasia@gmail.com>
+Date:   Mon Oct 20 11:18:18 2014 -0700
+
+    Merge pull request #3 from imgix/blend-support
+    
+    blend support
+
+commit 7f641ba7f06c08fa53082d9c74be28a68460ef18
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 17 15:14:17 2014 -0700
+
+    blend support
+
+commit fc5ef076a647b82b87baf2a2793459fd8a46531f
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Oct 14 18:18:38 2014 -0700
+
+    cleanup example whitespace
+
+commit d3c4c6b8e051f7de028be0bfdf9643ff3b2dc463
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 10 10:30:02 2014 -0700
+
+    bump to 1.0.9
+
+commit f621618525ef93cdfd15e3938569890c236cd62d
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 10 10:16:54 2014 -0700
+
+    set main in package.json
+
+commit 4d6c387b6e6fd5d06c61d484132c62fd23dbfd3d
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 9 18:36:43 2014 -0700
+
+    fix readme typo
+
+commit f55ba6f80658e007d8550f90e53caa4db20209d7
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 9 14:11:56 2014 -0700
+
+    example filename rename
+
+commit 3594dc5a4832dc06b24bfb4f151a4aa7a23f9466
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 8 14:06:25 2014 -0700
+
+    update imgix host for examples
+
+commit 237d98794a62635fdd2219178a4f741d144b9aac
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 8 12:19:27 2014 -0700
+
+    tweak whitespace in README
+
+commit 53197e8acfcac28a9e9400654c1f4cb42d66c1b6
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 8 10:50:31 2014 -0700
+
+    bump to 1.0.8
+
+commit 66f4c11daa5cc53c6301f18d3ab7941738a70710
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 8 10:49:41 2014 -0700
+
+    attachImageTo should work for multiple elements
+
+commit 0a87d552a72e0ce7796fc341e7ef10c443ca3d0b
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 15:52:09 2014 -0700
+
+    bump to 1.0.7
+
+commit 61851101d7b23dd8f9677765616a23c3e531919b
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 15:50:17 2014 -0700
+
+    license
+
+commit 69219d2aa7b4e527feb1aa0565ad3401394c5d04
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 15:41:09 2014 -0700
+
+    update README examples
+
+commit bfe92a7fec917b296718f66e30ffa299b1da6baf
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 12:53:42 2014 -0700
+
+    bump to 1.0.6
+
+commit 9f53ac629d2efebd283aed87f4557f6ef8f46e13
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 12:51:24 2014 -0700
+
+    jquery examples
+
+commit 2acf0959f47cf6d08046a6e0e6537586bc7d7c84
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 12:36:33 2014 -0700
+
+    autoUpdateImg example
+
+commit d700ecf7ed97f5be75acce64194122c2bd9790ea
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 12:29:41 2014 -0700
+
+    more examples
+
+commit e50a457eb600383bed571ba9af103c4e5a514ac3
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 12:01:11 2014 -0700
+
+    show version banner on min
+
+commit f65bcec1b14a3a4c8db165fd218f223747fa7eef
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 12:00:41 2014 -0700
+
+    getColors test tweaks
+
+commit 110925438a3564a5a107c3f5d221b768ec8022d6
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Oct 6 11:41:18 2014 -0700
+
+    autoUpdateImg fix for ie8 1.0.5
+
+commit 4a795521544b15893b6ad0ecdf0645da563ebdb1
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 19:34:46 2014 -0700
+
+    bump to 1.0.4
+
+commit fbb4a4650141a2275b21d5ce24dfea6f5a2c462f
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 19:26:52 2014 -0700
+
+    bump to 1.0.4
+
+commit 0e7e36337bc4df3ce368a74a515957337e163cda
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 19:14:11 2014 -0700
+
+    update description. bump to 1.0.3
+
+commit fca426a04bc7c232870563aaac4dd6a955f29105
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 17:41:48 2014 -0700
+
+    bower.json
+
+commit b07a234ba08fce4ec0be54fb144f2f714a55a2c1
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 17:30:34 2014 -0700
+
+    bump to 1.0.2
+
+commit 3d93264a94a136d67fc34d9371482203f428b49b
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 17:23:40 2014 -0700
+
+    bump to 1.0.1
+
+commit cca96abf78ae968863a83e93c229e6b45ab21f5f
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 17:18:27 2014 -0700
+
+    jquery plugin manifest
+
+commit 1ddebf0cd0825805b1bd1db214b42b563687cfb4
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 16:37:55 2014 -0700
+
+    README tweaks
+
+commit 8bbdfa185e9e10439481537c732b2f94fb7d5783
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 16:36:06 2014 -0700
+
+    adding how to build docs to README
+
+commit 079305adcc4a905b7931575803a9501cf9810b9c
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 16:22:43 2014 -0700
+
+    public repo changes
+
+commit da380347e035a4fd2c17d141ca283b0ad0bdfd4a
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 15:58:32 2014 -0700
+
+    fix onready doc
+
+commit 5072396d5d6e3df1c30fa05936ca5f42a87e7724
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 15:53:13 2014 -0700
+
+    comment banner tweaks
+
+commit a9bfa1c562d1a0c9e925da7e86489920ca72c6b8
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 15:48:16 2014 -0700
+
+    add warnings to auto generated files about overwriting
+
+commit 6bc089c260c8b20b1bd7aa9f925ddf8cebad10d8
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 15:29:31 2014 -0700
+
+    auto generated get/set docs split
+
+commit 01423fec2756fd54ed00e749c077fee6eec4ee0b
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 15:26:06 2014 -0700
+
+    automatically generate jsdocs for dynamically created functions
+
+commit a11d63c319d05d2c1dac01443011cfefb9d75fb8
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 12:25:31 2014 -0700
+
+    docs rebuild
+
+commit 5ba49a9d76eaf39826f4e95eba55610688ddfab2
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 12:25:14 2014 -0700
+
+    mark some methods as private
+
+commit 82627cfb32f1e51c6f0a6ab069c02566989efbb1
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 12:19:42 2014 -0700
+
+    jquery min
+
+commit 03b4bba6bef690270d9712571da7939bdc016345
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 12:19:25 2014 -0700
+
+    readme cleanup
+
+commit 85132910ded5884ad48aafa49d14a0beb21c301d
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 12:12:11 2014 -0700
+
+    adding more info to readme
+
+commit 0438473a6179d842c2cdd4ac0337c9a80cc500bb
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 11:51:11 2014 -0700
+
+    Gruntfile.js cleanup
+
+commit ebe30e9fea5bf960076e2249e0a7297b568bfccd
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 11:49:02 2014 -0700
+
+    move docs into their own directory
+
+commit 0da585b62e5101e60f7de59c9e278a532c9bd709
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 3 11:32:43 2014 -0700
+
+    automatically run tests in Opera too
+
+commit d37c32353f3dcb4c4fb868b96eeb2ee924d06343
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 18:29:32 2014 -0700
+
+    getDPR toFixed tweak
+
+commit 078253eef142aec5326c620baff4ee8bcd5fb8b2
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 17:57:17 2014 -0700
+
+    cleanup
+
+commit 84aefb66083c432d3ae6b1464dfc3ff4fc389aaa
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 16:34:20 2014 -0700
+
+    doc style tweaks
+
+commit ea4caba48f802deecbc2f7567451202a1ca9a25b
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 16:31:37 2014 -0700
+
+    doc style tweaks
+
+commit 0de45c5defba5fdda1693922843bc55b60fd9c99
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 16:26:26 2014 -0700
+
+    docs cleanup
+
+commit 23165908be900fb3739b5f119cc7331a9bde5a7d
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 16:24:30 2014 -0700
+
+    docs cleanup
+
+commit 5d392d1e2446834537290cedeb20ee188e232dfc
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 16:04:46 2014 -0700
+
+    docs cleanup
+
+commit dd82d120ae31730700f761e8fa829e41b9c87b77
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 16:00:18 2014 -0700
+
+    unindent fluid option docs (so they are not treated as code)
+
+commit c4f9137fe6dfb29480ca99e96ea095952c841957
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 15:58:30 2014 -0700
+
+    document the fluid options
+
+commit d3d9be336a9d3367571715eb9242ef14821e77c0
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 15:06:24 2014 -0700
+
+    add examples to readme
+
+commit 84866f63a32aa10d29439eef4692b39e637afb5f
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 14:18:30 2014 -0700
+
+    doc cleanup
+
+commit e6237df38a8372065756420e08c8e9967d421303
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 14:13:18 2014 -0700
+
+    update jsdocs
+
+commit a9c0e0dea15c76e566a07a04e7b9e6dc4b0cb669
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 2 12:29:24 2014 -0700
+
+    attachImageTo
+
+commit dedfd8138ea7f81f70307f841593a8c2f2e7721a
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 17:40:09 2014 -0700
+
+    add setTextFit support
+
+commit 7801a3673b42fe1edccf1ee5e8886ec24ed9cd2d
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 16:05:17 2014 -0700
+
+    docs -> md cleanup
+
+commit 1f7df043844a8a9138af920d582b884646578a66
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 15:51:00 2014 -0700
+
+    first pass at jsdoc -> markdown
+
+commit e083413754429097fa6d9b4696e3e4df4046c2f9
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 15:34:08 2014 -0700
+
+    always run tests against minified version too
+
+commit 4e1f192dfbb06fbc467a7e8342a393cf42e4fbee
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 15:33:58 2014 -0700
+
+    always run tests against minified version too
+
+commit 1367cff610e35cd7dad2a1a367ce0f32e5b29d40
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 14:47:21 2014 -0700
+
+    remove old files
+
+commit ea00e5ea0a2728b33e31b898a7c98584198ce2b1
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 1 14:45:49 2014 -0700
+
+    --no-polyfills build option
+
+commit 9e324bc9771240a29d1cbb10c86b6a3783617b1c
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 30 20:20:06 2014 -0700
+
+    fitImgTagToContainer width&height options
+
+commit 0b0ea0647f541694588c9a88184445cb00d4e543
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 30 17:02:04 2014 -0700
+
+    miguel feedback
+
+commit bb80203417ebf0680958e557ece975636bd60331
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 30 16:32:36 2014 -0700
+
+    doc build
+
+commit fcda024e3a27bc598176435db2ba9342addd8c72
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 20:00:17 2014 -0700
+
+    more tests
+
+commit 3968ce7c7b73ecc4580867a2a4c0b44f7fd5acd8
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 19:49:24 2014 -0700
+
+    fixes for ie8
+
+commit 5c806384e6ad370ccbfed250d06c0d85de2e226d
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 16:06:26 2014 -0700
+
+    update/add jsdocs
+
+commit 479ccdafb7a85fadad0201850e8c579363fdb754
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 16:05:21 2014 -0700
+
+    add removeParam test
+
+commit c4ca6c4d7f2f396bf2bcb80bb690c10f12f2a36f
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 16:04:38 2014 -0700
+
+    cleanup Gruntfile
+
+commit b5a611f06c5cb64c84a622a3c59c5383c88171e3
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 16:04:16 2014 -0700
+
+    update lint rules
+
+commit 802c57fc32ac20b975b7cf8c9a68fa057b5d9e51
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 14:40:28 2014 -0700
+
+    cleanup
+
+commit 6ea97b00db6b5b776bb6ea13dc4afbfde5ea5010
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 25 13:53:11 2014 -0700
+
+    add fluid "shortcut" to jquery plugin
+
+commit 38b234011502e1e83941682cde8fe12eb8d5502a
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Sep 24 15:52:26 2014 -0700
+
+    cleanup
+
+commit b409a49391a1d9b8e181e133bc143c3295c60e64
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Sep 24 12:55:33 2014 -0700
+
+    throw error in jquery plugin if imgix.js or jquery is not found
+
+commit 638dd2b13589374d0903df002d7c95aad5fe585a
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Sep 24 11:25:12 2014 -0700
+
+    jquery plugin auto generate getters/setters for all imgix params
+
+commit 08ae6b707d9780d1bfe213e8300bbf6a7b8e03bf
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 18:04:06 2014 -0700
+
+    $.imgix.all() support
+
+commit d15c302fac2963ed744ce18833e6b7d53f1ca484
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 17:03:51 2014 -0700
+
+    first pass at imgix jquery plugin
+
+commit be5ac273b685f1e2d274da1c3b139302202996e7
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 17:02:09 2014 -0700
+
+    test update
+
+commit 79f25ba69bb7976b64bd9f027be327cd852d1036
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 14:47:51 2014 -0700
+
+    always auto encode param values && col -> mono
+
+commit ba52b889d956a6da5f7d0a4d56f04275e07a9d2f
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 14:37:37 2014 -0700
+
+    console.log|warn|error|etc polyfill
+
+commit eef6f7b6e3bda022c3f3b6a1797a84cd52fb41b7
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 13:17:50 2014 -0700
+
+    consistent getColors behavior (darkest first)
+
+commit 32a9c9c13397d5244be5b1df55e0447d0b5b723c
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Sep 23 12:04:07 2014 -0700
+
+    bind polyfill, better mergeobject, multiple resizer fixes
+
+commit de14602c44eeae402fba4d0038205c50f89e11c0
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Sep 22 12:25:34 2014 -0700
+
+    imgix fluid: track lastHeight too
+
+commit ba6a26f1a0e140d2008fc694cc2597f626caf664
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Sep 19 17:33:35 2014 -0700
+
+    fluid image support
+
+commit 67bc336ceaaedb2430544eb37c2216423d1f4949
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Sep 18 14:22:20 2014 -0700
+
+    update getColors tests to reflect painter color extraction changes
+
+commit 31b2bb05c0973808b5eac518185c7c96b939208e
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Aug 6 14:39:43 2014 -0700
+
+    .eslintrc configs
+
+commit c636ffbdc9ca413486b2a48670d6703ebd0fdae8
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Aug 6 14:39:20 2014 -0700
+
+    support setting the param value to null to remove
+
+commit dcfaca043dd97d16dbd8f658f79c0e7671cec066
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Aug 5 18:50:00 2014 -0700
+
+    dpr fixes
+
+commit 5976c05942f65e607836e17d86e0ed9869ad4470
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Jul 11 18:23:59 2014 -0700
+
+    new parser code since ie is awful
+
+commit ba6b876fd9b9509cc7b5767bde69cd574365a0ea
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jul 8 16:38:28 2014 -0700
+
+    more docs
+
+commit 3a0ad9f2ff026f21ec6c6c8770e54e6f694c99e6
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jul 8 16:23:59 2014 -0700
+
+    doc tweaks
+
+commit d485b221a69e588aeea0de5d6d0969ee82a545da
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jul 8 16:03:56 2014 -0700
+
+    boilerplate for generating docs + documented first few methods
+
+commit 9cd57593378414f350e8cb2e186e7c1b13408f92
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jul 8 15:08:28 2014 -0700
+
+    eventually give up trying to getColors
+
+commit 5ac1f85943c18aefe1c1bd3bc544717d393892c8
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jul 8 12:02:38 2014 -0700
+
+    setElementImageAfterLoad
+
+commit c732a650c8898a53548c0c3033c5066ab98e15c0
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Jul 7 16:55:24 2014 -0700
+
+    getColors tweaks
+
+commit aa5c97c48d3e5a80a15cbaf464ef9db67ff9849f
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Jul 7 15:02:59 2014 -0700
+
+    getColors firefox fix - run all tests through firefox too
+
+commit 929b7b28a3ca6cc7b926ac0a4a3092b3f5a3ee2b
+Author: jack <jacktasia@gmail.com>
+Date:   Mon Jul 7 11:45:36 2014 -0700
+
+    on empty image url use 1x1 transparent image
+
+commit fb635d112ef8f35cdcde934c720c6476f9027e38
+Author: Jack <jacktasia@gmail.com>
+Date:   Sun Jul 6 19:37:21 2014 -0700
+
+    clean up and tests
+
+commit 3469988da973f635f8fb40d5ba1b79e925714f86
+Author: Jack <jacktasia@gmail.com>
+Date:   Sun Jul 6 13:29:18 2014 -0700
+
+    tests
+
+commit bba0a99a187501a36b146d432e31f1d7bcbba566
+Author: Jack <jacktasia@gmail.com>
+Date:   Sat Jul 5 23:03:21 2014 -0700
+
+    more methods, cleanup, tests
+
+commit adffe68bab8ed120c8f16bc1fdaaced2d01f56b8
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Jul 2 19:29:21 2014 -0700
+
+    convert rgb(r,g,b) to hex
+
+commit 3a98090c917f3c7248e61d0c63e468db609585b2
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Jun 25 15:42:35 2014 -0700
+
+    auto en/decode mask too
+
+commit 3edaefec11a45e502cfb70a43e5425a738a58c32
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Jun 25 12:39:52 2014 -0700
+
+    minify
+
+commit f20c3f89d82a520d138af9627dfe2004f216a447
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Jun 25 12:39:21 2014 -0700
+
+    bg support + handle decoding of watermark
+
+commit 4f1435cbc3e90f001e85072e99015002fdf9e2a9
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jun 24 19:47:06 2014 -0700
+
+    getParams()
+
+commit c3e7e95f5ee77f723e8b2d5d63289ec73ad05a3c
+Author: jack <jacktasia@gmail.com>
+Date:   Tue Jun 24 19:31:52 2014 -0700
+
+    auto + mask support
+
+commit a10f804999aa4dab3e481bd3f667b57d7d38892c
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Jun 20 14:05:00 2014 -0700
+
+    normalize query string
+
+commit d3c18aad764a6a1ec57e4fa38f0f906854e49184
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Jun 20 13:12:13 2014 -0700
+
+    remove console.log
+
+commit c1c0e5bd6927c7a013ff425a8c7745cea77c51b9
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Jun 20 13:08:34 2014 -0700
+
+    getColor() from css palette
+
+commit f5a971a4f646c42bc48d1429530a2a6da327a26c
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 10 14:55:43 2013 -0700
+
+    add loadTime to callback
+
+commit edabaf3d9f57cbc5f821ac8ca237d927217504e8
+Author: jack <jacktasia@gmail.com>
+Date:   Thu Oct 10 14:17:35 2013 -0700
+
+    imgix.js adding element to callback obj
+
+commit 6c7d66f8fa59e3bd5d8dc6d8ae40acfabc1eb2c6
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 9 17:48:52 2013 -0700
+
+    imgix.js callback returns obj instead
+
+commit dd81b0c5f5896df68ba0cabaf7913162fa85e553
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 18:16:17 2013 -0700
+
+    versioning autoupdates so slow old do not override faster new
+
+commit 1c4a208bc1086c0ae69a416e5f056ba3f81aae72
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 17:38:10 2013 -0700
+
+    some font methods
+
+commit c34c753e3c36d0da981256019ee8b1e5784d3d2e
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 17:05:13 2013 -0700
+
+    fix undefined check
+
+commit 71c287ef64b361009eea80b17a35701830ac736e
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 17:01:47 2013 -0700
+
+    adding clearParams() and clearThenSetParams() methods
+
+commit 02e4fa27b9eea01b4c32e9e6f86e35dbaf67b332
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 15:49:37 2013 -0700
+
+    allow an imgParam object in the imgix.URL constructor
+
+commit 179ff1088217cd5b575ca3ccac55cb6d3287b468
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 15:28:19 2013 -0700
+
+    add+pass back unique class in autoUpdate callback
+
+commit 564d03bff0c18faf80e881ac1615d6a7e85790c0
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 14:47:34 2013 -0700
+
+    setParams() tests
+
+commit c4891528d29e761c6269ef80e43f31e0beeff658
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 14:34:21 2013 -0700
+
+    support autoUpdate callback function
+
+commit d5ae621d1eaf2a6bfa5cf8d33dc2c3cd962c4723
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 11:39:08 2013 -0700
+
+    supporting element background-images
+
+commit 2ea160328454e9da9377691b24b54583f8647e87
+Author: jack <jacktasia@gmail.com>
+Date:   Fri Oct 4 10:52:28 2013 -0700
+
+    imgix.js tweaks for new marketing site
+
+commit a6e71130c03506b686f86b2c24087afc0347123d
+Author: jack <jacktasia@gmail.com>
+Date:   Wed Oct 2 18:56:44 2013 -0700
+
+    imgix.js start
+
+commit 5133bc3e401bf8ec09d10614cf195d69d37f02ce
+Author: Chris Zacharias <christopher.zacharias@gmail.com>
+Date:   Mon Jul 22 15:20:04 2013 -0700
+
+    Adding baseline support for retina display support.
+
+commit 0ad2a65518dfb05b6739de171aa5804105c84fef
+Author: Christopher Zacharias <christopher.zacharias@gmail.com>
+Date:   Fri Jul 19 12:11:44 2013 -0700
+
+    Initial commit

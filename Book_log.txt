@@ -1,0 +1,571 @@
+commit ba65b9f72a9eb967504607199b5b069abb3577d2
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Mar 28 00:47:51 2022 +0300
+
+    Add 'No translation' message and fix captions
+
+commit f926a36438da3fcfeaf327f4c6fa043068ddf8a0
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sun Mar 27 13:23:32 2022 +0300
+
+    Fix page breaks and move build script
+
+commit f60d71aa88cecca63f58da4131be50f524588a2a
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sun Mar 27 01:47:44 2022 +0200
+
+    Update build script
+
+commit 9ada2a90767ef00eae790a6b38a1c0490ae6264b
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sun Mar 27 01:46:56 2022 +0200
+
+    Put content for each language to separate folder
+
+commit 30dafe1342e61ac60ff34aa559fc7d1610a7ca35
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sun Mar 27 01:18:25 2022 +0200
+
+    Fix cz index
+
+commit 03ab116c069cd0df8675b9c54e9aa3b008975d15
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sun Mar 27 00:47:18 2022 +0200
+
+    Part 2 structure
+
+commit 33c7b1e272bef8150b93b37103e70183685593a6
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sun Mar 27 00:28:28 2022 +0200
+
+    Decompose part 1 into multiple files
+
+commit b98254d9f950284272e4821ebf730f6f57c51bd1
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sat Mar 26 22:03:14 2022 +0200
+
+    Update dependencies
+
+commit bcff1cd81cd979b2f4b9fe441a535a805ed1ace7
+Author: vpoliatychko <83603311+vpoliatychko@users.noreply.github.com>
+Date:   Sat Mar 26 00:21:53 2022 +0200
+
+    Translate intro and index into Ukrainian
+
+commit 3a1492fd97a2a8542d122d57e866ffdfe513d8f0
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Mar 25 01:52:33 2022 +0200
+
+    Render code blocks
+
+commit 99bda27c9f114ac80165dbd31cc30d5695e96396
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Mar 25 01:06:34 2022 +0200
+
+    Add stub: 2 Basic concepts (en)
+
+commit 1445ab724d8452d2626632dce7934b34ad3ab1e4
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Mar 25 01:01:28 2022 +0200
+
+    Add stub: 2 Basic concepts (ru)
+
+commit c5f2f995123d805a9ca257e79940dccaae551868
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Mar 24 18:25:31 2022 -0400
+
+    Change &mdash; to unicode
+
+commit 9864ab7cfe2714046dd16f12e06c8d8e4e2e5ca4
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Mar 24 05:36:49 2022 -0400
+
+    Fix spelling
+
+commit 47386b9c7f788242dee50881d4b5b5fd70fdfc1f
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Mar 23 18:29:08 2022 -0400
+
+    Add content to 1.7
+
+commit cdbe6343c206edb65bf3cea7e62310b163825b13
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 22 18:47:42 2022 -0400
+
+    Add 1.6 section
+
+commit 930ca35ed901ecaceb68dd6a6b114dce399c5816
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 22 17:40:34 2022 -0400
+
+    Fix index en
+
+commit 94b6c336514c4d6849d769b5026fe1d244c9d5c5
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 22 17:39:33 2022 -0400
+
+    Fix index ru
+
+commit 49467010db83483bbe49a13daa83f84af3b8da9a
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 22 17:38:49 2022 -0400
+
+    Fix index formatting
+
+commit 37f218b61415661f17307046c3f3cfe4bcc281a1
+Author: Aleksandr Schemelev <prophreaker@gmail.com>
+Date:   Tue Mar 22 01:17:21 2022 +0300
+
+    Fix typo
+    
+    PR-URL: https://github.com/HowProgrammingWorks/Book/pull/59
+
+commit e618eb3b6bbc2e97588657ded5bec67d53865cfa
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 22 03:12:02 2022 +0200
+
+    Build PDFs
+
+commit 622c66cb95ff1028cb1e93ace322f0458c906503
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 22 03:11:28 2022 +0200
+
+    Build multiple languages
+
+commit 46d872f570d3ad75c2e32bc7e2687c0488e669e5
+Author: Aleksandr Schemelev <prophreaker@gmail.com>
+Date:   Tue Mar 22 01:17:21 2022 +0300
+
+    fix: typo
+
+commit 4d18ac434d9eaf3bcff927b05bb83b57087d37bb
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Mar 21 17:30:07 2022 -0400
+
+    Add content to Introduction (ru)
+
+commit eab89a411783f0483b2e7fe083832526abc6d489
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Mar 21 16:49:19 2022 -0400
+
+    Add structure
+
+commit 2f2da653fcc75a8f5153278ba5c85cf914c8fd9b
+Author: Stanislav Tursky <stastursky@gmail>
+Date:   Mon Feb 7 01:28:43 2022 +0200
+
+    Translate content into Czech
+    
+    PR-URL: https://github.com/HowProgrammingWorks/Book/pull/53
+
+commit e097ead94d203d99553fe9a18931870516673d9c
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Feb 24 02:01:04 2022 +0200
+
+    Update content
+
+commit 8c4e548bee16f0fc7e2b88ca80d7259738ba0ce5
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Feb 24 02:00:12 2022 +0200
+
+    Do not wrap lines
+
+commit 2189846673d7ffff7a26c77e7a60e5403c80d1e5
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sat Feb 5 03:22:26 2022 +0200
+
+    Rebuild book
+
+commit 1bf45adbf4a09b9ffad9438926da47e45a73517c
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sat Feb 5 03:22:06 2022 +0200
+
+    Update build script
+
+commit b6755e6f7b9e99786de85fbc632f5a38c24b1ff3
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Sat Feb 5 03:20:47 2022 +0200
+
+    Add config files
+
+commit 877aa6ed74fe59331813faef179b283832872a00
+Author: Stanislav <44061259+tursky@users.noreply.github.com>
+Date:   Sun Jan 30 22:04:31 2022 +0200
+
+    Main page (change style & text)
+    
+    Co-authored-by: tursky <Stas Tursky>
+
+commit 40932f89f154c375e5edabf734ab6b59a6202d3e
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Jan 28 23:48:07 2022 +0200
+
+    Rebuild PDF
+
+commit 3ad36781e65ff25bec63704c189385c112fef8e0
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Jan 28 23:47:46 2022 +0200
+
+    Fix index formatting
+
+commit 31d96f75bb2a703c9e4606fa7cd20300074ea4fc
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Jan 28 23:47:14 2022 +0200
+
+    Translate links
+
+commit 56a14b4c572f171b7048eeb9ef00f08ba7b1255b
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Jan 28 23:45:38 2022 +0200
+
+    Rename book
+    
+    Closes: https://github.com/HowProgrammingWorks/Book/issues/34
+
+commit 0d8ac9672aa35cee5a2de183e481a1fe207192f6
+Author: tursky <Stas Tursky>
+Date:   Thu Jan 27 13:23:21 2022 +0200
+
+    Little fn simplification
+
+commit a95b8fd70c16c89f83d525449142004e71ed171c
+Author: tursky <Stas Tursky>
+Date:   Thu Jan 27 12:39:02 2022 +0200
+
+    Just some fixes
+
+commit 8941b7adc02e29daa5f5475a2d650ab98ac894bf
+Author: tursky <Stas Tursky>
+Date:   Wed Jan 26 17:37:24 2022 +0200
+
+    Add new fn & refactor
+
+commit 042885c1dfd61b62f9829bef8ff6c59a7846f54e
+Author: tursky <Stas Tursky>
+Date:   Mon Jan 24 18:21:19 2022 +0200
+
+    Refactor code (margins)
+
+commit 33f7b7d588f8dfa6580d82051d0b909b2b16307d
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 24 08:23:41 2022 -0500
+
+    Fix line feeds
+
+commit cc919293abed5fe666eb39b67be9504d2e0cfe36
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Jan 21 23:01:29 2022 +0200
+
+    Fix English index to be synced with Russian
+
+commit 29b40f218d85bca287ef1e9c4f9fb361feae2fb4
+Author: Вадим <75751750+Code-Welder@users.noreply.github.com>
+Date:   Sat Jan 22 00:00:42 2022 +0300
+
+    Translate index to Russian
+    
+    Co-authored-by: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+
+commit 25a1be076bc9af1f0bbcefbb88826dd47247e4e1
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 19 23:36:28 2022 +0200
+
+    Fix spelling
+    
+    Refs: https://github.com/HowProgrammingWorks/Book/discussions/27
+
+commit f20c4fe384e5a812487c0b3b08b3f17052fabb9e
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 19 02:39:38 2022 -0500
+
+    Update issue templates
+
+commit ac1a1fac9c6abc926ee943ab197f8674309baabf
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 19 09:26:53 2022 +0200
+
+    Add issue and PR templates
+
+commit d1857af7b05d0ec4cae9050af832c55e0bd28f01
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 19 09:27:09 2022 +0200
+
+    Update npm scripts
+
+commit 9b7db5ca9db11f6cdf901526390d4e668fbd5a21
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 19 08:42:56 2022 +0200
+
+    Add funding URLs
+
+commit a32718aa3246e5e91bc880882c5d1e74e6bb43e4
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Jan 18 23:47:09 2022 +0200
+
+    Build book
+
+commit 26caa65ce62ae4ec232e9c55ede39ee41bc2a5a1
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Jan 18 23:46:55 2022 +0200
+
+    Update build script
+
+commit 751064a991677d9c2b570bef3957ec8872862995
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Jan 18 23:31:47 2022 +0200
+
+    Add introduction (just RU)
+
+commit f47928a14c21d5ac2e2d218d10d10f330972929e
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Jan 18 23:30:23 2022 +0200
+
+    Add abstract (both ru & en)
+
+commit bdeae04058c80fd140ecb472a7af2ae46c6fcf42
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 21:28:12 2022 +0200
+
+    Fix spelling
+
+commit 5745c02cbdefcd6ad24420012faff819284daed4
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 21:21:10 2022 +0200
+
+    Add development process topics
+
+commit dff7e695e7f1a231b833edcd251f30c2ca05b402
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 21:06:19 2022 +0200
+
+    Add async and parallel topics
+
+commit 23b650e5e3b697dfdacff8635cd01018e2921340
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 20:55:43 2022 +0200
+
+    Reorder index
+
+commit a434cf91a2765efd00e188c1ed236dd6ac61dd6b
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 20:55:03 2022 +0200
+
+    Add concurrent and distributed topics
+
+commit 8035e2c8b604de1e044a2fb783d7af269fdf4c59
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 18:25:47 2022 +0200
+
+    Add architecture section and improve introduction
+
+commit 78aaa2a64a11565128c823e06bb7d5b312fab851
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 14:09:36 2022 +0200
+
+    Add data storage section
+
+commit 3bdfbe63e484cbfc3bfe31d3d59985c9453e05d9
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Jan 17 13:57:00 2022 +0200
+
+    Fix spelling
+
+commit b2169cfdff0db8db065b9a3faa7d789417638654
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 22:35:37 2022 +0200
+
+    Improve index builder
+
+commit 06af65f12f5415f9c055f25b7ea2014183609519
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 17:18:56 2022 +0200
+
+    Apply autoformatting
+
+commit 749019ad9c5b71167a62e2beed220f0e5bf3c791
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 17:10:30 2022 +0200
+
+    Update content structure
+
+commit 912e9edc43dd4a7664f710d3c683afe17bdb7c40
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 17:06:55 2022 +0200
+
+    Add testing and other techniques
+
+commit 08a1fc042f8189b2bfc1fb4b4c1e51f3d2d7a0ff
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 16:52:23 2022 +0200
+
+    Rename to index
+
+commit 9e7e2594b024a6ef11a2cb7a8f3d216c3cf8285d
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 16:48:16 2022 +0200
+
+    Add paradigms and other key concepts
+
+commit 92662cda1b9a752f9609ff2fc3ba538b7887b0ef
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 13:57:35 2022 +0200
+
+    Improve index in English
+
+commit 5f13c599060026b5e80ef0fe1b57f732fd7f0736
+Author: nimchukr <romannimchuk@v.stockx.com>
+Date:   Thu Jan 13 12:59:11 2022 +0200
+
+    Fixed a few typos in a fundamental English
+
+commit 1c7469419f3ff3af42f0975cb1f679a5a743c670
+Author: Alexander <citikot@users.noreply.github.com>
+Date:   Thu Jan 13 10:26:01 2022 +0200
+
+    Minor improvements of English translation
+    
+    Co-authored-by: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+
+commit a9a4d373ebb49fceede2498efb2b9cc1cbb9f1df
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Jan 13 09:56:55 2022 +0200
+
+    Wrap lines in MD files
+
+commit a7db24e2e0083a7d51a09b95804297c8c43841e1
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 21:37:52 2022 +0200
+
+    Add first content example: book index
+
+commit 0e46b91ddc50d9c15f9f26bf1c2980c9984e6841
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 21:37:29 2022 +0200
+
+    Update readme
+
+commit 27ab0930d94aafa2f8e545e7a184322af3dae097
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 20:52:05 2022 +0200
+
+    Add gitattributes
+
+commit e23c53c9e9f8e3bac53cc1e8002bbcbcfdd1100d
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 20:48:43 2022 +0200
+
+    Update build script
+
+commit 1fb69378f6a88d04a6f9549e086bcaba0f9b9138
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 20:46:57 2022 +0200
+
+    Add build script with eslint and prettier formatting
+
+commit d235edd8814c1cf355b7dd1e1a58d4ef2172db92
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 20:46:33 2022 +0200
+
+    Add config for editors
+
+commit cf1bff6af20c4cda329d7764be36526ddedeecde
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 20:27:12 2022 +0200
+
+    Update license
+
+commit b34a6ac3cfd8303aa0851a207c2c4a1d0147f14b
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Wed Jan 12 20:26:06 2022 +0200
+
+    Update dependencies
+
+commit f5de6e74a21691cdb0898626c080733eef6c3bc7
+Merge: 13cf0ac 6bc201a
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 17 21:32:59 2020 +0200
+
+    Merge pull request #2 from HowProgrammingWorks/dependabot/npm_and_yarn/minimist-1.2.5
+    
+    Bump minimist from 1.2.0 to 1.2.5
+
+commit 6bc201a9ae6f5220f45983c1bab82ba3c0127b25
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 17 10:32:34 2020 +0000
+
+    Bump minimist from 1.2.0 to 1.2.5
+    
+    Bumps [minimist](https://github.com/substack/minimist) from 1.2.0 to 1.2.5.
+    - [Release notes](https://github.com/substack/minimist/releases)
+    - [Commits](https://github.com/substack/minimist/compare/1.2.0...1.2.5)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 13cf0acd2096072970266ba005325f1253fef648
+Merge: 4eb631c 0ddc345
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Tue Mar 17 12:32:08 2020 +0200
+
+    Merge pull request #1 from HowProgrammingWorks/dependabot/npm_and_yarn/acorn-5.7.4
+    
+    Bump acorn from 5.7.3 to 5.7.4
+
+commit 0ddc3456f6f19636df282a6c8b38e36021428b01
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Mar 15 05:18:39 2020 +0000
+
+    Bump acorn from 5.7.3 to 5.7.4
+    
+    Bumps [acorn](https://github.com/acornjs/acorn) from 5.7.3 to 5.7.4.
+    - [Release notes](https://github.com/acornjs/acorn/releases)
+    - [Commits](https://github.com/acornjs/acorn/compare/5.7.3...5.7.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 4eb631c0d273f9ee8315c78a0bebf0859b012bf2
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Mon Feb 10 20:50:21 2020 +0200
+
+    Add font RobotoMono
+
+commit a4c2ecf6236dfd09457c66adbf0ea25ffc76b6fc
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Feb 7 07:14:37 2020 +0200
+
+    Content stub
+
+commit 01cfb7b0bab9ac4889efa5278cdfd422f08e20f1
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Feb 7 07:13:55 2020 +0200
+
+    Add compile stub
+
+commit ced767c337e778e7bc8698807325cdafc35f4c5b
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Feb 7 06:27:19 2020 +0200
+
+    Package config
+
+commit aee51b9c60056c0562f4691a6eaafee1fbdb7757
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Feb 7 06:26:52 2020 +0200
+
+    Update license
+
+commit 020fa862df5f4eda2a3160cdb08218cb74dd1098
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Feb 7 06:26:09 2020 +0200
+
+    Add fonts
+
+commit b8d0ae5b5473b8c34a2b1e76d0a8f47c445ce8ba
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Fri Feb 7 06:25:42 2020 +0200
+
+    Add dotfiles
+
+commit f57ea4b1b1a023e6eecec10ae84f1751450eb252
+Author: Timur Shemsedinov <timur.shemsedinov@gmail.com>
+Date:   Thu Mar 9 02:11:33 2017 +0200
+
+    Initial commit

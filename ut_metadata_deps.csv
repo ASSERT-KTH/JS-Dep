@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (800.0 files/s, 119534.7 lines/s)"
+JavaScript,ut_metadata/node_modules/rusha/dist/rusha.js,120,107,713
+JavaScript,ut_metadata/node_modules/debug/src/node.js,32,56,175
+JavaScript,ut_metadata/node_modules/debug/src/browser.js,26,77,166
+JavaScript,ut_metadata/node_modules/debug/src/common.js,43,72,159
+JavaScript,ut_metadata/node_modules/bencode/lib/decode.js,37,19,112
+JavaScript,ut_metadata/node_modules/ms/index.js,11,40,111
+JavaScript,ut_metadata/node_modules/bencode/lib/encode.js,28,7,99
+JavaScript,ut_metadata/node_modules/simple-sha1/browser.js,11,5,60
+JavaScript,ut_metadata/node_modules/bencode/lib/encoding-length.js,16,0,53
+JavaScript,ut_metadata/node_modules/bitfield/lib/index.js,0,29,49
+JavaScript,ut_metadata/node_modules/simple-sha1/rusha-worker-sha1.js,7,0,26
+JavaScript,ut_metadata/node_modules/bencode/lib/util.js,2,3,18
+JavaScript,ut_metadata/node_modules/simple-sha1/index.js,3,0,14
+JavaScript,ut_metadata/node_modules/queue-microtask/index.js,1,2,6
+JavaScript,ut_metadata/node_modules/debug/src/index.js,1,4,5
+JavaScript,ut_metadata/node_modules/bencode/lib/index.js,2,6,4
+JavaScript,ut_metadata/node_modules/rusha/dist/rusha.min.js,1,1,1
+SUM,,341,428,1771

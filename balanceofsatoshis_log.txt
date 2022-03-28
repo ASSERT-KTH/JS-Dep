@@ -1,0 +1,4343 @@
+commit e3553276c59531fcf9c9848e12b3074ca65cf242
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 27 16:48:14 2022 -0700
+
+    bump dependencies
+
+commit c60987d7e1173ddd5675125f378516a292961bdd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 26 10:51:03 2022 -0700
+
+    bump dependencies
+
+commit 5c8571577b10ea6068198aa084426e052c7a0e6d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 23 21:07:26 2022 -0700
+
+    remove potential blocknotify blocking
+
+commit c68b76cda0867d11d942f59086270c56282e0f31
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 23 18:46:27 2022 -0700
+
+    update package lock
+
+commit 39b41d3b18ba9db9076a690385b0c3e67eda450b
+Merge: 57fe7d2 6346236
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 23 18:44:59 2022 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 57fe7d23d40e1ce36ff5df3f79b4c5aa5c0b6e9b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 23 18:44:37 2022 -0700
+
+    add check on attempt confirmation
+
+commit 634623645f7ff47de636d1d3d6649f05b9f18019
+Merge: d328c15 42616e8
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Mon Mar 21 08:20:29 2022 -0700
+
+    Merge pull request #259 from asvdf/master
+    
+    Update link to RaspiBolt install guide
+
+commit 42616e8c219a7628a2935ee679b32ef3e7529a74
+Author: asvdf <91805022+asvdf@users.noreply.github.com>
+Date:   Mon Mar 21 12:17:19 2022 +0100
+
+    Update link to RaspiBolt install guide
+
+commit d328c15b14c553fa16fc8149c6b2547d46c0e647
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 20 13:23:47 2022 -0700
+
+    update dependencies
+
+commit 66b1c60d19ac4e077b31b0add5923f4f2456e4cb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 20 13:18:49 2022 -0700
+
+    bump version
+
+commit 9b7898931b0ccfcf730fd0f0cb81131e86e3efd7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 20 13:16:34 2022 -0700
+
+    merge changes
+
+commit 0907f76eaea54a2871463b1f96965f82ec5271fe
+Author: Bota <Bota@ASUS>
+Date:   Sun Mar 20 01:31:19 2022 +0100
+
+    added option to receive amounts from the telegram bot in sats
+
+commit 31af1151cf51dbfd38785733a05c8cc54070a29b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 20 08:47:31 2022 -0700
+
+    update dependencies
+
+commit fcae3b959b0747c99781f6d36c2a8495efece2f3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 19 21:37:19 2022 -0700
+
+    serve fiat trades from telegram bot
+
+commit 61d9f0969c4b7549694b5098203ce89635d3b043
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 19 21:08:46 2022 -0700
+
+    bump version
+
+commit b391685595dfd24350c80c07527fa6cc61257f51
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 19 20:57:25 2022 -0700
+
+    merge changes
+
+commit ae647171f643b64b88cbeb82c0c4217b5194a23e
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Mar 15 14:41:11 2022 -0400
+
+    fiat support for all trades
+
+commit 8d3f55e2af54860849a6ce76a827921143626658
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Mar 15 08:23:03 2022 -0400
+
+    support for fiat based channel sales
+
+commit b23a8207dbd06c93d82d3aabfb00d4c21a6cb77b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 16 16:27:17 2022 -0700
+
+    update dependencies
+
+commit f3fe66dba902e9677dded73b6076f1f1ce075c1a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 16 14:04:30 2022 -0700
+
+    update dependencies
+
+commit 5f50139aa422b12b355250b7cc5e046592c7405b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 16 09:48:41 2022 -0700
+
+    increase p2p failure timeout from 5s to 90s
+
+commit 1886746c8f8f6774ae7cf7d853f7f41cf6e2f2b4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Mar 14 14:47:24 2022 -0700
+
+    fix --rebalances by consolidating disparate data types
+
+commit 3a9f605aa9df21c82101d022a250f8c1354a7ebd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 13 16:42:00 2022 -0700
+
+    add in and out constraints to fees paid chart
+
+commit d3be25fe072c0ee8632e6ba3c84eac7ea27805b6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 12 11:46:16 2022 -0800
+
+    bump version
+
+commit d5aa328cd354c3d2e056f0190852c11d12b6b16a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 12 11:41:34 2022 -0800
+
+    merge changes
+
+commit 742e292a67368a3f496088c42d1e55c2ad0d2fb9
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Mar 10 11:41:06 2022 -0500
+
+    add experimental flag to trade-secret command
+
+commit f786ea594cae539e7446265d90fe777524be7541
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Mar 10 08:00:48 2022 -0500
+
+    pass onchain balance as argument to tradesecret
+
+commit 511de331bc03467fe8196c5913bcaa7e658e5b27
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 9 15:58:57 2022 -0800
+
+    add pending check before open tx broadcast
+
+commit fbe50ccb6bb0679f5393d1179cd4af6fa7e67d14
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 5 14:38:35 2022 -0800
+
+    bump version
+
+commit b99e66b8c2ceb45a76d926128ca17643475bbddf
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 5 14:35:23 2022 -0800
+
+    merge changes
+
+commit 63c4019a62fb1ead09f03e083dcd1a361db4c5bd
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sat Mar 5 00:55:25 2022 -0500
+
+    fixes
+
+commit a22e96ec06c7b3febf5f662bb09497f51b05261a
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Mar 4 00:46:57 2022 -0500
+
+    error message fix
+
+commit 1e40175c8c45c41eb48e9f24b3e438221cb87f0d
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Mar 4 00:39:48 2022 -0500
+
+    added new internal-fund-with-fee-rate flag
+
+commit e45ae610311746da46d8ee98938eea46da9c56d8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Mar 3 08:19:03 2022 -0800
+
+    bump version
+
+commit c655af1b501767a7ce914c4222183a0335820849
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Mar 3 08:16:10 2022 -0800
+
+    merge changes
+
+commit 087aa3e6b0b58ef10ac12e9afef0dc5251a13100
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Mar 3 08:23:58 2022 -0500
+
+    minor validation fix
+
+commit ce56270a476d95e08fc9a16983395ab21323754a
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Mar 3 13:40:59 2022 +0530
+
+    fixes
+
+commit a7304f48bbdf8b8f728ffcb3428be19d43fd748d
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Mar 2 22:05:57 2022 +0530
+
+    condition change for validation
+
+commit f73b753865b1a0eb62ff49644fc36042a073dc42
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Mar 2 13:04:36 2022 +0530
+
+    fix
+
+commit 067aaadd68b664aeda7b3f797e41e3d2932ddbde
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Mar 2 12:58:54 2022 +0530
+
+    validate connect flag
+
+commit d041a9d7a32e1f83a1d08016c3991285e0dbfe9c
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Mar 2 12:42:19 2022 +0530
+
+    add validation to connect code prompt
+
+commit 6252cb596fb09cd2a3bd3f758d3e93e1ae5c6659
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Mar 1 15:51:16 2022 -0800
+
+    update dependencies
+
+commit 0a4b08ea3f44f58222402facdb9c75d1393d46e0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 27 19:10:30 2022 -0800
+
+    add /info to telegram
+
+commit e3deea1efc310fb838c3c7c96cfec4179038b99c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 27 13:40:40 2022 -0800
+
+    update dependencies
+
+commit c5be4e8effbef83fdf293e196f6424a4fc2867a1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 27 11:51:16 2022 -0800
+
+    bump version
+
+commit fc50c27e9e99c37b312080890be3f32e0a51ad76
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 27 11:48:05 2022 -0800
+
+    merge changes
+
+commit 717c4a17e60687c5b8456e839fbc29ceb9a0a111
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Feb 25 22:09:12 2022 +0530
+
+    fix
+
+commit 9e64c52f3dcf4b5e8e7537805fa032ba7be54472
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Feb 25 19:43:47 2022 +0530
+
+    add set-fee-rate flag to increase outbound liq command
+
+commit 27b27a5c1a06f8208e2b49e93dd4fa7d98548e97
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Feb 26 09:05:33 2022 -0800
+
+    improve error handling on telegram
+
+commit e98c5fb8d422fde0f17e6bf8a0354571eff1b058
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 24 16:52:34 2022 -0800
+
+    add support for hop hints
+
+commit 82422a8b0500cd298d0a7ee6907a3d3ac1c25580
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 23 19:39:51 2022 -0800
+
+    add force enable to enablechannel
+
+commit d908e997e3a34ba9327ae4dba9d6c72e23d6ea0a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 21 12:46:45 2022 -0800
+
+    update dependencies
+
+commit 4096d5c72df5aaa9a7a8c0c378192eb2ec4e8401
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Feb 19 11:54:27 2022 -0800
+
+    avoid setting cltv when no cltv is known
+
+commit 4b40c47deb2c87c37972aa69c6df80eca6f09fa0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Feb 18 17:13:27 2022 -0800
+
+    add sort for equality condition
+
+commit bdc0a6863bdaf148d3492029532dcb3f25526fd2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 17 11:16:13 2022 -0800
+
+    bump dependencies
+
+commit 937cf07a608f85a9936b117f80e2457e88eca852
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 16 21:19:47 2022 -0800
+
+    avoid bot termination on post connection failure
+
+commit d9bf074bbf6f40cd115eb09ee79b69687b267e75
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Feb 15 21:55:18 2022 -0800
+
+    update dependencies
+
+commit e6d4921b3447bb9cfa8609e3cc97ec14f5fe102f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 14 20:27:37 2022 -0800
+
+    update dependencies
+
+commit f811e428d97d5957ee543ba445594bd35b50614b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 14 16:23:45 2022 -0800
+
+    bump dependencies
+
+commit 4fe9816ed0baf88eb5762c74c5091846f9464b8b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 14 10:05:49 2022 -0800
+
+    add get pending payments
+
+commit 0c1240237905ec46cc1afd7afb0d9c79ab648e9e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 13 17:04:33 2022 -0800
+
+    update dependencies
+
+commit 9ea5ce2261e35c332d45ea3385286ab58806531d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 13 11:51:14 2022 -0800
+
+    add testing section
+
+commit def0a524c92feafb3265334a7bf3e6ec3fa90803
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 13 10:45:05 2022 -0800
+
+    update dependencies
+
+commit 90e9ffb9acf92552171eda30a2977bb06268918b
+Merge: a620de1 7475843
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Sun Feb 13 08:51:01 2022 -0800
+
+    Merge pull request #225 from bota87/master
+    
+    Added Nitesh Balusu documentation in Comunity HowTos
+
+commit 7475843c725e9c3a82cff4ea3f6cafb5c2f392bd
+Author: bota87 <52842374+bota87@users.noreply.github.com>
+Date:   Sun Feb 13 17:26:40 2022 +0100
+
+    Added Nitesh Balusu documentation in Comunity HowTos
+
+commit a620de1a7da136b05a310d932e5bd7889ea3f991
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Feb 12 18:34:45 2022 -0800
+
+    update dependencies
+
+commit f073e2073df15808ad7cc1fc63710d9e35e547cf
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Feb 12 16:57:28 2022 -0800
+
+    bump version
+
+commit 618ecf115175efa3d0e4d4824924142ce0c2aa36
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Feb 12 16:46:35 2022 -0800
+
+    merge changes
+
+commit 004e2a154961a9075ab5e32e6b3e7e9f463b7026
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Feb 11 08:25:13 2022 -0500
+
+    move node disconnect alert
+
+commit aecd1c9bb968e1bbb9138cd94899b507575d5802
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 10 14:05:02 2022 -0800
+
+    fix cltv misreference
+
+commit 45c3f95b6841224a9e5d5caf2fdfc7aa70f4908c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 10 13:30:58 2022 -0800
+
+    add get master public keys method
+
+commit 6712d2c9165d75d3a56b1d3e3758f97ae12453d3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 10 11:21:57 2022 -0800
+
+    bump version
+
+commit 1df18bd405dcc37ec98db732d7f02ad1d54e708e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 10 11:20:01 2022 -0800
+
+    merge changes
+
+commit e080acca9a41b3225cd43ca528b6f7aeba0c3168
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Feb 10 12:43:17 2022 -0500
+
+    change subscription to subscribeToPendingChannels
+
+commit 135838ed98a0852baaf720f7f0a9d2bac9c31a19
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Feb 10 09:45:35 2022 -0500
+
+    add notification for channel closing
+
+commit acbe581680b885ab7efc53fafd52789a37c9cbb9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 10 08:01:32 2022 -0800
+
+    bump version
+
+commit db39a757b010443c9752a4675424823e4b0f9c73
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 10 07:52:38 2022 -0800
+
+    rebase to master
+
+commit feef80d1735b42bebacfc47b970f1e222e4870f3
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Feb 8 17:43:47 2022 -0500
+
+    function arg fix
+
+commit 3379b64b5d562a5b151b4f0ede749398d95d4347
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Feb 8 14:05:53 2022 -0500
+
+    switch forwards and settled payments to grammy
+
+commit 395e1363a32a0230bc09266e9f1f34149355a543
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 9 20:37:07 2022 -0800
+
+    bump version
+
+commit ea673a60b2840b9399eb60caa42752fec8fe6a6b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 9 20:18:03 2022 -0800
+
+    fix style issues
+
+commit 8aad846c3d46d8c59c604f9e1c507d2f4efa7e98
+Merge: 037be65 7954950
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 9 20:09:20 2022 -0800
+
+    Merge branch 'use-multiple-saved-nodes-for-open-command' of github.com:niteshbalusu11/balanceofsatoshis into use-multiple-saved-nodes-for-open-command
+
+commit 037be65c48298c248492047d2b0e20761c1df8b1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 9 20:01:04 2022 -0800
+
+    merge changes
+
+commit 795495084806e892c9841852c87aeff9b5cb3d24
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Feb 8 07:57:11 2022 -0500
+
+    validate function fix
+
+commit 39a5131f6275d11a0a5a5e1056c979ec6f0b4c6d
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 22:06:36 2022 -0500
+
+    fixes based on comments
+
+commit a7b2cbe128e74eb21909ee64085d52d50420c6c6
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 17:01:52 2022 -0500
+
+    remove asyncRetry for broadcasting tx
+
+commit 34c9d33c18a2ca0858ca7bbb414e26b3aaa3f21b
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 16:42:42 2022 -0500
+
+    move to single file and broadcast tx separately.
+
+commit ee05f4fcd3c46a45b9fe72f366239c9c99dcb503
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 12:26:22 2022 -0500
+
+    allow channel opens from saved nodes in single tx
+
+commit 40f47c04b56d539cce7cb7a858009d07a1517a31
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 22:06:36 2022 -0500
+
+    fixes based on comments
+
+commit abdfb1841b7e772727740a5862f320a6b45df5cd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 7 17:16:29 2022 -0800
+
+    safeguard against missing channel policy
+
+commit 3ba3d4c45e452d4cf2b67d6b37a41e3b9a9272de
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 17:01:52 2022 -0500
+
+    remove asyncRetry for broadcasting tx
+
+commit 40de54eec03cd2c7eef943b4c82c6a842ac7d0ce
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 16:42:42 2022 -0500
+
+    move to single file and broadcast tx separately.
+
+commit e2b815cd1ad9c0344b6dbbaecb95e619918410bb
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Feb 7 12:26:22 2022 -0500
+
+    allow channel opens from saved nodes in single tx
+
+commit 6723682227656bb24546eef4fa677755028cf61d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 6 21:42:17 2022 -0800
+
+    update dependencies
+
+commit e17e77ed6f665273f768dc8392e4d0b83646704b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 6 16:40:36 2022 -0800
+
+    notify of pending channel opens
+
+commit de56fdbe93faa36a0db970fcbf65182086fe72a2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Feb 5 17:45:33 2022 -0800
+
+    update dependencies
+
+commit 862f16aa295de9e334975b6c6c4eff348a7aa702
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Feb 4 21:45:54 2022 -0800
+
+    add support for sending to p2tr addresses
+
+commit 01e1adfbc528893e41fd3ff05fd9ba1e861fe424
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Feb 4 08:30:20 2022 -0800
+
+    upgrade dependencies
+
+commit b992be70629dfa96261e7b30241d6b7374adc312
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Feb 4 08:06:55 2022 -0800
+
+    fix max fee rate on push payment
+
+commit 294d31ab26cde2da8df3bdaedbce69fef8e2c6d6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 3 17:03:57 2022 -0800
+
+    bump version
+
+commit bc49bc47c4f2d752b2f2b5bbff72fb1bbcb7b5f3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 3 17:01:58 2022 -0800
+
+    merge changes
+
+commit 9bcf60322c1623bede4660e55af5de3e152623d2
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Feb 3 14:51:15 2022 -0500
+
+    add graph command to telegram
+
+commit 0b91cef942e2f4fdd0d896c1e283112b752fe4c5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 2 10:00:00 2022 -0800
+
+    bump version
+
+commit b0653feea8bf4f1a0a0f2f658633e23f097e7ffc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 2 09:58:02 2022 -0800
+
+    merge changes
+
+commit 75edfa11e1ec04731ff062be00b6b5d2d4db545f
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Feb 2 12:11:58 2022 -0500
+
+    add stop command to telegram bot
+
+commit 1af15738672e709e90995a859ed20109b92a9232
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Feb 2 08:51:25 2022 -0500
+
+    add stop command to telegram
+
+commit 9095ead72c4316ba18c9cbbc10dab4fa51d73070
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 2 08:34:20 2022 -0800
+
+    bump version
+
+commit 8690e0c1b4f0a2265240973a82dc1351e4468ab7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 2 08:32:55 2022 -0800
+
+    merge changes
+
+commit 4ca2d57fff6bcfd468f34453d66db201816b69cc
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Feb 2 09:53:53 2022 -0500
+
+    switching open, closed and chain txs to use grammy over request
+
+commit ae88ad86f6a28c904f8045f1893272f5c7fd8e53
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Feb 1 16:44:35 2022 -0800
+
+    bump version and dependencies
+
+commit 5fc675df231d76b8733cfad1b800589230958b75
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Feb 1 16:41:35 2022 -0800
+
+    merge changes
+
+commit 00a2c22c52c5cf4ee67faa611208abfd9ebbba9c
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Feb 1 19:27:59 2022 -0500
+
+    minor typo
+
+commit 566da43861a7d6281820493c59ddccd08fb9ba79
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Tue Feb 1 19:21:29 2022 -0500
+
+    add parse amount for increase-inbound-liquidity command
+
+commit 7e93552cf6037ef1a951225ac194858c5cc61ae6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 31 20:06:48 2022 -0800
+
+    add style notes
+
+commit 8754faaf1033fe091d8a343b54a239537d794e98
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 31 19:02:34 2022 -0800
+
+    bump version
+
+commit 564b066bdec42af03484e36a07b058a45b9e9c21
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 31 18:58:31 2022 -0800
+
+    merge changes
+
+commit 9ffb4fc17337219952b5669f23213cef1a784a8f
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Jan 31 20:52:55 2022 -0500
+
+    removed changes from other files and modified push_payment
+
+commit ca4c90ddd171780a6d4fad147e4e68d5ad8ff254
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Jan 31 19:42:55 2022 -0500
+
+    max-fee-rate flag for send command
+
+commit ee191d188031f63a4bdf45d77d0d59e09909e391
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 31 15:50:38 2022 -0800
+
+    add more forward limiting options
+
+commit fbda9123bf6d90ef5f67226b66c83e8c02fee575
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 31 10:41:43 2022 -0800
+
+    add psbt creation and signing methods
+
+commit 7df5acfa032627c2bfd9d904c63571eb4ec0fd91
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 30 16:47:49 2022 -0800
+
+    bump version
+
+commit d8f910dbd21042ad9344274aa794fe1a1319a7eb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 30 16:45:42 2022 -0800
+
+    merge in interactive close channel selection
+
+commit 8996bbc6f3513817c6075f9e8359e664ca9235ee
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sun Jan 30 15:57:59 2022 -0500
+
+    build choices based on channel status
+
+commit 5fbc7930a647aad8d23127b1caf6054796001b9a
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sun Jan 30 10:02:10 2022 -0500
+
+    fix comment
+
+commit d543f1dfa4fa43c0681caeaf4c2fe78113498f0c
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sun Jan 30 09:58:03 2022 -0500
+
+    interactively select channels to close
+
+commit a7e5ea656e24f817ab38a57dc48db0a89b3f5b12
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 29 15:39:31 2022 -0800
+
+    bump version
+
+commit b631254c9ccbbc189b4a1ad6b006265256d2b4da
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 29 15:36:51 2022 -0800
+
+    add estimated disk usage to peers
+
+commit 5e015ada90cfb85cbc9e5b3073a77f79dbeabaae
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sat Jan 29 17:50:42 2022 -0500
+
+    remove long statement
+
+commit 4b28ddcf0848a687957cf7827e58630305d1455f
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sat Jan 29 17:46:43 2022 -0500
+
+    filter by diskuage for peers command
+
+commit 662dce8ede43f11519e4132cbe87ab3fdf1c7555
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 29 14:22:37 2022 -0800
+
+    add command to limit forwards
+
+commit 7d8afc497ad47406674cf12ab415a999de91d9c6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 28 11:50:04 2022 -0800
+
+    add distance to ads
+
+commit 3d54f3b0be7093d33d606689aad664d1abda6f52
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 28 11:48:12 2022 -0800
+
+    merge max and min hops
+
+commit ca7e904fa71c7135392437f6c0e450e0292f08e2
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Jan 28 14:14:40 2022 -0500
+
+    fixes
+
+commit 64820322f561334e83b8efa99e37cb4801547220
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Jan 28 13:53:05 2022 -0500
+
+    add min and max hops flags for advertise command
+
+commit a2a26b1fc81994a61468a9be6508331a9be35dd9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 27 17:35:30 2022 -0800
+
+    bump version
+
+commit 0f4289b69933d66e821c502899f7bcb884f5fa9f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 27 17:33:35 2022 -0800
+
+    merge changes
+
+commit ae01fefd505644cd12bc3a3981b18d93ac845a19
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Jan 27 20:16:57 2022 -0500
+
+    fixes
+
+commit 9d291b5938c9ff12ae78f898d4d4b4359e39f2a5
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Jan 27 16:52:56 2022 -0500
+
+    add budget to advertise command
+
+commit f4bcd23ee270f33315fae7ab83c6ab83e1768e73
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 26 20:15:38 2022 -0800
+
+    update dependencies
+
+commit bb8e77073f25b3035d81e1805299190eed7a66b8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 26 19:51:28 2022 -0800
+
+    merge changes
+
+commit f68ff454385220ef46f2c6d8854b4d4569f167c5
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Jan 26 13:23:26 2022 -0500
+
+    move escaping to ln-telegram
+
+commit 4b9f405cf4ead615cabc45b2ae2c292dfd4fadc8
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Wed Jan 26 09:06:24 2022 -0500
+
+    switch from v1 to v2 markdown
+
+commit 9c7d0556e0e0e0d7c0c6d0a149349be21a8052d7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jan 25 19:35:19 2022 -0800
+
+    update dependencies
+
+commit ee82a936748a792b0d76fef65880cbb200223cf7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 24 10:49:27 2022 -0800
+
+    fix misreference
+
+commit cf607751b680527edc6fb0855e0929037f250666
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 24 10:12:57 2022 -0800
+
+    merge support for use proxy
+
+commit cb5042e494e524a7f7547b7025667e3223e5d9b5
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Jan 24 12:43:44 2022 -0500
+
+    use proxy path and update help command
+
+commit 190d1700be09d87dff32363d8fd9fba9e7e23be5
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Mon Jan 24 11:48:42 2022 -0500
+
+    support to use proxy to communicate with telegram
+
+commit 57b434fcb5ba8efd3c7e02efb90f5fe822a6282d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 24 08:39:14 2022 -0800
+
+    add hops filter
+
+commit 6b7eed0b7b11b4e85780a6b9129c9bd48a657b97
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 23 20:30:39 2022 -0800
+
+    add support to move trade-secrets in telegram
+
+commit b0742cf7b830e97721c8b7dfeed951203b381ddc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 22 20:03:14 2022 -0800
+
+    update dependencies
+
+commit 897a1848f936cdf555458c609aa8ea0d496884c4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 22 16:12:13 2022 -0800
+
+    fix sort earned_out on forwards
+
+commit 53c37ed1da1012a4ad155503061974d364baebd9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 22 09:58:59 2022 -0800
+
+    update package lock
+
+commit 43ec01859142a924a7e85cca4e7554e0484ba3ef
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 21 21:43:13 2022 -0800
+
+    bump version
+
+commit 788eb1415710ddd53a3efa5edda55ab2fadc3cc8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 21 21:36:16 2022 -0800
+
+    merge move channel change
+
+commit 724dd357d758ceb604e1ebb666eb4cdbfc247c6c
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Jan 20 14:44:49 2022 -0500
+
+    import lazy fix
+
+commit 8a96a27a37e1ab23a509e109d3377c12ee020312
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Thu Jan 20 14:43:55 2022 -0500
+
+    get saved nodes list
+
+commit 5a12d67e50a9a6e9fea88c3ff48f250dcdc381bb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 20 11:18:55 2022 -0800
+
+    add sorting to forwards command
+
+commit 83f4ccd6c6e8450a763886ee41ee7cc2508380ff
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 19 22:00:15 2022 -0800
+
+    add edit description to tg trade secret
+
+commit 2c2e6a6da8fab03c3780a86dbd53693e42d92b32
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 19 12:42:55 2022 -0800
+
+    add node to fees doc that tag is supported in --to
+
+commit 183964ca061842ed1a9433cb2ddfee5784d03032
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 19 10:03:24 2022 -0800
+
+    bump version
+
+commit 7bab8218d61d841a296ade3d64b7cb2a72be4ae7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 19 10:02:49 2022 -0800
+
+    switch seed node backend api endpoint
+
+commit e9ba8494640d209afc385fea5b95ac27bf0a7b86
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 19 09:17:11 2022 -0800
+
+    remove scores support
+
+commit 67f482347c8927e28b1c9777033f7d4965eb3de6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 17 15:35:54 2022 -0800
+
+    bump dependencies
+
+commit 27dafb5db63806ea1afcd2ef34c3a3bc618126a2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 16 21:49:17 2022 -0800
+
+    add open trade secret serving
+
+commit 7aab068ffd439af6c8720c2d73601d72c42d2b87
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 15 21:45:34 2022 -0800
+
+    update package lock
+
+commit ea121121d4e787d7b8c8883810ae1100ecf1bbe9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 15 21:44:56 2022 -0800
+
+    add support for creating channels in a capacity change
+
+commit 14e030c959e5fd2c244c5d4fc7b08c3ec316e4ad
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 14 15:51:49 2022 -0800
+
+    fix multiple outgoing channels constraint on call command
+
+commit 8d1789e623886d48afc06f8107322afd0b98922c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 14 11:37:05 2022 -0800
+
+    add call for removing stuck pending tx
+
+commit 82b249b1bba524fd181fcadfd460275344cc9b5e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 14 09:40:47 2022 -0800
+
+    add long lived trade secrets
+
+commit 0cd1a3587b4a3bea7951d14bc35319a73ce2a18a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 14 08:19:36 2022 -0800
+
+    add support for cltv delta in fee policy updating
+
+commit 6d77bda8d30b1dd0baf4e8092b5bff079e6b9135
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 13 13:36:14 2022 -0800
+
+    add unconfirmed detailed balances
+
+commit 80c213d916eb27b381e2af19b1af71a7109af003
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 9 16:09:24 2022 -0800
+
+    switch to own caporal
+
+commit c658660ed8c0f1d85ddd49464d6a79fee3edf866
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 9 15:27:24 2022 -0800
+
+    remove preinstall script
+
+commit 52f5d46952e8dbb9b72e2136feb08e054eb457d2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 9 15:24:36 2022 -0800
+
+    force version resolution on colors
+
+commit 980eb7471f971a51ef289a7e612e17b884adf262
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 9 10:07:30 2022 -0800
+
+    fix telegram issue switching created invoice node
+
+commit 66285dc614ba4d16bfbb0de948b8eed3fc280933
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 8 18:43:49 2022 -0800
+
+    fix changelog version reference
+
+commit 5ecaa8b1f518c1cbcc1ee21bc30232b4ade18749
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jan 8 17:55:53 2022 -0800
+
+    adjust accounting table changes
+
+commit b30a4597460dfa1996845cb86ca6a903aaec2406
+Merge: 9b99766 bf96e16
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Sat Jan 8 17:20:45 2022 -0800
+
+    Merge pull request #168 from niteshbalusu11/adding-total-to-accounting
+    
+    adding total amounts table to bos accounting
+
+commit bf96e1627eab63ad463be4755fb042d45ee3f357
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Sat Jan 8 20:16:29 2022 -0500
+
+    adding total amounts table to bos accounting
+
+commit 9b997666c14441101e174658ab130880c47c539e
+Merge: 1b02623 e28f013
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 7 17:49:04 2022 -0800
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 1b026235d6675627c7ad0b11c44c549f98df76f1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 7 17:48:41 2022 -0800
+
+    update dependencies
+
+commit e28f013dbdc86dda77358ffd87a80df254f836aa
+Merge: 4fe1912 f2b5732
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Jan 7 08:43:47 2022 -0800
+
+    Merge pull request #153 from AbelLykens/master
+    
+    Add clean-failed-payments to readme
+
+commit f2b57327d9748e9361b7f82721fafa08d8322cac
+Author: AbelLykens <47113175+AbelLykens@users.noreply.github.com>
+Date:   Fri Jan 7 13:24:39 2022 +0000
+
+    Add clean-failed-payments to readme
+
+commit 4fe1912939d168bc693df2c7975420326c9e1357
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 5 08:40:05 2022 -0800
+
+    fix setting zero fee rate
+
+commit e6d8d54b8af40dd49831625c25245284a918bef1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 3 21:51:03 2022 -0800
+
+    add support for paying zero amount requests
+
+commit ce4b2e2c448729c0e4fc576803ded36e4f31cbef
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 2 22:00:20 2022 -0800
+
+    add support for changing private/public status of channel
+
+commit fa61ee6b0ef2c62831deaec7f3dd20f02c937647
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 2 20:17:03 2022 -0800
+
+    update dependencies
+
+commit d394065b5c099c9b8f7ef64840930ddd58104e88
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 2 10:22:57 2022 -0800
+
+    fix change capacity, add open trade support
+
+commit f494d5e63baa4b8df3b22094b8661f7037b13ab0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 27 13:12:35 2021 -0800
+
+    make config.json instructions have valid json
+
+commit 59a887ece2b81e846bb37980d7efa30afbc7208b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Dec 25 08:58:16 2021 -0800
+
+    bump version
+
+commit 81048a0634daecdfe0ca83b713f3ded77379c8a3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Dec 25 08:57:04 2021 -0800
+
+    add command to change channel capacity
+
+commit 17e4a5193380780608e999a839e29567261675de
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 20 13:50:09 2021 -0800
+
+    go back to alpine docker
+
+commit feb894d61ca61b0d692b20d7495c707e01cd1631
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 20 13:27:09 2021 -0800
+
+    address docker and obc issues
+
+commit 26636190c7869c361835712ef46528b03392ae2f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Dec 19 09:42:19 2021 -0800
+
+    expand support of global tag avoid to send command
+
+commit b1a518692127c17eaeb925f148d93e44d74e4396
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 16:03:05 2021 -0800
+
+    bump version
+
+commit 51d26bf568a702627fbbd9fc23b928d1d49730cc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 15:57:36 2021 -0800
+
+    remove duplicate argument
+
+commit a0d4998f44b80224ae362f1ca147cea8a16e1d54
+Merge: d243e2d 11dccc9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 15:56:14 2021 -0800
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 11dccc9c1dd136b2b66d76afa983731684815dcc
+Merge: 9bf0a31 fbb5781
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Dec 17 15:52:21 2021 -0800
+
+    Merge pull request #150 from niteshbalusu11/balanced-open-coop-close-address
+    
+    Add coop-close-address to open-balanced-channel
+
+commit d243e2d71ffc12ea7b9d74e5f1b2604a7923f1da
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 15:52:11 2021 -0800
+
+    add cooperative close address to open balanced channel
+
+commit 9bf0a313bc8c2af8025b5ad37ce92d439c0ab351
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 14:01:06 2021 -0800
+
+    fix readme style issues
+
+commit 6268f4e99830df4429d5df01227688018f99436d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 13:39:07 2021 -0800
+
+    correct formatting for help
+
+commit 9f741c14baf4055f9ac6a2b211bd469823a16f3e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 13:34:45 2021 -0800
+
+    add help to list of telegram commands
+
+commit ca62a64dad80f77b1eccf4e2fc9bb26dc4e4ca49
+Merge: 5656bc9 8d4adf0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 13:30:48 2021 -0800
+
+    consolidate style
+
+commit 8d4adf0134e6983986d9b946041aa959877a3fe1
+Merge: 91812ee 06380b0
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Dec 17 13:17:02 2021 -0800
+
+    Merge pull request #149 from niteshbalusu11/master
+    
+    Change dependency package for telegram bot from Telegraf to Grammy
+
+commit 5656bc92ce2d3f83334ed4934690293e71ae69e6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 17 13:14:35 2021 -0800
+
+    abstract out reserve transit funds, broadcast tx
+
+commit fbb57811d9617250b535841c0feea7930d06e00f
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Dec 17 14:56:35 2021 -0500
+
+    fixed typo
+
+commit 414a75318fa7d789d8b66829f8dd5101da5a81dd
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Dec 17 14:29:25 2021 -0500
+
+    add coop-close-address to open-balanced-channel
+
+commit 06380b0b0cc6a4e9965fe9175da2ab908aaa8863
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Dec 17 14:00:48 2021 -0500
+
+    Revert "add coop close address to balanced open"
+    
+    This reverts commit 400ca6403fcbb27add4df12ecc98d5ddbb48115e.
+
+commit 400ca6403fcbb27add4df12ecc98d5ddbb48115e
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Dec 17 13:38:35 2021 -0500
+
+    add coop close address to balanced open
+
+commit 3c76cb9864492bd9f04736f103cf0f96c9f40f49
+Author: Nitesh Balusu <84944042+niteshbalusu11@users.noreply.github.com>
+Date:   Fri Dec 17 10:45:52 2021 -0500
+
+    replace Telegraf with Grammy for telegram bot
+
+commit 91812ee757188efc7b584c9b8dea3f512fd01f01
+Merge: c0a1a40 6252d67
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Thu Dec 16 08:30:00 2021 -0800
+
+    Merge pull request #148 from VajraOfIndra/raspibolt-guide
+    
+    Add references and links to the RaspiBolt Balance of Satoshis guide (manual installation + howto)
+
+commit 6252d676c739c8460f1bd8ca22748d6935f7a915
+Author: Indra <86242283+VajraOfIndra@users.noreply.github.com>
+Date:   Thu Dec 16 08:26:58 2021 -0100
+
+    Add refs and links to RaspiBolt BoS guide
+
+commit c0a1a40e473a3f10cc39f80937dead215a51618a
+Merge: 5898496 4821c3e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Dec 14 16:42:06 2021 -0800
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 4821c3ebbd655597aab7aacf1baed45cd18dbcc8
+Merge: e02a7ba c544501
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Tue Dec 14 16:35:55 2021 -0800
+
+    Merge pull request #147 from niteshbalusu11/master
+    
+    adding intercept inbound channel
+
+commit 5898496f6366ee682cca828b06df00211312c51c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Dec 14 16:35:25 2021 -0800
+
+    add cooperative close address support on inbound channels
+
+commit c5445016ffd438ca776e63fc01b37f9cc66d8dac
+Author: niteshbalusu11 <niteshbalusu@icloud.com>
+Date:   Tue Dec 14 18:23:44 2021 -0500
+
+    changed from pubkey to address and fixed bos file formatting
+
+commit 9c4c329abb4c8c04fa904ed4895c68062ead698a
+Author: niteshbalusu11 <niteshbalusu@icloud.com>
+Date:   Tue Dec 14 17:22:13 2021 -0500
+
+    fix prettier formatting
+
+commit 5d46abec6abc00955448eb09d8c2d59cc78d1a55
+Author: niteshbalusu11 <niteshbalusu@icloud.com>
+Date:   Tue Dec 14 15:45:10 2021 -0500
+
+    adding intercept inbound channel
+
+commit e02a7bab5d8bbb63ed9e8e82ace3d075a03dce5d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 13 21:04:42 2021 -0800
+
+    remove abstracted network lookup
+
+commit ce9403bad8bad68e4cbfd3ce2ac62c85bbb10bf4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 13 20:50:33 2021 -0800
+
+    abstract transit signing fields
+
+commit e5c85b0552520a08a7b889a066f7e42b764a3923
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 13 18:53:40 2021 -0800
+
+    refactor and increase testing of transit and transit recovery
+
+commit df872ee8308e79d076885a3cdc91e046a7191ef9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Dec 12 14:01:54 2021 -0800
+
+    abstract out update channel fee
+
+commit 49e86c20c5ac4be1216cb4b8b4a0fad2277721ee
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 9 18:49:55 2021 -0800
+
+    abstract out balanced open methods
+
+commit dd58fc0c8057e8c879fd5057af548b50c99e9879
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 6 19:56:50 2021 -0800
+
+    allow accepting a balanced channel open using p2p messaging
+
+commit 07f6db4d52d75d6628ffb85c41a78d8a1b65e2b7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 3 09:13:13 2021 -0800
+
+    fix typo
+
+commit 1b2a38deac9cd1f399d997fa61b8c39c965a54e4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 2 11:44:12 2021 -0800
+
+    add docs for coop close on open
+
+commit cfe348dbc5e5e764a79feed129fa39bf28b37b5a
+Merge: 511b592 9604cf3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 2 11:21:55 2021 -0800
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 9604cf3e20675bce82b00ffb83cb8d032b5c0366
+Merge: c192a38 fd15dcf
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Thu Dec 2 11:21:44 2021 -0800
+
+    Merge pull request #145 from niteshbalusu11/master
+    
+    Add closing address to bos open
+
+commit 511b5920cddbdc0be74e4b68ee0311978308e75b
+Merge: f15bb35 c192a38
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 2 11:19:12 2021 -0800
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit c192a387fa8fb050524b0e162f074e634c222c56
+Merge: 4ca15f3 57ef0cc
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Thu Dec 2 11:18:59 2021 -0800
+
+    Merge pull request #142 from AbelLykens/master
+    
+    Use native base64 command, stop using tr
+
+commit f15bb35f9cc33be294bbb93f12aa8a5a5fc682a2
+Merge: a5f8c61 4ca15f3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 2 11:18:11 2021 -0800
+
+    merge in docker change
+
+commit a5f8c615ee05b2eab0ab539ea0b93bb13dd01f55
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 2 11:16:31 2021 -0800
+
+    update dependencies
+
+commit fd15dcf03412c9ed406f56ddcb6b6ec2f429af84
+Author: niteshbalusu11 <niteshbalusu@icloud.com>
+Date:   Thu Dec 2 14:05:18 2021 -0500
+
+    added closing address to bos open
+
+commit 4ca15f3f7d6f93942f69a18676b7a57ac2076e27
+Merge: cd51c9e fafcde4
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Tue Nov 30 08:14:52 2021 -0800
+
+    Merge pull request #144 from aphex3k/feature/docker-alpine
+    
+    Changed Dockerfile base from node:latest to node:alpine
+
+commit fafcde4123fa3bc11e2a542fd17de545357451e5
+Author: Michael Henke <433270+aphex3k@users.noreply.github.com>
+Date:   Mon Nov 29 22:37:30 2021 -0800
+
+    Changed from node:latest to node:alpine
+    This cuts docker image size down to a quarter of the original container size (~380MB -> ~80MB)
+
+commit 57ef0cc04c0054f969c4b0e52d69248d91bf7b32
+Merge: cd51c9e 296814d
+Author: AbelLykens <47113175+AbelLykens@users.noreply.github.com>
+Date:   Sun Nov 28 13:01:08 2021 +0000
+
+    Merge pull request #1 from AbelLykens/AbelLykens-patch-1
+    
+    Use native base64 instead of tr
+
+commit 296814d3d68bf630683b59ad95885bac08ea31f2
+Author: AbelLykens <47113175+AbelLykens@users.noreply.github.com>
+Date:   Sun Nov 28 13:00:56 2021 +0000
+
+    Use native base64 instead of tr
+    
+    stop using tr, use width 0
+
+commit cd51c9ec569d8770061751d126520e520a0dc7e7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 27 15:57:30 2021 -0500
+
+    update dependencies
+
+commit 4fbcfc82db8828025a768b0a2fc6ab6377381e98
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 14 21:27:59 2021 -0800
+
+    bump package version
+
+commit 3ee49939c7ee42cef4498f76966d0387fb365c5a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 14 21:27:45 2021 -0800
+
+    add additional call methods
+
+commit e75dee42208914d28906539db1e8b4a62cac80a4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 13 09:24:07 2021 -0800
+
+    add filters and dryrun to advertise
+
+commit 53cd8e815792d515277218ad2da1305ce5e78b4a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Nov 10 20:06:00 2021 -0800
+
+    add chan disk usage, coinbase prices, rebalance tag filter refinement
+
+commit dd3dec815792f93c062c55bc5b3fad5e418fa0ef
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Nov 9 08:16:29 2021 -0800
+
+    add tags to liquidity, fee earnings calculations
+
+commit a665e75f88c325c417151b9c31f46a0b9cc5553a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Nov 4 17:17:02 2021 -0400
+
+    update dependencies
+
+commit b26a63c32e5ed347a9b4b3ad3eaa9fe63e1aa044
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Oct 30 10:41:01 2021 -0700
+
+    update dependencies
+
+commit e7117a4ef0009bb8a5c0b0baf1e88e295f1a2678
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Oct 30 09:39:20 2021 -0700
+
+    add methods for 0.14 and trade secret command
+
+commit 7b34c8274c2749cd2e468f298922c80e422549ad
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 28 20:10:50 2021 -0700
+
+    update dependencies
+
+commit 2154cf8210fd6ca6258305354abc00338a023d1d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Oct 16 13:06:25 2021 -0700
+
+    add title to liquidity command
+
+commit a9841901d999869f5065fe311896bfadf99b6dd4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Oct 16 11:12:30 2021 -0700
+
+    use full precision for routing fee paid chart total
+
+commit 8a5d53d7051d164ca3f0d39eab89f43eaf43f8f1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 15 20:27:33 2021 -0700
+
+    add max funding option
+
+commit a50abcf119cfc192a34afdea9540bf1ce87f464b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 15 09:07:50 2021 -0700
+
+    update dependencies
+
+commit 7bd626cebddae70e1322c78b04a73c29498abed3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 12 13:42:56 2021 -0700
+
+    fix failed payment paging
+
+commit d13ad98f3e1061a625a4648684fcc2bc449e9984
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 12 09:34:19 2021 -0700
+
+    add clean failed payments command
+
+commit 577ff71c094f238e330e3825273f547734dcd386
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Oct 11 12:22:05 2021 -0700
+
+    correct reverse fee rate formula naming
+
+commit 3ef18900fcdb18def18fa98c4a92becd4df5e36e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 10 20:14:03 2021 -0700
+
+    add reverse policy avoid vars
+
+commit a01615e1a292a4057da545865459a91c89a78ddc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 8 21:39:50 2021 -0700
+
+    add call param option
+
+commit b15487b19329b06fbfd12aba1c9736687d6e6ce5
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Oct 8 09:06:59 2021 -0700
+
+    disable audit instruction
+
+commit 2aa54c10b0d7cde36e49516e1fd950dfbbed687f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 5 22:11:22 2021 -0700
+
+    add method option to allow specific methods in macaroon
+
+commit d76624071b591a4c142d2b3611b78ae0492d4c93
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Oct 4 13:05:10 2021 -0700
+
+    update dependencies
+
+commit b02605c6f8b20798c045db51487e13624743c694
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 3 20:56:53 2021 -0700
+
+    add outbound avoid formulas
+
+commit 0046178dfde77b40857be176f5f9adcf26634f5b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 3 16:19:58 2021 -0700
+
+    expand formula variables, hide dead open reqs, optimize find speed
+
+commit 3cb8762fa0f0dc5830e5444adb4ee0cc78d8c970
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 26 19:14:16 2021 -0700
+
+    add filter to adjust out and in target node
+
+commit 0cd4dce98c837c757e33538e5b30cfa734093674
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 25 20:35:44 2021 -0700
+
+    add filter option to filter out peers
+
+commit c651c59ab81ddc832b1268793b71f9f1b7ff0ca6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Sep 24 19:42:24 2021 -0700
+
+    fix detailed balance total, add age to formulas, add anon keysend msgs
+
+commit 5a8d468905733b1b6d0f3ab83f9aa71a6f2ea5f8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 19 09:55:34 2021 -0700
+
+    use original tx for open tx id display when available
+
+commit 6d85729bca774155a73eeec2c45b0048efc079cc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Sep 17 21:46:30 2021 -0700
+
+    add more call methods, invoice service
+
+commit d635bdfe9953efeea190520f5f66daf62d42cca8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 16 12:26:33 2021 -0700
+
+    add costs command to telegram
+
+commit 0bd91f47fc7170b804596f26f61d5da25c693c92
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Sep 15 18:53:52 2021 -0700
+
+    add route descriptions, chain fee lookup redundancy
+
+commit 328465f0d0d19f81078c0124be1649d1a69e1659
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 13 21:45:52 2021 -0700
+
+    increase speed of chain tx lookups
+
+commit e33e18e6d2ad924f3c57fc2b3161507038e2f9bd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 12 21:24:18 2021 -0700
+
+    add rebalance only for offchain fees
+
+commit 138a9faabbf067985682193226af2f5f7272d856
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 11 11:18:45 2021 -0700
+
+    add advanced avoids to swap out
+
+commit 106b42a2b3771d614046fac9dc6743854e67a1d9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 11 08:47:46 2021 -0700
+
+    precheck nodes to open with before starting open process
+
+commit 78c099b4e7f7a86564491eaedf2635a04c993870
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Sep 10 09:29:17 2021 -0700
+
+    fix fee calculation
+
+commit 4ac97290a1737968ea486c92267b3367dd10500d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 9 20:12:47 2021 -0700
+
+    add connect service to services
+
+commit 16cb664ed851425a5c604a9f394dff3735e96e2a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 9 16:18:03 2021 -0700
+
+    fix services relay fee calculation
+
+commit 1bd9e6713277f0488535cd5db8e6337e33126ff6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 9 15:47:51 2021 -0700
+
+    fix rebalance timer and services response, add fund utxo selection
+
+commit 84be8d6e2db1535488b2a7b47ad19ae882b79174
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Sep 7 10:08:29 2021 -0700
+
+    add avoid flags to send command
+
+commit 79f3b0f1234d9d437e10fc6d77c6c40da69467d0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 6 13:29:14 2021 -0700
+
+    fix directed pair avoidance
+
+commit d41a996f53ec3c00c8baab6d51b730692b8e7363
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 6 12:05:10 2021 -0700
+
+    add inbound formulas to avoid flags
+
+commit 49be05e923d04d9cc5f43afcfa1d4ddf2d7d34fd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Sep 1 09:26:32 2021 -0700
+
+    reverse commitment off chain fee balance adjustment
+
+commit f312b5e2628624ca99eb4f1431ad622d7e19a0af
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 30 13:33:32 2021 -0700
+
+    fix reference error on open channels
+
+commit f671bb325fa16e853ab0de9d0bb1dd978d54964c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 27 22:15:05 2021 -0700
+
+    support internal funding in open balanced channel
+
+commit 5331ed4ffcf5aeea9e8625f57726053b175f75fb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 25 16:41:29 2021 -0700
+
+    fix htlc indicator in fwds, balanced open broadcast errs, fees via closed peer charting
+
+commit fed26d07a01bf8b5149790120e0f0b03fd17b058
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 25 09:40:13 2021 -0700
+
+    update package lock
+
+commit 717bb6d36e8e2abd9861a25360c5764d3aaeb088
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 25 09:34:50 2021 -0700
+
+    update accounting test to coingecko
+
+commit 35d26ebb4bb2654982e0deb445e51c52271bbc96
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 25 09:30:26 2021 -0700
+
+    fix accounting fiat lookups
+
+commit 2b2f73dc24cec6112e8a5c2928ff329731db12d3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 23 17:40:29 2021 -0700
+
+    ask for chain fee rate before proposing internal funded channels
+
+commit 972129da95aa399d7ca9128c2940e68c0ad64f81
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 22 22:01:15 2021 -0700
+
+    add batch channel open internal funding support
+
+commit 5c9d87440e3a33da7723b7c3649c62abb8bfec0a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 21 20:10:21 2021 -0700
+
+    allow coop close when clear outpoints are specified
+
+commit 7e1288dfcb6ff7329325cd1a29c651a5b0eb8291
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 21 14:34:24 2021 -0700
+
+    add p2pk recovery command
+
+commit b9fee327989e564ab5d30445ab7a7c134e3b1c93
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Aug 19 18:32:01 2021 -0700
+
+    check for peer connectivity before removing
+
+commit efd0af51cbb06e46d841443c010ef6568785f9e0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Aug 19 11:14:40 2021 -0700
+
+    disallow funding to public keys
+
+commit 0617bdb3945a46d4d6d6cd274fa31eb7ecb54d92
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Aug 17 12:30:01 2021 -0700
+
+    fix probe for strict payment nonce destinations on 0.12.1
+
+commit 0acb990828feae9378e0d098d08f09f06a56e678
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 15 17:33:29 2021 -0700
+
+    update dependencies
+
+commit 47b90d8223663c644c2ce03301246666de0879cc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 11 10:44:22 2021 -0700
+
+    add through flag
+
+commit 51c1d3336d7ce56f5b66cec501daf0d0ec6ba743
+Merge: a2da25d f990589
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Tue Aug 10 19:14:27 2021 -0700
+
+    Merge pull request #122 from dplusplus1024/patch-1
+    
+    Clarify command instructions
+
+commit f9905894c1bdf6e70e15ea0c9b21408adbac24ce
+Author: D++ <82842780+dplusplus1024@users.noreply.github.com>
+Date:   Tue Aug 10 22:13:08 2021 -0400
+
+    Clarify command instructions
+    
+    Added "invoice" and "keysend" to documentation to better describe the functionality and difference of bos pay vs bos send.
+
+commit a2da25d560901d975436666bf227d54ef6ddc5e8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 6 20:48:19 2021 -0700
+
+    log sum of outputs
+
+commit 07629fcd8212af7665a2e49a6535861333771888
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 6 19:25:56 2021 -0700
+
+    fix dryrun on fund
+
+commit 79ae44a16924997b3fabd23a5e8c97b10f69bae1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Aug 5 10:27:14 2021 -0700
+
+    fix reconnect logging
+
+commit c49848cf277a3b59a894c4cb7e81e17574880d67
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jul 30 11:17:08 2021 -0400
+
+    fix special chars in telegram bot
+
+commit 33c6f50ba8007ae27c55467e02fc6bbeae735fb8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jul 29 22:30:49 2021 -0400
+
+    add edge avoiding
+
+commit a93bb83dcb8e308608b23f6d7281884c85b3af1b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 20 18:07:09 2021 -0400
+
+    fix errors in fees, tags, speed up graph search, add small htlc icon to peers
+
+commit d9a272d32c3c249b2bef49ff5b2fc866ad3ba0db
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jul 15 12:09:25 2021 -0700
+
+    fix telegram pay, upgrade avoid on pay/probe
+
+commit 24df4dd996f77c342ae441440d8c4d55d0d54701
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 13 15:29:19 2021 -0700
+
+    switch to decode psbt for final tx id calc
+
+commit 4ad73fab9c9151759cce720c0f2974f7010535cf
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jul 9 10:08:03 2021 -0700
+
+    correct misreference on graph query
+
+commit c6d475921f087d4bb9433febe47cc7fe9b5eac57
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jul 8 14:18:45 2021 -0700
+
+    add balanced channel recovery option
+
+commit ccbb5767568ef24879b1bde4b790237fc90a7f7b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jul 7 16:27:49 2021 -0700
+
+    avoid using onion sockets
+
+commit 45e5d76c0c74cd9b198d3c868f45a72f2dac6aca
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jul 3 20:46:50 2021 -0700
+
+    support listing locked utxos
+
+commit d3bc236a633d9ef871aff069d8d0ed4f398544a0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jul 2 20:42:07 2021 -0700
+
+    add node lookup
+
+commit 311a31b8ea184e97d45aa729a38dd07e8842298a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jun 29 08:21:41 2021 -0700
+
+    update dependencies
+
+commit ab6b4fe9be5ea583ada904fcbaf6385d5621904c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jun 29 07:29:24 2021 -0700
+
+    update dependencies
+
+commit e8e0bd2c04be7b37d8e87a8b8cb427a2881ec5f5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 27 16:51:25 2021 -0700
+
+    bip69 sort displayed channel open outputs
+
+commit 379083619eb30b99a0d85c8379d67c70d095a0f3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 27 13:03:16 2021 -0700
+
+    add command to transfer funds to a saved node
+
+commit 16bb852eed3af20bcfe0740a68b51e8cb3f5ffdd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jun 25 12:18:59 2021 -0700
+
+    add call command to make raw api calls
+
+commit f40825a0bcaa54131dd23c56a8bc8cfcacb7944d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 23 16:17:09 2021 -0700
+
+    add support for copying other nodes fee rates
+
+commit 3c8f7aa68db6d15945f686ff8f57ff5376cbd9f5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 23 13:40:08 2021 -0700
+
+    alter telegram message formats
+
+commit b85f25ba4a9defa7077cb8b98d3f42bb73a646a1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 20 21:29:03 2021 -0700
+
+    optimize peers, set fee rates after open
+
+commit 5054e0046e933fdb5d2c20b1d919dfe0166b8b6f
+Merge: d581633 89e3182
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jun 19 16:36:07 2021 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit d5816330c2a553c38acb556869f85b49ab81cfab
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jun 19 16:31:46 2021 -0700
+
+    relay service, fix swap out, telegram add reset
+
+commit 89e31827c4ec6ba9c8db8515082dfa3db414601f
+Merge: 1144755 d229f03
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Wed Jun 16 07:40:37 2021 -0700
+
+    Merge pull request #109 from keblek/patch-1
+    
+    Added small CLI tip for open command
+
+commit d229f03086fb22a4dfbe31d289f4365bf2dde1ba
+Author: keblek <68111648+keblek@users.noreply.github.com>
+Date:   Wed Jun 16 14:54:57 2021 +0200
+
+    Added small CLI tip for open command
+    
+    I think this is useful because the open command can get very messy and its easier to double check the pubkeys and amounts when in an editor rather than the CLI prompt.
+    
+    Additionally this file can be used to take notes over time of potential nodes you want to open to and then when fees are low you can quickly issue the command.
+
+commit 114475554c87ba21d71c7ae3b99b93e5308c842e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 9 20:43:34 2021 -0700
+
+    fix telegram auto restarting commands
+
+commit 897b4cb278b7671a3d9bdbc9837b5276b51359ea
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 9 14:38:24 2021 -0700
+
+    add swap cancelation
+
+commit 2fbd4244fb452b6b026dc38ef3e1f653bbbd5b9b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 6 14:13:04 2021 -0400
+
+    update package lockfile
+
+commit 05ef1e565426f5ac8283304d1e180f8b0111abed
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 6 14:11:11 2021 -0400
+
+    add activity service support
+
+commit fb83ae3a91ff32c38ced19b184980260abf4e354
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 2 19:03:39 2021 -0700
+
+    add tag support to fees command
+
+commit a30611366388b71692ea5d6648ac3c3601633666
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 2 15:59:28 2021 -0700
+
+    add disable fiat flag to accounting
+
+commit 183db8cd21a00d443e892a22b125f341d6511592
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 2 11:01:39 2021 -0700
+
+    add paid service libs
+
+commit dd3e6ce56c6daa797e70dff5ddc17aa9d3a4803b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jun 2 11:01:18 2021 -0700
+
+    add paid services v2, fix errors in telegram, inbound channel rules, rename swap in
+
+commit 12509d43111c5608b7d8d59b95ef9fe53324fa62
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 16 09:14:24 2021 -0700
+
+    fix close channel analysis when channel did not exist
+
+commit 40ca35013c8a0dacefc991d726681f7423d9f977
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 15 16:59:24 2021 -0700
+
+    validate avoid flag as public key
+
+commit 29386b0194c61b014eb1fb918699bef542bed45c
+Merge: 9b950d3 68af0ca
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 15 15:17:37 2021 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 9b950d3a1312cf9720a6805cadadc8a3a2196c81
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 15 15:15:26 2021 -0700
+
+    relax broadcast timing for mempool latency
+
+commit 68af0ca4deabc4b2150156b4e82b0df5d3e36808
+Merge: b334cf0 313ed16
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Thu May 13 21:34:49 2021 -0700
+
+    Merge pull request #102 from ghtsto/patch-1
+    
+    Add note about IP address for umbrel-os docker use
+
+commit 313ed167bd084c8d9df6c2548a346741709e909d
+Author: ghtsto <22155165+ghtsto@users.noreply.github.com>
+Date:   Thu May 13 21:33:15 2021 -0700
+
+    Add note about IP address for umbrel-os docker use
+
+commit b334cf018f7d3e9ea9a2cddc44770b133d151418
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 8 13:17:33 2021 -0700
+
+    update dependencies
+
+commit 8705df132b6667002b18efe05dd26df1f0abb443
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon May 3 15:46:51 2021 -0700
+
+    ignore closing channels when setting fees
+
+commit 8e5186178d9b10ff72aaa5ab15a8dd87da8b9cba
+Merge: dc952b6 c8f883f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon May 3 15:37:12 2021 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit dc952b63b0cb33189016b26dd53acb155b8f62dc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon May 3 15:36:59 2021 -0700
+
+    add clarification for umbrel use
+
+commit c8f883fceec775673d45a0f94d0391440f854004
+Merge: d2ae407 f4d25bc
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Mon May 3 10:34:55 2021 -0700
+
+    Merge pull request #99 from miketwenty1/master
+    
+    typo: "ip" to "port" in README
+
+commit f4d25bc41d04a228bda3c24d10ff5e75f9ccfb1e
+Author: Michael Tidwell <tidwell@zebedee.io>
+Date:   Mon May 3 13:28:37 2021 -0400
+
+    fix ip->port typo in README
+
+commit d2ae407136dc439a8c21b500ef2a9ef980fb83e1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 26 17:59:46 2021 -0700
+
+    update dependencies
+
+commit 53d43c682c6ef21e6276ad6d095f6c5cdd31068f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Apr 23 13:05:43 2021 -0700
+
+    indicate in peers when a peer has forwarding disabled to you
+
+commit f4c08e97eb9527fd1e62953b72090297eb8432a0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Apr 18 13:33:08 2021 -0700
+
+    adjust prepay max routing fee
+
+commit 90a4ea76f416eb2c94d8f78e4b480f1e15eec213
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 13 17:11:25 2021 -0700
+
+    add d/c msg, rebalance fee rate, autocomplete note
+
+commit 3e4510ff14aff8733ce5344e3b0284100578e803
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Apr 9 17:57:48 2021 -0700
+
+    adjust default lnd dir for umbrel location
+
+commit eb53ab45955f824545e359f8548daa37febbfd99
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Apr 9 09:40:26 2021 -0700
+
+    remove travis
+
+commit 851ded326d3b9e8bdc1745fd04d700383fe4ddbf
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Apr 9 09:40:10 2021 -0700
+
+    Update README.md
+
+commit 4004f105a4e773d0f2f91aebccf5b7534eb66d88
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Apr 9 09:26:11 2021 -0700
+
+    add umbrel notes
+
+commit 1e1510e23be0cbddbf02e414b3cd50c46a75c59c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 5 19:55:50 2021 -0700
+
+    add support for tags in rebalance avoid
+
+commit 8cfd134db5c1ff637cd197a3573099333367869a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Mar 26 20:50:49 2021 -0700
+
+    fix issues with find, tags, service keysend reqs
+
+commit d15d0435becd6238616988c04e16357cdee49cd5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Mar 8 17:39:07 2021 -0800
+
+    update dependencies
+
+commit b35435721bb27dbae505e40e150c90abcf3e0acf
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 7 20:07:19 2021 -0800
+
+    bump version
+
+commit d3973f2fb783d01b5558a2c01c14b524cb7837b2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 7 20:04:48 2021 -0800
+
+    add icons to rebalance route descriptions
+
+commit ba7c35b42f1bad0dbb0c9c03d64ee34472665029
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 3 16:46:32 2021 -0800
+
+    add telegram pending command, add initiator to find command
+
+commit 5e7a51cfe0557a50346f2d5d719ac20d1466f91a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 21 11:52:24 2021 -0800
+
+    add tag filter to peers list
+
+commit 74bb8db3bb5d2f09b2c91e4703f5925197ad8bc6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 29 22:42:38 2021 -0800
+
+    update dependencies
+
+commit 3237fdc5217a7712bc04218712ae15eb7cf68410
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 29 22:13:45 2021 -0800
+
+    update dependencies
+
+commit e38679a510f63a33f5dbad885bcd5140dffbd679
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 27 17:21:41 2021 -0800
+
+    add advertise command, remove tls ip, adjust telegram notifications
+
+commit d48785676ae517d747054542eb8b23d384102ffc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 21 08:35:35 2021 -0800
+
+    bump version lock
+
+commit b3e1d4926a7de6164c09183d462a26f224bf0aba
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 21 08:35:14 2021 -0800
+
+    fix inbound channel rules startup check
+
+commit 22051a35a9e1de26c7b7bfa373501b57200a9a78
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 17 22:21:04 2021 -0800
+
+    add rebalance howto
+
+commit ec831394ff2188e01e8c976a25bbe07f869a7c86
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jan 17 13:52:08 2021 -0800
+
+    fix accounting command issue
+
+commit b9a48fc8e998507f6a38bc90ec9ee54a6606b5c7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 15 10:39:25 2021 -0800
+
+    fix typo
+
+commit 12e16f9993d5476173d765f46830a6c4df8482f2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 15 10:21:45 2021 -0800
+
+    add support for private batch channel open
+
+commit 005287e821ccb7cab9dec56f5d860029a06e97d7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 14 19:47:16 2021 -0800
+
+    add telegram version command, add quizzes keysend service
+
+commit d550bd2512d65c3e6db89263df987814bd0f1d2b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 11 09:47:41 2021 -0800
+
+    fix err msg on send, avoid re-writing api key
+
+commit 1ee805e81cd1d7d75dfd707307b8e282f11e7e60
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 7 21:53:45 2021 -0800
+
+    fix max fee, gateway open files
+
+commit c2ebb56e858f6bfaa4cc87d11a4fbd4dbc591a89
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 7 12:04:21 2021 -0800
+
+    fix errors in forwards and send edge cases
+
+commit 886a1c6da3f8836e64ef2b7b24416af4636e2545
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 30 10:42:38 2020 -0800
+
+    add icons to forwards, add pending icon, add out and in to send
+
+commit c37d895a691aa3b693bba7b48046802307153ea6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Dec 26 16:46:20 2020 -0800
+
+    add detailed balance, check swap out address argument, show close fees paid
+
+commit 202c55ce0750719713706ba3a990000bc4bb459c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 17 18:50:05 2020 -0800
+
+    add tag support to rebalance in and out
+
+commit 379bf772202462ee6696e43e766781e878f50c8e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 16 18:57:40 2020 -0800
+
+    bump package lock json
+
+commit c4ed5169a4f61087ed7fb2ebc146c992d113cb6b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 16 18:57:22 2020 -0800
+
+    fix remove peer and add channel outpoint selection
+
+commit 02ce6c77bf263e1a705c5bde4c9a5e278e550931
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 16 09:24:21 2020 -0800
+
+    fix report command
+
+commit a8345258331e92adb265e5c7776e839b0e929226
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Dec 15 14:50:07 2020 -0800
+
+    omit own key from avoid list
+
+commit b0e270577450c9854270c13febd5e29ce8f712eb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Dec 15 08:43:17 2020 -0800
+
+    return icon stub when no tag file exists
+
+commit 4875634015c072fec03eb2df1fb899c457c080b9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 14 21:44:44 2020 -0800
+
+    add tags command, with avoid and icon flags
+
+commit 6bc2601e6467bbfaf79412523a3dde6868aad494
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 11 16:17:41 2020 -0800
+
+    fix accounting for testnet, add additional description metadata
+
+commit e2bd470041fea813a2891b97042ff61566c7a7cd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 10 20:03:31 2020 -0800
+
+    add broadcast command
+
+commit a006d35d503b01095200470e8c9d965751033f69
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 9 19:31:52 2020 -0800
+
+    correct typo
+
+commit be6abd86369348b1a21c60cbaaefd7c03309863a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 9 16:46:50 2020 -0800
+
+    allow UTXO selection when creating transactions
+
+commit 3d902894bfad7c70aed011b23b2023286291a5f0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 7 18:59:29 2020 -0800
+
+    add context to UTXOs
+
+commit 2b17de5bbac3b0a2cb7a2c530f94051453ea433d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 7 11:02:12 2020 -0800
+
+    correct max fee argument in send payment
+
+commit e38592694e5f6928636e9001873c037cd5fae00e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Dec 6 21:02:37 2020 -0800
+
+    add payments paging, expand formula support to send and channel rules
+
+commit 08cdcb6c66a637593dacff29def99cd3f91981e9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 4 20:18:56 2020 -0800
+
+    add inbound channel rule enforcement
+
+commit 1842b7d0cfaedc8277195831c3b2b43f46f74577
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 4 11:15:53 2020 -0800
+
+    bump version
+
+commit d5bd7e6ef78c91fdc502c58cda0132db555f2360
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 4 11:15:26 2020 -0800
+
+    add closing coop party indicator, increase support for payment identifiers
+
+commit 9367148e5f6f3f28912b5c5db416d96b58304667
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 30 18:24:01 2020 -0800
+
+    add timeout to reconnect
+
+commit fac1dd00263bf88ed11b323be34b1371f4b934ed
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 29 16:35:57 2020 -0800
+
+    add dual sided channel funding
+
+commit c59f7a6116a948d544887ceefca861f3bf448d06
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Nov 20 22:36:29 2020 -0800
+
+    fix increase inbound
+
+commit 62b9cb4e97d3c6da576538d499e54575c3497092
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Nov 20 12:35:42 2020 -0800
+
+    add icon for private peers, fix icon for coop delay peers
+
+commit 902638ce6ac0e4feebd12136730c2be124e7cdfa
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 16 20:24:24 2020 -0800
+
+    standardize chart aliases, add more find node context
+
+commit 12c99a055baa4d0d75191fffab1557b35ecb0df5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Nov 13 10:17:09 2020 -0800
+
+    add chain receive mpp
+
+commit e77b15234d2ab1c9ede1e5d956f407ebd5da54d9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Nov 12 10:06:40 2020 -0800
+
+    update dependencies
+
+commit 7182e99dee9d4693f670377332ab57bf9b12741f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Nov 10 20:53:47 2020 -0800
+
+    lazy load cli requires
+
+commit 51ad9128bf57c02ba2881d244e6e2b8ee3422df0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 9 16:58:01 2020 -0800
+
+    include close fees in chain fees, fix telegram restarting on error
+
+commit f0ed0fca8557b3678ea861c204d903277ce8d315
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 8 19:36:14 2020 -0800
+
+    add purchase-ping and service-keysend-requests methods for keysend requests
+
+commit 16830e125addb97ce5fe9f1ac002905d4775a1bb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Nov 6 18:58:09 2020 -0800
+
+    update dependencies
+
+commit 66fd43c4f8e58ffa9fc5a8c294910ed966605cd2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Nov 6 17:45:37 2020 -0800
+
+    update dependencies
+
+commit ade03710dc7cfeb0f17ec0baddc633d7360f9ed4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Nov 6 13:08:43 2020 -0800
+
+    fix chain fee reporting to show sweep fees
+
+commit 7bcc2779953adbb49a530f993d6c847974d3fa6e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 2 10:32:42 2020 -0800
+
+    fix route description for single hop routes
+
+commit deca37ca4528f93e48e4ca746cc0f574872ae6d2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 1 14:52:58 2020 -0800
+
+    update dependencies
+
+commit 231715d9fe29781cbd565954425bb7b239d6b088
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Oct 26 18:36:42 2020 -0700
+
+    add peer cycling to reconnect
+
+commit 3a173fe8bc145363901b7d396540b0b6610424ec
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Oct 26 11:44:12 2020 -0700
+
+    abstract and add test for chart alias display
+
+commit 3e40446e2c44cc20a7fdceb42f28407e53390d89
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Oct 26 11:43:30 2020 -0700
+
+    fix including closed channel forwards in forwards summary
+
+commit 34f8a350a7f07836831a3387f711e98a08634a5f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 25 18:55:16 2020 -0700
+
+    bump version
+
+commit ccc8345176b5c905682ef2c4a5cad6a611525327
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 25 18:52:42 2020 -0700
+
+    add fund transaction command
+
+commit 251ae05d432ca233e5eff32dc0fc3bc2c2b52fc5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 23 14:33:58 2020 -0700
+
+    update package lock for updated node
+
+commit 6b0b52d1a08a330a5c9039d90697979eb0487f80
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 23 13:17:17 2020 -0700
+
+    update test for error logging change
+
+commit c7a79b28e311eeef2743b29dabcf64833df7840b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 23 13:11:54 2020 -0700
+
+    add chart-chain-fees to show chain fees paid over time
+
+commit 5e559cfee1b8559bbe75223afde8aefac14e46db
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 22 19:59:36 2020 -0700
+
+    remove support for older versions of lnd
+
+commit dd05681d985207a51107d52c8a8d5f5b6007e3d9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 22 10:05:09 2020 -0700
+
+    address issue with blocknotify repeated uses
+
+commit 0e8af8f3e6f0c44554814a7ec15dc284aa2ba553
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Oct 21 13:09:13 2020 -0700
+
+    fix recovery for increase inbound liquidity
+
+commit a3e2dab1d2dc2d2b6973a08111bd672c78693ce2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 18 19:55:30 2020 -0700
+
+    add note about capacity parsing in changelog
+
+commit f21875dd6250bf68095d63d47d59ff6370980cd5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Oct 18 17:10:45 2020 -0700
+
+    expand formula support to probe, liquidity targets
+
+commit ce05e7aaa2ab32fe7ae4d30eee3f554b7f21ce64
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Oct 17 09:09:06 2020 -0700
+
+    add scoped credentials, fix issues in swap out, telegram
+
+commit 631f3a4c77114f5b70aded6a009ea42e5d41eff8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 9 21:29:23 2020 -0700
+
+    create invoice with claim tx
+
+commit 44e23c8a2ed0c7117dc1e453247a0091302d4029
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 9 18:26:17 2020 -0700
+
+    use chain tx lookups to avoid remote lookups
+
+commit 0aac9ec9cf82d9e210d2c96eaf4ed5151f3a0b99
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 8 22:13:26 2020 -0700
+
+    switch increase inbound to new mpp, add formula parsing to rebalance
+
+commit e5508460b8908ad02db9268d71dfb2939e0919cd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 6 22:23:43 2020 -0700
+
+    fix testnet swaps
+
+commit 232afeea6af3a9415a0f114fd936582ad7c3321f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Sep 29 21:47:32 2020 -0700
+
+    add formula support to fee rate setting
+
+commit f5bfbe900986287f0b388559f45435fd411b1fc4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 27 19:49:52 2020 -0700
+
+    add earnings command, tweak rebalance for small amounts
+
+commit 8de0c4d8614958a4a85deefaff563401824c1c3b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 24 14:18:14 2020 -0700
+
+    remove support for lnd db sync from telegram
+
+commit b43296d61d05ef961a8f00dcbff4314a60af9c54
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Sep 16 17:15:11 2020 -0700
+
+    add support for gift tokens in open command
+
+commit 641981ca039e6aadea2271c8ecbd3533b55986bc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Sep 16 10:13:19 2020 -0700
+
+    fix accounting chain fees issue
+
+commit a4d3930c9d959e48e0d1c61f42204de3c43ae60f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 14 22:06:56 2020 -0700
+
+    fix small swap outs failing, slow swap outs giving incorrect quotes
+
+commit 6e8f15256769231077540e2491dc8826171c6f48
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 13 11:24:11 2020 -0700
+
+    bump dependencies
+
+commit 1abe389480853f31ca54a5daf3f006cd7f6a4238
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 12 20:06:33 2020 -0700
+
+    add support for new swap script
+
+commit c09b2a731535358d85927056cd40754c68d3d4a3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 12 12:24:32 2020 -0700
+
+    bump version
+
+commit 03b66fda19a0d20964b310a128f4cbca6a9cdff5
+Merge: e38c60a 88218c5
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Sat Sep 12 12:19:14 2020 -0700
+
+    Merge pull request #63 from nolith/patch-1
+    
+    Fix ReferenceError: Strig is not defined
+
+commit 88218c585ae83bc8d9cab310a3b06da09e433222
+Author: Alessio Caiazza <nolith@users.noreply.github.com>
+Date:   Sat Sep 12 14:05:49 2020 +0200
+
+    Fix ReferenceError: Strig is not defined
+    
+    This fill fix a failure in `bos probe`
+
+commit e38c60a9c46691223f394b35b5d2bd75de6958f7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 10 22:40:56 2020 -0700
+
+    fix docker image for non native architectures
+
+commit bd0ad704216a8a0c2c081ba1b000ab0f256f877d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 10 10:28:39 2020 -0700
+
+    adjust max fee tolerance for increased deposit requirement on server
+
+commit dcd5c2489d1cd658ba5533928ae6a6d56f53ea78
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Sep 9 21:43:44 2020 -0700
+
+    add liquidity command to telegram help
+
+commit e29959f103ab7ef98f58c4c657e07b99c5c31a7b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 6 19:31:45 2020 -0700
+
+    Fix readme for Docker installation instructions
+
+commit 4d65f6b66b680051e8370c07cf207e2a31860d1a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 5 22:25:42 2020 -0700
+
+    add docker ignore file
+
+commit b5eb8ecfa562e3584062d8a135bcef939940d4cd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Sep 5 22:25:27 2020 -0700
+
+    improve docker support, handle no nodes case in nodes command
+
+commit 123adc59271cafea7c43cfa135f5063a8b2b4f00
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Sep 4 19:54:29 2020 -0700
+
+    fix fee setting, add remote gateways, increase sweep target, increase forwards delay
+
+commit dc6ec0685b6740365565f12a5cd1433ce4629fad
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 31 21:37:40 2020 -0700
+
+    add relevance tests
+
+commit b2b4b2b04eca9488fb0b55cdefe329319370eb28
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 31 21:37:01 2020 -0700
+
+    add in and out support to forwards
+
+commit 9ad726b46922943bc3a41fb191332c6fe1c31307
+Merge: 42738ff 40ef725
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 29 20:02:24 2020 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 42738ff9973e042a1434e4f49ff453ad4d462e0d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 29 20:02:02 2020 -0700
+
+    enable web app gateway
+
+commit 40ef725e1b0e1f869aef2d9625645cd2e8d60092
+Merge: 6ea44bf 6a85b4e
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Sat Aug 29 13:36:16 2020 -0700
+
+    Merge pull request #58 from gcomte/master
+    
+    Fix logic in README sample shell command
+
+commit 6a85b4e86e54302d50f0e5b89cfd3097d05c6754
+Author: Gabriel Comte <comte@puzzle.ch>
+Date:   Sat Aug 29 21:01:37 2020 +0200
+
+    Fix logic in README sample shell command
+
+commit 6ea44bfc719f2a93afe693677cb69131843cefa2
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Aug 28 19:49:13 2020 -0700
+
+    add raspiblitz guide
+
+commit a91c46071129cc115f81302847dba3d8516670d9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 21 11:40:49 2020 -0700
+
+    remove extraneoous argument
+
+commit 8c5d28d6124b103ae1292ccef4b23b1c9e611ee3
+Merge: 00b36d7 2dd46af
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 21 11:39:51 2020 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit 00b36d7337ae90b7e01771cc8dfb4889b06f5349
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 21 11:39:35 2020 -0700
+
+    disable web previews, add error handling for swap token purchase failures
+
+commit 2dd46afc68ea9aaccfc9848997d0a1750b2e8f55
+Merge: fe80783 4973193
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Fri Aug 21 11:27:43 2020 -0700
+
+    Merge pull request #56 from AbelLykens/master
+    
+    Disable preview window (UNTESTED)
+
+commit 4973193d689b9551834ca18ec74a2aec923f84e2
+Merge: fe80783 198aa74
+Author: AbelLykens <47113175+AbelLykens@users.noreply.github.com>
+Date:   Fri Aug 21 18:19:07 2020 +0000
+
+    Merge pull request #1 from AbelLykens/AbelLykens-nopreview
+    
+    Disable preview window (UNTESTED)
+
+commit 198aa74bb295d665939e51eca132e8da89cc62b1
+Author: AbelLykens <47113175+AbelLykens@users.noreply.github.com>
+Date:   Fri Aug 21 18:14:56 2020 +0000
+
+    Disable preview window (UNTESTED)
+    
+    https://core.telegram.org/bots/api#sendmessage
+    disable_web_page_preview        Boolean         Optional        Disables link previews for links in this message
+
+commit fe807838fae61e09122aef6f938cee2a03eed677
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 16 21:30:47 2020 -0700
+
+    bump version
+
+commit 158beabaa4666ff9a39ab3197ef32ce651882e19
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 16 21:29:47 2020 -0700
+
+    add block notification command
+
+commit 48e7c010bcbc5124b452b4d576f97134b551e17c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Aug 14 09:39:56 2020 -0700
+
+    correct error reporting in a few commands
+
+commit 676fc97d74ccc339553627c1b0e8b76189186d9b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Aug 13 08:36:49 2020 -0700
+
+    fix window size estimation when not available
+
+commit 03630a689eb3a00a27834530249bd519f0486ecc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 12 11:22:48 2020 -0700
+
+    fix pay not working with out restriction on multiple paths
+
+commit 0bff11ca9003b6cbeb533f59bd942422c60c5edd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 10 23:08:01 2020 -0700
+
+    fix psbt reversal in some native segwit scenarios
+
+commit 76324ee6d4951b1e5acb493587e408908c210b3e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 2 20:50:29 2020 -0700
+
+    add total forwarded to fees chart, add liquidity output to telegram
+
+commit 6accc576caf8981f2aa4c35d963a73b8502fdc24
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 2 09:31:56 2020 -0700
+
+    add autocomplete registration on bot start
+
+commit ab7ae45ceaa38cb83289c4f41aff86dfc9df5876
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 1 20:07:08 2020 -0700
+
+    bump version
+
+commit affd10e9835ecd1819b628bd815b6b607d1173c1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 1 19:58:58 2020 -0700
+
+    add max-paths option to probe and pay
+
+commit 54db8c91d066d2b3c29c05f498e62106dbdd260a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 28 20:56:02 2020 -0700
+
+    fix probe pay req
+
+commit e822c64ba9cb3b83f4d6896ab6e3f1a1ff4b8018
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 27 21:06:17 2020 -0700
+
+    avoid preimage push on recovery
+
+commit 46f77e64d7be89b46fd3a24bd6d728fcf9897051
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 27 20:00:47 2020 -0700
+
+    switch to probing subscription, fix swap recovery
+
+commit e62a39bd9011d7f78197ea3a90542f24aba54399
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 20 22:10:06 2020 -0700
+
+    bump version
+
+commit 3299c0e16ca63f8975acd0dca280637b2e6a7dbf
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 20 22:08:48 2020 -0700
+
+    add support for swap service changes
+
+commit 91957107bcd33da5c11c12b037e8a904e88ad8fa
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jul 18 13:16:37 2020 -0700
+
+    abstract methods and update dependencies
+
+commit 25f08edabc95314b15eaabf6439f45de7707e115
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jul 16 12:28:19 2020 -0700
+
+    add max paths param to probe, fix db load issue
+
+commit d340a4114740b9477723ac1cabe9b6a9208755f3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jul 12 15:16:48 2020 -0700
+
+    bump version
+
+commit eb16d76023c5dfa2e8d59de03072e82f87248d44
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jul 12 15:15:41 2020 -0700
+
+    add fees command for outbound fees
+
+commit 986eee68b8c175b3e1e60336d1e6bea02da27523
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 7 09:56:49 2020 -0700
+
+    fix node 14, add disable bg sync option
+
+commit 40345bfc04d05c2e7904e78bf91563c8e9de3416
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jul 5 22:46:04 2020 -0700
+
+    bump version
+
+commit e3edfe0ede2603ac03b84e8dd2ee414eca6dfb92
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jul 5 22:45:15 2020 -0700
+
+    show local synced policy changes
+
+commit ff0b75af3f4412a8c7f764105f26791d36838031
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jul 3 19:55:17 2020 -0700
+
+    handle mempool command
+
+commit 2d1e074f4918cb65b02a0292ca8d527ddeb9a1ca
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jul 3 19:54:52 2020 -0700
+
+    add rebalance aliases, mempool telegram command
+
+commit e48f38e0352b0b8596f9c581338447c674e1d9b4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jul 2 21:41:18 2020 -0700
+
+    fix open with non-connected peer
+
+commit 9c345e14f4d9f3f38ed119ec82ed2c804bd28f7e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jul 1 21:42:13 2020 -0700
+
+    show rebalance decreases in report, log open channels canceling
+
+commit 31420b3e4e975a58a44020f4b8d883e7b6f7a8a7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 28 20:19:27 2020 -0700
+
+    fix probe zero req, report liquidity units
+
+commit faf07314879454486925b1aba35d1419c053b7d3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 28 17:48:38 2020 -0700
+
+    update version, add sync watch method
+
+commit 252657902c34b7168309443f5622346eedaaaa26
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 28 17:47:50 2020 -0700
+
+    add background sync to telegram
+
+commit f9f24e678bb26710992fb776968618c1d02a8d72
+Merge: 34aea5a 6f2fc96
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 28 11:33:43 2020 -0700
+
+    resolve merge
+
+commit 34aea5a150f85d9f3872fd8eaef0153de10530a4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 28 11:24:41 2020 -0700
+
+    update dependencies, fix runtime issues with chain-receive, peers
+
+commit 6f2fc9626cb96c560ff376013a5974950eaaf009
+Merge: a6bceba 7d9eb20
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Sat Jun 27 10:20:21 2020 -0700
+
+    Merge pull request #40 from apotdevin/master
+    
+    chore: bump ln-accounting
+
+commit 7d9eb20a6ad538c35ef8702cd648244b3e59c2a6
+Author: AP <potdevin.anthony@gmail.com>
+Date:   Sat Jun 27 10:07:32 2020 +0200
+
+    chore: bump ln-accounting
+
+commit a6bcebab037b420b8f0e5553cf71f3a434f7862f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jun 18 20:10:16 2020 -0700
+
+    improve success of multi path swaps
+
+commit ef8714cc5c2d97ceac777b119fe8dab780fcd5b3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jun 18 09:55:09 2020 -0700
+
+    fix probing of unknown nodes
+
+commit 71dfb854900a952cd9752cb7e18da97c1a0ba440
+Merge: 88efa8a 4cc32e0
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Wed Jun 17 20:59:27 2020 -0700
+
+    Merge pull request #34 from apotdevin/master
+    
+    chore: add rebalance response
+
+commit 4cc32e00128ac90afad9535935c8c7c6a0794d65
+Author: AP <potdevin.anthony@gmail.com>
+Date:   Thu Jun 18 05:58:01 2020 +0200
+
+    fix: double logging
+
+commit e5c8536d693053ce26cf09f0287ff70f3c76690c
+Author: AP <potdevin.anthony@gmail.com>
+Date:   Wed Jun 17 08:23:28 2020 +0200
+
+    chore: add rebalance response
+
+commit 88efa8adb5420992f09eb8145b599eba80dcac9f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Jun 14 11:10:13 2020 -0700
+
+    ignore unknown features when calling queryroutes
+
+commit 8fa90c25cb39160b3cd4b0428e990981fab486b5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Jun 13 17:05:39 2020 -0700
+
+    add cltv delta buffer for multi path routes
+
+commit bc8aadfa2f00481fb4dc7a10e6d1f8b62c8c5e43
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jun 11 16:10:37 2020 -0700
+
+    allow specifying path count for inbound increase
+
+commit e22f4ec5fa716035567786c16f069e56fb541048
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jun 8 13:24:23 2020 -0700
+
+    update dependencies
+
+commit b1144ed0b1dc74aae2b415bbdb4688056d5c7440
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jun 5 17:09:46 2020 -0700
+
+    update dependencies
+
+commit f6ee8c7ee2d36da26f9b4370cfe2b9559950a746
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jun 5 12:41:15 2020 -0700
+
+    update dependencies
+
+commit 73d853d517ef2f8338ad89eb6404aba75027623a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jun 4 20:40:23 2020 -0700
+
+    bump version
+
+commit b2c6146ceaee36a51c9349bcf3001e965c80190e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jun 4 20:39:42 2020 -0700
+
+    update dependencies
+
+commit d34dcc733ab7802329073a50e1aff15958d097ce
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jun 1 14:05:39 2020 -0700
+
+    fix rebalance in key misreference
+
+commit be5b02d7a9932f65755d21c6d48a89d3d475aff2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 31 20:38:59 2020 -0700
+
+    fix increase inbound liquidity for lnd 0.10
+
+commit 2219d84956e94775567912020feb452283da5393
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed May 27 20:25:12 2020 -0700
+
+    extend charting to received payments
+
+commit 416b71e78ff08ef9a9c88170e21725cb0fb55289
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed May 27 09:40:32 2020 -0700
+
+    fix auto selection of out peer when high out in peer is selected
+
+commit ccba2cc79d246855f324c85f0fe94eed3042d2cd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 24 15:23:19 2020 -0700
+
+    improve multi-route probing with hop hints, fix chain tx report
+
+commit 896a4e6e588eaec30562ca3c13c5f80248286640
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 22 20:40:28 2020 -0700
+
+    fix support for telegram with single saved node
+
+commit fe9b6cfe3596dc67312c999a133bf3047c4d8325
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 22 12:05:56 2020 -0700
+
+    fix local telegram bot
+
+commit e0aacd4b5fa67119e0d034ae45eb7da866c0e6d3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 22 11:49:17 2020 -0700
+
+    improve reliability of bot connection across network or node interruption
+
+commit 06f5e0e247c079f5184b5d4cd77073385055d882
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue May 19 20:55:56 2020 -0700
+
+    remove payment monitoring, add chain monitoring
+
+commit 6896be8e65daedb3c5f033b4caf598926bdaca2b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon May 18 20:40:19 2020 -0700
+
+    add related channel tx lookups
+
+commit f7c9732b276ba716307d294fadbb78b8c1d104ba
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon May 18 20:37:59 2020 -0700
+
+    use table mode as default for peers, add multi route methods
+
+commit c28fe6648d81684dddf5535ece1f5bcb6d02dd36
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 10 21:58:33 2020 -0700
+
+    fix pk arg typo
+
+commit 91dd1b75f45e6fff76bb22c191e40d52462753b9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 10 21:51:55 2020 -0700
+
+    fix remove peer with public key
+
+commit 3aee852cb4596014bfdf0d5ffacb464e27b392fe
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 8 13:21:10 2020 -0700
+
+    fix support for no-color and empty cells in forwards, peers
+
+commit 5d5cc29a1e9eae315779485733d9cab07bb58a22
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 7 15:13:19 2020 -0700
+
+    increase support for using aliases, add sig, timestamp to keysends
+
+commit b5c18a87f4c95b0ab5a864ea450d18d552006a93
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue May 5 19:59:10 2020 -0700
+
+    bump version
+
+commit 2c5801598532c1bcc23fccb5c366a9b863a8fe06
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue May 5 19:58:09 2020 -0700
+
+    update swaps for service changes, add table to forwards
+
+commit 224568cf0a4402812c02b315d27087bd089c50ff
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 3 15:58:58 2020 -0700
+
+    fix issue force closing with disconnected peer
+
+commit d19786298d2bc7e824bbbe13a21b3f101f5c3f2a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun May 3 11:04:51 2020 -0700
+
+    post sent payment updates to telegram
+
+commit 032913c9397921ffc94e7a42810b520392f24942
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 2 14:32:16 2020 -0700
+
+    bump version
+
+commit 5379e714221b08a3068d2b40c66018caf773e06e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 2 14:30:34 2020 -0700
+
+    add support for external, multi-channel opening
+
+commit 96b258a162b852d5892bf367a5e2e3cf664cbe0e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 28 20:12:36 2020 -0700
+
+    bump version
+
+commit 24b73f83ad5a75ac398898cbd5ebed92f89bf9b1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 28 20:11:45 2020 -0700
+
+    add coingecko support to price lookup
+
+commit f360b73bc614da1bc1dcd1c3560051c7f2f07ab9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 27 21:24:43 2020 -0700
+
+    bump package version
+
+commit 8904da660a99fdc4ca85aef5741e3d8e06a76d6f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 27 21:24:01 2020 -0700
+
+    add support for table format of peers
+
+commit 184863bf1e5be52758ee427df992cad4b52d46d0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 27 18:47:51 2020 -0700
+
+    remove pending htlcs from liquidity calculation
+
+commit 3d893496be7aa226f8e6c15f00fbe8ccace73136
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 27 15:10:44 2020 -0700
+
+    fix rebalance reporting, add liquidity targeting options
+
+commit d77cece9832bcbbc21bd782bf3938ef677fafb39
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Apr 26 11:16:45 2020 -0700
+
+    bump version
+
+commit 36d105eeb6f904da68fa1dc436f86e3681593d0d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Apr 26 11:15:58 2020 -0700
+
+    update dependencies
+
+commit c459714cda5e27253d8fe7f1fd7b98be0fa5c5d5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 21 22:26:05 2020 -0700
+
+    specify peer alias in lookup error
+
+commit 2a22995e2f7ee31653c205b55a7eef0f85f82a43
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 21 22:24:13 2020 -0700
+
+    allow specifying alias in rebalance avoid flag
+
+commit 86fc3cdeb6b016e5c823306da6043424a641ab48
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 20 14:50:45 2020 -0700
+
+    remove pending closing liquidity from peers output
+
+commit 10e070cabb8f171c41452b7682e6516473f2fe9a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Apr 18 11:08:36 2020 -0700
+
+    allow opening channels with already-connected peers when they have no public socket
+
+commit f0d603a7627edc8f5fde6359114b32f91f3cb6ee
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 13 12:37:43 2020 -0700
+
+    correct windows dir test
+
+commit 8db71d9010e6ab0675b03cbcf3f2841f6b5c7544
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 13 12:33:59 2020 -0700
+
+    bump version
+
+commit 3ba23f43c4a3bf41c4bf9fbe9768b3e2a6e1eacd
+Merge: 515d99a 118e92e
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Mon Apr 13 12:32:43 2020 -0700
+
+    Merge pull request #11 from PierreRochard/patch-1
+    
+    Fix default LND datadir path on Windows
+
+commit 118e92e5823f3df5a4f324971b9629c175d98ece
+Author: Pierre Rochard <PierreRochard@users.noreply.github.com>
+Date:   Mon Apr 13 14:31:28 2020 -0500
+
+    Fix default LND datadir path on Windows
+    
+    Reflects current LND default of `%localappdata%/Lnd`
+    
+    https://github.com/lightningnetwork/lnd/blob/1c398d5f265c3c4ff0da8898d69bda4bd9197a0e/sample-lnd.conf#L8
+
+commit 515d99a2802eae4544992337f4ca59e9ae9d81af
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Apr 12 17:20:18 2020 -0700
+
+    add support for multiple nodes to chart methods
+
+commit 08e2cd84af9e027cee25e8509aafa18621d5a183
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Apr 11 21:56:15 2020 -0700
+
+    add peer filters to chart fees paid
+
+commit 6a22f6e3b1e99b4d2b51382cd4a531dd7ba6be4f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Apr 2 15:34:38 2020 -0700
+
+    sort forwards by last time
+
+commit 3902adf05f6332278d4eeffe885c3826deb60d0f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Mar 31 18:32:45 2020 -0700
+
+    suppress errors when node peer alias lookup fails
+
+commit f5c6c44c5ad6b68a591329bd377b5024f9b01c67
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Mar 31 18:25:36 2020 -0700
+
+    remove unused request method
+
+commit 11de275cf973ddc658c8d9fe050ac53256d78e40
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Mar 31 15:57:59 2020 -0700
+
+    update dependencies
+
+commit 4189709c2e55613c090de36f3f7cb0915f78aef1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Mar 17 21:24:12 2020 -0700
+
+    add private open channel
+
+commit 5723a22f7acdf66d4b2fb82b8ec7fcdbdc5d68fd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Mar 16 15:56:00 2020 -0700
+
+    bump version
+
+commit a2c77aedb654dfb3e80fd73977f6b01b42776a23
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Mar 16 15:54:56 2020 -0700
+
+    add timeout option to rebalance command
+
+commit f371bcbb1c4f45f41f968b5b5bed447cb088495d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 15 18:30:46 2020 -0700
+
+    fix type issue with spend tokens
+
+commit 077c22fc8dcf416fdeca1d41b624f3928a27b3a9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 14 10:37:14 2020 -0700
+
+    fix swap out without spend amount
+
+commit bbd35b7495ad6d9412cf0be83d758d48e40d44ed
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Mar 13 21:36:35 2020 -0700
+
+    allow specifying outbound channel whitelist
+
+commit fcfc2b770e32b49e5cbf075669ffd5a844be6962
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Mar 13 15:41:17 2020 -0700
+
+    add exact spend to swap out
+
+commit 6308e9eb03804e4f3e5dd1f56546710e8dd065be
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 11 16:39:51 2020 -0700
+
+    update dependencies
+
+commit ff0a81d45b3cd62332ab2b6abaa296e5b2623130
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Mar 10 21:03:35 2020 -0700
+
+    bump dependencies
+
+commit 45c50e3a52dcfaa535dfb7b346c78247ecfb72f7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Mar 7 21:39:27 2020 -0800
+
+    fix inbound peer selection for small channels
+
+commit 0debf0900f5ff44914df37452f0abb9fa787967c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Mar 5 21:58:41 2020 -0800
+
+    bump version
+
+commit f58300bb3e70f03a71f2fab9588b9240b8f6abb9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Mar 5 21:57:54 2020 -0800
+
+    add fees paid support
+
+commit 66149cb3285257524bb03146b778696661d1de81
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 4 15:10:11 2020 -0800
+
+    bump dependencies
+
+commit 1b0e4c4fba58ced6af188eb5a7d88a0f2c99de15
+Merge: a27bf1a 0f7affc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 1 11:25:12 2020 -0300
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit a27bf1a8aee56a6a524a1b969b31384d1f7be1aa
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 1 11:24:39 2020 -0300
+
+    fix remove peer, add circular rebalance reports
+
+commit 0f7affc99f97522996022996a2716fa72d3a7d45
+Merge: ee862f0 0f4055f
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Tue Feb 25 08:55:53 2020 -0300
+
+    Merge pull request #10 from Jorijn/patch-1
+    
+    Create Dockerfile
+
+commit 0f4055fbfbb9412bf3629681b44d7f33f48cae00
+Author: Jorijn Schrijvershof <jorijn@jorijn.com>
+Date:   Tue Feb 25 08:47:28 2020 +0100
+
+    Create Dockerfile
+
+commit ee862f0c0e1f8fb1e4ee18529b56b98a82a8b551
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Feb 13 17:59:48 2020 -0800
+
+    add inbound peer request to chain-receive
+
+commit 1393a9b7605269d9cff6a43a21df456e7a628127
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 12 18:18:25 2020 -0800
+
+    add remove peer command
+
+commit 813843dcd23a316d6c679deef418c4d2962e1edb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Feb 11 16:28:30 2020 -0800
+
+    bump dependencies
+
+commit 2f1f20e4e8c3ac61927df727737903d991f9a5a5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 10 21:44:31 2020 -0800
+
+    add filtering to peers list and last receive time, push sending
+
+commit 18fed0794a906e14d6e8981d03b9a06cdf8bc33a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 9 22:14:50 2020 -0800
+
+    add message sending support for payments
+
+commit b80528f80b25d6570e18dc7f8fa5de068448441b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 9 20:55:13 2020 -0800
+
+    add file based method for specifying default saved node
+
+commit 1ddca6f208c42abe20688a437ceaa88c247ac9d7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 9 11:42:00 2020 -0800
+
+    switch to new unicode lib
+
+commit d5280f84cbc174607d09e310d6bad3f15d569991
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 9 11:37:56 2020 -0800
+
+    fix xml parsing dependency warnings
+
+commit 72dd172d05f49e44fb550fb8a478884534aaef00
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Feb 7 12:54:02 2020 -0800
+
+    bump version
+
+commit 9a06b6415f5846565588c37a6827159d14574895
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Feb 7 12:51:50 2020 -0800
+
+    add swap api token method
+
+commit e9cf9aaed88441dbcf278d207f9e5488933d4f57
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 3 22:32:00 2020 -0800
+
+    add liquidity tests
+
+commit 1ce5a63e9b5b0723a1c0b38badaf66d43e7f8235
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Feb 3 22:31:30 2020 -0800
+
+    add fee rate and score to inbound-liquidity
+
+commit 8191bc150377b48df926e7277ec536ff2d706671
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 2 21:03:50 2020 -0800
+
+    add rebalance amount
+
+commit fbea8c6fb55a949227d8a8f21ecf182a5ed9231c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 31 14:44:43 2020 -0800
+
+    fix fallback to self-calculated route
+
+commit c891058ed1c05185b74e4ce863cc8d4fbe398a0f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jan 28 22:34:57 2020 -0800
+
+    add support for swap auth
+
+commit f3971cd49ee8e552305d149b66ba1674c8f633fc
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 23 13:53:07 2020 -0800
+
+    add credential path specification and default saved node
+
+commit 53ebd461bf30189c806d4e7dac0430d76cef667f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Jan 23 09:48:37 2020 -0800
+
+    add support for 0.9.0
+
+commit ab2af2670ccdaf6827320623ef21cb6a0cd9a11b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 20 21:16:08 2020 -0800
+
+    add encryption, decryption commands
+
+commit 6ca32cee0281c6d74278970c9676178db2d31f2d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 13 18:04:12 2020 -0800
+
+    fix exchange ticker value
+
+commit 9c09939386381a6669993533be450e19d1dd3ea4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 13 15:16:13 2020 -0800
+
+    fix swap quotes and add fast flag
+
+commit 98c3e57f89167595e422ff7b871c4ada1a36fa46
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 13 12:53:25 2020 -0800
+
+    change fiat oracle to coindesk
+
+commit e828b8e5101612986020c94bb9570c374cded3fd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 13 09:59:46 2020 -0800
+
+     bump dependencies
+
+commit 55b1b74c3fac2bab559202fb23dd7f2ce41f294e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jan 13 09:58:10 2020 -0800
+
+    eliminate non-working fund dev, fix report generation
+
+commit fd0d41b927f54853844bae781317215c39feb426
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 10 19:42:50 2020 -0800
+
+    fix market lookup
+
+commit 8b6a1bd2fc68fa2cf58ceb2a81b7cb275b251a77
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 10 19:27:10 2020 -0800
+
+    update dep
+
+commit 599a39ed211e4a0fdd83ae523a79ccc3a7e72384
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 10 19:13:16 2020 -0800
+
+    update dependencies
+
+commit ee25ffb110bf8cb1d97e8d45bebfb58230681809
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 10 18:42:43 2020 -0800
+
+    update dependencies
+
+commit 61fb459504ca770ce3387aaddf13a22371f86c5e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jan 10 14:30:45 2020 -0800
+
+    update dependencies
+
+commit 02d6296377f9ad30f14ea0a5862ad94881af728d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jan 8 14:49:51 2020 -0800
+
+    fix issues in accounting and increase inbound liquidity calls
+
+commit 2629b7369b7186efc3b357b23d5f35136bea1f5a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 26 13:14:02 2019 -0800
+
+    add support for alias in rebalance
+
+commit daca9951ba5762d4505e2fba7126596be0ee1f67
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 20 15:32:27 2019 -0800
+
+    bump version
+
+commit 0f4d3a9ec5ae4c5e3453440cd43bcedde7abb70e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 20 15:31:09 2019 -0800
+
+    add mock lookup invoice compatibility with features
+
+commit 58151b3e944f07cbe53e1dbeddd6d5bda0dbee9e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Dec 20 15:28:48 2019 -0800
+
+    add cltv delay buffer to payments
+
+commit 9bf67496cbece35fb313a8b9a50c4d4255a6ddd8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 18 21:15:34 2019 -0800
+
+    add time-limit to credentials
+
+commit 86c5d3076677996a68ca9e30908366b933033a18
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Dec 18 19:47:33 2019 -0800
+
+    add reconnect command
+
+commit a4adc4928134dfb6e70c80691ff7efe7973110e7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Dec 14 20:30:52 2019 -0800
+
+    add support for charting count of forwards
+
+commit e2db26be1704abc33f7cba7fe6f5c714a5133ee9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Dec 12 11:00:27 2019 -0800
+
+    bump dependencies
+
+commit 471fbaec4cf54c5877cbf106e71861939e77923b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Dec 10 21:32:30 2019 -0800
+
+    add telegram messages
+
+commit a82fa3b3bce98ec63494e5720391a438007e5cf1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Dec 7 20:13:28 2019 -0800
+
+    add cleartext export for credentials
+
+commit 583f2523cce8777d4cdecc1c65ceea1ff1444b28
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Dec 2 19:47:56 2019 -0500
+
+    add chain fee rate option
+
+commit 1b4d8bfcab4d58894eb023c12e14019d21d48438
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Dec 1 22:34:37 2019 -0500
+
+    update readme with open channel command
+
+commit 9189878b4b591e442226448d7de3d5380db22850
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Dec 1 22:33:29 2019 -0500
+
+    add confirmed option for balance, open channel command
+
+commit 774f601d011ea7275eb977983cc092aa8ba69c1d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 25 21:05:36 2019 -0800
+
+    avoid invalid local channels when specifying inbound peer
+
+commit 91fb7b65028c3b288b4cd4a0857c30c08bded09a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 24 22:54:35 2019 -0800
+
+    bump package lock
+
+commit f68ddfd9f99729e94ca9fc81677d16564f1fcbe7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 24 22:52:39 2019 -0800
+
+    add fee earnings info to peers
+
+commit d5d911b8b5ede6a8db4cfbb668a4f6109ba60998
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 23 22:43:28 2019 -0800
+
+    add fund-dev command, add peer specificity to chart fees earned
+
+commit 5cb765439bf9be02de1eafc0d24e465d0c72a91f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Nov 21 22:17:44 2019 -0800
+
+    update dependencies
+
+commit 28e9b2eedac8ba3aab6d88309a3bc303a312e508
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Nov 20 22:22:43 2019 -0800
+
+    add fees chart command
+
+commit d659c2c86d5d8e38e0680931a909e903c4c9ac1f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Nov 19 19:51:12 2019 -0800
+
+    update dependencies
+
+commit 926e25b8f208c86372b785364c6e3bb071fb915d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 18 21:48:50 2019 -0800
+
+    add test
+
+commit d8cea9a44214d9f69e9ccf28ab6d20b7ec8b9a6c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 18 21:48:33 2019 -0800
+
+    improve cert parsing, add test
+
+commit 7cee8f03e669005074fcb6220769b1b1eb431490
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 17 19:58:48 2019 -0800
+
+    add support for time-delayed swaps
+
+commit 2728548b9e984a1b5a472256b79cc8cf7c6fa5a4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 17 11:39:43 2019 -0800
+
+    update dependencies
+
+commit a51abc00fd0887a50deafd26e1245e9133df31fa
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 16 19:32:32 2019 -0800
+
+    add tests
+
+commit b3504f14156b35de517c72bcf4c0b09a4309d304
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 16 19:31:42 2019 -0800
+
+    add cert validity method
+
+commit 6741f8e3cd397ce2ca04ae824cfe44f27c0917d8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 16 12:49:06 2019 -0800
+
+    update dependencies
+
+commit cd35778d6e0e0d557589ae80e42274dbfe078b68
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 16 11:20:43 2019 -0800
+
+    update accounting lib, fix #5
+
+commit 8669c354bace35ad9441ac1961847a9ba95dee62
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Nov 12 12:05:31 2019 -0800
+
+    revert cert munging
+
+commit 06f894751c071553dab30f4c77b3d41cdbed9e2a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 11 15:21:04 2019 -0800
+
+    fix report generation
+
+commit b79a6338d0afbfdf7d91f0e205f7ee6c7790be41
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 11 12:33:35 2019 -0800
+
+    improve telegram forward message, improve tests
+
+commit aae0b1ea048873de2b30974560d4b4a93525e9d3
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Nov 10 15:14:49 2019 -0800
+
+    fix cert parsing, upgrade dependencies
+
+commit 794b2dbbbc2bbcb2f1327a471a7ed8f5f47ee020
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Sat Nov 9 22:26:43 2019 -0800
+
+    add badges
+
+commit a5ee4de7591e457135e4b1d2fb17d1cc7488444f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 9 22:18:01 2019 -0800
+
+    add travis file
+
+commit 833715f3099941bb0be776e095e861769aa5342a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Nov 9 17:51:44 2019 -0800
+
+    upgrade goldengate dependency
+
+commit 0a98fbc02b628cca6a8103c5253310c9af8a0086
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Nov 4 21:30:30 2019 -0800
+
+    add and remove saved nodes
+
+commit 8a990543dff1c4f2813251b18fe2fe3f6157a854
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Oct 30 16:02:16 2019 -0700
+
+    add telegram pay method
+
+commit 7b8cdbb075a6d2b448cf3188733ea6c64a5bb210
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 25 17:54:39 2019 -0700
+
+    bump version
+
+commit c05c19efa541020075b550bc509869a4c881e828
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Oct 25 17:52:23 2019 -0700
+
+    add telegram bot
+
+commit fddc041ec7cbb01ff3bafa310736fa6b272aeb85
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Oct 23 20:14:09 2019 -0700
+
+    add chain deposit function to make chain addresses
+
+commit 5ae8cde4eac7eb70d7c62c9e38e44229736d6ea9
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Oct 23 11:52:32 2019 -0700
+
+    trim whitespace from wallet password when unlocking
+
+commit 574023e6b46374c6ee61182d5c8ad0a433d84351
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 22 19:34:08 2019 -0700
+
+    bump version number
+
+commit 3276726c8e407e797ed65929eaac0578866b70d4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 22 19:33:42 2019 -0700
+
+    avoid high inbound fee peers on rebalance
+
+commit 3abd378bbabef63054bb5b494a7622e979f2b0cb
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 17 17:13:26 2019 +0200
+
+    add locking and unlocking of saved node credentials
+
+commit d7a50cdb5186e584673ecfb78c9ba5347394e941
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Oct 15 16:09:15 2019 +0200
+
+    add method to list saved nodes
+
+commit 5be91fa2e3ee61c814f2d207fd92e2faeb509d04
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Oct 12 12:55:27 2019 -0700
+
+    add avoid node flags to increase inbound liquidity
+
+commit 4aca41f021851870f9c880ece9ce0c0028ec8377
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Oct 9 22:07:29 2019 -0700
+
+    show inbound fee in peers
+
+commit e53566f03c9d0fe22ac371fa0e4d03703f7f5a68
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 3 13:46:33 2019 -0700
+
+    formatting
+
+commit 43dbf79574ac0248789a6c7a9c14425e931731a6
+Merge: 98fd037 6cef63f
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Thu Oct 3 13:44:06 2019 -0700
+
+    Merge pull request #4 from arshbot/patch-1
+    
+    Clarifying default parameters in documentation
+
+commit 98fd037eedd2f337c7deabc4a5253630dcb89cc4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Oct 3 10:11:21 2019 -0700
+
+    add year and month targeting to accounting
+
+commit 6cef63f8d388d5f7f5634da708e1d68089be1282
+Author: Harsha Goli <harshagoli@gmail.com>
+Date:   Wed Oct 2 13:22:22 2019 -0400
+
+    Clarifying default parameters in documentation
+    
+    This PR makes a simple text change in README.md that clarifies the expected file structure of the default lnd folder.
+
+commit a139e84018525424a23c12c329cdec9ac691c90c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 22 21:08:43 2019 -0700
+
+    add avoid node flag to pay, probe, rebalance
+
+commit 660279476d6e72b96ed2d037b6dd66b983e4f31a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Sep 20 10:19:19 2019 -0700
+
+    end support for lnd 0.7.0 and lower
+
+commit e02ae462e9f4b35050e0e2bf2c76fe955e0688db
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 9 17:46:15 2019 -0700
+
+    add swap cost command
+
+commit 9d32a81151920c63b1d12be97bd3af846fb03a63
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 5 15:29:40 2019 -0700
+
+    add update notifier
+
+commit a5d2fbf011ffbab87a7eee2d13cc1b8be9f6e7f7
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu Sep 5 13:57:33 2019 -0700
+
+    update dependencies
+
+commit 3bfab947d2a921377d566abc09e7989bd8b57798
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 2 16:50:53 2019 -0700
+
+    update readmme
+
+commit cc4fe8fe8e29aa883a8df4b99fece115e34cd834
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Sep 2 16:48:25 2019 -0700
+
+    add rebalance command
+
+commit 9927706f2bcd2ed3dcc3b7ad259e390dbd9fb04a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Sep 1 11:19:04 2019 -0700
+
+    update dependencies
+
+commit 004357e8465ae76c9ac3cc11e6a4ed4a2b514fbe
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 24 20:22:38 2019 -0700
+
+    update dependencies, add sort option to peers
+
+commit 1c0a4042cf8167d7745912b4d690aaa2b627af6c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Aug 21 22:56:16 2019 -0700
+
+    add max liquidity finder
+
+commit ef7f4f252084f2337f411e6f2f03ed6fb5620f99
+Merge: ab41e36 780517a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 19 15:48:27 2019 -0700
+
+    Merge branch 'master' of github.com:alexbosworth/balanceofsatoshis
+
+commit ab41e36ca038d5b4815c7b22eae865f08f6d8722
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 19 15:47:37 2019 -0700
+
+    merge node version changes
+
+commit e3a0ff9effba56d25ab2aae183a01e0af90cf8a2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Aug 19 15:46:23 2019 -0700
+
+    add inbound and outbound restrictions to probes
+
+commit 780517a4e03e62ff4103cb25de389f663c194bf2
+Merge: 5e82c4f bc88c92
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Wed Aug 14 08:57:37 2019 -0700
+
+    Merge pull request #3 from wbobeirne/node-version
+    
+    Add required Node version to readme / package.json
+
+commit bc88c9289c9b505b38a3d5cd964a3cca2bb722a8
+Author: Will O'Beirne <wbobeirne@gmail.com>
+Date:   Wed Aug 14 11:32:41 2019 -0400
+
+    Add required version
+
+commit 5e82c4f19b9773b892585361fba43d1a5547634a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Aug 11 16:46:12 2019 -0700
+
+    add market command
+
+commit 8f10c4a0e0bfc6f92e4abecefab6a3428c5aeba5
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat Aug 10 11:32:09 2019 -0700
+
+    add pay, peer, chain receive methods. standardize on kebab case args
+
+commit 70adfff01a1d654e49f1e7a8a97a2ece31385a66
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Jul 24 16:30:40 2019 -0700
+
+    update dependencies
+
+commit d91d541ac5fdb0c808eead3444b4f0762596f94e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 23 21:00:11 2019 -0700
+
+    hide chain fees if chain fee reporting is absent
+
+commit e7209769a8fea572d55132caff9244f44a4bc2b8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 23 20:43:41 2019 -0700
+
+    update dependency, avoid err on atpl err
+
+commit c66b2528894c8893b2a3b7a57063867af27fcf47
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 23 16:22:59 2019 -0700
+
+    bump version
+
+commit 7b01c8bb6e061148f230350909ed28b632ad927d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Jul 23 16:21:58 2019 -0700
+
+    add report method
+
+commit 6885e23ebd1250071dd8818c4caa7922dfe12e63
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Jul 19 15:48:41 2019 -0700
+
+    update dependencies
+
+commit 0ce49aadf36b8a1f1664bfbfec6e66c98d96f72f
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 15 21:51:55 2019 -0700
+
+    add find, increase liquidity methods - change node specification syntax
+
+commit f27ef13b993b58742991c5347b582fc361770da8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 8 18:52:10 2019 -0700
+
+    add back missing package
+
+commit 4c1c7166b175c947fe44c0141a48a799100c91b0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 8 18:43:07 2019 -0700
+
+    add mxn fiat to price
+
+commit f5a4dad9b832a7f73d8e5382a8372692aa44db34
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Jul 8 10:07:25 2019 -0700
+
+    add support for chain receives
+
+commit 3033637663769aef883a44da6a280c2d0a28dc42
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 24 12:08:42 2019 -0700
+
+    update dependencies
+
+commit 90777853adb3d13ef55797e694412574902c341b
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 24 10:17:01 2019 -0700
+
+    bitcoinaverage api key support
+
+commit 1a779d9e6e2b697e05aec34ce2f00c1c8ecfcdad
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 17 21:29:33 2019 -0700
+
+    bump version
+
+commit be447a435a8c2ae2a0c6afb3db52869404f4e4cd
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri May 17 21:28:34 2019 -0700
+
+    upgrade dependencies
+
+commit ff2be32e1ce1ced1781a5f1cee2fc6b011140f98
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 9 12:33:57 2019 -0700
+
+    use largest balance for gift given multiple options
+
+commit 2ce37e71063522d356f5b74ae26c56883fa74aa6
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed May 8 22:18:01 2019 -0700
+
+    add guided autopilot
+
+commit 37a8cd18327cc84d721325f6e07c4f5c7cd589ee
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sat May 4 10:58:06 2019 -0700
+
+    add send peer gift method
+
+commit 4d33ac5cc198e9d8150370b99b412f9e47a6144e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 2 16:42:23 2019 -0700
+
+    fold in accounting functionality
+
+commit 79b9da02b12392d97b3b7f3c3fddaa3391461549
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 2 13:29:01 2019 -0700
+
+    bump dependencies
+
+commit 08b1e32e061ce6b47473a49476c39ed16bbb6bf0
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 2 12:16:08 2019 -0700
+
+    fix default mac lookup
+
+commit 292b4459c08fa80cdbb4cc0d43ee7b156d57c858
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 2 12:09:17 2019 -0700
+
+    add default lookup for testnet macaroon
+
+commit 9938dd9985737d4ae12ca017ed0e2fc3c41ad96d
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Thu May 2 10:06:59 2019 -0700
+
+    abstract out bolt03 functions
+
+commit bf6e78725b44c7074d028d6d0cd25be9318aeddf
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Apr 5 14:14:53 2019 -0700
+
+    add count below flag for query number of utxos below target
+
+commit 15cf21a12d956703bfa2d840840015b2cea9194e
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Apr 5 13:22:23 2019 -0700
+
+    fix misreference
+
+commit 3677678081b38e72f03f7bd63e39d528addded20
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Apr 3 16:52:46 2019 -0700
+
+    bump version
+
+commit 7b6683a059be201faa449b08bcc4a33d96892177
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Apr 3 16:51:47 2019 -0700
+
+    add commands to show the price and chainfees
+
+commit b241c3d45c68adb87a14a25fa9f2fce2eb23bcc1
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 2 12:01:40 2019 -0700
+
+    doc utxos command
+
+commit 402c380da9dbf0f28c256e21bb8fdfaa5c7d2e86
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Apr 2 11:59:45 2019 -0700
+
+    add note about closed function
+
+commit 7fa380810679430ff3b328d19dbfe5c70affaf74
+Merge: c7abf37 3489d19
+Author: Alex Bosworth <alexbosworth@users.noreply.github.com>
+Date:   Tue Apr 2 10:08:55 2019 -0700
+
+    Merge pull request #1 from meeDamian/master
+    
+    Make README a little bit more clear
+
+commit 3489d19efe2b038f068f4b1df5b7d89a70e96623
+Author: Damian Mee <spam@meedamian.com>
+Date:   Tue Apr 2 21:39:41 2019 +0700
+
+    change comments to shell format
+
+commit 8c1a799d758ef20f5af64b370030a91c9392f811
+Author: Damian Mee <spam@meedamian.com>
+Date:   Tue Apr 2 21:38:39 2019 +0700
+
+    Improve README.md a bit
+
+commit c7abf37fdc377cf3ece8ab807447ab2c80287069
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 1 16:20:54 2019 -0700
+
+    update dependencies
+
+commit 4b9debaa717a64033f35acb5ac70b4eb55804ec4
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Mon Apr 1 11:16:39 2019 -0700
+
+    add closed channels tracker
+
+commit fa822c9ddd57170d61c06f043a84c4aa24a182aa
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 24 20:16:49 2019 -0700
+
+    setup default value for probe
+
+commit bc7d313c341511318c975fc284f05331571cad5c
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Fri Mar 15 16:26:57 2019 -0700
+
+    add utxo fanout command
+
+commit 0f6e062e0a610ff694901cf2dd93ee610ecb4714
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 10 13:12:36 2019 -0700
+
+    update ln service version
+
+commit 144b2d10b166ff8fef54ba235b61a213db29a202
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 10 09:45:11 2019 -0700
+
+    hiddenpay formatting
+
+commit b3beb54fdbceebd120109160f195c7451f88d355
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Mar 10 09:42:40 2019 -0700
+
+    add hidden pay method
+
+commit 5c63d1bdb721ec87656d6e1b685979f95096e197
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 6 21:50:32 2019 -0800
+
+    bump version
+
+commit 86353b6c4ec1e15ce3acb53f625f71ff9d94d8a2
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 6 21:49:03 2019 -0800
+
+    Add unlock method
+
+commit c99ff5db80b362d16bb1b3dc9bce521a96c25667
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Mar 6 11:20:15 2019 -0800
+
+    add forwards summary and probing
+
+commit 1b243a895536141d4672bf69094c6c823895d479
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Tue Feb 26 13:04:00 2019 -0300
+
+    add inbound liquidity and remote nodes
+
+commit f1c752d298750a33b5ea80c767c25e76c06aa35a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Wed Feb 13 10:31:33 2019 -0800
+
+    add onchain balance, watermark options
+
+commit 77ba94957101b7c53b5bc83d62e3556bd4b5284a
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 10 16:39:20 2019 -0800
+
+    update ln-service
+
+commit e6f3fb7a36955ea99fbf6d749011c740a13ef285
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 10 16:27:53 2019 -0800
+
+    fix default lnd home dir
+
+commit f2c3e506d436aa463cf79a019102a989d1bddba8
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 10 16:22:51 2019 -0800
+
+    fix dep reference
+
+commit 77309e859ce0570974937b5fc00e7ef87b42b777
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 10 16:20:21 2019 -0800
+
+    add command to package
+
+commit 2d58ece5c73ef00ddcaae4366a8967dcee633946
+Author: Alex Bosworth <alex.bosworth@gmail.com>
+Date:   Sun Feb 10 16:15:06 2019 -0800
+
+    balance command

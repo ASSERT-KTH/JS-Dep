@@ -1,0 +1,19 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (998.1 files/s, 94176.2 lines/s)"
+JavaScript,middie/node_modules/path-to-regexp/dist/index.js,0,53,355
+JavaScript,middie/node_modules/path-to-regexp/dist.es2015/index.js,0,53,345
+JavaScript,middie/node_modules/fastify-plugin/test/test.js,55,0,184
+JavaScript,middie/node_modules/fastify-plugin/test/bundlers.test.js,22,0,76
+JavaScript,middie/node_modules/fastify-plugin/plugin.js,19,5,61
+JavaScript,middie/node_modules/fastify-plugin/test/checkVersion.test.js,15,0,58
+JavaScript,middie/node_modules/reusify/test.js,16,6,44
+JavaScript,middie/node_modules/fastify-plugin/test/stackParser.test.js,6,0,42
+JavaScript,middie/node_modules/reusify/benchmarks/reuseNoCodeFunction.js,5,2,31
+JavaScript,middie/node_modules/reusify/reusify.js,8,0,25
+JavaScript,middie/node_modules/reusify/benchmarks/createNoCodeFunction.js,5,5,20
+JavaScript,middie/node_modules/fastify-plugin/test/esm/index.test.js,2,4,13
+JavaScript,middie/node_modules/fastify-plugin/test/composite.test.js,4,0,12
+JavaScript,middie/node_modules/fastify-plugin/test/mu1tip1e.composite.test.js,4,0,12
+JavaScript,middie/node_modules/fastify-plugin/test/esm/esm.mjs,3,0,10
+JavaScript,middie/node_modules/reusify/benchmarks/fib.js,3,0,10
+JavaScript,middie/node_modules/fastify-plugin/stackParser.js,3,1,7
+SUM,,170,129,1305

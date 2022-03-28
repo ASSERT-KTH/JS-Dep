@@ -1,0 +1,1369 @@
+commit 67ddb349e682ce8c6e84c0f69cbfa2dc2f9b385c
+Author: towolf <e98877331@gmail.com>
+Date:   Mon Mar 28 05:51:26 2022 +0800
+
+    Add CryptoFamers NFT to the projects list (#206)
+    
+    Co-authored-by: cheng-yan yang <cyy@mobisocial.us>
+
+commit f51293b5cc897f8c4bd6f75771d09a90db5fe1fd
+Author: kyokosdream <95386586+kyokosdream@users.noreply.github.com>
+Date:   Sat Mar 26 02:54:10 2022 -0700
+
+    Update new CandyCreator Verified Contract (#202)
+    
+    We've updated our web platforms code to use a more recent version of ERC721A, and improved our code with custom Solidity errors instead of long revert strings. We utilize the getAux variable for whitelist slots.
+
+commit d75c944d5c7052b4292fbd02777a6a7cfefc5053
+Author: Ben Eisner <benjaminaeisner@gmail.com>
+Date:   Thu Mar 24 11:03:22 2022 -0400
+
+    Add correct function signature for _setAux (#201)
+
+commit 6a45d9d8b16a2e7fde9cce67f19c0be234435d66
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Thu Mar 24 06:28:45 2022 +0800
+
+    Make tests compatible with upgradables (#200)
+
+commit f04a9f1305d61d6c54defad1ffbe51f24797b2d2
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Wed Mar 23 06:52:24 2022 +0800
+
+    Update README.md
+
+commit 2b77a674d04291e11041c65adbf9bc45b9994bde
+Author: Dominik Keller <39487564+dominikkeller@users.noreply.github.com>
+Date:   Tue Mar 22 12:11:22 2022 -0700
+
+    Etherscan link update mrvroom (#199)
+
+commit b8d7569821437671c0fb6d2ff8ce48d685b0ebe4
+Author: NFTGConsultoria <97810233+NFTGConsultoria@users.noreply.github.com>
+Date:   Mon Mar 21 17:41:39 2022 -0300
+
+    Addind Anoobs to projects.md (#197)
+
+commit 09c386e309f66c8e62169e799c379939846c4660
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Tue Mar 22 04:30:21 2022 +0800
+
+    Docs: Update erc721.md with totalSupply
+
+commit 2de75526cfa6e505623cc1e6727301d9704d5192
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sat Mar 19 05:47:12 2022 +0800
+
+    Docs: Use specific versions for unpkg CDN files.
+
+commit 16c8c434a736ad0a0ae48dbc07c0061a0e992d61
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sat Mar 19 05:39:07 2022 +0800
+
+    Docs: Use full path for preview.png
+
+commit dce074b27b08f45ddd4e59949aebd7b3d9bfc152
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sat Mar 19 05:34:42 2022 +0800
+
+    Docs: Fix dark theme for Chrome
+
+commit f0ad9f5460aafb8dea96fa2d6de1313288240de2
+Author: Zachary Estrella <zjestrella1@gmail.com>
+Date:   Fri Mar 18 15:43:36 2022 -0400
+
+    Adding badkidz to projects.md (#189)
+
+commit 2eebe5252b9c0404e37070b0bf4b36fc74286c35
+Author: Dominik Keller <39487564+dominikkeller@users.noreply.github.com>
+Date:   Fri Mar 18 03:09:24 2022 -0700
+
+    Update Etherscan for mrVroomNFT (new deploy) (#188)
+
+commit e40afefafae82dd76ac90c709c787fb95e6b269f
+Author: Dominik Keller <39487564+dominikkeller@users.noreply.github.com>
+Date:   Thu Mar 17 12:47:12 2022 -0700
+
+    Added mrVroomNFT (#186)
+
+commit d913c70428e03de3d72d4e2e119b8520b07b280d
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Thu Mar 17 19:55:02 2022 +0800
+
+    Update index.html (#185)
+
+commit b42e47e3b16564d4d1b746bdaee7f83af4433587
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Thu Mar 17 19:47:05 2022 +0800
+
+    Update index.html
+
+commit b6dfadc8382c48646b32b906b76cdc404d701aec
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Thu Mar 17 19:12:28 2022 +0800
+
+    Docs: remove edit on github button
+    
+    - Not many will need to use it.
+    - Kept `.nojekyll`
+
+commit 20c6637d5be40217b3f3ecf79811582a3c7ebdd7
+Author: Amirhossein Banavi <ahbanavi@gmail.com>
+Date:   Thu Mar 17 14:02:08 2022 +0330
+
+    Docs: Add edit on GitHub (#183)
+    
+    * docs: add edit on github
+    
+    * docs: add .nojekyll
+
+commit 5b1bfaca3e2456350eb85f3b3af26e94d164ca29
+Author: Ihor Bodnarchuk <shef4u@inbox.ru>
+Date:   Thu Mar 17 04:16:34 2022 -0500
+
+    add zerocodenft to projects (#182)
+
+commit 6d57f6864097839d4d5c6ef9fbeddc426f52892a
+Author: Amirhossein Banavi <ahbanavi@gmail.com>
+Date:   Thu Mar 17 12:45:39 2022 +0330
+
+    ci: paths-ignore docs and .md files (#184)
+
+commit 0dab0ca89d63f3af997b583d0c584c499644ed5d
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Tue Mar 15 22:18:39 2022 -0700
+
+    Version 3.1.0 (#179)
+
+commit f201ccd44478b20a85a88754d84e8496962fb494
+Author: Oliver Straszynski <oliver.strasz@gmail.com>
+Date:   Tue Mar 15 13:47:32 2022 -0400
+
+    Remove unused IERC721Enumerable import (#178)
+    
+    * Remove unused import IERC721Enumerable
+    
+    Remove unused openzeppelin import `import '@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol';`
+    
+    No longer required after commit cbcd99b354472ec4484f753e0583d4fc86c89843
+    
+    * Fix comment
+    
+    fixed comment refernce
+
+commit e2bc399242e9f0a7a4756197fab0efc0c83edcbd
+Author: Zachary Estrella <zjestrella1@gmail.com>
+Date:   Tue Mar 15 13:43:02 2022 -0400
+
+    Fixing link on tips page (#177)
+
+commit db0bbf6949a4f43e00f0b53b3a323c80a9f8203c
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Tue Mar 15 09:29:07 2022 +0800
+
+    Update README.md badges
+
+commit 936b3cc5e361d165cf8f2469b54f875a1654880e
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Tue Mar 15 05:09:09 2022 +0800
+
+    Docs: fix headers font-family
+
+commit 27334d76a36eb6ab237c52c1b57205c0bc294cdb
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Tue Mar 15 04:26:29 2022 +0800
+
+    Docs typo fix and preview image absolute url (#176)
+
+commit c28da6137a234ae1ee22f44cd227af483e227e6e
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Mon Mar 14 13:11:17 2022 -0700
+
+    README links to docs
+
+commit 5f6f27aef958eb1e421e4f5ed1eb53ba4e83eb31
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Tue Mar 15 04:03:47 2022 +0800
+
+    Add docs (#173)
+    
+    * Add docs
+    
+    * Update erc721a.md
+
+commit a2f190305162d0cebc2c47710fdf5a1ab7b5a4a8
+Author: Top Technology Share <90750585+TopTecShare@users.noreply.github.com>
+Date:   Mon Mar 14 10:45:18 2022 -0500
+
+    Update projects.md (#175)
+    
+    Add mooning monkey project.
+
+commit f54709db62bff5a87a46e49156ce9af47971a190
+Author: timon#1213 <75998557+moneybirdmi@users.noreply.github.com>
+Date:   Mon Mar 14 19:05:53 2022 +0500
+
+    Update projects.md (#172)
+
+commit d991f4ad93b2ca7beee4f1db21530059c92ed7d3
+Author: 0xmanga-eth <101255224+0xmanga-eth@users.noreply.github.com>
+Date:   Sun Mar 13 18:34:28 2022 +0100
+
+    Add Komorebi No Sekai Project (#166)
+
+commit ba150a8ffd4232cbce2dd7db3d01261f93b855fb
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Mon Mar 14 01:19:13 2022 +0800
+
+    Minor optimization tricks (#168)
+    
+    * Changed lt to ne
+    
+    * Cache prevOwnership.addr
+    
+    * Use storage pointers where applicable
+
+commit de227c2cc0d296c25823bd85d0ba6bc7200ecd49
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sun Mar 13 08:28:54 2022 +0800
+
+    Removed zero address checks (#167)
+
+commit fe89f9d9e34393786dc7e3de9f1a58e0b8f5e578
+Author: Ben Sparks <52714090+BenSparksCode@users.noreply.github.com>
+Date:   Sat Mar 12 22:29:30 2022 +0200
+
+    Removed zero address check on _numberMinted (#160)
+    
+    * Removed zero address check on _numberMinted
+    
+    * Remove MintedQueryForZeroAddress error
+
+commit c9f5a31ac2f59a41549297d9f066f18fa14ed351
+Author: Amirhossein Banavi <ahbanavi@gmail.com>
+Date:   Sat Mar 12 21:12:57 2022 +0330
+
+    Add approvalCheck argument in _burn (#165)
+    
+    * add approvalCheck arg in _burn
+    
+    * remove Context from ERC721ABurnable
+    
+    * add _burn wrapper
+    
+    * add test for burn approvalCheck arg
+    
+    * fix typo
+    
+    * fix line length
+    
+    * fix style!
+
+commit 2fc12184a02cd211fbc6472564ad1d7c0bc07c9f
+Author: 0xkerning <100533178+0xkerning@users.noreply.github.com>
+Date:   Fri Mar 11 12:39:39 2022 -0800
+
+    Add coverage lib to hardhat config + add yarn command (#152)
+    
+    * Add coverage lib to hardhat config + add yarn command
+    
+    * ERC721A uses npm instead of yarn; remove yarn.lock and update npm lock file
+
+commit 9742b1a397b530ad1b82d529a02f0884432ef123
+Author: Anton Cheng <antonassocareer@gmail.com>
+Date:   Thu Mar 10 19:30:39 2022 +0100
+
+    chore: unify internal function style (#161)
+
+commit 8ae0ccd2fdf92a095ab1f64539299a82b6394535
+Author: Nathaniel Potrepka <nspotrepka@gmail.com>
+Date:   Thu Mar 10 08:15:21 2022 -0800
+
+    Remove unused errors (#157) (#158)
+
+commit 47750a177590bc8a8bfb1e694f64e60d85ec22a1
+Author: Slam Token <83141278+slamtoken@users.noreply.github.com>
+Date:   Thu Mar 10 15:42:56 2022 +0300
+
+    Add Jokers to the list (#156)
+
+commit 3024cb930a37307931c27f64350256be74e9ca96
+Author: Khaled Grira <43654020+kakagri@users.noreply.github.com>
+Date:   Thu Mar 10 13:41:34 2022 +0100
+
+    Add Human Divergence (#154)
+    
+    Co-authored-by: Khaled Grira <kh.grira@gmail.com>
+
+commit ab7541944c0a231062430155ee1fc6041c84e147
+Author: Amirhossein Banavi <ahbanavi@gmail.com>
+Date:   Thu Mar 10 14:46:14 2022 +0330
+
+    add approval tests for ERC721ABurnable (#162)
+
+commit 317eaf59f6ff789d0f17cb791df09436f71936f5
+Author: Kirienzo <72258256+KirienzoEth@users.noreply.github.com>
+Date:   Tue Mar 8 13:14:58 2022 +0900
+
+    Marks setApprovalForAll as virtual (#149)
+
+commit 95b49e79ae53bb54059fc63ccf32f7206803bb1d
+Author: bold <2985057+AboldUSER@users.noreply.github.com>
+Date:   Mon Mar 7 19:59:58 2022 -0800
+
+    Add Antonym to projects.md (#153)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit d35a082e78a98740f4122669da466553e70581f4
+Author: TroverseDev <94727897+TroverseDev@users.noreply.github.com>
+Date:   Sun Mar 6 15:21:41 2022 -0800
+
+    Add Troverse to projects.md (#151)
+
+commit e0119d55a4b1b8b9fc36b9a87441b50f07ba691a
+Author: jshatsky22 <65416640+jshatsky22@users.noreply.github.com>
+Date:   Tue Mar 1 23:29:04 2022 -0800
+
+    Update projects.md (#143)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 365bd42242fb43fa088d696918f4934d7c0234a1
+Author: Adilkhan012 <95970222+Adilkhan012@users.noreply.github.com>
+Date:   Wed Mar 2 12:27:45 2022 +0500
+
+    Update projects.md (#142)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 5fab4f496812e479ee6625dc52cc1e960794d8ed
+Author: kyokosdream <95386586+kyokosdream@users.noreply.github.com>
+Date:   Tue Mar 1 23:26:40 2022 -0800
+
+    Add Candy Chain to projects.md (#141)
+    
+    * Add Candy Chain to projects.md
+    
+    Adds Candy Chain to the projects list. Need to confirm with authors if Mumbaiscan url is okay with them. Can omit until we publish an Etherscan mainnet version if they'd like.
+    
+    * Add Etherscan address for Candy Chain Web Platform
+    
+    Responding to requested changes by @cygaar
+
+commit 8e836e5db90c791702b1a6358a20edbb1fb1b8af
+Author: nftley <92637296+nftley@users.noreply.github.com>
+Date:   Sun Feb 27 20:11:05 2022 -0500
+
+    set the travel toucans contract link (#137)
+    
+    Co-authored-by: Michael Wheatley <michael.wheatley@hmbradley.com>
+
+commit 0248b3e939d3373dffb84472546f0bb4ffc531ca
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Sat Feb 26 12:24:59 2022 -0800
+
+    Bump to 3.0.0 (#139)
+
+commit e03a3774699da45b63295cb843ec9152095d1fbc
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sun Feb 27 04:18:46 2022 +0800
+
+    Mint re-entrancy guard with optimizations. (#131)
+    
+    * Added reentrancy guard to _mint
+    
+    * Optimized _mint
+    
+    * Added more optimizations
+    
+    * Added missing isContract check in safeTransferFrom
+    
+    * Moved updatedIndex++ for gas savings
+    
+    * Convert while to do while
+
+commit 6064c6a80c1be008af71e909e8a04526e73e11b1
+Author: Phil <Pczek@users.noreply.github.com>
+Date:   Sat Feb 26 18:29:18 2022 +0100
+
+    Start Sequentially Minting at `_startTokenId()` instead of hardcoded 0 (#66)
+    
+    * replaces currentIndex with _nextTokenId which starts at 1 instead of 0
+    
+    * adapts test to new starting index of 1
+    
+    * makes `ERC721AOwnersExplicit` test work with new starting index
+    
+    * explicitly sets `nextOwnerToExplicitlySet` to 1 because it's initialised with zero
+    
+    * remove vscode files
+    
+    * implements @jpegditials suggestions
+    
+    * adds tests for `tokenByIndex` and `tokenOfOwnerByIndex`
+    
+    * prevents tokenId 0 to be an existing token
+    
+    * adapts `tokenOfOwnerByIndex` for starting token index 1 and making tests for it more elaborate.
+    
+    * renames variable to make it more clear, it's index by the tokenId
+    
+    * adds unchecked scopes to save on gas as suggested by @Vectorized
+    
+    * more gas optimizations by @Vectorized
+    
+    * implements suggested `_startTokenId` function to override to set starting index
+    
+    * minor adaptions to work with _startTokenId() properly
+    
+    * brings back original tests
+    
+    * creates copy of original test with startTokenId set to 1
+    
+    * adapts comment to reflect flexibility of the starting tokenId
+    
+    * adapts solidity version of tests
+    
+    * Replaces revert messages with new contract errors
+    
+    * fix merge hiccup
+    
+    * optimisations to save on gas used during deployment
+    
+    * Added #61
+    
+    * Edited comments
+    
+    * Edited README roadmap
+    
+    * Removed burn test with one-index mock
+    
+    * Changed _startTokenId to _currentIndex
+    
+    * adapting test and mock related to index starting at 1 to make them work with recent changes on `main`
+    
+    * add _totalMinted function
+    
+    * add tests for _totalMinted
+    
+    * removes uint128 cast, simplifies comment and lints file
+    
+    * rename `ERC721AExplicitOwnershipMock` to `ERC721AOwnersExplicitMock` to be aligned with the naming of the contract
+    
+    * extend from already mocked ERC721A versions to dry code.
+    
+    * aligns file naming and contract naming
+    
+    * creates new ERC721A mock which enables the user to specify the startTokenId dynamically
+    
+    * converts ERC721A test to a parameterized test to work with other mocks as well.
+    
+    * extracts Helper contract to it's own file
+    
+    * parameterises ERC721A Explicit Owner Tests to also test a Version of the Contract with a different start token id.
+    
+    * makes it more transparent where the startTokenId value is coming from
+    
+    * creates a ERC721ABurnable Mock with custom startTokenId and uses it in a parameterised test suite testing the burnable extension.
+    
+    * removes code used during development
+    
+    * unifies code style across all tests
+    
+    Co-authored-by: webby1111 <webby1111@hotmail.com>
+    Co-authored-by: Amirhossein Banavi <ahbanavi@gmail.com>
+
+commit 810629da03007920f74402a5d1a50fb2793928c4
+Author: lalanza808 <lalanza808@users.noreply.github.com>
+Date:   Thu Feb 24 23:27:06 2022 -0800
+
+    change contract address of based vitalik (#134)
+    
+    sorry! i had to redeploy the contract to address a bug i found
+
+commit 8fe26898e98dd9708b88c3c66f736f2d929950ee
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Wed Feb 23 15:48:49 2022 -0800
+
+    New maintainer (#133)
+
+commit c7274294cfe6395fd01261e494689d1dc5533c43
+Author: lalanza808 <lalanza808@users.noreply.github.com>
+Date:   Wed Feb 23 08:57:24 2022 -0800
+
+    add BASΞD VITALIK NFT drop by Art101 (#125)
+
+commit 46fac01652c9e4a9afd02e06ab7d89c0e14910b3
+Author: MaxMillions.eth <vasinl124@users.noreply.github.com>
+Date:   Tue Feb 22 18:57:34 2022 -0700
+
+    Add a link to WhaleTogether Etherscan (#128)
+
+commit 9469e10bc84b728587beefaa875c1b285441466f
+Author: Royal Rekt <99953847+royalrekt@users.noreply.github.com>
+Date:   Sat Feb 19 01:18:33 2022 +0800
+
+    Update projects.md (#121)
+
+commit cd8697b194ffac5524160fea46ac15fd31c3617c
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Thu Feb 17 23:29:20 2022 -0800
+
+    Add cereal club contract (#119)
+    
+    * Add cereal club contract
+    
+    * Space
+
+commit a23fe97794c02f3575b2d404d0fd53ab00bc7c42
+Author: Isaiah Grey <isaiah@echobind.com>
+Date:   Thu Feb 17 23:24:06 2022 -0800
+
+    Add Sky Crucible (#118)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit c48dd664c2b8a34f42fffeda71d0a2bd27f66e2d
+Author: bulbasoureth <dchen038@bu.edu>
+Date:   Fri Feb 18 02:22:06 2022 -0500
+
+    update projects.md (#112)
+
+commit e6db8b805ef760e5cc045dc17947f7b1374f0f36
+Author: Mysthereum <99670424+Mysthereum@users.noreply.github.com>
+Date:   Fri Feb 18 08:20:39 2022 +0100
+
+    Update projects.md to add Anim Ape (#105)
+    
+    Anim Ape collection uses ERC721A without Enumarate.sol
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit ddd1197c6def61e320b650bd95882604d10c8da5
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Fri Feb 18 15:04:30 2022 +0800
+
+    Add aux to AddressData (#98)
+    
+    * Added aux for AddressData
+    
+    * Added comments.
+    
+    * Added unit tests for aux
+
+commit cbcd99b354472ec4484f753e0583d4fc86c89843
+Author: William Entriken <github.com@phor.net>
+Date:   Wed Feb 16 12:03:18 2022 -0500
+
+    Remove tokenOfOwnerByIndex (#107)
+    
+    * Remove tokenOfOwnerByIndex
+    
+    * Drop tokenByIndex
+    
+    * Remove tokenByIndex test
+    
+    * ERC-165 stop advertising ERC721Enumerable
+
+commit f3205a76816fc6fed1a0090d9be5d34b30bb1485
+Author: Capsule Machine <99637032+CapsuleMachine@users.noreply.github.com>
+Date:   Tue Feb 15 09:16:35 2022 -0800
+
+    Update projects.md to add Capsule Machine NFT (#100)
+    
+    * Update projects.md
+    
+    * Update projects.md
+
+commit d222591a75f2d487cf4349e3f905aac053e0b04c
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Wed Feb 16 00:55:49 2022 +0800
+
+    Changed comments to reflect #109 (#111)
+
+commit 7589d1e5f433b4944c3e5a34d298fb5ae8f0ba0c
+Author: Jeff Mixon <jeff.mixon@gmail.com>
+Date:   Mon Feb 14 20:39:52 2022 -0800
+
+    docs: update knitkins project with etherscan link (#99)
+
+commit 8d32277ae094b99ef39d6714b8685ee02c89e9ba
+Author: William Entriken <github.com@phor.net>
+Date:   Mon Feb 14 23:38:09 2022 -0500
+
+    Overoptimization is the root of all evil (#109)
+
+commit c51a51e43c85f3f835658ac15f2036dbe6ed2560
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Sat Feb 12 10:05:07 2022 -0800
+
+    Version 2.2.0 (#96)
+
+commit c1a8c3d560f40b2acb04eaec85608b9b68a80637
+Author: Zeng Xian <themezeng@gmail.com>
+Date:   Sun Feb 13 00:41:13 2022 +0800
+
+    Fix context name and method called not coincident. (#95)
+    
+    * Fix context name and method called not coincident.
+    
+    * Fix safeMintTen case description
+
+commit 4d3ddf4c37ea2adb212713afb7fb30de5c265726
+Author: Natalie Meurer <natalie.a.meurer@gmail.com>
+Date:   Sat Feb 12 08:40:56 2022 -0800
+
+    Add Probably Something to implementing projects (#94)
+
+commit fb226210dd26696288c705a63a31649f86e51138
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sun Feb 13 00:38:58 2022 +0800
+
+    Added burn functionality (#61)
+    
+    * Added burn functionality.
+    
+    * Changed _initOneIndexed
+    
+    * Moved burn function into ERC721ABurnable
+    
+    * Moved burn function into ERC721ABurnable
+    
+    * Remove redundant burn check in ownershipOf
+    
+    * Optimized ownershipOf
+    
+    * Removed aux from AddressData for future PR
+    
+    * Packed currentIndex and totalBurned for gas savings
+    
+    * Added gas optimizations
+    
+    * Added gas optimizations
+    
+    * Added requested changes
+    
+    * Edited comments.
+    
+    * Renamed totalBurned to burnedCounter
+    
+    * Renamed to burnCounter
+    
+    * Updated comments.
+    
+    * Mark transferFrom/safeTransferFrom virtual
+    
+    * Mark transferFrom/safeTransferFrom virtual
+    
+    * Updated comments.
+    
+    * Tidy up tests
+    
+    * Inlined _exists for _burn and _transfer.
+    
+    * Merged custom errors
+    
+    * Merged custom errors
+    
+    * Fixed missing change from #59
+    
+    * Gas optimization
+    
+    * update specs for _beforeTokenTransfers and _afterTokenTransfers hooks
+    
+    * Added #84
+    
+    * Added #87
+    
+    * Added #85
+    
+    * Added #89
+    
+    * Added comments on packing _currentIndex and _burnCounter
+    
+    * Removed overflow check for updatedIndex
+    
+    * Added requested test changes
+    
+    * Removed unused variable in burn test
+    
+    * Removed unused variable in burn test
+    
+    Co-authored-by: Amirhossein Banavi <ahbanavi@gmail.com>
+
+commit d886d4d3911bf2f0aee1d725014859286be78cb5
+Author: Vectorized <webby1111@hotmail.com>
+Date:   Sat Feb 12 08:55:26 2022 +0800
+
+    Optimize approval check (#89)
+    
+    * Optimize approval check
+    
+    * Optimize approval check
+
+commit f79191f4effc4aa3a8a084e3dac9ce45e2c9530a
+Author: William Entriken <github.com@phor.net>
+Date:   Thu Feb 10 01:12:15 2022 -0500
+
+    Unsigned numbers cannot be less than zero (#87)
+
+commit f79f1773c7756643ef58aa61e1faa59747f28fec
+Author: William Entriken <github.com@phor.net>
+Date:   Wed Feb 9 20:25:08 2022 -0500
+
+    The great correcting, thanks @syffs (#88)
+
+commit fefdc89bde725ef1c38954d6cad4fd1b10f002fa
+Author: Gabriel Cebrian <gabceb@gmail.com>
+Date:   Wed Feb 9 11:51:28 2022 -0500
+
+    Added Meta Angels NFT to the list of projects (#82)
+
+commit 41d7c71a482ff46b58198b2ca4f80f183729057c
+Author: William Entriken <github.com@phor.net>
+Date:   Wed Feb 9 11:41:09 2022 -0500
+
+    stytle underbar like other internal variables (#84)
+
+commit 430da07df76a7d9c2202ee51b9773fa4149ae763
+Author: William Entriken <github.com@phor.net>
+Date:   Wed Feb 9 11:38:46 2022 -0500
+
+    Assert on failure (#85)
+
+commit 7b3038e294253e75b4878a530c8c9a8ec293f0a8
+Author: J <0xd1699002d9548DCA840268ba1bd1afa27E0ba62d@ethmail.cc>
+Date:   Tue Feb 8 05:17:49 2022 +0100
+
+    feature: use custom errors (#73)
+    
+    * feat: use custom errors
+    
+    Starting from Solidity [v0.8.4](https://blog.soliditylang.org/2021/04/21/custom-errors/), there is a convenient and gas-efficient way to explain to users why an operation failed through the use of custom errors. This way is less expensive, especially when it comes to deploy cost, than passing a string to require or assert.
+    
+    * docs: bump pragma requirement to 0.8.4
+
+commit 3b613078b745dfccb5a4e2704ac3cd59e6721d87
+Author: Jeff Mixon <jeff.mixon@gmail.com>
+Date:   Mon Feb 7 18:09:23 2022 -0800
+
+    docs: add knitkins project (#79)
+
+commit 3e17aefc59ecdee950946a3c2c294f41c7e7b108
+Author: J <0xd1699002d9548DCA840268ba1bd1afa27E0ba62d@ethmail.cc>
+Date:   Tue Feb 8 03:08:19 2022 +0100
+
+    docs: fix the commands to run tests (#74)
+
+commit a48475063b4504284c884db32c58d860dd844b80
+Author: David Long <longda@users.noreply.github.com>
+Date:   Sun Feb 6 17:31:53 2022 -0800
+
+    Add Turf to project list (#77)
+
+commit ad97905978301f91feab24ef546aa2138eb4b44a
+Author: 0xh3x <giorgi.jvaridze@gmail.com>
+Date:   Sat Feb 5 21:19:39 2022 +0400
+
+    Add DASK to the project list (#76)
+    
+    The Dead Army Skeleton Klub have used ERC721a for the contract. Please consider adding it to the project list. Thanks for the awesome work. Cheers.
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 74390626841edf011e9b54075fe84b1464449880
+Author: J <jonathan.giamporcaro@gmail.com>
+Date:   Sat Feb 5 18:17:31 2022 +0100
+
+    feat: mark transferFrom/safeTransferFrom virtual (#75)
+    
+    That allows contracts to override the functions.
+
+commit ab96563def53bb99dc1df858ff1ae30952a677d2
+Author: Nathan D'Souza <85251596+nathandsouza10@users.noreply.github.com>
+Date:   Sat Feb 5 17:09:21 2022 +0000
+
+    Add ClassyDogs (#72)
+    
+    We are very excited to have embedded the implementation of ERC721a into our smart contract, the team at ClassyDogs hope that you consider listing our project!
+
+commit d94b4f1d0709bdd75755c6acd629a12b60c0c037
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Thu Feb 3 23:35:28 2022 -0800
+
+    Version 2.1.0 (#71)
+    
+    * Version 2.1.0
+    
+    * Update roadmap
+
+commit d45e03d227e4d9b9e345edcb6864fa916cc05255
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Thu Feb 3 21:50:46 2022 -0800
+
+    Add scripts for explicitly testing gas usage (#70)
+    
+    * Add scripts for explicitly testing gas usage
+    
+    * Remove unused imports
+
+commit a7f438c41c381e73999666c796bcbce576536f28
+Author: Ben Bk <35254747+BenBktech@users.noreply.github.com>
+Date:   Thu Feb 3 08:25:22 2022 +0100
+
+    Update projects.md (#65)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 6d9d8b66e2213a07ff23a7fc5512ecc7286d290b
+Author: sunya-collective <97649173+sunya-collective@users.noreply.github.com>
+Date:   Wed Feb 2 15:25:24 2022 -0500
+
+    Update projects.md with Sunya (#67)
+
+commit e56cb1a343b3a7a9fb8d214a26205909844d8f44
+Author: Terence Pae <terencepae@gmail.com>
+Date:   Wed Feb 2 12:20:32 2022 -0800
+
+    Added Super Geisha project, launched with ERC721A (#63)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 11291663207e5679480204b4f1f3365e249bc868
+Author: Daniel <57450786+DaniPopes@users.noreply.github.com>
+Date:   Wed Feb 2 08:41:45 2022 +0100
+
+    Add gas optimizations (#59)
+    
+    * remove _exists require in _safeMint
+    
+    * add new and extend existing unchecked blocks
+    
+    * un-initialize variables
+    [source:](https://medium.com/coinmonks/gas-optimization-in-solidity-part-i-variables-9d5775e43dde)
+    > Initialization
+    > Every variable assignment in Solidity costs gas. When initializing variables, we often waste gas by assigning default values that will never be used.
+    > uint256 value; is cheaper than uint256 value = 0;.
+    
+    * change gt(0) to not(0)
+    
+    * apply changes to ERC721AOwnersExplicit
+    
+    * use local nextOwner variable
+    
+    * compact variables
+    
+    * fix comments
+    
+    * add unchecked block to ownershipOf
+    
+    * syntax
+    
+    * syntax
+    
+    * Revert "syntax"
+    
+    This reverts commit 9fa3559fba7159f7127a25d7b9644f471e14306e.
+    
+    * syntax
+    
+    * fix merge
+
+commit 58ad91502603f54c9ce16af21cbdb1fa2c3921e0
+Author: Carol Xie <46916271+carol-x@users.noreply.github.com>
+Date:   Tue Feb 1 20:49:20 2022 -0800
+
+    Update projects.md (#64)
+    
+    Adding Huhu as a new project that uses ERC721A implementation.
+
+commit 2895ad17f39ec5525dad80584fc1bc7121796808
+Author: nftley <92637296+nftley@users.noreply.github.com>
+Date:   Tue Feb 1 11:28:06 2022 -0500
+
+    add travel toucans project (#58)
+    
+    Co-authored-by: Michael Wheatley <michael.wheatley@hmbradley.com>
+
+commit 3a49443e1b76dc3e491b802c73cbcd4fc494de5d
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Mon Jan 31 23:12:18 2022 -0800
+
+    Add _mint function (#60)
+    
+    * Add _mint function
+    
+    * Add tests
+    
+    * Rename
+    
+    * Refactor to one _mint function
+    
+    * Update natspec
+
+commit 3525b97964a2f74969c5fbf1863c96dcb70964f9
+Author: Dan Ξ <danandreist@gmail.com>
+Date:   Tue Feb 1 03:52:32 2022 +0200
+
+    Update ERC721AMock.sol (#57)
+    
+    remove reentrancyguard since it's not used
+
+commit 9e8e945536ba08fa74af92b61aac1ad6cd909cb9
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Mon Jan 31 17:25:08 2022 -0800
+
+    Women of Crypto addition
+
+commit deb049f97c630faf19f1706074beaf6feee8b5c3
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Mon Jan 31 12:45:13 2022 -0800
+
+    Clarifying tradeoff of having a large batch size (#56)
+
+commit db461507007bc50419cb542932fa6fa6fee6b6f5
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Sun Jan 30 22:40:45 2022 -0800
+
+    Fix format
+
+commit efcb71b658da06a377362e3053cf548c78b5edaa
+Author: Daniel <57450786+DaniPopes@users.noreply.github.com>
+Date:   Mon Jan 31 07:36:51 2022 +0100
+
+    Assigning values to structs individually instead of a single assignment (#54)
+    
+    * mint gas optimization
+    
+    * mint gas optimization
+    
+    * transfer gas optimization
+    
+    * ERC721AOwnersExplicit gas optimization
+    
+    Co-authored-by: DaniPopes <contact@danipopes.com>
+
+commit 1db59764bc3c2293a92a2fd0b8546c585650b3b2
+Author: Dan Ξ <danandreist@gmail.com>
+Date:   Mon Jan 31 08:31:50 2022 +0200
+
+    Update projects.md (#55)
+
+commit b12c07b121fc95b979f650451b709c3e588ace2c
+Author: shaki <97000971+shakiXBT@users.noreply.github.com>
+Date:   Sun Jan 30 18:59:19 2022 +0100
+
+    Update readme example (#48)
+    
+    ERC721A inherited constructor for the example Azuki contract requires only 2 arguments since the argument "uint256 maxBatchSize_" has been removed.
+
+commit aaffbb44bdda3f8c6792dd5288ed51b2da99af8f
+Author: MissMetaverse <93227077+MissMetaverseNFT@users.noreply.github.com>
+Date:   Sun Jan 30 12:59:06 2022 -0500
+
+    added Miss Metaverse Etherscan link (#47)
+
+commit 707a27ea0e3e931c606887beec3e378d52d1698a
+Author: Tom Lehman <tom.s.lehman@gmail.com>
+Date:   Sun Jan 30 12:58:15 2022 -0500
+
+    Fix comment re: max value of uint128 (#51)
+
+commit e331aa9173d2c4dc14caa81542eb5ea14326ea1c
+Author: Amirhossein Banavi <ah.banavi@gmail.com>
+Date:   Sun Jan 30 21:28:09 2022 +0330
+
+    update _safeMint comment (#49)
+    
+    * update _safeMint comment
+    
+    * fix grammar in quantity error message
+
+commit 5bf53d917fcaef66f55117bcf5d16767061d615d
+Author: BernardNakamoto <97878042+BernardNakamoto@users.noreply.github.com>
+Date:   Sun Jan 30 09:57:05 2022 -0800
+
+    Removed batchSize from README (#43)
+
+commit 2e97508858ee348fbac38b1cead307fd1b02490b
+Author: Dan Ξ <danandreist@gmail.com>
+Date:   Sun Jan 30 19:54:49 2022 +0200
+
+    Add testGas command (#44)
+    
+    * Update hardhat.config.js
+    
+    * Update package.json
+
+commit df11252c35c9da70c4dc103343a177e550b45375
+Author: ladygacha <ladygacha@protonmail.com>
+Date:   Sat Jan 29 17:21:49 2022 +0800
+
+    add richsadcat (#42)
+
+commit e062e60958e195f92558a5d9fa0f049f4e88dc58
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Sat Jan 29 00:15:57 2022 -0800
+
+    Adding a couple other 721A projects (#41)
+
+commit 09accbd74b37237b9524ca4378ce6685b6156b19
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Fri Jan 28 17:10:21 2022 -0800
+
+    2.0.0 (#39)
+
+commit 3e1b7defa66eab4f16975b489c213bea3c66e6dd
+Author: kurt willis <38631399+willisk@users.noreply.github.com>
+Date:   Sat Jan 29 02:06:34 2022 +0100
+
+    remove batchSize (#28)
+    
+    Co-authored-by: willisk <kurtwillis@live.com>
+
+commit cda1a5a9c3f923850eebb6555ace6106919d9a1d
+Author: kurt willis <38631399+willisk@users.noreply.github.com>
+Date:   Fri Jan 28 05:40:08 2022 +0100
+
+    add require quantity > 0 in _safeMint() (#27)
+    
+    * add require > 0 in _mint()
+    
+    * added test, prettier formatting
+    
+    Co-authored-by: willisk <kurtwillis@live.com>
+
+commit 4d0abd0245a5d6dff3f4e125073978b4022c8b86
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Thu Jan 27 12:51:10 2022 -0800
+
+    Move _setOwnersExplicit to separate extension  (#34)
+
+commit 3335b3345b6ebfacb0b398be1952094d0570688b
+Author: David Lee <juhyunglee1435@gmail.com>
+Date:   Thu Jan 27 10:52:44 2022 -0800
+
+    Save some gas with an unchecked block on transfer (#35)
+    
+    * Save some gas with an unchecked block on transfer
+    
+    * Code review: add comment to clarify max balance assumption
+
+commit 0dfaaae9aa2e80c67312af93e96a812177a1c3da
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Thu Jan 27 08:38:30 2022 -0800
+
+    Update prettier settings (#36)
+
+commit 65c22f0de9678abf070741fe0e09849d56e4c25a
+Author: MissMetaverse <93227077+MissMetaverseNFT@users.noreply.github.com>
+Date:   Tue Jan 25 20:43:28 2022 -0500
+
+    added Miss Metaverse (#30)
+    
+    * added Miss Metaverse
+    
+    Miss Metaverse will use ERC721A in their project. See (https://rinkeby.etherscan.io/address/0x78c31BEBDe7573C7AC9dD1bF064Ae690Ad3B36Cf#code) for Rinkbey test contract.
+    
+    * Update projects.md
+    
+    * Update projects.md
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 42ca6c98ad59195461cf7e6fc1e60bd0c7e335a5
+Author: alexfritzy <35746554+alexfritzy@users.noreply.github.com>
+Date:   Tue Jan 25 13:25:49 2022 -0700
+
+    Add Pixel Piracy Etherscan link (#32)
+    
+    * Add Pixel Piracy to projects list
+    
+    * Add Pixel Piracy Etherscan link
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 97a043e28223bd36841f37c29c194676320dcb8f
+Author: Thorne <ExistentialEnso@users.noreply.github.com>
+Date:   Mon Jan 24 23:05:14 2022 -0500
+
+    Add DASDUK! (#26)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit 7811c27156207190e60e03f9482b070ebb462acf
+Author: alexfritzy <35746554+alexfritzy@users.noreply.github.com>
+Date:   Mon Jan 24 21:00:14 2022 -0700
+
+    Add Pixel Piracy to projects list (#24)
+    
+    Co-authored-by: cygaar <97691933+cygaar@users.noreply.github.com>
+
+commit b510f8daab5d305f9ae054c373387d7deb376208
+Author: MaxMillions.eth <vasinl124@users.noreply.github.com>
+Date:   Mon Jan 24 20:53:02 2022 -0700
+
+    Adding WhaleTogether (#22)
+    
+    * Adding WhaleTogether
+    
+    * Removed Discord
+
+commit 6f776c6c987a98b9ac73662b6af4601b13d6035d
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Sun Jan 23 22:08:31 2022 -0800
+
+    Fix hardhat config solidity version (#23)
+
+commit b0a1a9c9ba7d8fe3a03c652239b27aaf8ab6db5a
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Sun Jan 23 16:42:23 2022 -0800
+
+    Add projects list (#20)
+    
+    * Add projects list
+    
+    * Update projects.md
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+    
+    * Update projects.md
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+    
+    * Update projects.md
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+    
+    * Update projects.md
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+    
+    * Update projects.md
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+    
+    * Update projects.md
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+    
+    Co-authored-by: Julien Tielemans <julien.tiel@gmail.com>
+
+commit c7e9771be2817fb34b241812cf9b5e9a93900977
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Sat Jan 22 21:45:03 2022 -0800
+
+    Remove duplicate blurb in README (#17)
+
+commit 0fd77d4357b760bf896787c60dc42d1372aac057
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Sat Jan 22 09:46:35 2022 -0800
+
+    Remove test dependency on expectRevert (#14)
+    
+    Fixed tests in GitHub actions
+
+commit 34529dc10668181280f3961a8626973c39ef9988
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Fri Jan 21 23:55:34 2022 -0800
+
+    Fix release trigger (#13)
+
+commit 67b63d5197d753f01bd2cf60a6f4ce560c84ce94
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Fri Jan 21 23:45:03 2022 -0800
+
+    Update version to 1.0.0 (#11)
+
+commit 67151de5e0f611295408b5a2a99fb3eb54df5309
+Author: cygaar <97691933+cygaar@users.noreply.github.com>
+Date:   Fri Jan 21 23:39:12 2022 -0800
+
+    Add GitHub actions (#10)
+    
+    * Add github workflows
+
+commit 5f6c5814bcdb286ce9469390d9c2c50fcf77fbc8
+Merge: 9e92a62 fc8b798
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Fri Jan 21 22:53:50 2022 -0800
+
+    Merge pull request #9 from chiru-labs/fix_readme
+    
+    Fix README license badge and spacing
+
+commit fc8b798b0fc9160ebec9aecd146fa5fcd606c1b3
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Fri Jan 21 22:42:18 2022 -0800
+
+    Fix readme license badge
+
+commit 9e92a6230907417c2cc52b1b15ec94ded7621397
+Merge: 00f5058 ef8a245
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Fri Jan 21 22:32:46 2022 -0800
+
+    Merge pull request #8 from cygaar/version2
+    
+    Setup repository groundwork
+
+commit ef8a2459be95b221b5dcdbfc2cfd45eaba891f99
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Fri Jan 21 22:20:41 2022 -0800
+
+    Add ci pipeline to roadmap
+
+commit be1e9b7eadd721866cb5c51141521a6cde0fc1be
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Fri Jan 21 22:11:53 2022 -0800
+
+    tweak readme
+
+commit f8d3888e4425aad657a7b2632fa1c16f31949837
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Fri Jan 21 22:09:03 2022 -0800
+
+    tweaks (#2)
+    
+    Co-authored-by: 2pmflow <2pmflow@chirulabs.com>
+
+commit 297c40dab6c9dd031a007848061c52a39daca547
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Wed Jan 19 22:45:37 2022 -0800
+
+    Remove unused links
+
+commit 09392d383c669713d4b3c4c57fe57dd5ece3f793
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Wed Jan 19 22:42:02 2022 -0800
+
+    Formatting
+
+commit b2adc466ac77b04c48ba9ec8460d330b6da64826
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Wed Jan 19 22:40:49 2022 -0800
+
+    Add readme
+
+commit a758fcf10e4fd69f1e2789b09e35a5a1829c1e10
+Author: cygaar <tmpftl1@gmail.com>
+Date:   Tue Jan 18 23:25:13 2022 -0800
+
+    Add eslint
+
+commit d53f5508d7a0975026c683b2aab62a83175ca90a
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Mon Jan 17 21:35:24 2022 -0800
+
+    Add gas reporter to hardhat config
+
+commit 287e2faf1e5cbdf30187aca5db97ab25032fdf53
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Mon Jan 17 20:29:46 2022 -0800
+
+    cleanup
+
+commit 5575710d2dd4bc588af48311f865950457e59bdb
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Mon Jan 17 19:10:08 2022 -0800
+
+    Add prettier
+
+commit a7c3fea2c76e75fe5e7edccfe8913d7d0d693f05
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Mon Jan 17 11:16:32 2022 -0800
+
+    Add more mint tests
+
+commit d9735b438c8f2f585377fb27b4e17f017c03cc6c
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Mon Jan 17 10:55:06 2022 -0800
+
+    Add receiver mocks
+
+commit cc18c2be99c57b6874e893c42260c52c225f53ed
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sun Jan 16 21:29:15 2022 -0800
+
+    Begin adding mint tests
+
+commit a5a8a235ec1720d23d4ab5f1aead239cd428fecf
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sun Jan 16 21:08:15 2022 -0800
+
+    Better grouping
+
+commit 23f5f599fa470fd8d7bca6245e12b36848341bbb
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sun Jan 16 20:31:57 2022 -0800
+
+    Finish transfer tests
+
+commit 3dc2d06a6ff212fe9713d4adfb4457a8d093695e
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sun Jan 16 18:21:51 2022 -0800
+
+    Fix transfers test
+
+commit ec8bcd9dd34b7140be6c0ee76ae84d8e24571608
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sun Jan 16 15:30:20 2022 -0800
+
+    Save
+
+commit 80971d81716b8d06124dc123e64ff7f2d409a628
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sun Jan 16 11:52:43 2022 -0800
+
+    Add set approval for all tests
+
+commit 36f97846b9e2ef4f858acfa98e91a631bae88f81
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Sat Jan 15 10:32:55 2022 -0800
+
+    Add tests for approve()
+
+commit 94304a5e7d4d8bd16c255eb176aee6fbef07e10f
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Fri Jan 14 17:23:54 2022 -0800
+
+    Add tests for numberMinted and ownerOf
+
+commit 3941f5c630f610b3cd32f4561c4ebc41bb069bb8
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Fri Jan 14 15:59:40 2022 -0800
+
+    Add simple tests
+
+commit 5821cee0bf758a6a1a26bf22c2e34a6b38442735
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Thu Jan 13 21:57:03 2022 -0800
+
+    Add erc721a mock
+
+commit 1de75f395ca717971dda41976db1f74c0c895c41
+Author: cygaar <tommypackerys@gmail.com>
+Date:   Wed Jan 12 21:40:50 2022 -0800
+
+    Begin v2 of repo
+
+commit 00f50587262a5d415303c36756fb0ef5e217c5ec
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Wed Jan 12 10:55:50 2022 -0800
+
+    Add creators
+
+commit 9c15e62c893950e4c3eb36741e7d44c4a949fdce
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Tue Jan 11 11:34:39 2022 -0800
+
+    Remove assumption about capped collection size
+
+commit 7a506b17186ff92375daac9bbb2834ff666da10b
+Author: chiru-labs <97553186+chiru-labs@users.noreply.github.com>
+Date:   Tue Jan 11 11:24:09 2022 -0800
+
+    Initial
+    
+    The version used in Azuki (https://etherscan.io/address/0xed5af388653567af2f388e6224dc7c4b3241c544)

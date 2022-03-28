@@ -1,0 +1,2065 @@
+commit b2ec14600f44553f10146a6fe3dc8291cb154685
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 28 00:24:00 2022 +0000
+
+    Bump typescript from 4.6.2 to 4.6.3 (#137)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.6.2 to 4.6.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.6.2...v4.6.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit e8963a0d0043a2b7f4a5b1123d9d16e02d3c358f
+Author: Zhao Wang <zhaow-de@users.noreply.github.com>
+Date:   Mon Mar 21 15:26:48 2022 +0100
+
+    added support for http.ServerResponse.writableEnded (#135)
+
+commit 0e4096a434211768554609e123e29cc56ef03abe
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 7 00:38:08 2022 +0000
+
+    Bump typescript from 4.5.5 to 4.6.2 (#134)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.5 to 4.6.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.5.5...v4.6.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 57c5fc45f683438de0b408b63a7a2a878dc431ae
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 7 00:36:34 2022 +0000
+
+    Bump tap from 15.2.3 to 16.0.0 (#133)
+    
+    Bumps [tap](https://github.com/tapjs/node-tap) from 15.2.3 to 16.0.0.
+    - [Release notes](https://github.com/tapjs/node-tap/releases)
+    - [Commits](https://github.com/tapjs/node-tap/compare/v15.2.3...v16.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tap
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 66f19e6fbbc703326f2ade7d8b44598e449150bb
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Mar 1 00:05:18 2022 +0000
+
+    Bump actions/setup-node from 2 to 3 (#132)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2 to 3.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2...v3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit c4492182cddca5d4d8505607b67b4c4d5bef70a1
+Author: Kailas Mahavarkar <66670953+KailasMahavarkar@users.noreply.github.com>
+Date:   Fri Feb 4 13:11:58 2022 +0530
+
+    Update README.md (#131)
+
+commit 15f7a34f7bcbfc23c57ee3d0285ad3326e1c1095
+Author: Frazer Smith <frazer.dev@outlook.com>
+Date:   Thu Jan 27 09:29:36 2022 +0000
+
+    Update dependabot.yml (#130)
+
+commit 04e9d66b7b336f0ed0b890a917683bb92c61b937
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jan 21 00:30:26 2022 +0000
+
+    Bump typescript from 4.5.4 to 4.5.5 (#129)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.4 to 4.5.5.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.5.4...v4.5.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit ffdc505a4fdd2230121433a4d7ce36c5196e77f0
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Jan 19 18:23:54 2022 +0100
+
+    Bumped v6.0.0
+    
+    Signed-off-by: Matteo Collina <hello@matteocollina.com>
+
+commit e485e5db271453a7d88954169ed6de4f84e3a1d6
+Author: Drew McMillan <drew@mcmill.co.uk>
+Date:   Wed Jan 19 17:21:22 2022 +0000
+
+    Allow access to the body and query (#128)
+    
+    * Allow access to the body and query
+    
+    * Add code unit tests and update readme
+    
+    * Add a simple type test
+    
+    * Add type test for body and query
+    
+    * Fix typo
+    
+    * Update readme link
+
+commit 6f857aec88015d6b89bc4081419995484f50f23d
+Author: Drew McMillan <drew@mcmill.co.uk>
+Date:   Tue Jan 11 16:55:55 2022 +0000
+
+    Add typescript types for supporting hooking middie in multiple hooks (#127)
+    
+    * Add typescript types for supporting hooking middie in multiple hooks
+    
+    * Add a type test
+
+commit 2e52e79c00a901d44183dcb74930a0d91cdd90dd
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 3 00:48:22 2022 +0000
+
+    Bump helmet from 4.6.0 to 5.0.0 (#126)
+    
+    Bumps [helmet](https://github.com/helmetjs/helmet) from 4.6.0 to 5.0.0.
+    - [Release notes](https://github.com/helmetjs/helmet/releases)
+    - [Changelog](https://github.com/helmetjs/helmet/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/helmetjs/helmet/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: helmet
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 02db3932f8ea97aa4845ed61818d9e61cae428a4
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Thu Dec 23 14:53:51 2021 +0100
+
+    Bumped v5.4.0
+
+commit bffc3d59f7f57608d140dfd99ef2f7e90c46707d
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Thu Dec 23 14:53:26 2021 +0100
+
+    Support hooking middie in multiple hooks (#125)
+
+commit 1c2b9fed5332e5c98e04f96e477ff91c7f1890fe
+Author: Manuel Spigolon <behemoth89@gmail.com>
+Date:   Sat Dec 18 12:33:37 2021 +0100
+
+    chore: upgrade github-action-merge-dependabot to v3 (#123)
+
+commit 5b22b3f05d45bced15c17371689208763e3f2d5b
+Author: Manuel Spigolon <behemoth89@gmail.com>
+Date:   Sat Dec 18 11:54:46 2021 +0100
+
+    chore: upgrade github-action-merge-dependabot to v3 (#122)
+
+commit 30c64e01b339ae157aae166d32a5bc6e458cf417
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Dec 16 00:27:02 2021 +0000
+
+    Bump @types/node from 16.11.14 to 17.0.0 (#121)
+    
+    Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 16.11.14 to 17.0.0.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/node"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 070ebc18d21511cd57d360d575b99a29d1ab5f5d
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Dec 14 00:21:24 2021 +0000
+
+    Bump typescript from 4.5.3 to 4.5.4 (#119)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.3 to 4.5.4.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.5.3...v4.5.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 090dbc4920ec767181dea78355217257d4c672d1
+Author: Frazer Smith <frazer.dev@outlook.com>
+Date:   Sun Dec 12 14:09:03 2021 +0000
+
+    build(dependabot): ignore minor and patch github-actions updates (#112)
+
+commit 5d815e267ae61faee668bf840c4ed4500f8b15d5
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Dec 10 00:16:34 2021 +0000
+
+    Bump typescript from 4.5.2 to 4.5.3 (#117)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.5.2 to 4.5.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 8542bec0f6679cb7890f3bbfc8dc6e9be28e25d6
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Dec 9 00:20:12 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.7.0 to 2.7.1 (#116)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.7.0 to 2.7.1.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.7.0...v2.7.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit e214b72b4976d4363497f4bcfb1b53c87dca8199
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Dec 1 00:23:51 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.6.0 to 2.7.0 (#115)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.6.0 to 2.7.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.6.0...v2.7.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 7643e9fa79fcb306061486ec13c3cd5282ac398b
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Nov 30 00:29:29 2021 +0000
+
+    Bump actions/setup-node from 2.4.1 to 2.5.0 (#114)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.4.1 to 2.5.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.4.1...v2.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 33065d3ec0b7a82ef48a7ce5cb52e2296913ce82
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Nov 19 00:28:02 2021 +0000
+
+    Bump tsd from 0.18.0 to 0.19.0 (#110)
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.18.0 to 0.19.0.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.18.0...v0.19.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tsd
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 006af579dba64a6701d7742b7a51653257a0b121
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Nov 19 00:22:24 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.5.0 to 2.6.0 (#109)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.5.0 to 2.6.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.5.0...v2.6.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 535136869145ed7bcbfac6c4543b26c8f34c44dd
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Nov 18 00:24:50 2021 +0000
+
+    Bump typescript from 4.4.4 to 4.5.2 (#108)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.4.4 to 4.5.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.4.4...v4.5.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 566e3e325b2140448e810dac05f2fba3026ef391
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Nov 3 00:24:46 2021 +0000
+
+    Bump actions/checkout from 2.3.5 to 2.4.0 (#107)
+    
+    Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.5 to 2.4.0.
+    - [Release notes](https://github.com/actions/checkout/releases)
+    - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/checkout/compare/v2.3.5...v2.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/checkout
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 214ba5228fa44c0c91374b3cbfddedf6a1315f9c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Oct 18 00:47:21 2021 +0000
+
+    Bump actions/checkout from 2.3.4 to 2.3.5 (#106)
+    
+    Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.4 to 2.3.5.
+    - [Release notes](https://github.com/actions/checkout/releases)
+    - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/checkout/compare/v2.3.4...v2.3.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/checkout
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 7a37009124776d15b394a1b3ecd6b42faceca1db
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Oct 13 00:23:27 2021 +0000
+
+    Bump typescript from 4.4.3 to 4.4.4 (#105)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.4.3 to 4.4.4.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.4.3...v4.4.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 414fa6dbef63099a656aa37111734d852bb5dcf1
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Oct 13 00:12:53 2021 +0000
+
+    Bump tsd from 0.17.0 to 0.18.0 (#104)
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.17.0 to 0.18.0.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.17.0...v0.18.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tsd
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 051212aa5b3faaebfd247459783937cf9a36d65a
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Sep 28 00:12:08 2021 +0000
+
+    Bump actions/setup-node from 2.4.0 to 2.4.1 (#103)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.4.0 to 2.4.1.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.4.0...v2.4.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit ce596572c56f28e73d26fdbb2f788e74374cf1ce
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Sep 21 00:13:31 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.4.0 to 2.5.0 (#102)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.4.0 to 2.5.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.4.0...v2.5.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit e0cdee133a3f6e9658acd438ef325bc3a2e6ceb2
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Sep 13 00:53:20 2021 +0000
+
+    Bump typescript from 4.4.2 to 4.4.3 (#101)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.4.2 to 4.4.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.4.2...v4.4.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 1fe0a32fb123eb2ec4b5f632beb69b679d3bfa8d
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Aug 27 00:13:22 2021 +0000
+
+    Bump typescript from 4.3.5 to 4.4.2 (#99)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.3.5 to 4.4.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.3.5...v4.4.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 1b12032a135644a300c1d14e19b16b9515312e26
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Aug 11 00:15:28 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.3.0 to 2.4.0 (#98)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.3.0 to 2.4.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.3.0...v2.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit e680a99907d86f2817554e3a8e51e6b73019545e
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 10 00:12:43 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.2.0 to 2.3.0 (#97)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.2.0 to 2.3.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.2.0...v2.3.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 738bba51d129a2d4bb801dde70974c79e818fe20
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Aug 6 00:21:23 2021 +0000
+
+    Bump actions/setup-node from 2.3.2 to 2.4.0 (#96)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.3.2 to 2.4.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.3.2...v2.4.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 10c93a35c4cd6fad8acae1d09b3b45b85b5bd856
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Aug 5 00:11:00 2021 +0000
+
+    Bump actions/setup-node from 2.3.1 to 2.3.2 (#95)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.3.1 to 2.3.2.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.3.1...v2.3.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 4690715b0079080fd2965d269dcf91061a17da52
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Aug 4 00:13:41 2021 +0000
+
+    Bump actions/setup-node from 2.3.0 to 2.3.1 (#94)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.3.0 to 2.3.1.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.3.0...v2.3.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 3c0048e0804f2c4e3bfeb3da0f972d7962c9c223
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Jul 21 00:20:17 2021 +0000
+
+    Bump actions/setup-node from 2.2.0 to 2.3.0 (#93)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.2.0 to 2.3.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.2.0...v2.3.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit b3d4ef14248927ecad71f328bda9d858c69c47cf
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 5 01:01:06 2021 +0000
+
+    Bump @types/node from 15.14.1 to 16.0.0 (#92)
+    
+    Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 15.14.1 to 16.0.0.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: "@types/node"
+      dependency-type: direct:development
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 9794e85aa6d8447e20d03a6dc9d0e1a22af1b464
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 5 00:56:53 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.1.1 to 2.2.0 (#91)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.1.1 to 2.2.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.1.1...v2.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: fastify/github-action-merge-dependabot
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 15cd82134e5d1423c78b69cf3eac8aad32aa791b
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 1 00:28:09 2021 +0000
+
+    Bump typescript from 4.3.4 to 4.3.5 (#90)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.3.4 to 4.3.5.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.3.4...v4.3.5)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit ec94063d8c9b05bb82c0ff47f7e4d3da207509c6
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 1 00:24:15 2021 +0000
+
+    Bump actions/setup-node from 2.1.5 to 2.2.0 (#89)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from 2.1.5 to 2.2.0.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v2.1.5...v2.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: actions/setup-node
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 74226d67bacc7daf4057dea6f734bb4e497a5dfa
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Sun Jun 27 22:55:49 2021 +0200
+
+    Bumped v5.3.0
+
+commit 843d1f5c72a414a9b7936bdcb6396a52ce47814d
+Author: Bret <166301+bcomnes@users.noreply.github.com>
+Date:   Sun Jun 27 14:54:33 2021 -0600
+
+    Use decorate to add use (#88)
+
+commit c83e6e13ae97f730608a76c612075f24317dc0af
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jun 18 00:27:29 2021 +0000
+
+    Bump typescript from 4.3.3 to 4.3.4 (#87)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.3.3 to 4.3.4.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.3.3...v4.3.4)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit f82b613c03d6f3cc3b896ca94866c4841e4b8c7a
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jun 17 00:15:46 2021 +0000
+
+    Bump typescript from 4.3.2 to 4.3.3 (#86)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.3.2 to 4.3.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.3.2...v4.3.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: typescript
+      dependency-type: direct:development
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 3bb7e034d721e90d8f474d751bb0b8fdd7a58f12
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jun 4 08:14:17 2021 +0000
+
+    Bump tsd from 0.16.0 to 0.17.0 (#85)
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.16.0 to 0.17.0.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.16.0...v0.17.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: tsd
+      dependency-type: direct:development
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit dfa7a67bfa3f9c05f717d18bd13ba7c01f98ec11
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 31 11:17:00 2021 +0000
+
+    Bump tsd from 0.15.1 to 0.16.0 (#84)
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.15.1 to 0.16.0.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.15.1...v0.16.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 0b26a5200a2808dde07fdee1b4cb46186d1e53a4
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon May 31 11:14:23 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.1.0 to 2.1.1 (#83)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.1.0 to 2.1.1.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.1.0...v2.1.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 34b061b0ac253f01e3ecfb647e8f866da6338536
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu May 27 09:31:41 2021 +0000
+
+    Bump typescript from 4.2.4 to 4.3.2 (#82)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.2.4 to 4.3.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.2.4...v4.3.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 3d6f725adf534f32b539f3b877022f519d7c3e9b
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu May 27 09:30:48 2021 +0000
+
+    Bump fastify/github-action-merge-dependabot from 2.0.0 to 2.1.0 (#81)
+    
+    Bumps [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) from 2.0.0 to 2.1.0.
+    - [Release notes](https://github.com/fastify/github-action-merge-dependabot/releases)
+    - [Commits](https://github.com/fastify/github-action-merge-dependabot/compare/v2.0.0...v2.1.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit abb61fc61bf8232a99e91152bc4659f03cdfe5fc
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed May 12 11:06:52 2021 +0000
+
+    Bump actions/checkout from 2 to 2.3.4 (#80)
+    
+    Bumps [actions/checkout](https://github.com/actions/checkout) from 2 to 2.3.4.
+    - [Release notes](https://github.com/actions/checkout/releases)
+    - [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/actions/checkout/compare/v2...v2.3.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 314343ee87c9627fa94e5ff72f56f68a3e41f5dc
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue May 11 08:04:30 2021 +0000
+
+    Bump tsd from 0.14.0 to 0.15.0 (#79)
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.14.0 to 0.15.0.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.14.0...v0.15.0)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit e0c616945e2618814d14e5861254789248b9f74d
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Apr 27 09:14:10 2021 +0000
+
+    Bump @types/node from 14.14.42 to 15.0.0 (#78)
+    
+    Bumps [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) from 14.14.42 to 15.0.0.
+    - [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+    - [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit a560b7272026e997f5019044fdd7b1acd9c0ee6f
+Author: Frazer Smith <43814140+Fdawgs@users.noreply.github.com>
+Date:   Mon Apr 26 21:42:41 2021 +0100
+
+    ci: add nodejs v16 to test matrix (#77)
+
+commit 095e6492a50755826ccc07e2ecc5e2dbf644ecf8
+Author: Frazer Smith <43814140+Fdawgs@users.noreply.github.com>
+Date:   Tue Apr 13 12:34:54 2021 +0100
+
+     chore: doc and ci updates (#76)
+
+commit afd879c35f032d1790d9d410c1cf8eb566db290c
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Apr 8 09:45:12 2021 +0200
+
+    Bump typescript from 4.2.3 to 4.2.4 (#75)
+
+commit 007a224f96dbedd081d895a0798993500748957a
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Fri Apr 2 10:22:10 2021 +0200
+
+    Fixed deprecations (#74)
+
+commit c5d1183640fa5bfc715c5c06880fe70bacb7f14f
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Apr 2 09:37:56 2021 +0200
+
+    Bump tap from 14.11.0 to 15.0.1 (#73)
+    
+    Bumps [tap](https://github.com/tapjs/node-tap) from 14.11.0 to 15.0.1.
+    - [Release notes](https://github.com/tapjs/node-tap/releases)
+    - [Commits](https://github.com/tapjs/node-tap/compare/v14.11.0...v15.0.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit dc97b8b0af83d3892809da8722a899a26b3b8703
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 10 12:48:02 2021 +0100
+
+    Bump actions/setup-node from v1 to v2.1.5 (#71)
+    
+    Bumps [actions/setup-node](https://github.com/actions/setup-node) from v1 to v2.1.5.
+    - [Release notes](https://github.com/actions/setup-node/releases)
+    - [Commits](https://github.com/actions/setup-node/compare/v1...46071b5c7a2e0c34e49c3cb8a0e792e86e18d5ea)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 14132acd213b307a38ce4857648823dfeda01d73
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Mar 10 12:44:29 2021 +0100
+
+    Bump typescript from 4.2.2 to 4.2.3 (#68)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.2.2 to 4.2.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/commits)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit 1fdb41f82c6aa9c2ce7d0a801e21ad4b0b9d1c75
+Author: Frazer Smith <43814140+Fdawgs@users.noreply.github.com>
+Date:   Wed Mar 10 11:34:26 2021 +0000
+
+    ci(dependabot): update config from v1 to v2 (#70)
+
+commit f567992602d72cd77d1bdbfac5bc6f660840bc7e
+Author: Frazer Smith <43814140+Fdawgs@users.noreply.github.com>
+Date:   Tue Mar 9 21:08:35 2021 +0000
+
+    chore(gitignore): use latest github ignore template (#69)
+
+commit 724f461aaee671bd983d61fd3114b1c3ec40a74e
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Feb 24 07:19:02 2021 +0000
+
+    Bump typescript from 4.1.4 to 4.2.2
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.1.4 to 4.2.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/commits)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 2a2d64baa7bb36d8c23bd0f89e58fbccf9999902
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Feb 10 07:16:15 2021 +0000
+
+    Bump typescript from 4.1.3 to 4.1.4
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.1.3 to 4.1.4.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.1.3...v4.1.4)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 59c80c41dfd1a9f99d6f8f9f23c8a41958fb7595
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Mon Dec 14 09:23:57 2020 +0000
+
+    Bump typescript from 4.1.2 to 4.1.3
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.1.2 to 4.1.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/commits)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit fd1875315171d93dcfbd18b928029072808fc015
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Dec 4 07:34:35 2020 +0000
+
+    Bump tsd from 0.13.1 to 0.14.0
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.13.1 to 0.14.0.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.13.1...v0.14.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 41d79a3bb8b70913a85a50c79c2bafe4a49ed91c
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Nov 20 09:41:32 2020 +0000
+
+    Bump typescript from 4.0.5 to 4.1.2
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.0.5 to 4.1.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.0.5...v4.1.2)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 3dd8f39727cee0e187f97415e014aefeca229699
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Mon Nov 2 07:28:46 2020 +0000
+
+    Bump standard from 15.0.1 to 16.0.1
+    
+    Bumps [standard](https://github.com/standard/standard) from 15.0.1 to 16.0.1.
+    - [Release notes](https://github.com/standard/standard/releases)
+    - [Changelog](https://github.com/standard/standard/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/standard/standard/compare/v15.0.1...v16.0.1)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit ac436cd1ae17a19f9936293ea3726b350f388f41
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Oct 28 12:59:57 2020 +0000
+
+    Bump typescript from 4.0.3 to 4.0.5
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.0.3 to 4.0.5.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.0.3...v4.0.5)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 06157da4a106142137f4ca279a1befa84cf2db22
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Oct 23 03:57:12 2020 +0000
+
+    Bump standard from 14.3.4 to 15.0.0
+    
+    Bumps [standard](https://github.com/standard/standard) from 14.3.4 to 15.0.0.
+    - [Release notes](https://github.com/standard/standard/releases)
+    - [Changelog](https://github.com/standard/standard/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/standard/standard/compare/v14.3.4...v15.0.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 92152b38a5c1efd847053671ada93dd715032792
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Oct 21 17:14:28 2020 +0200
+
+    Bumped v5.2.0
+
+commit 7df99d82d869b04d439ee3234dd65408333e76d2
+Author: Simen Bekkhus <sbekkhus91@gmail.com>
+Date:   Wed Oct 21 17:13:44 2020 +0200
+
+    fix: add `use` to types (#55)
+    
+    * fix: add `use` to types
+    
+    * add readme note
+
+commit 844234e2aa4079c6aabbf47c68fd8138d99f97a5
+Author: Vincent LE GOFF <vince.legoff@gmail.com>
+Date:   Tue Oct 20 17:12:01 2020 +0200
+
+    feat: add stale (#57)
+
+commit ad57e93a2e9c2e0c9bc006d69f33d12d7ea900a9
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Oct 16 16:46:55 2020 +0000
+
+    Bump fastify-plugin from 2.3.4 to 3.0.0
+    
+    Bumps [fastify-plugin](https://github.com/fastify/fastify-plugin) from 2.3.4 to 3.0.0.
+    - [Release notes](https://github.com/fastify/fastify-plugin/releases)
+    - [Commits](https://github.com/fastify/fastify-plugin/compare/v2.3.4...v3.0.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 8048aec6c9aea11fcd832a783c744c640f66f516
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Mon Sep 21 15:32:35 2020 +0000
+
+    Bump typescript from 4.0.2 to 4.0.3
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 4.0.2 to 4.0.3.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v4.0.2...v4.0.3)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit 778612efddddf294556344c562213a54ae331524
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Aug 21 14:58:27 2020 +0000
+
+    Bump typescript from 3.9.7 to 4.0.2
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 3.9.7 to 4.0.2.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v3.9.7...v4.0.2)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+commit adf53077656dc59db126b66aabb3ccc25c39a08e
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Mon Aug 3 11:17:53 2020 +0200
+
+    Bump helmet from 3.23.3 to 4.0.0 (#52)
+    
+    Bumps [helmet](https://github.com/helmetjs/helmet) from 3.23.3 to 4.0.0.
+    - [Release notes](https://github.com/helmetjs/helmet/releases)
+    - [Changelog](https://github.com/helmetjs/helmet/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/helmetjs/helmet/compare/v3.23.3...v4.0.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit d529fd67fa1ab535f2ff4c7578bc9005988c909b
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Jul 17 11:46:32 2020 +0200
+
+    Bump typescript from 3.9.6 to 3.9.7 (#51)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 3.9.6 to 3.9.7.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v3.9.6...v3.9.7)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit 3801675fb1ddebe6e11dc0847a08c0e1c4c8fe03
+Author: Adam Davis <adam@admataz.com>
+Date:   Thu Jul 9 16:45:30 2020 +0100
+
+    Dependabot/npm and yarn/tsd 0.13.1 (#50)
+    
+    * Bump tsd from 0.11.0 to 0.13.1
+    
+    Bumps [tsd](https://github.com/SamVerschueren/tsd) from 0.11.0 to 0.13.1.
+    - [Release notes](https://github.com/SamVerschueren/tsd/releases)
+    - [Commits](https://github.com/SamVerschueren/tsd/compare/v0.11.0...v0.13.1)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    * chore: restore missing  @types/node as devdep
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit d80c119e79a67c486454f72d4ab34cbae75ba260
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Jul 7 18:41:08 2020 +0200
+
+    Bumped fastify
+
+commit 005d654f913219cea2484e2c5e28aae3c530f34f
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Thu Jul 2 15:46:42 2020 +0200
+
+    Bump typescript from 3.9.5 to 3.9.6 (#47)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 3.9.5 to 3.9.6.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/commits)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit dcd12100aecda4ffda5424ea738395d20ec2e9bd
+Author: Blake Sager <blakemsager@gmail.com>
+Date:   Sat Jun 27 11:46:39 2020 -0500
+
+    Update fastify to v3 rc4 (#45)
+
+commit 603cf250fd8c4a15cf8b260b58f8c41726da371f
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Fri Jun 5 10:36:31 2020 +0200
+
+    Bump typescript from 3.9.3 to 3.9.5 (#44)
+    
+    Bumps [typescript](https://github.com/Microsoft/TypeScript) from 3.9.3 to 3.9.5.
+    - [Release notes](https://github.com/Microsoft/TypeScript/releases)
+    - [Commits](https://github.com/Microsoft/TypeScript/compare/v3.9.3...v3.9.5)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit 476d2d9d6e2c9b4e9dc3d54853ab0ed6b2791c50
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Fri May 22 12:54:29 2020 +0200
+
+    Bumped v5.0.1
+
+commit 2f9c9ea8a628ac920e5b37e23dd296edbd3372d9
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Fri May 22 12:49:45 2020 +0200
+
+    Updated dependecies
+
+commit 3b1effb0ad4131ffe0192f6b788c16457f117cc2
+Author: Igor Savin <iselwin@gmail.com>
+Date:   Fri May 22 12:46:13 2020 +0200
+
+    Add rudimentary TypeScript types (#40)
+    
+    * Add rudimentary types
+    
+    * Update types to be consistent with other plugins
+    
+    * Add tsd tests
+
+commit 04ade9ca9c61cf487160bed4f2482fc9f2cce27b
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Mon May 18 11:17:17 2020 +0200
+
+    Bump simple-get from 3.1.0 to 4.0.0 (#42)
+    
+    Bumps [simple-get](https://github.com/feross/simple-get) from 3.1.0 to 4.0.0.
+    - [Release notes](https://github.com/feross/simple-get/releases)
+    - [Commits](https://github.com/feross/simple-get/compare/v3.1.0...v4.0.0)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+    
+    Co-authored-by: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+
+commit 81c576cbdee45cfec1b5ee0a29115f5b407436db
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Tue Apr 28 12:08:17 2020 +0200
+
+    Fixed build badge
+
+commit 82988a4e42673e8ee83ad939ed7a3701c143a38b
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Apr 28 10:09:52 2020 +0200
+
+    Bumped v5.0.0
+
+commit 450d914ee9579cb9ee911fd3e0eea6416c3cb5c2
+Merge: 2293772 a879352
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Tue Apr 28 10:05:23 2020 +0200
+
+    Merge pull request #36 from fastify/plugin
+
+commit a879352ca7e390d89b98190acf7c4032d57a92b1
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Apr 28 10:00:56 2020 +0200
+
+    Updated README
+
+commit dde9393321d48813223c6fbe82b29ce8f7b13e14
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Apr 28 09:21:55 2020 +0200
+
+    Use Fastify v3
+
+commit 9d4230798013417cda3f37b3d89b0cc2c9bc6b4d
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Apr 28 09:21:44 2020 +0200
+
+    Test Node v10+
+
+commit 1da1bf74afeff660db95bc3aab5d95bf5fa21c3d
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Apr 28 09:21:12 2020 +0200
+
+    Removed travis
+
+commit 3ddee7c5eeeaca1494c5d7a9645db684c1c69059
+Merge: 84acdea 2293772
+Author: delvedor <tommydelved@gmail.com>
+Date:   Tue Apr 28 09:18:14 2020 +0200
+
+    Merge branch 'master' into plugin
+
+commit 2293772d9c414f534d865743f138026aa4c63bed
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Mon Mar 30 08:02:51 2020 +0200
+
+    Use github actions and dependabot (#39)
+
+commit 84acdeac52219733eb441e407b02ea433c646700
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Feb 16 13:34:08 2020 +0100
+
+    Updated README
+
+commit dd3b899fb83ac2eb6b0a066e378ef0ffd62c534b
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Feb 16 13:33:57 2020 +0100
+
+    Updated test
+
+commit 4fcb8a8ebde0373ba221802b5ccc6aa186486bd1
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Dec 30 14:49:07 2019 +0100
+
+    Updated .travis.yml
+
+commit 8a74bba1a5c1e92fb294b2412d1c7e23d3a3523b
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Dec 30 14:45:51 2019 +0100
+
+    Updated README
+
+commit 885790bfc5b9cf5457cc62f3d3616e479e44794c
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Dec 30 14:45:46 2019 +0100
+
+    Updated test
+
+commit ce490b6a4b972f91049362b92076468993f6cac9
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Dec 30 14:45:38 2019 +0100
+
+    Collapse two hooks
+
+commit 6354bd09e959c37faa033d6e3bdc6cfef1c14f9d
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Dec 29 18:31:31 2019 +0100
+
+    Updated README
+
+commit 78b038b060c62748aa4e3903b0c40f71fb96618c
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Dec 29 18:31:26 2019 +0100
+
+    Updated test
+
+commit 9397bbe92973a45694ea295d9b0de97d52465883
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Dec 29 18:31:11 2019 +0100
+
+    Drop Node < 10
+
+commit 3678e9f3bd0aba3e530eff91c9c30c76718f2508
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Dec 29 18:30:40 2019 +0100
+
+    Bumped dependencies
+
+commit 11b2e906ec8a2b644287f23c733c85d142c13559
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Dec 29 18:29:59 2019 +0100
+
+    Updated Middie
+    - Moved middie.js to engine.js
+    - Added plugin code
+
+commit b23f0bc125ad8ad499c572a7e86d3ae6c993d65f
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Tue Nov 12 15:43:30 2019 +0100
+
+    Bumped v4.1.0
+
+commit ba44bb6477ead37f2b2da7ea9010d1a4b9da1e13
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Tue Nov 12 14:37:59 2019 +0000
+
+    Update path to regexp (#34)
+    
+    * Added node 12 and 13 to travis
+    
+    * Updated path-to-regexp to v4
+
+commit ce323119f38ae7aa0c91ff66a474a09699abc2ac
+Author: Manuel Spigolon <behemoth89@gmail.com>
+Date:   Sun Aug 25 19:36:12 2019 +0200
+
+    chore(package): update standard to version 14.0.2 (#32)
+
+commit 427147c60f609d3da7c8ade40ae41427ef91478d
+Merge: 3915513 ba86550
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Sun Jul 14 17:35:39 2019 +0200
+
+    Update standard to the latest version 🚀 (#30)
+    
+    Update standard to the latest version 🚀
+
+commit ba86550f8f24674d7ddf1e9b956c26cbef8891bf
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Thu Jul 11 21:41:41 2019 +0000
+
+    chore(package): update standard to version 13.0.1
+
+commit 391551306f83cb85a7129198f5bbb271c84809a2
+Author: Manuel Spigolon <behemoth89@gmail.com>
+Date:   Sat May 11 08:32:46 2019 +0200
+
+    ignore tap (#29)
+
+commit 684618452516db75089a17c51ef68d2e20b9efc8
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Mon Jan 21 09:31:54 2019 +0000
+
+    Bumped v4.0.1
+
+commit 7e72bc20284c91be5b010a8591aed27eea151390
+Author: Rolando Santamaria Maso <kyberneees@gmail.com>
+Date:   Mon Jan 21 10:30:15 2019 +0100
+
+    fix url replacement on middlewares restricted by path (#27)
+    
+    * fix url replacement on middlewares restricted by path
+    
+    * using strict equal operator in comparison
+    
+    * adding /tasks-api/task test case
+
+commit 4def9ce536d9d05acf777847defd38a7258d7905
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Mon Jan 14 19:44:34 2019 +0530
+
+    Bumped v4.0.0
+
+commit c1b5a86cba52c6c1874a101a1915639ac22b0448
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Mon Jan 14 19:13:24 2019 +0530
+
+    Added Node 11 to .travis.yml
+
+commit e80b7b8234b949673715baf313fae2282e6b4234
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Mon Jan 14 18:39:54 2019 +0530
+
+    fix(package): update path-to-regexp to version 3.0.0 (#26)
+
+commit 3d41b4e50baabba1ba5ab2fe6382bee1efeb6a97
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Oct 10 08:10:39 2018 -0700
+
+    Bumped v3.2.0.
+
+commit 067b8cf3cfb1a85bd773692acebe3891ba021e85
+Merge: 2fc2d32 e900b57
+Author: Cemre Mengu <cemremengu@gmail.com>
+Date:   Wed Oct 10 18:00:04 2018 +0300
+
+    Merge pull request #24 from trygve-lie/middleware-array
+    
+    Support adding an array of middlewares
+
+commit e900b5737c7aa20b6d14569b82b6484ba2984b2a
+Author: Trygve Lie <post@trygve-lie.com>
+Date:   Wed Oct 10 08:09:15 2018 +0200
+
+    Simplified undefined check. Removed lint commands
+
+commit 2fc2d329596ac3321ceac64b2c2d4a1d43b69933
+Author: Trygve Lie <173003+trygve-lie@users.noreply.github.com>
+Date:   Wed Oct 10 03:41:25 2018 +0200
+
+    Removed unused develop dependencies (#25)
+
+commit 5aba5d088c8c54db86af8c7849f9fa4a0c01b736
+Author: Trygve Lie <post@trygve-lie.com>
+Date:   Tue Oct 9 13:47:21 2018 +0200
+
+    Requested changes
+
+commit ca578c2bf897eb5da677026d6f623985ecbcafcc
+Author: Trygve Lie <post@trygve-lie.com>
+Date:   Tue Oct 9 13:23:25 2018 +0200
+
+    Docs
+
+commit 773732f6541c6dd802102ee8dc4f72d7ab1e4d84
+Author: Trygve Lie <post@trygve-lie.com>
+Date:   Tue Oct 9 13:18:37 2018 +0200
+
+    Added tests. Simplified code
+
+commit 0faba7770ddc246f3977ded8f9dc90e385555218
+Author: Trygve Lie <post@trygve-lie.com>
+Date:   Tue Oct 9 00:40:03 2018 +0200
+
+    Support adding an array of middlewares
+
+commit 12e636233dd827c7cb29b8b40bd7c6077f4a98a7
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Aug 29 15:08:31 2018 +0200
+
+    Removed old Node.js from .travis.yml
+
+commit 1f962c7646dbe4f54364c202100a63c18e2bcebc
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Aug 29 15:07:17 2018 +0200
+
+    chore(package): update standard to version 12.0.0 (#23)
+
+commit e81c193c70a5a4bdd25de52aa3114de3283a24c2
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Thu May 17 23:57:00 2018 +0200
+
+    chore(package): update tap to version 12.0.0 (#22)
+
+commit 39546d9b13a24f49c585a4c0d88171a92f69a819
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Sat Apr 28 11:03:23 2018 +0200
+
+    Update to node 10 in .travis.yml (#21)
+
+commit 9c1ca554aedc53648fe2e597ba19683b47493f54
+Merge: 1d7b394 360bfe6
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Mon Mar 5 00:54:28 2018 +0100
+
+    Merge pull request #19 from fastify/greenkeeper/initial
+    
+    Update dependencies to enable Greenkeeper 🌴
+
+commit 360bfe6707b307ddb151d989e04de69898b2bf02
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Sun Mar 4 23:21:09 2018 +0000
+
+    docs(readme): add Greenkeeper badge
+
+commit 64a597356039845addad6262680aac53e03b3083
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Sun Mar 4 23:21:06 2018 +0000
+
+    chore(package): update dependencies
+
+commit 1d7b394c3bc1aef1b21bcbab4c00497bada2c047
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Fri Feb 2 13:49:00 2018 +0100
+
+    Updated copyright year to 2018
+
+commit 03a25797e39bfd134dbfb75025139d7747cd2d76
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Jan 20 17:50:09 2018 +0100
+
+    Bumped v3.1.0
+
+commit 4897ab8016ab1c4e8a6566a59b542abbc02d0c5e
+Merge: a3ba62d 2891386
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Sat Jan 20 17:49:38 2018 +0100
+
+    Merge pull request #17 from fastify/release
+    
+    Release the holder if the response has finished
+
+commit 2891386d5f5d51950f3d465efe7752197bf85275
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Jan 20 16:04:46 2018 +0100
+
+    Updated test
+
+commit db36efa6bd5edcd35bd263d1c7962ee5bb33876b
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Jan 20 16:04:40 2018 +0100
+
+    Release the holder if the response has finished
+
+commit a3ba62d010750eaea32542fb61c2f94ca552fec8
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Dec 20 13:07:16 2017 +0100
+
+    Bumped v3.0.0.
+
+commit ee210a0d41714a210d2f43a7f2536afd0204fcf7
+Merge: 1384ad8 c2400aa
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Wed Dec 20 13:06:02 2017 +0100
+
+    Merge pull request #16 from nwoltman/req-original-url
+    
+    Set `req.originalUrl` before running middleware
+
+commit 1384ad8c82a33f165fbca5951b530e6782ce551c
+Merge: 2ac769a 47c778c
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Wed Dec 20 13:02:59 2017 +0100
+
+    Merge pull request #15 from fastify/greenkeeper/tap-11.0.0
+    
+    Update tap to the latest version 🚀
+
+commit c2400aa6904cac1dfde2a63194989daadaa9f20f
+Author: Nathan Woltman <nwoltman@outlook.com>
+Date:   Mon Dec 18 01:34:14 2017 -0500
+
+    Set `req.originalUrl` before running middleware
+    
+    For better compatibility with express middleware.
+
+commit 47c778cc3de2f08c694c302a6792304cb4c5d881
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Sun Nov 26 01:15:32 2017 +0000
+
+    chore(package): update tap to version 11.0.0
+
+commit 2ac769a0a64e396de5d2d08990e82863a154f3cd
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Mon Oct 9 09:21:44 2017 +0200
+
+    Bumped v2.1.1.
+
+commit 56f66793fde009093fd0f77617cdfecc6c56b0ba
+Merge: 3883a35 c3b9ec6
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Mon Oct 9 00:17:55 2017 -0700
+
+    Merge pull request #14 from brunoscopelliti/clean-unreachable
+    
+    Removed unreachable branch
+
+commit c3b9ec6d2482262a66f6482cef6df6248f0c7bcd
+Author: Bruno Scopelliti <bru.scopelliti@gmail.com>
+Date:   Fri Oct 6 07:21:14 2017 +0200
+
+    Removed unreachable branch
+
+commit 3883a3513a30ebb7d026da1906171d4e74a35287
+Merge: 18d9974 4ae387a
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Sat Oct 7 18:51:09 2017 +0200
+
+    Merge pull request #13 from allevo/add-test-slashed-path
+    
+    "/path/" should match "/path"?
+
+commit 4ae387a1eb1e15876e66e29c01b882c340f7596e
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Sat Oct 7 13:26:48 2017 +0200
+
+    Add test
+
+commit 18d9974b85fbfa50247230f47ffe8d2c6d582f31
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Fri Oct 6 16:42:55 2017 -0700
+
+    Bumped v2.1.0.
+
+commit ac55272b5457bec921e2f0e8b0f54bb811305405
+Merge: 62ceb37 8fdc51e
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Fri Oct 6 23:39:12 2017 +0200
+
+    Merge pull request #12 from allevo/slashed-url
+    
+    Should match all chain
+
+commit 8fdc51ea4028543c17700b729b9e68c898a74010
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Mon Oct 2 23:24:25 2017 +0200
+
+    Sanitize prefix url
+
+commit e9ee66eba407369d22d071e92112af6163ad936f
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Fri Sep 29 19:45:57 2017 +0200
+
+    Use 1.7 version
+
+commit ebd12b08b89b4ffd74b1b01cebd55b26e4ca7f91
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Fri Sep 29 19:43:30 2017 +0200
+
+    Downgrade path-to-regexp version
+
+commit dc339484b18fc07fd6e3c9673997d51672dc72b9
+Author: Tommaso Allevi <tomallevi@gmail.com>
+Date:   Wed Sep 27 22:57:35 2017 +0200
+
+    Add test - should match all chain
+
+commit 62ceb377936546e8d3a006b9f495e1c5f5902c96
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Thu Sep 7 09:46:08 2017 +0200
+
+    Bumped v2.0.0.
+
+commit 0a723ffc2b71b5f707e72948ef63ea821a38080b
+Merge: a973797 12a3381
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Thu Sep 7 09:45:25 2017 +0200
+
+    Merge pull request #10 from fastify/fix-prefix-bis
+    
+    Fix prefix support
+
+commit 12a3381fe0c0a7952c5af8f697b505fc89e72523
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Sep 6 23:42:21 2017 +0200
+
+    const -> var
+
+commit 3683d4e7713e940c8967a9ce3f46a406589ec7cc
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Sep 6 19:24:57 2017 +0200
+
+    Update docs.
+
+commit 1844b00318cea27b5ec219341f2fe40878e76551
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed Sep 6 19:20:12 2017 +0200
+
+    Correctly implement prefixes
+    
+    Fixes #1.
+
+commit a9737975a45858f46698cb4a912b15db39bd8c5e
+Author: delvedor <tommydelved@gmail.com>
+Date:   Thu Aug 24 10:24:57 2017 +0200
+
+    Bumped v1.1.0
+
+commit 851d34b49ea12669e452602c274a2eb5eae1de1f
+Merge: ae539cb 456c739
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Thu Aug 24 10:22:58 2017 +0200
+
+    Merge pull request #9 from fastify/keep-this-context
+    
+    Keep this context
+
+commit 456c7390c0020a628693d3ddf244ce88eb81b641
+Author: delvedor <tommydelved@gmail.com>
+Date:   Thu Aug 24 10:05:00 2017 +0200
+
+    Updated README.md
+
+commit b13f6072dddd80e43ae32de93356ab15ac6818de
+Author: delvedor <tommydelved@gmail.com>
+Date:   Thu Aug 24 10:04:55 2017 +0200
+
+    Updated test
+
+commit a5a5f8232991a23f6aafdc7ee2704679054afb98
+Author: delvedor <tommydelved@gmail.com>
+Date:   Thu Aug 24 10:04:46 2017 +0200
+
+    Pass the context as parameter
+
+commit 62d06d5fccf26fad3b25ebca6191d9107c9d8c24
+Author: delvedor <tommydelved@gmail.com>
+Date:   Wed Aug 23 20:07:57 2017 +0200
+
+    Updated README.md
+
+commit e7389629665c90c21b2e571a649b8e22599855a9
+Author: delvedor <tommydelved@gmail.com>
+Date:   Wed Aug 23 20:07:47 2017 +0200
+
+    Updated test
+
+commit 179c11bf4ce7ab6441ccb86f54bcfc2dd1a10036
+Author: delvedor <tommydelved@gmail.com>
+Date:   Wed Aug 23 20:07:35 2017 +0200
+
+    Keep the context for the run callback
+
+commit ae539cbe8d3403b19e44f2e4cb0061566e5aca43
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Jul 3 14:09:12 2017 +0200
+
+    Updated travis
+
+commit 3fb810db95952bf7b7d05f2f7e68f445f707a740
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Jul 3 14:04:20 2017 +0200
+
+    Bumped v1.0.0
+
+commit fae500ccc28fa98d55e8b77bd7072da09efc2eb4
+Merge: 1e39cc6 a074f65
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Mon Jul 3 14:02:49 2017 +0200
+
+    Merge pull request #8 from fastify/strip-url
+    
+    Faster url sanitization
+
+commit a074f651d023deb27505359022031709094f7d73
+Author: delvedor <tommydelved@gmail.com>
+Date:   Mon Jul 3 13:57:51 2017 +0200
+
+    Faster url sanitization
+
+commit 1e39cc6de4c4da948a6d279f5267b78e0060ae1f
+Merge: 094b1e6 f654284
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Wed May 17 12:14:28 2017 +0200
+
+    Merge pull request #7 from billouboq/update-readme
+    
+    Update readme
+
+commit f654284c2d5258f87fe5ace56aaf03bfd93981ed
+Author: Billouboq <aurelien.boquet.web@gmail.com>
+Date:   Wed May 17 12:10:22 2017 +0200
+
+    update readme
+
+commit 094b1e6a587532379e536feea2830f3ee83e993e
+Author: Matteo Collina <hello@matteocollina.com>
+Date:   Wed May 17 11:32:59 2017 +0200
+
+    Bumped v0.3.0.
+
+commit e9e57e0639adacd624f826a7e49264a584f12f04
+Merge: 7ad11d3 07d245f
+Author: Matteo Collina <matteo.collina@gmail.com>
+Date:   Wed May 17 11:32:40 2017 +0200
+
+    Merge pull request #6 from billouboq/match-start-with
+    
+    Match start with path (*)
+
+commit 07d245ffc488008344e1c70e4e9653da0e55e43b
+Author: Billouboq <aurelien.boquet.web@gmail.com>
+Date:   Wed May 17 11:24:59 2017 +0200
+
+    change variables name and delete hasMiddleware
+
+commit 1dab6cdce397c13f481cbf90d6bd73886f5b7a8e
+Author: Billouboq <aurelien.boquet.web@gmail.com>
+Date:   Wed May 17 10:59:58 2017 +0200
+
+    assign url function to a variable
+
+commit bfe69c41f8dc0d5da582caa2976dc99f09559675
+Author: Billouboq <aurelien.boquet.web@gmail.com>
+Date:   Tue May 16 23:51:00 2017 +0200
+
+    store url in litteral and change wildcard check
+
+commit 5cc704ee885eeab6e50eedaf7dd822433f36df75
+Author: Billouboq <aurelien.boquet.web@gmail.com>
+Date:   Mon May 15 23:41:31 2017 +0200
+
+    add test
+
+commit f089c4f4aca32f01df5a58d06ac2f16ea9204fee
+Author: Billouboq <aurelien.boquet.web@gmail.com>
+Date:   Mon May 15 23:41:05 2017 +0200
+
+    implement /* path
+
+commit 7ad11d341f9d5cd6f42eb3ca389b441cd6300307
+Merge: 2c9f1f4 9b7a98c
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Wed Apr 5 09:18:16 2017 +0200
+
+    Merge pull request #4 from fastify/greenkeeper/standard-10.0.0
+    
+    Update standard to the latest version 🚀
+
+commit 9b7a98c22b7d87e9c649c8c947ce733141ba5484
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Apr 5 02:33:19 2017 +0000
+
+    chore(package): update standard to version 10.0.0
+    
+    https://greenkeeper.io/
+
+commit 2c9f1f4e9f3b8527633d1539c806fbb984c9d0ae
+Merge: 6d8a331 93a6b22
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Thu Mar 30 22:14:56 2017 +0200
+
+    Merge pull request #3 from fastify/greenkeeper/initial
+    
+    Update dependencies to enable Greenkeeper 🌴
+
+commit 93a6b22cf3c01d6c343f5697b0b47480a0f0404b
+Author: delvedor <tommydelved@gmail.com>
+Date:   Thu Mar 30 22:11:46 2017 +0200
+
+    Removed greenkeeper badge
+
+commit 5234c9d420274ba7d0e1a4634dceabfa3a587955
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Mar 29 09:31:49 2017 +0000
+
+    docs(readme): add Greenkeeper badge
+    
+    https://greenkeeper.io/
+
+commit f6ddcdde81ad1932ace8e877d9b219c44c1d21d7
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Mar 29 09:31:46 2017 +0000
+
+    chore(package): update dependencies
+    
+    https://greenkeeper.io/
+
+commit 6d8a3312eed7c09a1f9a4adcd3de8f8e626932a1
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sun Mar 26 12:11:25 2017 +0200
+
+    Bumped v0.2.0
+
+commit b52bba9fcfca5a8f4b973a9667191b585ff03156
+Merge: 5ddd7b4 2d521ff
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Sun Mar 26 12:10:13 2017 +0200
+
+    Merge pull request #2 from fastify/restrict-middleware-url
+    
+    Restrict middleware to url
+
+commit 2d521ffc1ed1360d5121ad2c18fa2cb4b5f5f5b5
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Mar 25 11:25:20 2017 +0100
+
+    Updated docs
+
+commit b81672519b844b1937bc7fe9c047b1f3e7057e73
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Mar 25 00:12:04 2017 +0100
+
+    Updated test
+
+commit 28a45b4dc04fbc92734ed72e0f9f19f2252b8074
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Mar 25 00:11:55 2017 +0100
+
+    Url restricted middlware support
+
+commit 5ddd7b47ac442b8356640a699324203cf2295872
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 12:39:27 2017 +0100
+
+    Bumped v0.1.1
+
+commit d3ef38b4f9d493095e48b698831cd760c566539c
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 12:34:09 2017 +0100
+
+    Updated test
+
+commit 0c7118020251d14765c9afe195ae519761b637f7
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 12:33:59 2017 +0100
+
+    Renamed module
+
+commit fd8b7a9d7828c2a41f31079535000da0c5a02294
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 01:44:07 2017 +0100
+
+    Updated package.json
+
+commit 834fb8a479821cf6e2dda58a0e9f5cf081c948ca
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 01:41:36 2017 +0100
+
+    Added travis
+
+commit 22cee20dbd47c8809e48c9915a2774a3a30245d0
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 01:38:20 2017 +0100
+
+    First code commit
+
+commit b13f51df87559e1c1dfe259fdc29aaac59686878
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 01:36:50 2017 +0100
+
+    Updated README.md
+
+commit 3b08c8042359cecfcee0c9f13be9b807b88e534a
+Author: delvedor <tommydelved@gmail.com>
+Date:   Sat Feb 11 01:36:37 2017 +0100
+
+    Updated .gitignore
+
+commit addefb0d1912bc90d26cb327007897fa1b75ecf5
+Author: Tomas Della Vedova <delvedor@users.noreply.github.com>
+Date:   Sat Feb 11 01:33:51 2017 +0100
+
+    Initial commit

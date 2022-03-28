@@ -1,0 +1,1299 @@
+commit ffd23a6d0d302ff44e2f84b82a16ca9aada445d6
+Author: xdan <skoder@ya.ru>
+Date:   Mon Mar 28 02:46:05 2022 +0300
+
+    New version 1.2.23. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.23
+
+commit a603caa92ffd70c4857d68403faac0c3a6aa5173
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 27 15:27:38 2022 +0300
+
+    New version 1.2.22. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.22
+
+commit defac4c036c6b115cd26d07f698744c46ffbe457
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 27 15:24:00 2022 +0300
+
+    New version 1.2.21. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.21
+
+commit 41c21c985183b81c6bd431a5b5cc02bb913afe25
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 27 15:08:33 2022 +0300
+
+    New version 1.2.20. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.20
+
+commit 7b1659ed55ef9c6cafcd1386a6f57f7cfa8950d1
+Merge: 8cae1d0 0c3de26
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 27 15:08:13 2022 +0300
+
+    Merge branch 'master' of github.com:jodit/jodit-react
+
+commit 8cae1d0464e8d80279360aa2b4cc690d08541c32
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 27 15:07:28 2022 +0300
+
+    New version 1.2.19. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.19
+
+commit 0c3de26a7b4a077dbfa588cb6fa3275459da5e5b
+Author: Valeriy <skoder@ya.ru>
+Date:   Tue Mar 22 14:25:05 2022 +0300
+
+    Update README.md
+
+commit 03e3e43fd812ef6bde2351a190e631742053407e
+Author: Valeriy <skoder@ya.ru>
+Date:   Tue Mar 22 14:24:43 2022 +0300
+
+    Update README.md
+
+commit d55e460811ecd8a08639390f8e87c61135736d2f
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 20 02:54:09 2022 +0300
+
+    New version 1.2.18. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.18
+
+commit d7cb3a3676d15947c13f2e0fdc82516d29697c36
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 20 02:47:44 2022 +0300
+
+    New version 1.2.17. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.17
+
+commit f27d91f6ed2720c2002bf82d2bb20f02772f9ba9
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 20 02:37:46 2022 +0300
+
+    New version 1.2.16. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.16
+
+commit 1907b98e0041b4bb945f43e7a304ea046fea370b
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 20 01:50:24 2022 +0300
+
+    New version 1.2.15. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.15
+
+commit 3f15df16a76ea48f79737aa4b5787f2177ea5217
+Author: xdan <skoder@ya.ru>
+Date:   Wed Mar 16 10:59:23 2022 +0300
+
+    New version 1.2.14. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.14
+
+commit 2d6318b75b435c4c4235c218f3ad0147fb8ab0ba
+Author: xdan <skoder@ya.ru>
+Date:   Wed Mar 16 10:23:12 2022 +0300
+
+    New version 1.2.13. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.13
+
+commit af9e5f4525a087b72a62e06b49e16217107572b8
+Author: xdan <skoder@ya.ru>
+Date:   Mon Mar 14 15:28:43 2022 +0300
+
+    New version 1.2.12. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.12
+
+commit 3c9114d27ce1ac7d96ab2da2cdb711642e5c3c7b
+Merge: f99b553 c331105
+Author: Valeriy <skoder@ya.ru>
+Date:   Thu Mar 10 17:04:18 2022 +0300
+
+    Merge pull request #177 from Administrate/master
+    
+    Fix IJodit import
+
+commit c33110581c4df10a8e0ed74af8528fdd0e3a6162
+Author: Haruan Justino <hmj@administrate.co>
+Date:   Thu Mar 10 10:30:23 2022 -0300
+
+    Fix IJodit import
+    
+    This commit updates the index.d.ts to import IJodit from `jodit/types`.
+    
+    Since this project is using an old version of jodit 3.9.4, update Jodit
+    to export IJodit in the index would require updating the dependency
+    here.
+
+commit f99b553445dc0a604fdc270e0fd2537420572990
+Author: xdan <skoder@ya.ru>
+Date:   Mon Mar 7 18:29:00 2022 +0300
+
+    New version 1.2.10. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.10
+
+commit 12075f230e86f2d713bf9d5321b30a49650223e2
+Author: xdan <skoder@ya.ru>
+Date:   Sun Mar 6 12:00:13 2022 +0300
+
+    New version 1.2.9. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.9
+
+commit 3ca218b8ee593aaa867869a95b31698a10fa4112
+Author: xdan <skoder@ya.ru>
+Date:   Fri Mar 4 01:17:27 2022 +0300
+
+    New version 1.2.8. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.8
+
+commit 669bfb2ced3d3548c6fb598d9b2b9236d0ed669c
+Author: xdan <skoder@ya.ru>
+Date:   Fri Mar 4 00:56:13 2022 +0300
+
+    New version 1.2.7. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.7
+
+commit 17b6c53b416e2ff96e9a75f164ffdaefed5844c8
+Author: xdan <skoder@ya.ru>
+Date:   Mon Feb 21 00:36:44 2022 +0300
+
+    New version 1.2.6. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.6
+
+commit 0648ba41234ea1b7c86d1fcd2f5f821d2cca7917
+Author: xdan <skoder@ya.ru>
+Date:   Mon Feb 21 00:32:19 2022 +0300
+
+    New version 1.2.5. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.5
+
+commit a0a1fa7172f30bb36caa213b4f200c5877d6be4d
+Author: xdan <skoder@ya.ru>
+Date:   Mon Feb 21 00:30:24 2022 +0300
+
+    New version 1.2.4. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.4
+
+commit 3e69f1104aeb2dfc9f1a410c17813fe9c214881f
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:54:32 2022 +0300
+
+    New version 1.2.3. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.3
+
+commit 43cb1b8caf5243e0edc693e0cddb5e1713c51421
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:38:34 2022 +0300
+
+    New version 1.2.2. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.2
+
+commit 7d956e2344e38019f1c302d07813825e1169aa95
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:12:58 2022 +0300
+
+    Added command npm run lint
+
+commit d347d2afc4bb0f16d7ca06697f803a7321cd4e5d
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:11:29 2022 +0300
+
+    New version 1.2.1. Read more https://github.com/jodit/jodit-react/releases/tag/1.2.1
+
+commit 8a500e612cf7f3098e174db2e06462cb6d3734e1
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:10:51 2022 +0300
+
+    Added alias for npm run demo - npm start
+
+commit bf4365c97b18bd963b96fc043d01ebad713054c3
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:08:05 2022 +0300
+
+    Added eslint and prettier
+
+commit c9a6b750ca3fe60d68308aaf74640cfc698886cf
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:05:26 2022 +0300
+
+    Added eslint and prettier
+
+commit bb282692662d0203ae26c742f31b690156b69c0c
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:05:05 2022 +0300
+
+    Added eslint and prettier
+
+commit ef8d2a0c60b0dd133c397d42d3df960a88a326f6
+Author: xdan <skoder@ya.ru>
+Date:   Sun Feb 20 23:04:16 2022 +0300
+
+    Fixed Editor duplicates after re-render (state change) #172
+    Issue: https://github.com/jodit/jodit-react/issues/172
+
+commit e11a7f4b300cec55c57ccb76d8fedeb275468770
+Author: xdan <skoder@ya.ru>
+Date:   Wed Feb 16 20:58:46 2022 +0300
+
+    New version 1.1.25. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.25
+
+commit eb0adb1aaa68efa935b8d26859fb2838813e9baf
+Author: xdan <skoder@ya.ru>
+Date:   Fri Feb 11 22:03:38 2022 +0300
+
+    New version 1.1.24. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.24
+
+commit 34f4f88cbd578d16aedbe1603468400b1228bdc3
+Author: xdan <skoder@ya.ru>
+Date:   Fri Feb 11 21:25:38 2022 +0300
+
+    New version 1.1.23. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.23
+
+commit 96a7eb394c83db73546f16c59b22e9e37851cca3
+Author: xdan <skoder@ya.ru>
+Date:   Thu Feb 10 22:43:39 2022 +0300
+
+    New version 1.1.22. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.22
+
+commit 5b5ecda0a28195798a698d7f03eeb68d1693b2eb
+Author: xdan <skoder@ya.ru>
+Date:   Mon Feb 7 23:48:32 2022 +0300
+
+    New version 1.1.21. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.21
+
+commit ecceea7211c522183a7fc0755839dbdfe7d48d0b
+Author: xdan <skoder@ya.ru>
+Date:   Mon Jan 31 02:17:37 2022 +0300
+
+    New version 1.1.20. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.20
+
+commit fecbca9fe7e251f04dd6af63c5d014f10e3292e7
+Author: xdan <skoder@ya.ru>
+Date:   Thu Jan 27 21:37:12 2022 +0300
+
+    New version 1.1.19. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.19
+
+commit c6b6fbe7e93734a384bd7ee6d0579842cd21d001
+Author: xdan <skoder@ya.ru>
+Date:   Wed Jan 19 23:34:45 2022 +0300
+
+    New version 1.1.18. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.18
+
+commit 9bce17405eb15e04b6d1b99a533b8e280d5cc941
+Author: xdan <skoder@ya.ru>
+Date:   Thu Jan 6 02:26:54 2022 +0300
+
+    New version 1.1.17. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.17
+
+commit e922fc4218f71a89d9d6890f716d6b4352a2ba44
+Author: xdan <skoder@ya.ru>
+Date:   Wed Jan 5 18:43:05 2022 +0300
+
+    New version 1.1.16. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.16
+
+commit 4548e3b04955f75408d383177070976f6b7e27d3
+Author: xdan <skoder@ya.ru>
+Date:   Tue Dec 7 02:34:48 2021 +0300
+
+    New version 1.1.15. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.15
+
+commit 01ec7b32a7b9cf3b6e8fd8f92cdff87cd40c40d0
+Author: xdan <skoder@ya.ru>
+Date:   Wed Nov 24 22:49:03 2021 +0300
+
+    New version 1.1.14. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.14
+
+commit 71393c4ad4e39dde6f9247719dd3e66a2fad2e94
+Author: xdan <skoder@ya.ru>
+Date:   Wed Nov 24 21:01:02 2021 +0300
+
+    Added ads about Jodit PRO
+
+commit 31ed48f8df1d724aa473b10b9b50323233556aba
+Author: xdan <skoder@ya.ru>
+Date:   Wed Nov 24 02:16:38 2021 +0300
+
+    New version 1.1.13. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.13
+
+commit 1742ab30d99b6741a23fff24072d7550cfe9d761
+Author: xdan <skoder@ya.ru>
+Date:   Fri Nov 12 00:12:24 2021 +0300
+
+    New version 1.1.12. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.12
+
+commit 848129d72c8901cf5993028b1222011920bbb95d
+Author: xdan <skoder@ya.ru>
+Date:   Tue Nov 2 22:30:19 2021 +0300
+
+    New version 1.1.11. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.11
+
+commit 799b457bb5ab425145b5886dee3a1f33d2ff34bc
+Author: xdan <skoder@ya.ru>
+Date:   Tue Oct 26 23:27:29 2021 +0300
+
+    New version 1.1.10. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.10
+
+commit 6d63e5fd03fa685c4e0b70c1928f8be0aa43bece
+Author: xdan <skoder@ya.ru>
+Date:   Tue Oct 26 20:07:44 2021 +0300
+
+    New version 1.1.9. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.9
+
+commit 18f63082c1b40770c4e7638385349368fb186b21
+Author: xdan <skoder@ya.ru>
+Date:   Sun Oct 24 15:36:35 2021 +0300
+
+    New version 1.1.8. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.8
+
+commit 7e14bde06761152d2b27ac355d05ff7b2d07b067
+Author: xdan <skoder@ya.ru>
+Date:   Sun Oct 24 15:15:43 2021 +0300
+
+    New version 1.1.7. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.7
+
+commit 03b26da6ffaef61ba469b6ea8753c04b463d656f
+Author: xdan <skoder@ya.ru>
+Date:   Sun Oct 24 15:11:49 2021 +0300
+
+    New version 1.1.6. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.6
+
+commit 40dbc6bdd66c725ca235aa0589b3c6fed8219e49
+Author: xdan <skoder@ya.ru>
+Date:   Fri Oct 15 20:46:16 2021 +0300
+
+    New version 1.1.5. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.5
+
+commit 948d1bc781d9df842add1c129db483c0b77ca4c4
+Author: xdan <skoder@ya.ru>
+Date:   Tue Oct 5 02:19:35 2021 +0300
+
+    New version 1.1.4. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.4
+
+commit 4bf7176d92baa87362c3b4376e2310076d5afd28
+Author: xdan <skoder@ya.ru>
+Date:   Tue Oct 5 02:18:09 2021 +0300
+
+    New version 1.1.3. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.3
+
+commit 35dca4794681b15328207d4c11d9ffd7976f49b4
+Author: xdan <skoder@ya.ru>
+Date:   Tue Oct 5 02:17:03 2021 +0300
+
+    New version 1.1.2. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.2
+
+commit bf6fd6cf9ef34dc24eb2ba8fd7e9f14c7548f1e4
+Author: xdan <skoder@ya.ru>
+Date:   Wed Jun 16 00:51:08 2021 +0300
+
+    New version 1.1.1. Read more https://github.com/jodit/jodit-react/releases/tag/1.1.1
+
+commit 57a73b5c3939de937448925f6b54f6384cf58165
+Author: xdan <skoder@ya.ru>
+Date:   Sun May 30 22:55:18 2021 +0300
+
+    New version 1.0.88. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.88
+
+commit f0d836257ad326a0135f4456c50af50a7bd4fd7a
+Author: xdan <skoder@ya.ru>
+Date:   Mon May 24 23:02:28 2021 +0300
+
+    New version 1.0.87. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.87
+
+commit 9a847e0ece0c3d43fe31a418638e3d6d6728a93d
+Author: xdan <skoder@ya.ru>
+Date:   Fri May 7 19:26:41 2021 +0300
+
+    New version 1.0.86. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.86
+
+commit 4cd61143c6680dc417746a70c0bc28bf338b26fd
+Author: xdan <skoder@ya.ru>
+Date:   Thu May 6 19:49:04 2021 +0300
+
+    New version 1.0.85. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.85
+
+commit cedfd6f3bc8d87707a0be9b9d8ccca3a1da7a7dd
+Author: xdan <skoder@ya.ru>
+Date:   Thu May 6 19:26:02 2021 +0300
+
+    New version 1.0.84. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.84
+
+commit 926bd22862daae04fc9dffa4f2a5539c3618728b
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 25 14:23:45 2021 +0300
+
+    New version 1.0.83. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.83
+
+commit 59878ab9f8ae4fd1b6df37f539e5619b8defe0d8
+Author: xdan <skoder@ya.ru>
+Date:   Fri Apr 16 18:41:30 2021 +0300
+
+    New version 1.0.82. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.82
+
+commit 81a837db6368d9a9d8d56961e541edb5346b4650
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:50:35 2021 +0300
+
+    New version 1.0.81. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.81
+
+commit e8524b2ace1577cc2353d3e06eaba6834d2b8d97
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:49:54 2021 +0300
+
+    Allow change output directory
+
+commit 8e18916fdbbcbb6364e48b2be687f27d9cde438c
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:46:57 2021 +0300
+
+    New version 1.0.80. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.80
+
+commit ddb6a6e1132057f2be62274c3efde7557bc9d27f
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:46:41 2021 +0300
+
+    Allow change output directory
+
+commit 07677da8d23abb58b28a7f7cf94865e32f0eeec8
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:43:05 2021 +0300
+
+    New version 1.0.79. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.79
+
+commit 32b208fbbb505a662e1551df99bdbdb1f0d1b6ee
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:42:50 2021 +0300
+
+    Allow change babel config
+
+commit 28fe07ea5209986f42c4a4eb0b400e627d09ee2e
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:39:49 2021 +0300
+
+    New version 1.0.78. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.78
+
+commit a9efd9883ee2c18b51440460a635f193af3ae286
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:32:22 2021 +0300
+
+    New version 1.0.77. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.77
+
+commit 6520872447b5e7a0c57919013f50d8bb0fc58e88
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:13:42 2021 +0300
+
+    New version 1.0.76. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.76
+
+commit 0b1fea947597be7838751e0b662eb76f7bb6041a
+Author: xdan <skoder@ya.ru>
+Date:   Sun Apr 11 12:04:16 2021 +0300
+
+    New version 1.0.75. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.75
+
+commit 0fb9ab6bbb250d4aaa226ae0349d4816cbf24fdc
+Merge: 78ac3b3 f0fd85b
+Author: It can be easy <34371585+jodit@users.noreply.github.com>
+Date:   Sun Apr 11 12:00:17 2021 +0300
+
+    Merge pull request #103 from crowmw/master
+    
+    FIX onBlur not available #91
+
+commit 78ac3b3ac64332d3a890360fd021a1c9f5729efd
+Merge: 2b7aa04 02c9a76
+Author: It can be easy <34371585+jodit@users.noreply.github.com>
+Date:   Sun Apr 11 12:00:02 2021 +0300
+
+    Merge pull request #105 from mustafasheikh1/patch-1
+    
+    Fixed Err "Cannot read property 'destruct' of null"
+
+commit 2b7aa0406d7a3d3945050fb287e56d005cfe3f47
+Author: xdan <skoder@ya.ru>
+Date:   Mon Mar 8 23:52:50 2021 +0300
+
+    New version 1.0.74. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.74
+
+commit 42d25204c91f6355bd5708cbf984e245f5507852
+Author: xdan <skoder@ya.ru>
+Date:   Mon Mar 8 19:00:59 2021 +0300
+
+    New version 1.0.73. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.73
+
+commit 9112ab045ea1193247698ff530c972e099421500
+Author: xdan <skoder@ya.ru>
+Date:   Mon Mar 8 02:40:59 2021 +0300
+
+    New version 1.0.72. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.72
+
+commit bbed27b5f78a4a2ce617935fb514490286e135b2
+Author: xdan <skoder@ya.ru>
+Date:   Tue Feb 23 23:54:18 2021 +0300
+
+    New version 1.0.71. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.71
+
+commit a99620f0fbcedc7293f1b3362ce092672c99dadf
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Thu Dec 24 00:29:16 2020 +0300
+
+    New version 1.0.70. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.70
+
+commit 49c7db03cfc1f82c74c1ccc62e9007c2f036fb7c
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Dec 23 23:35:07 2020 +0300
+
+    New version 1.0.69. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.69
+
+commit 75f2536f85ea658a60f8f567fd1935bcf6e61468
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sun Dec 20 17:14:38 2020 +0300
+
+    New version 1.0.68. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.68
+
+commit cbeb2c25f91e0068cbeb7397d8662461e31486cd
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Fri Dec 18 19:45:15 2020 +0300
+
+    New version 1.0.67. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.67
+
+commit 02c9a76e55acbad2d85372be31ac63be007ef211
+Author: Mustafa Sheikh <mustafaahmed726@gmail.com>
+Date:   Wed Oct 28 19:00:54 2020 +0500
+
+    Update JoditEditor.js
+    
+    Fixed Err "Cannot read property 'destruct' of null"
+
+commit 9497b6769402160e9302797558509702c6579673
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Fri Oct 16 00:30:25 2020 +0300
+
+    New version 1.0.66. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.66
+
+commit f0fd85bacd5835d2883dbc027ca226cca17a8690
+Author: Mateusz Woźniak <mateusz.wozniak@MacBook-Pro-Mateusz.local>
+Date:   Tue Oct 6 16:58:03 2020 +0200
+
+    FIX onBlur is not available anymore? #91
+
+commit 327f8ca282d07034c73ac22800d4b0f179295dff
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sun Oct 4 16:23:23 2020 +0300
+
+    New version 1.0.65. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.65
+
+commit c7c01f35de69f47737e6945ae66dbce22b16eef0
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sun Sep 27 02:32:07 2020 +0300
+
+    Added editor config
+
+commit 5408f24286a9f6dc43d9a2dc8841a555281aeb2e
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sun Sep 27 02:27:23 2020 +0300
+
+    Added editor config
+
+commit 60e0229b50230877bc2d1e9a29dcfee7588625d2
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sun Sep 27 02:05:26 2020 +0300
+
+    New version 1.0.64. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.64
+
+commit f7fc5107b8617f7ab04f29de64bd1b55003dcc18
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Sep 2 23:32:20 2020 +0300
+
+    New version 1.0.63. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.63
+
+commit c17319cc6443fa203b66d3ee285934be7c69050d
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Sep 2 23:02:21 2020 +0300
+
+    New version 1.0.62. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.62
+
+commit c4d2ab48d07b1856f5bc12698d59014f36dfa89b
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Sep 2 23:01:52 2020 +0300
+
+    New version 1.0.61. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.61
+
+commit 42d83cbf1c51b9128de96f5bf66e9a33df15bb97
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Sep 2 00:50:43 2020 +0300
+
+    New version 1.0.60. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.60
+
+commit 46acce61b9534624eeafc45a9b424bd48ac0cdb4
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Aug 12 02:24:18 2020 +0300
+
+    Fix props types
+
+commit 9d6f94987569d6408b089be916cc2de831ba7cc7
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Aug 12 00:45:34 2020 +0300
+
+    New version 1.0.59. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.59
+
+commit d16b5df0337b7aced3c35c8b2162cee8d7df00b7
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Aug 12 00:44:38 2020 +0300
+
+    Addet editor ref prop
+
+commit 3e24ff661f8584902280b30cf834b6d9fb088c18
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Aug 10 22:19:53 2020 +0300
+
+    New version 1.0.58. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.58
+
+commit cfe16d147016b8297605b3e35e6081d50b223619
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Aug 10 10:22:55 2020 +0300
+
+    New version 1.0.57. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.57
+
+commit 7459a8bf20715298f408b4371a74fbb7167ad626
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sun Aug 9 02:45:42 2020 +0300
+
+    New version 1.0.56. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.56
+
+commit af2b76a3e93dc975b4bf7473768a1a099ddd6212
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Sat Aug 8 01:03:22 2020 +0300
+
+    New version 1.0.55. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.55
+
+commit f3db0c88ee66ecd830cd15a85f73aa8a01f88df7
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Aug 5 02:15:33 2020 +0300
+
+    New version 1.0.54. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.54
+
+commit 8b9557129301c9ddfc7dcc487c68a89149311b8a
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Tue Aug 4 23:59:28 2020 +0300
+
+    Update npm
+
+commit 0749596cc0499e6004ab5eada3dc32dbf3ba91be
+Merge: 97344b6 e558a48
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Mon Aug 3 18:20:22 2020 +0300
+
+    Merge pull request #75 from Olliebaba/allow-for-controlled-component
+    
+    Updating change event handling to make field more controlled.
+
+commit 97344b6d4f88d1fdf6bfbd7474de60c8c3ebd3eb
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Fri Jul 24 10:22:19 2020 +0300
+
+    New version 1.0.53. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.53
+
+commit 144d593677dce7f7eb1f526f2647d27dd7440e09
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Fri Jul 24 10:21:53 2020 +0300
+
+    New version 1.0.52. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.52
+
+commit a43ca4ef35d200940e5b31496fd786be0de5ced0
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Tue Jul 7 00:21:00 2020 +0300
+
+    New version 1.0.51. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.51
+
+commit 35aea87a937e3952d1f463d6e679626031ae3db7
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jul 6 00:20:14 2020 +0300
+
+    New version 1.0.50. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.50
+
+commit e558a4872608f32601f54a74586a2c03f98ecb9f
+Author: nemo <nburian@surgeforward.com>
+Date:   Fri Jun 26 16:25:52 2020 -0700
+
+    Updating change event handling to make field more controlled.
+
+commit cc05b732725aeda04552a8dad25bf18dc351aeb2
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Wed Jun 24 23:03:21 2020 +0300
+
+    New version 1.0.49. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.49
+
+commit 5f97e430775cd92eb78c687719ca78cf4bfd2633
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Tue Jun 23 01:36:32 2020 +0300
+
+    New version 1.0.48. Read more https://github.com/jodit/jodit-react/releases/tag/1.0.48
+
+commit 8bb64393c92faa910656e7686a80c6aa09622551
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jun 22 23:13:14 2020 +0300
+
+    New version 1.0.47. Read more https://github.com/xdan/jodit/releases/tag/1.0.47
+
+commit 3e84f4456b736fd162f283bc9d9a2607e8069a23
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jun 22 23:09:31 2020 +0300
+
+    New version 1.0.46. Read more https://github.com/xdan/jodit/releases/tag/1.0.46
+
+commit 35974a2633688f0d04d5ee62717145034d078bf4
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jun 22 22:58:51 2020 +0300
+
+    New version 1.0.45. Read more https://github.com/xdan/jodit/releases/tag/1.0.45
+
+commit e88614deea6f3e3f3f8c4ff0edf951bafeea185f
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jun 22 22:58:16 2020 +0300
+
+    New version 1.0.44. Read more https://github.com/xdan/jodit/releases/tag/1.0.44
+
+commit 941d73d8d3e568807ffb2f88010d5094e9cfde21
+Merge: f60bfb0 0977497
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jun 22 22:55:40 2020 +0300
+
+    Merge branch 'master' of https://github.com/jodit/jodit-react
+
+commit f60bfb0261b3d6cb059679e86a27a556a4ac002f
+Author: v-chupurnov@gmail.com <skoder@ya.ru>
+Date:   Mon Jun 22 22:52:48 2020 +0300
+
+    New version 1.0.43. Read more https://github.com/xdan/jodit/releases/tag/1.0.43
+
+commit 09774973f318ea6c6916f148b55e988eb8eb7d08
+Merge: 6dfe033 346e4a9
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Fri Mar 6 14:09:34 2020 +0300
+
+    Merge pull request #49 from serialine/fix-config-type
+    
+    Fix prop `config` type inference in TypeScript
+
+commit 346e4a97909d5a6fcef9f405d5fa899ccb469661
+Author: Rare Kang <rare@soomgo.com>
+Date:   Fri Mar 6 05:15:55 2020 +0900
+
+    Fix config is optional
+
+commit 0c517ed660726b5ad6173b7398be41d07ededb24
+Author: Rare Kang <rare@soomgo.com>
+Date:   Fri Mar 6 05:07:38 2020 +0900
+
+    Fix prop config to correct Jodit options type
+
+commit 6dfe0339ce65f41df88474afc6f33c9d9761fc7c
+Author: Valera <skoder@ya.ru>
+Date:   Thu Feb 13 02:08:11 2020 +0300
+
+    New version 1.0.42. Read more https://github.com/xdan/jodit/releases/tag/1.0.42
+
+commit 75d1abd0d910739432a99f59c5382f8fa2c61bc5
+Author: Valera <skoder@ya.ru>
+Date:   Sun Feb 9 17:47:21 2020 +0300
+
+    New version 1.0.41. Read more https://github.com/xdan/jodit/releases/tag/1.0.41
+
+commit d99717cde6d69e5dd0d0c750ecb8701406640d02
+Author: Valera <skoder@ya.ru>
+Date:   Fri Feb 7 20:31:17 2020 +0300
+
+    New version 1.0.40. Read more https://github.com/xdan/jodit/releases/tag/1.0.40
+
+commit e94c58a9fe66b999031473cfe45fc8757dbf9862
+Author: Valera <skoder@ya.ru>
+Date:   Thu Feb 6 01:13:50 2020 +0300
+
+    New version 1.0.39. Read more https://github.com/xdan/jodit/releases/tag/1.0.39
+
+commit 765c1d033ce979048c92807b9e30dc5ce8ee5047
+Author: Valera <skoder@ya.ru>
+Date:   Mon Feb 3 02:16:27 2020 +0300
+
+    New version 1.0.38. Read more https://github.com/xdan/jodit/releases/tag/1.0.38
+
+commit ba8b46c79c212311360b56aa00bb3165859eb8ec
+Author: Valera <skoder@ya.ru>
+Date:   Sun Jan 19 14:04:13 2020 +0300
+
+    Removed extra file
+
+commit 7757660ac034bc2d47ff19931cea68bfa82e2b93
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sun Jan 19 13:59:24 2020 +0300
+
+    New version 1.0.37. Read more https://github.com/xdan/jodit/releases/tag/1.0.37
+
+commit a28860fb8f9d0cf1036c76524092ca05d900d270
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sun Jan 19 13:58:51 2020 +0300
+
+    Fixed bug with editor.element after destruct
+
+commit 0fcdd2b589e7b468f75138df8a3ff5baa0213ac3
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Thu Jan 16 21:44:20 2020 +0300
+
+    New version 1.0.36. Read more https://github.com/xdan/jodit/releases/tag/1.0.36
+
+commit 28e2919623c814afc1a25523db8c058c5e2e22aa
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 11 19:31:12 2020 +0500
+
+    New version 1.0.35. Read more https://github.com/xdan/jodit/releases/tag/1.0.35
+
+commit 9b72b5fddbe39156547ff6780270fcbb7b79f10f
+Merge: df61f8d ca0a8e9
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 11 19:30:26 2020 +0500
+
+    Merge branch 'master' of https://github.com/jodit/jodit-react
+
+commit df61f8df0963bfa6e779b0eda7d6ceadb961cf8f
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 11 19:29:56 2020 +0500
+
+    New version 1.0.34. Read more https://github.com/xdan/jodit/releases/tag/1.0.34
+
+commit ca0a8e9ce0827fa258bf6ec5bc6c400535d9536a
+Merge: 1395d67 3b012b7
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Thu Jan 9 22:37:04 2020 +0500
+
+    Merge pull request #40 from Ansvikt/master
+    
+    Added name in textarea and props
+
+commit 3b012b7b80b026e2a8034aaf1fdffac5c4219605
+Author: Anastasia <50668003+Ansvikt@users.noreply.github.com>
+Date:   Thu Jan 9 12:15:30 2020 +0300
+
+    Added name in textarea and props
+
+commit 1395d67b9c3c2fd1a97906c524e1bec6426663c4
+Merge: 61759ba 64a9170
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Wed Dec 25 12:24:28 2019 +0300
+
+    Merge pull request #34 from pashaish/patch-1
+    
+    Update README.md
+
+commit 61759ba003449ed30ef650b120fe542d36078eeb
+Merge: d13fd90 0b87a54
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Wed Dec 25 12:24:11 2019 +0300
+
+    Merge pull request #36 from pashaish/patch-3
+    
+    Update README.md
+
+commit d13fd90eb6f7361ab499bf93e85b33944d62fce7
+Merge: 9a5918f dea5c28
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Wed Dec 25 12:23:48 2019 +0300
+
+    Merge pull request #35 from pashaish/patch-2
+    
+    Update README.md
+
+commit 0b87a54f0847aa2672b0b2d7ebf4c80a4491f5a7
+Author: pashaish <40435304+pashaish@users.noreply.github.com>
+Date:   Wed Dec 25 11:30:58 2019 +0700
+
+    Update README.md
+    
+    focus is lost
+
+commit dea5c28e77f639909bc324a48df5aa03807ee821
+Author: pashaish <40435304+pashaish@users.noreply.github.com>
+Date:   Wed Dec 25 11:18:28 2019 +0700
+
+    Update README.md
+
+commit 64a9170b0b7266f92296b211e501fca916a6b4cb
+Author: pashaish <40435304+pashaish@users.noreply.github.com>
+Date:   Wed Dec 25 11:15:28 2019 +0700
+
+    Update README.md
+
+commit 9a5918fe734daab7f0fd1b73ac0bfc10220990a2
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Dec 14 12:58:36 2019 +0300
+
+    New version 1.0.33. Read more https://github.com/xdan/jodit/releases/tag/1.0.33
+
+commit 8c36183bb01b8d0f587fe3c886704ce87c06a251
+Merge: bf815ed e0d4b38
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Sat Dec 14 12:58:03 2019 +0300
+
+    Merge pull request #31 from netcoding87/onBlur-in-typed-props
+    
+    On blur in typed props
+
+commit e0d4b38e718e0b46a0fcc8233b42ae6090205f83
+Author: Your Name <you@example.com>
+Date:   Sat Dec 14 07:38:01 2019 +0100
+
+    feat: made onChange prop optional
+
+commit b233c6e631bdcad29e1659a85460729eec269bf3
+Author: Your Name <you@example.com>
+Date:   Sat Dec 14 07:37:35 2019 +0100
+
+    feat: added optional onBlur to jodit props
+
+commit bf815ed0a8b371ae655e1b27ae62ceb742f2a337
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Fri Dec 13 16:13:55 2019 +0300
+
+    New version 1.0.32. Read more https://github.com/xdan/jodit/releases/tag/1.0.32
+
+commit 626b0a5851a2444364fb4455861ad41250bda134
+Merge: d60802f 995fbdf
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Fri Dec 13 16:13:05 2019 +0300
+
+    Merge pull request #30 from netcoding87/onBlur-in-typed-props
+    
+    chore: added onBlur to type definition
+
+commit 995fbdfa575bdd08bc68b5ec9c6746f8b96019df
+Author: Your Name <you@example.com>
+Date:   Fri Dec 13 14:00:14 2019 +0100
+
+    chore: added onBlur to type definition
+
+commit d60802fac6f38a2e33a3eda174391bebc6ead307
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Wed Dec 11 21:06:49 2019 +0300
+
+    New version 1.0.31. Read more https://github.com/xdan/jodit/releases/tag/1.0.31
+
+commit 20d5f7ae70f1761cb268d2a4b8dc5e7e42457fdd
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Wed Dec 11 21:06:18 2019 +0300
+
+    Merge branch 'master' of https://github.com/jodit/jodit-react
+    
+    # Conflicts:
+    #       package.json
+
+commit 680cb3d11c759426af60df7ea71675fa89b86023
+Merge: 1fb3dec 1640537
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Wed Dec 11 13:18:24 2019 +0300
+
+    Merge pull request #26 from mitalcoi/patch-1
+    
+    Update README.md
+
+commit 1fb3dec63d19dc6af17250f79c25905b72f11968
+Merge: 72c4bb2 898b1f1
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Wed Dec 11 13:18:07 2019 +0300
+
+    Merge pull request #29 from crowmw/patch-2
+    
+    Fixed playground example
+
+commit 898b1f1d4dd84963d0e737f7782cf0d2c936223e
+Author: Mateusz Wozniak <mat.wozniak@poczta.pl>
+Date:   Wed Dec 11 09:25:44 2019 +0100
+
+    Fixed playground example
+
+commit 72c4bb2f085ce023cc76d52329666ee78e4436ef
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Tue Dec 10 09:54:10 2019 +0300
+
+    New version 1.0.30. Read more https://github.com/xdan/jodit/releases/tag/1.0.30
+
+commit aca56ba7b611365ce6c1e47955716c956f7a8252
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Mon Dec 9 22:29:51 2019 +0300
+
+    New version 1.0.29. Read more https://github.com/xdan/jodit/releases/tag/1.0.29
+
+commit 988396cd9c965a07a4fc6f6821b6eb7dfc874458
+Merge: 9f4919a c85536f
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Mon Dec 9 22:29:10 2019 +0300
+
+    Merge branch 'master' of https://github.com/jodit/jodit-react
+    
+    # Conflicts:
+    #       package.json
+
+commit 9f4919afb402a78451fdc91d393864ceffd38081
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Mon Dec 9 22:27:33 2019 +0300
+
+    New version 1.0.28. Read more https://github.com/xdan/jodit/releases/tag/1.0.28
+
+commit 7c1269ea8073a31c0fc944a9c51bd961cca5b6f7
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Wed Nov 20 10:59:16 2019 +0300
+
+    New version 1.0.27. Read more https://github.com/xdan/jodit/releases/tag/1.0.27
+
+commit 164053766f00d2400c0b7304d0388f065eafe18d
+Author: Sorokin Victor <mitalcoi@users.noreply.github.com>
+Date:   Mon Oct 21 21:06:48 2019 +0300
+
+    Update README.md
+    
+    typo fix
+
+commit c85536fd4ed4389094ce269b061fc3fbad31fcd4
+Merge: dc0f072 351270f
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Fri Sep 6 12:28:29 2019 +0300
+
+    Merge pull request #19 from crowmw/master
+    
+    Fix issues with value update and add proper tabIndex prop
+
+commit dc0f072594af084aa6f29f507ac3166f8f72d243
+Merge: 96497e2 e11c8ec
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Fri Sep 6 12:28:00 2019 +0300
+
+    Merge pull request #20 from crowmw/patch-1
+    
+    Update README.md
+
+commit e11c8ecc313ddf2729ebc484ef17bd5b3ab954e9
+Author: Mateusz Wozniak <mat.wozniak@poczta.pl>
+Date:   Fri Sep 6 10:57:20 2019 +0200
+
+    Update README.md
+
+commit 351270f7aef6dee93ecb5b5e2025307fcfcc8e17
+Author: Mateusz Wozniak <mat.wozniak@poczta.pl>
+Date:   Fri Sep 6 10:46:27 2019 +0200
+
+    Fix issues with value update and add tabIndex prop
+
+commit 96497e299cdb170c6bbe4112537935de365bbcff
+Merge: 5a6d72f 2d4f25c
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Tue Sep 3 16:02:52 2019 +0300
+
+    Merge pull request #18 from crowmw/master
+    
+    Rewriting outdated code (Hooks) and onBlur support
+
+commit 2d4f25c448431ff110a4d92ef73d5c1abe1ba162
+Author: Mateusz Wozniak <mat.wozniak@poczta.pl>
+Date:   Tue Sep 3 11:58:54 2019 +0200
+
+    update jodit package
+
+commit 7f91ba3c49e88d00de58d353badd01ac06ae03e5
+Author: Mateusz Wozniak <mat.wozniak@poczta.pl>
+Date:   Tue Sep 3 11:57:38 2019 +0200
+
+    Using Hooks and fix performance issues
+    
+    Rewriting outdated code (wrong modification of the state) to hooks. Adding onBlur support to improve efficiency when editing larger documents
+
+commit 5a6d72f59e9c631c50902581037daea0d93a5d87
+Merge: 1951a6d 9960d2b
+Author: Valeriy Chupurnov <valerkinch@gmail.com>
+Date:   Tue Apr 2 13:55:44 2019 +0300
+
+    Merge pull request #10 from Bonjour123/Bonjour123-patch-1
+    
+    Make Babel ignore node_modules.
+
+commit 9960d2b58d0353240dd67203aa988bc21d1519b6
+Author: Bonjour123 <lucas.taveau@etu.univ-amu.fr>
+Date:   Tue Apr 2 14:55:11 2019 +0700
+
+    prevent recompilation of node_modules.
+    
+    Compile time divided by 4.5
+
+commit 1951a6d353c19df256c9964becc1f5c6b75a6fa7
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Mon Mar 11 21:53:04 2019 +0300
+
+    New version 1.0.26. Read more https://github.com/xdan/jodit/releases/tag/1.0.26
+
+commit ee3d7a3b46f27fc6673fc995e8e2a97f445bd6bc
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Feb 9 20:03:29 2019 +0300
+
+    New version 1.0.25. Read more https://github.com/xdan/jodit/releases/tag/1.0.25
+
+commit 7b7342f8b07477a6886dde51a3e744fb1c7c0c3e
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:55:55 2019 +0300
+
+    New version 1.0.24. Read more https://github.com/xdan/jodit/releases/tag/1.0.24
+
+commit 0df64a9d7cb54a3b13b4cbc25a2e346c54bc8156
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:48:15 2019 +0300
+
+    New version 1.0.23. Read more https://github.com/xdan/jodit/releases/tag/1.0.23
+
+commit f37562d77d9b12fe5f8766940a498219f54930c9
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:43:38 2019 +0300
+
+    New version 1.0.22. Read more https://github.com/xdan/jodit/releases/tag/1.0.22
+
+commit 10040fc986d62ea2ef149e40f45e5d4a7a91fe99
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:22:41 2019 +0300
+
+    New version 1.0.21. Read more https://github.com/xdan/jodit/releases/tag/1.0.21
+
+commit 249be6ad2d7976e9af5f9bf065d16f7b931a80c4
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:18:44 2019 +0300
+
+    New version 1.0.20. Read more https://github.com/xdan/jodit/releases/tag/1.0.20
+
+commit 3d1e7ebf88c346e5d44d8bc04506fc378d1aacec
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:15:50 2019 +0300
+
+    New version %npm_package_version%. Read more https://github.com/xdan/jodit/releases/tag/%npm_package_version%
+
+commit 05870b347a2e6e54b5cfd0adbc5554ddbf9c9edb
+Author: Valera <v-chupurnov@edadeal.ru>
+Date:   Sat Jan 12 03:03:14 2019 +0300
+
+    New version %npm_package_version%. Read more https://github.com/xdan/jodit/releases/tag/%npm_package_version%
+
+commit 2ac90ef231d6e6a2b02139c05de53641fde8c683
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Mon May 28 16:47:58 2018 +0500
+
+    New version 1.0.17. Read more https://github.com/xdan/jodit/releases/tag/1.0.17
+
+commit feb07a0e157a44a5d12af32cc563f2e8e85c26bd
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Mon May 28 14:22:25 2018 +0500
+
+    New version 1.0.16. Read more https://github.com/xdan/jodit/releases/tag/1.0.16
+
+commit 747b091d2069674c5c0cf7fe4301047090fed1af
+Merge: fdffead 6a46538
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Mon May 28 14:20:36 2018 +0500
+
+    Merge branch 'master' of https://github.com/jodit/jodit-react
+
+commit fdffead7a2997c2ace03cc79839790d5bc33e665
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Mon May 28 14:17:30 2018 +0500
+
+    New version 1.0.15. Read more https://github.com/xdan/jodit/releases/tag/1.0.15
+
+commit fec1e5f2f462177d8d575f25f31d914a9681672e
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Mon May 28 14:12:16 2018 +0500
+
+    Fix https://github.com/jodit/jodit-react/issues/3
+
+commit 6a4653819f988493490844a7d0cf5e5778eef403
+Merge: 51f983c 313c178
+Author: It can be easy <34371585+jodit@users.noreply.github.com>
+Date:   Mon Feb 26 13:03:11 2018 +0500
+
+    Merge pull request #1 from LodeKennes/master
+    
+    added typescript definition
+
+commit 313c17885880c82200b50dcba1cce4df3aad862e
+Author: Lode Kennes <lode@codechamp.be>
+Date:   Fri Feb 23 11:22:12 2018 +0100
+
+    added typescript definition
+
+commit 51f983c74b9f53f3b0b932eebfe899be748e0f79
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 21 16:44:32 2018 +0500
+
+    Added link
+
+commit 7d77f9bb5992df87ccae146f083af1a4c9e5af06
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Thu Feb 8 12:39:19 2018 +0500
+
+    New version 1.0.14. Read more https://github.com/xdan/jodit/releases/tag/1.0.14
+
+commit 66c3d29cb972267e9221b25b2ec22af106df6bde
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 22:46:15 2018 +0500
+
+    New version 1.0.13. Read more https://github.com/xdan/jodit/releases/tag/1.0.13
+
+commit 56a654928d3c430907d42c7cfd35835024c2f364
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 21:29:03 2018 +0500
+
+    New version 1.0.12. Read more https://github.com/xdan/jodit/releases/tag/1.0.12
+
+commit 6cf42f203a11a4aad6aabfec23c27f614b8b9e75
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 21:01:26 2018 +0500
+
+    New version 1.0.11. Read more https://github.com/xdan/jodit/releases/tag/1.0.11
+
+commit ee8ebd1af6b5335d0ca2e8a7cacf40a8982193d3
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 20:51:53 2018 +0500
+
+    New version 1.0.10. Read more https://github.com/xdan/jodit/releases/tag/1.0.10
+
+commit c6d1030aca5d5f7536a24bcb874341b2374cb7a7
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 19:21:22 2018 +0500
+
+    New version 1.0.9. Read more https://github.com/xdan/jodit/releases/tag/1.0.9
+
+commit c7245d62aa7a7010850d79925fbc86f2a748bcaa
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 19:19:02 2018 +0500
+
+    New version 1.0.8. Read more https://github.com/xdan/jodit/releases/tag/1.0.8
+
+commit 232ffa6d65822e54658b715074e9ddbcd70f3f33
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 19:11:45 2018 +0500
+
+    New version 1.0.7. Read more https://github.com/xdan/jodit/releases/tag/1.0.7
+
+commit 648faf6e4e622cde27366089d474c9e0355d45a8
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 18:57:49 2018 +0500
+
+    New version 1.0.6. Read more https://github.com/xdan/jodit/releases/tag/1.0.6
+
+commit 2ef9c8f8449f441657df2b3dbc7794e4eed88cb2
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 18:57:17 2018 +0500
+
+    New version 1.0.5. Read more https://github.com/xdan/jodit/releases/tag/1.0.5
+
+commit d5a6de04b539d6d5e20fa45f94034e65cd7c6121
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 18:56:40 2018 +0500
+
+    New version 1.0.4. Read more https://github.com/xdan/jodit/releases/tag/1.0.4
+
+commit b715e9efe1a03995167cdeea12b8e5c681e0cc3f
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 18:56:29 2018 +0500
+
+    Added demo page
+
+commit 0c03025c2bb8626ae1e82c56c345a27c59819329
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 17:55:07 2018 +0500
+
+    New version 1.0.3. Read more https://github.com/xdan/jodit/releases/tag/1.0.3
+
+commit f2fcd5d57066b7d4153a4d37c570026f0884b764
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 17:53:55 2018 +0500
+
+    New version 1.0.2. Read more https://github.com/xdan/jodit/releases/tag/1.0.2
+
+commit c8c57f1629faca82878188e6ce31d875abe03626
+Author: Chupurnov Valeriy <skoder@ya.ru>
+Date:   Wed Feb 7 17:47:13 2018 +0500
+
+    New version 1.0.1. Read more https://github.com/xdan/jodit/releases/tag/1.0.1
+
+commit fa7c78e48f2a63b45d5aef5c4bfe6144d7831a49
+Author: It can be easy <34371585+jodit@users.noreply.github.com>
+Date:   Fri Dec 8 16:34:15 2017 +0500
+
+    Initial commit

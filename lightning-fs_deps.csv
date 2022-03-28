@@ -1,0 +1,18 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.92  T=0.02 s (922.1 files/s, 39649.4 lines/s)"
+JavaScript,lightning-fs/node_modules/fast-text-encoding/text.js,26,45,116
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-iife.js,4,3,98
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-amd.js,4,3,97
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-cjs.js,3,3,96
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval.mjs,1,3,87
+JavaScript,lightning-fs/node_modules/just-debounce-it/index.js,2,0,22
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/rollup.config.js,1,0,19
+JavaScript,lightning-fs/node_modules/just-once/index.js,4,6,15
+JavaScript,lightning-fs/node_modules/fast-text-encoding/polyfill.js,1,0,9
+JavaScript,lightning-fs/node_modules/fast-text-encoding/text.min.js,0,0,5
+JavaScript,lightning-fs/node_modules/isomorphic-textencoder/browser.js,1,1,5
+JavaScript,lightning-fs/node_modules/isomorphic-textencoder/main.js,0,0,4
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-amd.min.js,0,0,1
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-cjs-compat.min.js,0,0,1
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-iife-compat.min.js,0,0,1
+JavaScript,lightning-fs/node_modules/@isomorphic-git/idb-keyval/dist/idb-keyval-iife.min.js,0,0,1
+SUM,,47,64,577

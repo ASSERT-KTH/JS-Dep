@@ -1,0 +1,64 @@
+\texttt nextjs-woocommerce & 9534 & 508777 & 913 & 0.02 \\ 
+\hline 
+\texttt middie & 1983 & 1627 & 475 & 0.55 \\ 
+\hline 
+\texttt chinese-independent-blogs & 1025 & 3331 & 1572 & 0.24 \\ 
+\hline 
+\texttt serverless-webpack & 38471 & 2694326 & 191 & 0.01 \\ 
+\hline 
+\texttt imgix.js & 31313 & -29253 & 145 & 15.2 \\ 
+\hline 
+\texttt strong-soap & 31892 & 124803 & 166 & 0.2 \\ 
+\hline 
+\texttt contentful-cli & 46880 & 1087712 & 159 & 0.04 \\ 
+\hline 
+\texttt brave-browser & 928 & 4721 & 29 & 0.16 \\ 
+\hline 
+\texttt gh-action-data-scraping & 152886 & 16881 & 101 & 0.9 \\ 
+\hline 
+\texttt ut_metadata & 466 & 2177 & 111 & 0.18 \\ 
+\hline 
+\texttt auspice & 39396 & 1178715 & 146 & 0.03 \\ 
+\hline 
+\texttt balanceofsatoshis & 45576 & 816157 & 126 & 0.05 \\ 
+\hline 
+\texttt f1 & 24525 & 896154 & 205 & 0.03 \\ 
+\hline 
+\texttt jodit-react & 410 & 206844 & 2307 & 0.0 \\ 
+\hline 
+\texttt webtorrent.io & 18690 & 516407 & 154 & 0.03 \\ 
+\hline 
+\texttt devtools & 182439 & 2440089 & 300 & 0.07 \\ 
+\hline 
+\texttt Absinthe & 229467 & 304258 & 169 & 0.43 \\ 
+\hline 
+\texttt register & 14134 & 476585 & 124 & 0.03 \\ 
+\hline 
+\texttt cz-cli & 26221 & 161432 & 73 & 0.14 \\ 
+\hline 
+\texttt next-react-server-components & 955 & 276744 & 563 & 0.0 \\ 
+\hline 
+\texttt openhab-google-assistant & 19649 & 17246 & 85 & 0.53 \\ 
+\hline 
+\texttt serverless-layers & 11478 & 60745 & 114 & 0.16 \\ 
+\hline 
+\texttt hosts & 2054 & 25197 & 456 & 0.08 \\ 
+\hline 
+\texttt react-command-palette & 17564 & 68414 & 331 & 0.2 \\ 
+\hline 
+\texttt Book & 2048 & 523886 & 191 & 0.0 \\ 
+\hline 
+\texttt Vieb & 27858 & 84979 & 119 & 0.25 \\ 
+\hline 
+\texttt auth0.js & 36952 & 35015 & 168 & 0.51 \\ 
+\hline 
+\texttt OpenAPI-Specification & 8643 & 82015 & 59 & 0.1 \\ 
+\hline 
+\texttt gun & 56601 & 35362 & 1015 & 0.62 \\ 
+\hline 
+\texttt monday-ui-react-core & 80448 & 179459 & 268 & 0.31 \\ 
+\hline 
+\texttt lightning-fs & 17730 & -12400 & 22 & 3.33 \\ 
+\hline 
+\texttt audiobookshelf & 54567 & 239309 & 155 & 0.19 \\ 
+\hline 

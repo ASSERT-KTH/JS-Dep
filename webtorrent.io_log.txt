@@ -1,0 +1,4510 @@
+commit f210db253fe77e5d08cb1bb66ff917479fddba0f
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Mar 27 21:04:26 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.11
+
+commit cd3354b9a4ad5f3e09a274e5c9a396a7c895add2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sat Mar 26 20:46:46 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.9
+
+commit a903fb341fc44b03372fd35a56ebe4cde5f46909
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Mar 25 04:18:02 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.8
+
+commit 98b410e0f8007fbf3f38b0f91d51c90df9fff5f3
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Mar 24 22:57:02 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.7
+
+commit 31323f84aacbb7f984992822bc5bca93b0420dc6
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Mar 11 17:26:25 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.6
+
+commit 274aea669ba8953290a2b9c1f6acc72c99d04a1d
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Sun Mar 6 11:41:39 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.5
+
+commit 4230973007355742b758c56167eed6fd3f9221b7
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Mar 3 12:14:22 2022 +0000
+
+    fix(deps): update dependency webtorrent to v1.8.4
+
+commit 257ecf262543d2f869d142daa6b77a8c6a1cfcfc
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:33:32 2022 +0100
+
+    fix(deps): update dependency body-parser to v1.19.2 (#198)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit 08c1f5c04b15e7bef91bd1a081ab2b07c707d282
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:32:57 2022 +0100
+
+    fix(deps): update dependency express-rate-limit to v5.5.1 (#192)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit 443ee512038ee1ebf23d5480e7220b75be700245
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:24:35 2022 +0100
+
+    chore(deps): update actions/setup-node action to v3 (#207)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit 2902a69b551232ce77ccaedd74b92240b80bf2e3
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:24:10 2022 +0100
+
+    fix(deps): update dependency webtorrent to v1.8.3 (#205)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit b76901bca907fa8ddc927f30c4500ce35690cb8f
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:23:48 2022 +0100
+
+    fix(deps): update dependency multer to v1.4.4 (#182)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit e242ee5ad6f4f5a33fc871770b341e6b3d536c0a
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:21:39 2022 +0100
+
+    fix(deps): update dependency express to v4.17.3 (#199)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit bd4cb0eba16476b78d0573301c6290109ae341c4
+Author: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:19:03 2022 +0100
+
+    chore(deps): update actions/checkout action to v3 (#206)
+    
+    Co-authored-by: Renovate Bot <bot@renovateapp.com>
+
+commit 27406bd059926b1474a9b0d24af418515e873038
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 03:00:14 2022 +0100
+
+    chore(deps): bump semver-regex from 3.1.2 to 3.1.3 (#203)
+    
+    Bumps [semver-regex](https://github.com/sindresorhus/semver-regex) from 3.1.2 to 3.1.3.
+    - [Release notes](https://github.com/sindresorhus/semver-regex/releases)
+    - [Commits](https://github.com/sindresorhus/semver-regex/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: semver-regex
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit ec43ba0177c83b6734ed7f08b068ec536e6d79e1
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 02:59:50 2022 +0100
+
+    chore(deps): bump node-fetch from 2.6.1 to 2.6.7 (#204)
+    
+    Bumps [node-fetch](https://github.com/node-fetch/node-fetch) from 2.6.1 to 2.6.7.
+    - [Release notes](https://github.com/node-fetch/node-fetch/releases)
+    - [Commits](https://github.com/node-fetch/node-fetch/compare/v2.6.1...v2.6.7)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: node-fetch
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit d215866a66a2f52455578cca662e30ea42146344
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 02:57:45 2022 +0100
+
+    chore(deps): bump simple-get from 4.0.0 to 4.0.1 (#202)
+    
+    Bumps [simple-get](https://github.com/feross/simple-get) from 4.0.0 to 4.0.1.
+    - [Release notes](https://github.com/feross/simple-get/releases)
+    - [Commits](https://github.com/feross/simple-get/compare/v4.0.0...v4.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: simple-get
+      dependency-type: direct:production
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit b5a4fb038ad763683f53f9269ebbdb92bf3efdb4
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Mar 3 02:57:12 2022 +0100
+
+    chore(deps): bump cached-path-relative from 1.0.2 to 1.1.0 (#201)
+    
+    Bumps [cached-path-relative](https://github.com/ashaffer/cached-path-relative) from 1.0.2 to 1.1.0.
+    - [Release notes](https://github.com/ashaffer/cached-path-relative/releases)
+    - [Commits](https://github.com/ashaffer/cached-path-relative/commits)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: cached-path-relative
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+commit 90057b528bc9b329eeddd4bb4da2974ec2a919cf
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Nov 9 18:47:28 2021 +0000
+
+    chore(deps): update dependency nodemon to v2.0.15
+
+commit aea5e2bab135f46f9b3f5ce6d4a888631b11ce02
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 26 17:18:21 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.8
+
+commit 1d2343632fafe190f98e3d48b65474a512d52556
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Oct 25 15:33:29 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.7
+
+commit 002f691c8df0691694af093ce517aaefed6a2a8c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Oct 20 09:58:10 2021 +0000
+
+    chore(deps): update dependency nodemon to v2.0.14
+
+commit c9d1e411dd386be9d8f73686f50e27d7c28f36c2
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Oct 5 14:24:37 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.6
+
+commit ec991e7e86e7b836e2d5e3ba22d54352ef78ced3
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Sep 23 22:01:51 2021 +0000
+
+    chore(deps): update dependency nodemon to v2.0.13
+
+commit 56a66dbea1b45ea7b57a47350701d0674cc34f6c
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Sep 2 13:00:55 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.5
+
+commit cd95a4029531c8969c05c3e2bef56bfdafd931bf
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Wed Aug 25 22:11:28 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.4
+
+commit 9a3bef5012ace49aef2db775eed6082333558fa4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Aug 20 17:16:57 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.3
+
+commit a95faaf063235466cd405dfc58b9f8b47f249673
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Aug 20 01:19:53 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.1
+
+commit 41b857df4130f2e5f9fc6fbc5d0e70b00c50ff69
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Aug 19 22:50:27 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.5.0
+
+commit 354ec9e774f1721bca2eb1d1f6ad783b644211ca
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Aug 17 19:49:07 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.4.0
+
+commit 8b0d981cdd14f30f9115b21ea53121c60d9fa1a9
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Mon Aug 16 12:09:58 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.3.10
+
+commit 792d4133a67be8b872f3fe9103f5fefe86bdab56
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Aug 6 23:39:44 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.3.9
+
+commit 846f37fbc83161a7601bf04e56cf3ba0d7cbc4ae
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Fri Aug 6 03:03:04 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.3.8
+
+commit 23935b21d7223cb78e07439a4a9e83a9d6f25763
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Aug 3 23:48:05 2021 +0000
+
+    fix(deps): update dependency express-rate-limit to v5.3.0
+
+commit e7c59cf27539e8cb197cdc7658d3ae03a8d0bcc4
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Aug 3 23:48:58 2021 +0000
+
+    fix(deps): update dependency rollbar to v2.24.0
+
+commit c5822bf7bf651736630299f7525f7e0a07b5b7b6
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Aug 5 08:01:37 2021 +0000
+
+    chore(deps): update dependency nodemon to v2.0.12
+
+commit 8f93ed3596e1129ef0affee67d9f6ed09e7c38d2
+Merge: dc53cc6 3dfb8b1
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Thu Aug 5 11:20:15 2021 -0500
+
+    Merge pull request #172 from webtorrent/renovate_highlight.js-10.x
+    
+    fix(deps): update dependency highlight.js to v10.7.3
+
+commit dc53cc64767478cf85844dee5ad4b04c8366f0b1
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Aug 5 04:22:40 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.3.7
+
+commit 9a8badc7adf7ef9a09f3994f114e9dea03bde7e1
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Thu Aug 5 00:59:24 2021 +0000
+
+    fix(deps): update dependency webtorrent to v1.3.6
+
+commit 3dfb8b113b54074d701cf95c1eb0b57e5a146b00
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Aug 3 23:47:14 2021 +0000
+
+    fix(deps): update dependency highlight.js to v10.7.3
+
+commit 3663c2315d2d4006a6017c819c91ccca23907fa2
+Merge: 66f4014 d3d9107
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Tue Aug 3 18:40:43 2021 -0500
+
+    Merge pull request #170 from webtorrent/renovate_pin-dependencies
+    
+    fix(deps): pin dependencies
+
+commit d3d910758cefa782450741b43ae2d5ef40f51a30
+Author: Renovate Bot <bot@renovateapp.com>
+Date:   Tue Aug 3 23:36:36 2021 +0000
+
+    fix(deps): pin dependencies
+
+commit 66f4014b4adefa4d2dc003b3c1f920b520176caf
+Author: Diego Rodríguez Baquero <github@diegorbaquero.com>
+Date:   Tue Aug 3 18:34:16 2021 -0500
+
+    chore: add renovate config
+
+commit 55735dea2b7e1f307e1374efb6e9c89b519ef50f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 16 21:35:46 2021 -0700
+
+    Update package-lock.json
+
+commit db0d9283fb4af30bf6e54b54af107a1ad1a2418d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 16 21:25:00 2021 -0700
+
+    update sponsor image
+
+commit cb5696983c8fe7d5797b8fcc679cb719cfa11d81
+Merge: 794c837 34e5c4b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 09:08:11 2021 -0700
+
+    Merge pull request #168 from webtorrent/actions
+
+commit 34e5c4bf9403d1c673d94a322d4d7b8fcdb565a9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 09:05:35 2021 -0700
+
+    standard: ignore tmp/
+
+commit 85b17f6d5ea5661c03fc8b816f6491e720e5d206
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 09:04:13 2021 -0700
+
+    Support package-lock v2
+    
+    Use latest webtorrent from git for docs using git CLI instead of npm since it seems to remove the docs/ folder.
+
+commit 13d16480c0420898cd3812fa3ef726b6714e5353
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:57:58 2021 -0700
+
+    Update package-lock.json
+
+commit 794c8379fd1219b444f052bfc68f794a72e3b312
+Merge: 6e694df f9a2d2f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 09:03:28 2021 -0700
+
+    Merge pull request #167 from webtorrent/actions
+
+commit f9a2d2f1c10055f0d7e24bc264aaa7750915b879
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:54:17 2021 -0700
+
+    Add GitHub Actions; Remove Travis
+
+commit 6e694df679d17d5d14c2d5e667a3e99b722efe59
+Merge: e229731 750e853
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:53:13 2021 -0700
+
+    Merge pull request #166 from webtorrent/deps
+
+commit 750e853545ef3488526a91381418f755ba892b14
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:50:39 2021 -0700
+
+    watchify 4.0.0
+
+commit 7bb5ffb8b8002e471b1a02430435d4966da6398d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:50:23 2021 -0700
+
+    bump deps
+
+commit 36922926ea710a7780d51354fb69ddb7df875ad3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:49:48 2021 -0700
+
+    remove buggy tinyify
+
+commit 441e53b3a9a4abd5db743ffb0657d0972260e2b6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:49:11 2021 -0700
+
+    browserify 17
+
+commit e229731ece08165c322b98b7f79f58d788269957
+Merge: a9533d3 94ee76a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 2 08:47:38 2021 -0700
+
+    Merge pull request #161 from webtorrent/dependabot/npm_and_yarn/highlight.js-10.4.1
+
+commit a9533d37b1d5ba5a65ddb8fa33d96c6afaef5bc9
+Merge: 7663349 ba77b3d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 1 13:50:08 2021 -0700
+
+    Merge pull request #164 from webtorrent/dependabot/npm_and_yarn/pug-3.0.1
+    
+    Bump pug from 3.0.0 to 3.0.1
+
+commit 7663349699d572a5e708a620419fd2846fff2e23
+Merge: 2f80bb6 73959c8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 1 13:49:44 2021 -0700
+
+    Merge pull request #162 from webtorrent/dependabot/npm_and_yarn/ini-1.3.8
+    
+    Bump ini from 1.3.5 to 1.3.8
+
+commit 2f80bb61751ffd355d76798beabd223e5ad33236
+Merge: 85d2638 5ea1f01
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 14 10:28:18 2021 -0700
+
+    Merge pull request #165 from webtorrent/links
+    
+    Add links to GH Discussions, Discord, Wormhole
+
+commit 5ea1f01c6825451f3b5e3d14a1f30e159298fe3b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 14 10:01:32 2021 -0700
+
+    Add links to GH Discussions, Discord, Wormhole
+
+commit 85d26383206caf6f965bc89a8b3bef015693bbd5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 3 18:54:37 2021 -0700
+
+    wormhole logo
+
+commit 934e0f02ea4053956ff75ce46c4fa8a3791259b0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 3 18:52:37 2021 -0700
+
+    wormhole logo
+
+commit 0dd348b225f0dda8d05b3731b620ea85161f5019
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 3 18:45:33 2021 -0700
+
+    add wormhole sponsor
+
+commit 4af350fad04e842c48be5125d853d4ea2fdf9784
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 3 18:54:33 2021 -0800
+
+    package-lock v2
+
+commit ba77b3d56138def7b812be7a7705fa9069ab4511
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 3 07:18:10 2021 +0000
+
+    Bump pug from 3.0.0 to 3.0.1
+    
+    Bumps [pug](https://github.com/pugjs/pug) from 3.0.0 to 3.0.1.
+    - [Release notes](https://github.com/pugjs/pug/releases)
+    - [Commits](https://github.com/pugjs/pug/compare/pug@3.0.0...pug@3.0.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 73959c8a6ffd23f0197dfcd44212bdb59d6929ac
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 3 07:16:14 2021 +0000
+
+    Bump ini from 1.3.5 to 1.3.8
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.8.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.8)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit da31381504387975b6526684fb60fb8a1aba40cd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 2 21:29:52 2021 -0800
+
+    Update deploy.sh
+
+commit 24a0ba236aeb0a6be5d12e43c4bd31f322837207
+Merge: 2c31743 b3f176c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 2 21:29:28 2021 -0800
+
+    Merge pull request #163 from webtorrent/dependabot/npm_and_yarn/pug-code-gen-3.0.2
+    
+    Bump pug-code-gen from 3.0.1 to 3.0.2
+
+commit b3f176c252dee7f5167e3531f91b2f90c15dd0e7
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Mar 3 02:13:16 2021 +0000
+
+    Bump pug-code-gen from 3.0.1 to 3.0.2
+    
+    Bumps [pug-code-gen](https://github.com/pugjs/pug) from 3.0.1 to 3.0.2.
+    - [Release notes](https://github.com/pugjs/pug/releases)
+    - [Commits](https://github.com/pugjs/pug/compare/pug-code-gen@3.0.1...pug-code-gen@3.0.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 94ee76a3efbaf29c078c9d5595a2ca04fd024fae
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Dec 4 20:32:03 2020 +0000
+
+    Bump highlight.js from 10.1.2 to 10.4.1
+    
+    Bumps [highlight.js](https://github.com/highlightjs/highlight.js) from 10.1.2 to 10.4.1.
+    - [Release notes](https://github.com/highlightjs/highlight.js/releases)
+    - [Changelog](https://github.com/highlightjs/highlight.js/blob/master/CHANGES.md)
+    - [Commits](https://github.com/highlightjs/highlight.js/compare/10.1.2...10.4.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 2c317439ae1e5089a75c42c973c991b94f4a58e0
+Merge: a61db45 d42bef7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Nov 25 22:34:01 2020 +0100
+
+    Merge pull request #160 from webtorrent/dependabot/npm_and_yarn/highlight.js-10.1.2
+    
+    Bump highlight.js from 10.1.1 to 10.1.2
+
+commit d42bef72736a569141f8f4c6d6e697e1510b60df
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Nov 24 23:25:41 2020 +0000
+
+    Bump highlight.js from 10.1.1 to 10.1.2
+    
+    Bumps [highlight.js](https://github.com/highlightjs/highlight.js) from 10.1.1 to 10.1.2.
+    - [Release notes](https://github.com/highlightjs/highlight.js/releases)
+    - [Changelog](https://github.com/highlightjs/highlight.js/blob/10.1.2/CHANGES.md)
+    - [Commits](https://github.com/highlightjs/highlight.js/compare/10.1.1...10.1.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit a61db45366d859dbaeebe740520949529c797c3c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Oct 28 09:55:48 2020 -1000
+
+    standard
+
+commit 1c4f55850a47cf95e619f8c51757aee9f6abbd47
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Aug 28 17:57:11 2020 -0700
+
+    WebTorrent Desktop 0.24.0
+
+commit 06da51af1b0640f41070f9068c693484ec9c58da
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 20 15:51:56 2020 -0700
+
+    deps
+
+commit 4f2919ac3ef65992497b842aaee0e3c3bef7fa1a
+Merge: 7f5a777 2c83eb4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 21 00:49:52 2020 +0200
+
+    Merge pull request #154 from webtorrent/greenkeeper/pug-3.0.0
+
+commit 7f5a777754d86ddb3a553c6bc994dcae758c6446
+Merge: 0f2e2d1 9a2700a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 21 00:49:11 2020 +0200
+
+    Merge pull request #155 from webtorrent/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+commit 9a2700ab8c6235381a0c4ddd221d202285f4621d
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 20 15:46:10 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+commit 0f2e2d1a3317dd60d91f0368df4955e2e42db283
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 15 20:43:49 2020 -0700
+
+    WebTorrent Desktop 0.23.0
+
+commit b178cfc983709ddc439dd87a02f67b68af5a02f5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 15 19:15:06 2020 -0700
+
+    update webtorrent desktop to 0.22.0
+
+commit cf7344179bbd0e4eee45c16ec653580060965889
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 8 12:00:27 2020 -0700
+
+    Redirect alternate domain names to canonical
+
+commit 8491b816b18638c9cda9904514f6aba3675a3a1b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jun 15 12:07:41 2020 -0700
+
+    remove /500
+
+commit 2c83eb4189de66d12563f4a53bfcc132cf65788a
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Mon May 25 12:22:49 2020 +0000
+
+    chore(package): update lockfile package-lock.json
+
+commit 1da69b281230d4103d6d1c5d1b744256c6c483e1
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Mon May 25 12:22:45 2020 +0000
+
+    fix(package): update pug to version 3.0.0
+
+commit c5f0a28d6a3ae6390f55e020032ccdfebf88f7b0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 19 13:30:39 2020 -0700
+
+    supporter
+
+commit 36cc6471feb1bff7bfc4e4b9f677b04a5c09e128
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 18 13:25:13 2020 -0700
+
+    Update deploy.sh
+
+commit b35f45b374bc2987565f6c3cf30e635bfec9801f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 18 13:22:45 2020 -0700
+
+    add post-download page
+
+commit 651edc3c41ca1bb170ff646caf8b1d259728a007
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 12 11:24:02 2020 -0700
+
+    open source supporter
+
+commit 7f280d2e4f920f764374f32b50838c53213e64e2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 11:03:15 2020 -0700
+
+    add package-lock.json
+
+commit 2c749a87992e580052078f36c93bda3099fb3634
+Merge: 7d930ae 373f28f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 11:00:51 2020 -0700
+
+    Merge pull request #145 from webtorrent/greenkeeper/p2p-graph-2.0.0
+
+commit 7d930aefa34af2c2f17a7d35193e933e9bd47e83
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 11:00:28 2020 -0700
+
+    remove mkdirp
+
+commit a5e2dd131e303f16eecd6171dda0ecbdd1e4a831
+Merge: 6da5553 c1aefa6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 10:59:40 2020 -0700
+
+    Merge pull request #146 from webtorrent/greenkeeper/nodemon-2.0.0
+
+commit c1aefa66c1a7894f27daea386fa6b3d5240a628e
+Merge: f24bd27 6da5553
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 10:59:31 2020 -0700
+
+    Merge branch 'master' into greenkeeper/nodemon-2.0.0
+
+commit 6da5553370ca4031f29370be019af5ee8e40f405
+Merge: c19a29f aed5bc2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 10:58:58 2020 -0700
+
+    Merge pull request #152 from webtorrent/greenkeeper/husky-4.2.5
+
+commit c19a29f64c6068fbe0b3271803c9f1fad7791f95
+Merge: 43d0bab c35e8bd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 10:58:33 2020 -0700
+
+    Merge pull request #151 from webtorrent/greenkeeper/semver-7.3.2
+
+commit 43d0bab2e44b48b8ca82fc95d4520ca19f1aa03b
+Merge: 14de400 e528f14
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 10:57:56 2020 -0700
+
+    Merge pull request #150 from webtorrent/greenkeeper/highlight.js-10.0.0
+
+commit 14de400af930d374111a9b72edace5a090d3c7d3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 10 09:29:34 2020 -0700
+
+    Update nginx.conf
+
+commit e528f14f5b5f62491da07c8b4be56e629026791c
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Apr 22 04:11:37 2020 +0000
+
+    fix(package): update highlight.js to version 10.0.0
+
+commit c35e8bd67c61dfe7ef885eb633fdbca3b4322d66
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Tue Apr 14 17:45:49 2020 +0000
+
+    fix(package): update semver to version 7.3.2
+    
+    Closes #147
+
+commit aed5bc2f5552525752297464773ff3808ae9387f
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Apr 10 02:34:24 2020 +0000
+
+    chore(package): update husky to version 4.2.5
+    
+    Closes #148
+
+commit 6e3651b4047b4ad70db23f68c310f6a9a8cd3be9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 4 11:22:13 2020 -0800
+
+    update sponsor
+
+commit fe0086eaba74f911d6de6afbcc646a6d85c3a282
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 4 06:44:59 2020 -0800
+
+    add enya sponsor
+
+commit cd09a1d38b5bdf1fc073d9c01bbb5e5fa3353897
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jan 3 14:42:43 2020 -0800
+
+    Update rollbar.js
+
+commit d24733060b8a0de5b2adfcd2d3aaa31ca790d78d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Dec 29 21:40:19 2019 -0800
+
+    listen on localhost only
+
+commit f24bd276f478ac18099168b49172048a25566e5e
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Nov 20 15:55:16 2019 +0000
+
+    chore(package): update nodemon to version 2.0.0
+
+commit 373f28fd9271ae261a894bc5e140d1e67496436c
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Nov 13 00:14:20 2019 +0000
+
+    fix(package): update p2p-graph to version 2.0.0
+
+commit 5b22f44d232b450fee4d554290985e14b8bb7904
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Nov 8 15:11:06 2019 -0800
+
+    Fix layout on Firefox
+
+commit 2c58253b5e63024abace7c0dfb9d99d2bc7d98e5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Nov 6 09:27:34 2019 -0800
+
+    add tinyify
+
+commit 6c751e5c59c4c4cc71d8dd85907b15591b7ea966
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Nov 6 09:09:24 2019 -0800
+
+    reduce parallel limit
+
+commit d3dc63c13fc2b6cfac0fca1388e8b4f0b45e3bcf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Nov 6 08:51:14 2019 -0800
+
+    Update deploy.sh
+
+commit a63063f502d5c240a157c418f0c38cb551d231bf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Nov 1 11:16:20 2019 -0700
+
+    stop sending join message to feross
+
+commit 6cf56f36300d8501791c38d79f10660562705c41
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Oct 23 18:58:08 2019 -0700
+
+    update deploy script
+
+commit 6c7ac87e5496ad46d7bbfcf592f50f6f0dfab0ca
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Oct 23 18:19:47 2019 -0700
+
+    Update trigger-deploy.sh
+
+commit ea58da70f67b49e01312e1cc6551ea7cac1e4c2e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Oct 23 18:17:00 2019 -0700
+
+    add trigger deploy script
+
+commit fbdbc75377f0d2ce5161165275a301182841f8a1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 14 21:23:14 2019 -0700
+
+    linux -> ubuntu
+
+commit 06ef27184297b3352a09611eca02037e91eabe4f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 14 21:22:57 2019 -0700
+
+    fix ubuntu download url
+
+commit d09289183cad4f7db5d6a836525b7cf4592bef59
+Merge: 930dc92 b9d4650
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 15 02:34:19 2019 +0200
+
+    Release WebTorrent Desktop 0.21.0 (#144)
+    
+    Release WebTorrent Desktop 0.21.0
+
+commit b9d4650b0ba32bfa1562bfecde2eee51d38e2efb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 14 17:23:44 2019 -0700
+
+    Release WebTorrent Desktop 0.21.0
+    
+    Fixes: https://github.com/webtorrent/webtorrent-desktop/issues/1674
+
+commit 930dc929017da11487d4a8c1c948fc19d9f9845b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 7 15:52:27 2019 -0700
+
+    Fix svg wrapper blocking header links
+
+commit 49c2d1af42bef27d50bde66e000ba7daae9df084
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 18 11:48:45 2019 -0700
+
+    add discord irc bot
+
+commit 3af4f97cea51c091afc1efcae6f86977e275065f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 13 12:24:39 2019 -0700
+
+    ignore lgtm warnings
+
+commit b91657799cdb07f6639f250f40dcc6bcbc7c1658
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 13 12:21:18 2019 -0700
+
+    add rate limit to crash-report endpoint
+
+commit 39f7e12b7d5c0b6b966f133c2763fb1f980775f4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 7 13:07:23 2019 -0700
+
+    Create WebTorrent.svg
+
+commit 4decf06d04fab70f34a70c7b8093861f53ac1579
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 7 13:05:37 2019 -0700
+
+    update webtorrent logos
+
+commit 4fd2b51be0040b8b162991eba7f54397be347889
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 7 10:44:16 2019 -0700
+
+    Fix code for remarkable v2
+
+commit 17e0ce225e8fe147442c0deaaa4038ed6315ec60
+Merge: 8f3ea6c a590e7e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 7 10:42:16 2019 -0700
+
+    Merge pull request #143 from webtorrent/greenkeeper/remarkable-2.0.0
+    
+    Update remarkable to the latest version 🚀
+
+commit a590e7efd0a9fc412a52f92d5f7cdcd6152da696
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Aug 7 12:28:38 2019 +0000
+
+    fix(package): update remarkable to version 2.0.0
+
+commit 8f3ea6cce4ca6421704e32f3601721b4f64f6103
+Merge: 9b94fae aacbc56
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 3 17:06:05 2019 -0700
+
+    Merge pull request #142 from sonicdoe/no-var
+    
+    Use const and let instead of var
+
+commit aacbc566d4f7a35f0e9430c1453fa17494e40417
+Author: Jakob Krigovsky <jakob@krigovsky.com>
+Date:   Sat Aug 3 10:13:01 2019 +0200
+
+    Use const and let instead of var
+
+commit 9b94faeac655e60226422dadd2a7c951934aab5b
+Merge: 5206479 7ada46c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 20 12:57:53 2019 -0700
+
+    Merge pull request #141 from webtorrent/greenkeeper/highlight.js-9.15.8
+    
+    chore(package): update highlight.js to version 9.15.8
+
+commit 52064790675269b54bc0c78033bc11f9ef7e5425
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 11 14:35:39 2019 -0700
+
+    delete adsense test
+
+commit f1995d64f9ef9fb24be688b51806bb3f8f4e97ae
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 4 22:01:16 2019 -0700
+
+    add husky
+
+commit b6d63ec0ac023bfbf61682080f2efab961069eaf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 4 21:49:55 2019 -0700
+
+    fix usage of deprecated 'url' package
+
+commit abd8d90cef5b8c7b41a27de4b0d713e3fef99b15
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 3 17:54:29 2019 -0700
+
+    remove old site verification files
+
+commit 06512121ec4238f2217a83d55b86522ea53d97dd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 3 17:54:19 2019 -0700
+
+    carbon
+
+commit fec4ce7fb3cf349aead1f6b972774f6a7bf0c3c5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 3 17:54:06 2019 -0700
+
+    remove popchest
+
+commit b7264b05fbb8036719722f5203d2a0c037565916
+Merge: 05a46db 1b73b14
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Wed Jul 3 12:21:07 2019 -0500
+
+    Merge pull request #140 from webtorrent/greenkeeper/semver-6.2.0
+    
+    fix(package): update semver to version 6.2.0
+
+commit 1b73b14efb0c5af6ae8d82deb45dc4f4a221bc09
+Author: greenkeeper[bot] <23040076+greenkeeper[bot]@users.noreply.github.com>
+Date:   Mon Jul 1 23:16:09 2019 +0000
+
+    fix(package): update semver to version 6.2.0
+    
+    Closes #138
+
+commit 05a46db584d71a8f892be8e37dd42c87a0e442e3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jun 29 14:15:53 2019 -0700
+
+    remove 500 file
+
+commit 8d7e8dd20a3dff299cd185997629d3dfcb9d0592
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jun 28 18:24:57 2019 -0700
+
+    add deploy script
+
+commit 927da8dfebdc36ef946ea7eb009a2a47a450e9c9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jun 28 18:24:41 2019 -0700
+
+    Update nginx.conf
+
+commit 610eb6688639938b4709dd7e243639c4dc437f56
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jun 27 16:41:35 2019 -0700
+
+    Update nginx.conf
+
+commit 4480d2a24ef0d2d09f5c23c1c9d62e5cc3c3e6fe
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jun 27 15:26:07 2019 -0700
+
+    add http request logging
+
+commit 52178359b05df8fefe8ed9f8cf4fcc14f863d51d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 25 16:17:09 2019 -0700
+
+    adsense test
+
+commit 7ada46c239e8e4e4a4835eec72a6dee9c94291db
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed May 29 07:35:19 2019 +0000
+
+    chore(package): update highlight.js to version 9.15.8
+
+commit 9414415fd660772948ffc2d56f193abd688a3605
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Feb 11 17:49:40 2019 -0800
+
+    update secret format
+
+commit 5f49be157b93c83a7d153c992ae57f830f13b326
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Feb 11 17:40:33 2019 -0800
+
+    const
+
+commit aa570918a14ee571db7754bdb93a47649c07624c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Feb 11 17:29:41 2019 -0800
+
+    Fix gitter irc bot
+    
+    Needed to supply a password for the gitter bot user, since we blocked out anon users on IRC because of spam reasons
+
+commit 5b86cb6a79c806c0400c87a8565c5be6a4a040db
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 23 16:46:14 2019 -0800
+
+    Update brave-rewards-verification.txt
+
+commit e50a40f10472c72cc467440e5a7468b0abcdce6f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 23 16:43:58 2019 -0800
+
+    Create brave-rewards-verification.txt
+
+commit 78e3c8f81b7f7f47ee5b03919cb4d661adc89433
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Dec 1 18:31:45 2018 -0800
+
+    remove IA link
+
+commit 3796feee4478ea343dcdf0fc3c91549cd270d25d
+Merge: bcdd190 424e1d0
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Wed Nov 28 17:18:50 2018 -0500
+
+    Merge pull request #135 from webtorrent/greenkeeper/nodemon-1.18.7
+    
+    chore(package): update nodemon to version 1.18.7
+
+commit 424e1d09cdbafa780f6d654aee54e51ee47674e1
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Tue Nov 27 09:05:28 2018 +0000
+
+    chore(package): update nodemon to version 1.18.7
+
+commit bcdd190f735b1dc9a29607216e5e46b710958138
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Nov 1 13:12:14 2018 -0700
+
+    update sponsors
+
+commit 0eafcc11516004297bc059ba91c8a1db4d94d9e5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Oct 21 20:13:29 2018 -0700
+
+    ignore 400 and 416 errors
+
+commit b4ca7141193de241b9c13b66f290719afdcd881b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 29 20:30:59 2018 -0700
+
+    Fix TypeError: Cannot read property 'filename'
+
+commit b493e596488897c94f10644147e4dd9308c453ff
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Sep 4 19:41:46 2018 -0700
+
+    ignore Range Not Satisfiable errors
+
+commit bb967af2d7245411d3d9594e16eb217fdb04dbc5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 3 15:38:18 2018 -0700
+
+    opbeat -> rollbar
+
+commit 4723079d20eb31b017fda0258b54bbb34b7ff01c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 30 02:17:58 2018 -0700
+
+    add OCSP stapling
+
+commit 8299425a9b6c558d401171ad7b485a3c19325ef9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 28 19:36:13 2018 -0700
+
+    standard
+
+commit 0e7bc43a1632571a684135bf81d6c65b2a9b005f
+Merge: d9f53b7 a4337af
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Aug 3 16:58:18 2018 -0700
+
+    Merge pull request #132 from webtorrent/greenkeeper/brfs-2.0.0
+    
+    Update brfs to the latest version 🚀
+
+commit d9f53b7942abe0a295ca3228929c7a0bf2953625
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 18 15:02:24 2018 -0700
+
+    standard
+
+commit 6c5658e09302ad1654b892623bfd9642b7d28539
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 18 14:42:21 2018 -0700
+
+    Remove TURN server
+
+commit 45c8a66a6a18989a778ee74877731e064b8396e7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 9 15:30:01 2018 -0700
+
+    fix turn endpoint url
+
+commit a4337affc9de6bfee0e05f0b996a7b47df33f0ca
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Jun 22 11:19:10 2018 +0000
+
+    chore(package): update brfs to version 2.0.0
+
+commit a085718c363efe00bcc0478947fe27701479fb97
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 31 00:54:05 2018 -0700
+
+    bin/ -> tools/
+
+commit 9ad060e5c7ff3fecbf9bc3084ecde085e302e56a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 15 10:59:59 2018 +0200
+
+    readme: note that Node 8 is what we use in prod
+
+commit 3e685d4a1e5fe25896ca9149ac0596059ad03338
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 15 10:59:52 2018 +0200
+
+    travis: use node LTS
+
+commit 3c3b3bc0d74dd3df2ebadd7422883b485b391fb0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 15 10:55:34 2018 +0200
+
+    Remove `npm prune --production`
+    
+    Looks like npm (at 5.6.0 and 6.0.0 at least) have a bug where `npm prune --production` removes production dependencies that are specified with GitHub urls. This is causing webtorrent to get removed (since we depend on the bleeding edge)
+
+commit aedaa52206e3638c1dd91d6ff62699591f8bcdb8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 15 10:44:05 2018 +0200
+
+    Use webtorrent master branch
+
+commit 5316857835fa56993a87036beb9be9b1ca234c0e
+Merge: 7b690b8 ca522cd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 27 04:50:25 2018 +0200
+
+    Merge pull request #131 from webtorrent/webtorrent-desktop-0-20
+    
+    WebTorrent Desktop 0.20
+
+commit ca522cd495d77916e847a5374247fb5d470ae970
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 26 19:18:03 2018 -0700
+
+    WebTorrent Desktop 0.20
+
+commit 7b690b8b1469fadbf65c94b8fe208593dc76c923
+Merge: dd6ee45 fe2d178
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Apr 24 17:53:16 2018 -0700
+
+    Merge pull request #130 from webtorrent/greenkeeper/simple-get-3.0.0
+    
+    Update simple-get to the latest version 🚀
+
+commit fe2d178042b817c088cfd993a9a432e8b79755ea
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Tue Apr 24 21:44:08 2018 +0000
+
+    fix(package): update simple-get to version 3.0.0
+
+commit dd6ee45b20a3bd3019cd74dbd489b0166d1c8221
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 23 10:57:51 2018 -0700
+
+    Add "Internet Archive" as a sponsor
+
+commit 22f4002326b5f9ba3facd52100a5e6e0a4d12fb1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 20 01:47:19 2018 -0700
+
+    Fix click to unmute in all browsers
+    
+    Whew that was annoying!
+
+commit e84e399cf87e1ad2733ad21656553815588be833
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 19 17:20:58 2018 -0700
+
+    Force webtorrent newer that 0.99.0
+    
+    This version contains the new `muted` option to appendTo()
+
+commit ad2ab087020a76c2851719abe34b67e85a0f8721
+Merge: 67386ae 7a611f1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 19 17:13:36 2018 -0700
+
+    Merge pull request #129 from webtorrent/fix-128
+    
+    Fix Homepage video is blocked by Chrome
+
+commit 7a611f1360c87f2a44e657d995a7c40871f736cc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 19 16:53:19 2018 -0700
+
+    Fix Homepage video is blocked by Chrome
+    
+    - First click unmutes video
+    - All further clicks play/pause the video
+    
+    Fixes: https://github.com/webtorrent/webtorrent.io/issues/128
+
+commit 67386aeacc90fd6cdb12b4d247ea05ac3847b801
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 18 21:08:35 2018 -0700
+
+    Remove unused "Create torrent" page
+
+commit 9b6fa867f63e2753689d5de04b89e80c3cafb667
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 17 17:00:50 2018 -0800
+
+    standard
+
+commit e613aca528819de46976b8a95afaa1cfdbadbfe1
+Merge: 73eb2d4 367b1b9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Feb 16 02:11:24 2018 -0800
+
+    Merge pull request #125 from webtorrent/greenkeeper/browserify-16.0.0
+    
+    Update browserify to the latest version 🚀
+
+commit 367b1b99392fd0b0625843d62cc66eb22a8e5072
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Wed Feb 7 09:49:58 2018 +0000
+
+    chore(package): update browserify to version 16.0.0
+
+commit 73eb2d4c9578e81409399e1231d370580c5d994d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 29 19:05:47 2018 +0800
+
+    Update README.md
+
+commit 0f26d59db5ad504cab5a092a631eaecb6a461578
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jan 26 18:48:40 2018 +0800
+
+    WebTorrent Desktop 0.19.0
+
+commit 0085464d63783047ff4b781289cf7e8f41e3ef1a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 10 13:50:32 2018 -0800
+
+    Move desktop download button higher!
+
+commit 1f47fc1431aa0211668a5d81142f485512b3d3f1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 10 13:50:23 2018 -0800
+
+    Fix sponsor logo visibility on mobile
+
+commit 03f5dc6fea3dfc8fb64286fe8a56c37acd05219b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 10 13:50:01 2018 -0800
+
+    Fix header links falling down below header
+
+commit f4fa5a2e7c5b11d86b26ab0440db2f6f977a280d
+Merge: 9b9becf 38f608a
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Fri Jan 5 09:09:32 2018 -0500
+
+    Merge pull request #123 from webtorrent/greenkeeper/browserify-15.0.0
+    
+    Update browserify to the latest version 🚀
+
+commit 38f608a4b6ea5751652f6d18917b3f875f015575
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Thu Jan 4 19:00:00 2018 +0000
+
+    chore(package): update browserify to version 15.0.0
+
+commit 9b9becf07197da2e46fd89acdee5d6a1cb57fdbf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 21 15:44:44 2017 -0800
+
+    add sponsors to footer
+
+commit 4ca2bd5470ef28ce269f89ce4f39d9e4d8e7888b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 21 10:06:31 2017 -0800
+
+    sponsor logo size tweak
+
+commit b8882762ebe9e30291f1fb3afebb87a2454647ae
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 21 10:04:45 2017 -0800
+
+    add sponsors to homepage
+
+commit 903a884103afb813b095a5db2cb0e0c5a4ac4b4b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Dec 12 18:40:05 2017 -0800
+
+    rename npm run commands
+
+commit 4624607ef202c7ef9ef4268d7bf77f3bddde4e64
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Dec 12 18:24:21 2017 -0800
+
+    add opbeat
+
+commit 3e026a44aedc38d3344678617b7271067aad1f3a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Dec 12 18:15:24 2017 -0800
+
+    style
+
+commit 4ae8f6f6cc7dff52e9ce7edb9474b83718863d28
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Dec 12 18:06:38 2017 -0800
+
+    pass port in via supervisor config (also 9000 -> 7000)
+
+commit eb06576335a76230e4e2ca63ce98fc185fee964f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Dec 12 18:06:17 2017 -0800
+
+    remove unlimited and downgrade
+
+commit 5a0610c7676a06ad6d414a4646b6f6c16cc3a2fc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Dec 12 17:59:49 2017 -0800
+
+    move nodemonignore to package.json
+
+commit 27b34214421f3dd21ca2539812d41a4e27de18ee
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 25 18:29:01 2017 -0800
+
+    remove old google site verification method
+
+commit c48f1cad84edf516eaaa14f8e50e5a710a7ba386
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 25 18:28:41 2017 -0800
+
+    google site verification
+
+commit 4fa89711338084fc1047cdd27cb6e74c1c597095
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 25 18:28:10 2017 -0800
+
+    Revert "google site verification"
+    
+    This reverts commit 929fc08f8deaff421f3bfebfefb225226909f5f1.
+
+commit 929fc08f8deaff421f3bfebfefb225226909f5f1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 25 18:26:24 2017 -0800
+
+    google site verification
+
+commit 8ded03aee813bf09f1e47d13879f5b692b56ab65
+Merge: 8bafdd2 f3cf9b2
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Fri Sep 29 08:39:29 2017 -0500
+
+    Merge pull request #121 from webtorrent/greenkeeper/initial
+    
+    Update dependencies to enable Greenkeeper 🌴
+
+commit f3cf9b28949f0e45811d7529e089f0fc22d3487f
+Author: Diego Rodríguez Baquero <diegorbaquero@gmail.com>
+Date:   Fri Sep 29 08:39:15 2017 -0500
+
+    Update README.md
+
+commit c7d8f2e569afca9f7c7992762dcb892624de6a08
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Sep 29 02:12:16 2017 +0000
+
+    docs(readme): add Greenkeeper badge
+
+commit 9ff0df3429205db9d04f2095719387d5de71b8a9
+Author: greenkeeper[bot] <greenkeeper[bot]@users.noreply.github.com>
+Date:   Fri Sep 29 02:11:33 2017 +0000
+
+    chore(package): update dependencies
+
+commit 8bafdd21a82c30e54c4defdd38999705935fc265
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 29 14:40:12 2017 -0700
+
+    use http2
+
+commit bbb9f3b23c989f45b8ecbcd137b06bb022444757
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 3 16:56:28 2017 -0700
+
+    telemetry: Remove unneeded try
+
+commit 9fb684dedc2ddc0cd5eb7969685c8459e5d7845f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 3 16:56:22 2017 -0700
+
+    telemetry: Log the progress, for easier debugging...
+
+commit 818533285b2f717e4e6696d251f2111e1b68ba2f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 3 16:40:37 2017 -0700
+
+    add a timeout the get request
+
+commit 32794cc42658586567d90026df5e8e693739a0f9
+Merge: af15612 412d20c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 25 10:51:17 2017 -0700
+
+    Merge pull request #119 from webtorrent/summary-fix
+    
+    Rewrite summarize-telemetry.js to not crash server
+
+commit 412d20ca274c8e904c4b5cd20adbde2935d543dd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 25 10:45:44 2017 -0700
+
+    Rewrite summarize-telemetry.js to not crash server
+    
+    As the number of log files increases (one is created per day), the
+    amount of RAM required to run this script (which runs daily in a
+    cron-job) as increased.
+    
+    The Promise.all() call just kicks off all file reads at the same time,
+    which uses a ton of resources. The webtorent.io server is configured to
+    restart when 100% RAM is used to prevent a common situation with
+    limited-RAM VPS servers where the swap file is used and thrashing
+    occurs, basically locking up the server.
+    
+    I've noticed the server restarting itself once per day whenever this
+    cron job runs.
+    
+    This rewrite just removes Promises (sorry!) and uses run-parallel-limit
+    to limit the concurrency to 5 tasks at a time. There's probably a
+    promise way to do this, but didn't want to figure it out right now.
+
+commit af15612314458ca7962cc2714933ce91c3ebd00a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jun 17 00:32:26 2017 -0700
+
+    improve nginx config; add 500 test url
+
+commit 93135c92ff8a980bca097f6872a1dbf9a2e2a282
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 9 16:22:27 2017 -0700
+
+    move dev deps
+
+commit 21cc27787dedea13b70e82042211fd62fd880d60
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 9 15:50:52 2017 -0700
+
+    set -e
+
+commit 486f99747476499b67e6a43aa5aece9274d24a2c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 9 15:37:41 2017 -0700
+
+    remove trigger.sh (unused)
+
+commit cad9908cfbcaa3d2ed6aa9d412481b11835a09a1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 14:41:32 2017 -0700
+
+    gitter
+
+commit 886e846dda5a3822292a659219f98513752388e5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Apr 14 13:38:06 2017 -0700
+
+    feross -> webtorrent
+
+commit 9299f9f272d771fd67644298a8a3167efc46a9a1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 30 17:18:03 2017 -0700
+
+    Add /free-torrents endpoint
+
+commit 85f46b58484d24ee645b2a00bc2517418246ee6f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 30 17:09:29 2017 -0700
+
+    update file index for new sintel torrent
+
+commit 050bb05c5dbb54324179fa30875a59cb6a86e600
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 30 16:33:56 2017 -0700
+
+    upload new torrents, with web seeds, fresh trackers
+
+commit f38852f8c9ecea18e627c141fa4363bdcbe7f515
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 20 20:50:22 2017 -0700
+
+    standard
+
+commit e6be3b6322b680b7c62292c08a0223a843bb0685
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 21 16:33:16 2017 -0800
+
+    host default torrents
+
+commit 7f79b01cc7eb6148da10645689db3c99c61d5bf4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Feb 8 16:11:27 2017 -0800
+
+    standard
+
+commit c96f94c37c65281458cfd7ca50ab7f5c373b760f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Feb 8 02:06:27 2017 -0800
+
+    use letsencrypt
+
+commit 17ca81a50cac8b67795eb6ab3eae6bd0097261b6
+Merge: 8828d20 b8520b0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Feb 4 09:02:02 2017 +0100
+
+    Merge pull request #114 from feross/version
+    
+    WebTorrent Desktop v0.18.0
+
+commit b8520b00fbf920166f5b4922ff69418eb21dc946
+Merge: fa445c8 8828d20
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Feb 3 12:31:16 2017 +0100
+
+    Merge branch 'master' into version
+
+commit fa445c89d159e02b14e53316abff66eea194c1ee
+Author: DC <dcposch@dcpos.ch>
+Date:   Fri Feb 3 03:12:06 2017 -0800
+
+    WebTorrent Desktop v0.18.0
+
+commit 8828d20cbcbe53642930155393b45f2f5cb5dcea
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Feb 3 02:47:47 2017 -0800
+
+    webtorrent-www -> webtorrent.io
+
+commit 680e42b4e42c1318bd044214aec099561ae53f20
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Feb 2 16:54:01 2017 -0800
+
+    Document config.js; use port 4000 in development
+
+commit 1771cc9e0edac569781d8aea66babe3b66532c82
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 29 16:56:13 2017 -0800
+
+    add webtorrent logo
+
+commit 981345c5078c1a4519cd8f26ea4c1a1682f351a4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 24 23:19:38 2017 -0800
+
+    browserify@14
+
+commit 5f817d38ac72314404723c3c2162d531878b96ff
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 14 02:52:07 2017 -0800
+
+    fix rtcConfig
+
+commit 250b7b555d29bc464dd0986ad31c48fc3cf1b94e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 14 02:43:32 2017 -0800
+
+    get.concat
+
+commit f196ed46875d4b05a0f53ae4008989e9ea4691a2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 14 02:37:44 2017 -0800
+
+    add comments
+
+commit 7e64df63073e968a5d2bf42226a84307b03d0052
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 14 02:08:41 2017 -0800
+
+    always listen on port 9000
+
+commit ac97fb02c3d3cb6e298bb6d73f9f181b5961a3af
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 14 01:56:38 2017 -0800
+
+    nginx: don't duplicate frontends
+
+commit a99f739d9ef220df50df5334446532ed39e300a0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 14 01:49:17 2017 -0800
+
+    Use nginx in front of Node.js / get rid of superfluous http-proxy
+
+commit e66fe7aef2a3d56ac64357aaade04ab600d18b2d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jan 13 22:43:05 2017 -0800
+
+    Timeout the rtcConfig request after 5s
+
+commit aa5605685676d9e8fce2ad81e7b465b54353f55f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 7 14:38:24 2016 -0800
+
+    rtc config endpoint
+
+commit 4463509593981ea074b5619e1c3cd42c9890e856
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Nov 4 13:42:40 2016 -0700
+
+    update webtorrent-wordpress.zip
+
+commit 302cb32ee3f2f6ca8746be990b78add407cf0ff3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Oct 20 16:07:47 2016 +0100
+
+    Create LICENSE
+
+commit f339af7f71e954baf9a197ad3af1d320a1af6d27
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Oct 20 16:07:01 2016 +0100
+
+    Update README.md
+
+commit 4c0bc5282003a8c157104e0ca7e45f9c4dd7a39c
+Merge: 8f72798 24f4cc5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Oct 11 03:40:45 2016 -0700
+
+    Merge pull request #111 from feross/feross/wd
+    
+    WebTorrent Desktop v0.17.2
+
+commit 24f4cc5c811758565f78ff5e33c070506b6d1767
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Oct 10 23:01:40 2016 -0700
+
+    WebTorrent Desktop v0.17.2
+
+commit 8f72798d08ee6a753ee69d0cda7e26f3e26c8c51
+Merge: 162d54c d613fc2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Oct 3 15:55:56 2016 -0700
+
+    Merge pull request #110 from feross/version
+    
+    WebTorrent Desktop 0.17.1
+
+commit d613fc24200ed2c811e81ca2c70b4dcb9bb40de8
+Author: Mathias Rasmussen <mathiasvr@gmail.com>
+Date:   Mon Oct 3 21:16:23 2016 +0200
+
+    WebTorrent Desktop 0.17.1
+
+commit 162d54cdb07e8325f04c100a66f01c6707ab0d4e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Oct 3 03:31:32 2016 -0700
+
+    use nicer name than "changelog"
+
+commit ee3e5395f09733dabfc1aea75b66f9797ee04043
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Oct 3 03:16:05 2016 -0700
+
+    Update sintel.torrent
+    
+    - Remove wss://tracker.webtorrent.io (down)
+    - Add wss://tracker.openwebtorrent.com
+
+commit 13e5fc06bfe151077adde9f3ace92c1335990600
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 30 19:03:27 2016 -0700
+
+    24 hours -> 12 hours
+
+commit fad097b2acbf991227e6be04de1c84e436f6778a
+Author: DC <dcposch@dcpos.ch>
+Date:   Wed Sep 28 00:01:19 2016 -0700
+
+    summarize-telemetry: fix cron
+
+commit 7c5c4551fdcab577db44b8ad70e13b8031b1a3e3
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Sep 27 23:52:43 2016 -0700
+
+    telemetry logging: don't interleave writes
+
+commit 2d781f966bea29526ebb7629fa2564117515fb82
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Sep 27 23:36:41 2016 -0700
+
+    summarize-telemetry: skip bad log lines
+
+commit a50f9d2987b1d4faa3a36969c96e38466d4ea5f3
+Merge: 9df112e 1cb3f2a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Sep 27 00:06:41 2016 +0200
+
+    Merge pull request #107 from feross/version
+    
+    WebTorrent Desktop 0.17.0
+
+commit 1cb3f2a13c563e0310b66adcc81b418d730f137e
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Sep 25 19:14:18 2016 -0700
+
+    WebTorrent Desktop 0.17.0
+
+commit 9df112efe257a064bf300fdcc8f23c28c7ee4356
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Sep 21 12:33:46 2016 +0200
+
+    Turn off tracker.webtorrent.io (#106)
+
+commit ee5fc0bf09093d830075578f33ea4d36a5d1bc53
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Sep 21 00:52:57 2016 -0700
+
+    Use prettier-bytes
+
+commit 1d7947205f15c8c18652e6658f08fe205feaf0f8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Sep 21 00:52:24 2016 -0700
+
+    arch@2
+
+commit 78b7273be1df4664d2b73490d7ebf5134005dd2f
+Merge: a73a82f a0ed110
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Sep 21 08:05:01 2016 +0200
+
+    Merge pull request #105 from feross/p2p-graph
+    
+    Use p2p-graph package
+
+commit a0ed110c9c371a85e44715286a10b5dd3426a0b8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Sep 20 18:58:17 2016 -0700
+
+    Use p2p-graph package
+    
+    https://github.com/feross/p2p-graph
+
+commit a73a82f8329b7e36108caae6a653eee3eeffec10
+Merge: a3c44f5 5958d95
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 12:35:33 2016 +0200
+
+    Merge pull request #103 from feross/wd-0.16.0
+    
+    WebTorrent Desktop 0.16.0
+
+commit 5958d95ed358f64d43b0e87a5f0728c3c45cb3a9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 03:34:59 2016 -0700
+
+    WebTorrent Desktop 0.16.0
+
+commit a3c44f5ed645c4b52274f6d4d0760116fa473426
+Merge: 01711d2 31275fe
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 12:21:44 2016 +0200
+
+    Merge pull request #102 from feross/final-64
+    
+    Final changes for Windows 64-bit support
+
+commit 31275fe5badcde7b3eefecc0be2bfa2fe7365322
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 01:05:41 2016 -0700
+
+    Revert "Revert this when Windows 64-bit builds are available"
+    
+    This reverts commit 5c98b6cbec4ccf5f0cabff3bf95b249d134092db.
+
+commit 438a4a848af0904530744fd2caec97bc68e2da15
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 01:05:34 2016 -0700
+
+    Revert "Test commit for updater"
+    
+    This reverts commit 01711d28317fddaf3809e21290e90865e3e527ec.
+
+commit cebc7a607af625aad0f7fbd26f7bcf506a3d46ec
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 01:05:16 2016 -0700
+
+    Remove unneeded ia32 check
+
+commit 01711d28317fddaf3809e21290e90865e3e527ec
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 17 23:34:04 2016 -0700
+
+    Test commit for updater
+    
+    This will be reverted shortly
+
+commit 5c98b6cbec4ccf5f0cabff3bf95b249d134092db
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 17 23:32:35 2016 -0700
+
+    Revert this when Windows 64-bit builds are available
+
+commit 6275c1ad61c42750a74524a37db01c5e867c1456
+Merge: 8f402a0 eb63b82
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 18 08:31:14 2016 +0200
+
+    Merge pull request #101 from feross/windows-64
+    
+    desktop: Return 32-bit vs. 64-bit Windows binaries based on system architecture
+
+commit eb63b82de683c9b1236190bcba93da9f2136d9d5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 17 20:21:49 2016 -0700
+
+    desktop: Return 32-bit vs. 64-bit Windows binaries based on system architecture
+
+commit 1636868fad5343e1d155b6414dd416714d4b63f2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 17 20:20:32 2016 -0700
+
+    desktop: Detect OS architecture for Windows download
+
+commit 8f402a02e9858b06faf4c7d031951dd0c5fab8c9
+Merge: 332db80 b39d935
+Author: Nate Goldman <ungoldman@gmail.com>
+Date:   Sat Sep 17 21:23:34 2016 -0700
+
+    Merge pull request #100 from feross/arch
+    
+    desktop: Detect OS architecture for Linux download
+
+commit b39d935f7fd6cbb454ff9cd2bb1a7683da2970c4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 16 15:58:22 2016 -0700
+
+    BUGFIX: document.querySelectorAll() returns a NodeList
+    
+    NodeList.prototype.forEach only exists in Chrome and is non-standard.
+    This is super misleading. Fixes it.
+    
+    https://twitter.com/feross/status/776909513697878016
+
+commit eb66b1f059f65a9f489cdf99ed743e9075796207
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 16 15:17:21 2016 -0700
+
+    only test node v4
+
+commit 4356362b97cc98fd9002b93d40de132f50159aee
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 16 14:43:41 2016 -0700
+
+    use npm package
+
+commit 0ca1627e8d211884284c88e0b9866e222f37b52a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 16 14:32:11 2016 -0700
+
+    desktop: Detect OS architecture for Linux download
+    
+    Change the download page to link to the 32-bit Linux download.
+    
+    Use the soon-to-be-published `arch` package (thanks for the npm package
+    name @Raynos!) to detect the OS architecture and conditionally change
+    the link to the 64-bit version.
+    
+    https://github.com/feross/arch
+
+commit 332db80776bf94940df7d9fc58bdc811964a8d3a
+Merge: 3db1d3b 784d2e1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 16 10:43:56 2016 -0700
+
+    Merge pull request #99 from feross/dc/telemetry
+    
+    WebTOrrent Desktop 0.15.0
+
+commit 3db1d3b5367c23d02e56f8e24daa93ffe825addb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 16 10:32:55 2016 -0700
+
+    better title for desktop page
+
+commit 784d2e1ce6381412276c1815f72f8ad0e2dfb1a1
+Author: DC <dcposch@dcpos.ch>
+Date:   Fri Sep 16 05:05:36 2016 -0700
+
+    WebTOrrent Desktop 0.15.0
+
+commit 761552362db50eadc8c69a7110033040fa5831b1
+Merge: dd0a134 675ab69
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Sep 14 11:08:31 2016 -0700
+
+    Merge pull request #98 from feross/feross-patch-1
+    
+    Fixes for PR #97
+
+commit 675ab69d03907ba806fdb1b6e61a8f9f7e9eebe5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Sep 13 08:25:22 2016 -0700
+
+    Fixes for PR #97
+
+commit dd0a1343cd163989f87db964f3f60c3db885ff9d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 12 11:57:30 2016 -0700
+
+    add webtorrent-wordpress.zip
+
+commit 777b7f6c8fbddb1a474f5a83c7902aa3b508e45a
+Author: Dan Flettre <fletd01@yahoo.com>
+Date:   Sun Sep 4 15:56:45 2016 -0500
+
+    more dev notes for running locally (#97)
+
+commit d8ac46b2fdacc146bd939a45c74db6f8840e7b12
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Sep 4 09:34:34 2016 -0700
+
+    WebTorrent Desktop 0.14.0
+
+commit d94855dda635b94c010cf3d3f543b286e9511294
+Author: DC <dcposch@dcpos.ch>
+Date:   Fri Sep 2 11:47:32 2016 -0700
+
+    Telemetry: explain day30to60 retention
+
+commit 580eb2667fb277d35461a2673b327589fb386593
+Author: DC <dcposch@dcpos.ch>
+Date:   Fri Sep 2 11:41:04 2016 -0700
+
+    Telemetry: fix label placement
+
+commit 9cc65c94278b943db1551a12a0a02d7d234eaf67
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Sep 1 19:10:14 2016 -0700
+
+    Telemetry: don't misattribute old errors to v0.13+
+
+commit 1eaae4fbfbef6fcd53e53c86954aa2f73ff48ef4
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Sep 1 04:39:06 2016 -0700
+
+    WebTorrent Desktop 0.13.1 (#93)
+
+commit 8edafb8d922258ab59ee507ac551e60570c19e94
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Sep 1 03:21:41 2016 -0700
+
+    summarizeTelemetry every day at 12:15AM UTC (#92)
+
+commit 408e338ff54b3e16842c6945ac60c5988ecf6ba4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 17:55:00 2016 -0700
+
+    standard
+
+commit 1a94bb889e2c2a96db8ceae14a63893f40e1d8e3
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Aug 25 17:14:59 2016 -0700
+
+    No const (#91)
+    
+    In case we add that rule to standard to either use all let/const or no let/const
+
+commit d74aea30aec6110b66c8fda602a1a42defe70f55
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Aug 25 06:28:24 2016 -0700
+
+    Telemetry: separate app version for each uncaught error (#90)
+    
+    The app doesn't log it's version at the time of each uncaught error before 0.13, so for errors with no specified version we guess whether it's `pre-0.12` or `0.12.0`.
+
+commit b61a88bb9d60ed1f6c5c1b42666ea8244b958762
+Merge: 59a4a70 04f1a4e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 15:22:51 2016 +0200
+
+    Merge pull request #89 from feross/dc/analytics
+    
+    Google Analytics: track app downloads
+
+commit 59a4a702779606f52460c50e32aa055d5506e577
+Merge: 4466167 8a64e6a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 15:18:56 2016 +0200
+
+    Merge pull request #88 from feross/dc/telemetry
+    
+    Telemetry: add day30to60 retention
+
+commit 04f1a4e0033596488a0cb3a7d6aa8f12a8bdbb23
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Aug 25 03:26:33 2016 -0700
+
+    Google Analytics: track app downloads
+    
+    Also moves the second set of download buttons on /desktop to the bottom of the page
+
+commit 8a64e6ac9f9529fef735590bf7e9e1894cfb0b16
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Aug 25 02:38:02 2016 -0700
+
+    Telemetry: add day30to60 retention
+
+commit 4466167030fe3d0e5ef9b7f90d18419815df3ed8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 02:08:00 2016 -0700
+
+    google site verification
+
+commit 7531b8d0ef2cc6afe9ccd73f98d06cc9c254eb5b
+Merge: 5848c07 b26c892
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 04:33:48 2016 +0200
+
+    Merge pull request #84 from feross/end-announcement
+    
+    End 250K announcement
+
+commit 5848c077a80744e8120622b097430e6dc48b185c
+Merge: 1879b3f b6d7ac8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 04:33:32 2016 +0200
+
+    Merge pull request #86 from feross/f/imageoptim
+    
+    ImageOptim: losslessly compress all images
+
+commit 1879b3f0e8dc58251769d8fe8190f9f5ae1c3944
+Merge: 6f9283d 7d5a04d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 25 03:29:39 2016 +0200
+
+    Merge pull request #87 from feross/dc/telemetry
+    
+    Telemetry: latest-version errors, fix retention calculation
+
+commit 7d5a04d2a11000f7ebb11e2c57e77f695fe01056
+Author: DC <dcposch@dcpos.ch>
+Date:   Wed Aug 24 08:07:11 2016 -0700
+
+    Telemetry: fix retention calculation
+    
+    Calculate the proportion of users who *installed* n days ago running the app again today, not the proportion of users who *used* the app n days ago running it again today.
+
+commit 3003073d6fcfcb33de0c0f0b70f4aa9b01a74744
+Author: DC <dcposch@dcpos.ch>
+Date:   Wed Aug 24 07:33:42 2016 -0700
+
+    Telemetry dashboard: latest-version errors
+
+commit b6d7ac874b4b16f513c2137ed57df5932ec9ccb8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 24 03:47:11 2016 -0700
+
+    ImageOptim -- losslessly compress all images
+
+commit 6f9283d56fa5336dc7cb2443e4f9bb35bee1afe8
+Merge: 0d69da2 798347e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 24 10:20:02 2016 +0200
+
+    Merge pull request #85 from feross/dc/telemetry
+    
+    Telemetry dashboard: add total installs, latest-version error rate
+
+commit 798347e4a4b690f5fc505ed8620c7a3c12f42981
+Author: DC <dcposch@dcpos.ch>
+Date:   Wed Aug 24 00:54:08 2016 -0700
+
+    Telemetry dashboard: add total installs, latest-version error rate
+
+commit b26c8929ea429264e8b9fc5d7fc19378205678b7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 24 00:42:00 2016 -0700
+
+    Revert "WebTorrent just hit 250,000 installs!"
+    
+    This reverts commit 0d69da204fae7b534a4fafbe000128020dcc9dd0.
+
+commit 0d69da204fae7b534a4fafbe000128020dcc9dd0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 23 23:19:57 2016 -0700
+
+    WebTorrent just hit 250,000 installs!
+
+commit e3078fc76f837d5b4c422617f175d1bd3a115134
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Aug 23 19:04:47 2016 -0700
+
+    Telemetry dashboard: fix release markers
+    
+    They were not in the right place on the x axis. Data from the log file for 2016-08-01, for example, should be graphed at 2016-08-01 23:59:59 -- end of day -- that way it shows up *after* the marker line for a release that happened early in the day on Aug 1 UTC.
+
+commit 46835f0a26c7cf2778433997a4957aa6927d2b2e
+Merge: 61aa7f8 89cfaf7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 24 00:04:16 2016 +0200
+
+    Merge pull request #82 from feross/dc/telemetry
+    
+    Telemetry dashboard: add version skew
+
+commit 89cfaf72b5b5da2847769c9d0caddfca81956d2a
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Aug 23 04:14:39 2016 -0700
+
+    Telemetry dashboard: add version skew
+
+commit 61aa7f8ba6ee7e54966cfbf28887499f0a2be23f
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Aug 23 02:40:56 2016 -0700
+
+    WebTorrent Desktop 0.12.0
+
+commit 4ab7caf7c108e6330dfcc2d1b6b0f9f376913f93
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 22 23:23:48 2016 -0700
+
+    client -> app
+    
+    less nerdy
+
+commit 9fdba8284569f084a05b5073c59071a675c9427a
+Merge: a660b76 ae4034f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 23 01:24:00 2016 +0200
+
+    Merge pull request #80 from feross/dc/telemetry
+    
+    Telemetry: add usage
+
+commit ae4034fc8834cc1ad6c33557891f8bbe8fdeaca5
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Aug 21 23:29:05 2016 -0700
+
+    Telemetry: add usage
+
+commit a660b76c9fba85de3986049ce78929b168274b89
+Merge: bfb8f48 afc6717
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 22 05:10:07 2016 +0200
+
+    Merge pull request #79 from feross/dc/telemetry
+    
+    Telemetry dashboard: errors table
+
+commit afc67178ce5894395aca45001649c88aee89e8d2
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Aug 21 19:05:15 2016 -0700
+
+    Telemetry dashboard: errors table
+
+commit bfb8f48a17e2b5245cd4907e0a9ae9a27bde9868
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 21 16:50:16 2016 -0700
+
+    Fixes for PR #78
+    
+    cc @dcposch
+
+commit 56ba491f8a714037543d87230013ebac6369f47f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 21 16:41:17 2016 -0700
+
+    Fixes for PR #78
+
+commit acc66ab0d02b30f016bec35f2420a045155f5ac4
+Merge: 3c41dc6 56ca1c7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 22 01:40:44 2016 +0200
+
+    Merge pull request #78 from feross/dc/telemetry
+    
+    Telemetry dashboard: add error rate, update every 3h
+
+commit 56ca1c72d42cd1db18a0ed51a7dc8c9137634d2e
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Aug 21 14:07:45 2016 -0700
+
+    Telemetry: summarize most common errors
+
+commit 81d063a4bd2cb05a67136820b6900e89e2330083
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Aug 21 02:04:00 2016 -0700
+
+    Telemetry: summarize every 3h
+
+commit 6126da48b4957a5e82d941747c884869ba593654
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Aug 21 01:40:26 2016 -0700
+
+    Telemetry dashboard: error rate
+
+commit 3c41dc6b240a6196f71755c532d001b1d7abe61c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 20 22:58:51 2016 -0700
+
+    formatting
+
+commit e8533c1737e5182e9f7b31f5c854d98b9ed44cfd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 20 22:58:37 2016 -0700
+
+    fix another crash
+
+commit 278f9cdfbe10d81b7eec10a5e0328340066cc665
+Merge: 441a4f4 5199025
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 21 07:48:54 2016 +0200
+
+    Merge pull request #77 from feross/fix-dashboard
+    
+    Telemetry Dashboard: Fix crash and add "cron job"
+
+commit 5199025bdb1e5e2134c6d8c28615826caa130272
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 20 22:48:17 2016 -0700
+
+    Add "cron job" to summarize the telemetry once every 24 hours
+
+commit ee61cdfb2285da409e916794ca099a27faa1f08a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 20 22:47:24 2016 -0700
+
+    fix exception when there is no `summary.json`
+
+commit 441a4f4010ba73cfc53565ca0694ecad5d28bbfe
+Merge: 2cb486a 73462c7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 21 07:23:47 2016 +0200
+
+    Merge pull request #76 from feross/dc/telemetry
+    
+    Telemetry dashboard
+
+commit 73462c781071506b426e335220dcd726a62d01df
+Author: DC <dcposch@dcpos.ch>
+Date:   Sat Aug 20 21:53:40 2016 -0700
+
+    Telemetry dashboard: add installs
+
+commit 1e991f3d5fe2035cbf31e25ee492ee8da936bd50
+Author: DC <dcposch@dcpos.ch>
+Date:   Sat Aug 20 20:42:40 2016 -0700
+
+    Telemetry dashboard: add explanations
+
+commit 17c0df338816414ed50a6b085f0752debb386009
+Author: DC <dcposch@dcpos.ch>
+Date:   Sat Aug 20 09:40:57 2016 -0700
+
+    Telemetry dashboard: show releases
+
+commit 7e3a3d2e3b5d8be5ae882e452fa03ac09fccf3e2
+Author: DC <dcposch@dcpos.ch>
+Date:   Sat Aug 20 09:24:24 2016 -0700
+
+    Telemetry: summarize via cron script
+
+commit 484b9b5b3a6d57db88a2c66c4c40abe93b438f5d
+Author: DC <dcposch@dcpos.ch>
+Date:   Fri Aug 19 15:20:59 2016 -0700
+
+    Telemetry dashboard
+
+commit 2cb486a6aac1da2b1f5e5115d70fd105e96afa94
+Merge: e008e26 5085ce1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 20 03:06:14 2016 +0200
+
+    Merge pull request #75 from feross/desktop-0.11
+    
+    WebTorrent Desktop 0.11.0
+
+commit 5085ce1522551b9654bbb2819d64b46376c99d02
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Aug 19 17:39:58 2016 -0700
+
+    WebTorrent Desktop 0.11.0
+    
+    https://github.com/feross/webtorrent-desktop/releases/tag/v0.11.0
+
+commit e008e26cdfb45867d512646e45233d4b1ffc0c64
+Merge: 4d6ee40 c50ab2d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 11 05:22:47 2016 +0200
+
+    Merge pull request #69 from demoneaux/demo-button
+    
+    Add button to start demo.
+
+commit 4d6ee40a689895f1666987088b8de2ce436c9d6a
+Merge: 17a0627 ee1152f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 6 23:02:36 2016 +0200
+
+    Merge pull request #72 from feross/wtd-0.10
+    
+    WebTorrent Desktop 0.10.0
+
+commit ee1152f7fad981c378905e85389b13f0a7bf4d0c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 6 13:59:03 2016 -0700
+
+    WebTorrent Desktop 0.10.0
+
+commit 17a062779603df6ec70b253e58973ce04738f1cc
+Merge: 4b5cf5c 66b8707
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 4 14:53:23 2016 -0700
+
+    Merge pull request #71 from feross/fix-faq-page
+    
+    Fix raw html showing up on FAQ page (fix #70)
+
+commit 66b8707b957728b08c7ee8718ec4dc0f6624f60e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 4 14:49:53 2016 -0700
+
+    Fix raw html showing up on FAQ page (fix #70)
+
+commit c50ab2d43f80eae4ec3e1eabc38c34255e98b7fd
+Author: Benjamin Tan <demoneaux@gmail.com>
+Date:   Sun May 22 20:14:22 2016 +0800
+
+    Add button to start demo.
+    
+    Prevents demo from being started by default on mobile, which can
+    cause over-usage of bandwidth.
+    
+    Ref. #40.
+
+commit 4b5cf5c5a3490744b2588ac162733868de7363f7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 26 01:08:37 2016 -0700
+
+    Update screenshots, add second set of download buttons
+
+commit c2002aab8555189d4560647a889a6616ee52d60b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 25 22:49:39 2016 -0700
+
+    Make distinction between Web and Desktop clearer
+
+commit 513e3fe9cfda5f6f0e672183dca75f7d85447b7b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 25 22:48:46 2016 -0700
+
+    OS X -> Mac
+
+commit 88009529654fb8d7ee6ca1a801c8c57f8f1d26c2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 25 22:48:37 2016 -0700
+
+    add title text to links on download page
+
+commit 07e8d7308015d158664b796f7701eda285380ffd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 25 22:48:14 2016 -0700
+
+    fix webtorrent deprecation warning
+
+commit 02ec993a1dbfb27c0c8a369ea03abac23ecebda1
+Merge: 55a8a20 e96483f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 25 13:33:50 2016 -0700
+
+    Merge pull request #68 from mathiasvr/patch
+    
+    fix pug 2.0 attribute interpolation
+
+commit e96483fd4180aca1ea61ee2d12867abff8062794
+Author: Mathias Rasmussen <mathiasvr@gmail.com>
+Date:   Mon Jul 25 01:40:04 2016 +0200
+
+    fix pug 2.0 attribute interpolation
+
+commit 55a8a2042151eccaafb54b1cc77ec108ec8d7ea5
+Merge: 35be2ec f5239ce
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 23 00:55:08 2016 -0700
+
+    Merge pull request #67 from feross/rmeove-hack
+    
+    Remove pug hack
+
+commit f5239ce4f4900b6d654b5e34f250a2de02d58ec2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 23 00:54:50 2016 -0700
+
+    remove unused dep
+
+commit 5a9bf21faa294098071c1741faf60852abfd0bc4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 23 00:47:38 2016 -0700
+
+    Remove pug hack
+
+commit 94ac0da9887ddeb6c9b13ebb24735c9834daf60f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 23 00:43:14 2016 -0700
+
+    pug@2.0.0-beta4
+
+commit 35be2ec6ca73e6f2edae3d69a0176b5de69f8c26
+Merge: d4997a1 e7bd51a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jul 22 23:28:29 2016 -0700
+
+    Merge pull request #65 from feross/dc/nsp
+    
+    Node Security Project upgrades
+
+commit d4997a11f14811c248b53977c0ce509f76b1f2b9
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu Jul 21 02:00:00 2016 -0700
+
+    WebTorrent Desktop 0.9.0
+
+commit e7bd51a2e41ee8a7e805edde1b9525193db7f19b
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Jul 3 22:55:22 2016 -0700
+
+    NSP: work around Pug bug
+
+commit 491102824c3ed07bbc0602551820030be6f556c6
+Author: DC <dcposch@dcpos.ch>
+Date:   Wed Jun 29 05:59:41 2016 -0700
+
+    NSP: upgrade Jade 1.6 to Pug 2.0
+    
+    Jade was renamed to Pug for dumb reasons
+
+commit 4191b03c01a0b14cd8f9e881f7520078f39cd8ca
+Author: DC <dcposch@dcpos.ch>
+Date:   Wed Jun 29 05:52:50 2016 -0700
+
+    NSP: switch from marked to remarkable
+
+commit 6cea3b5e0b3830c84536fe27c90245e47f70a6ab
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Jun 28 19:02:33 2016 -0700
+
+    NSP: remove nib
+    
+    This makes the Node Security Project happier; nib is not really necessary and brings in some obsolete vulnerable dependencies
+
+commit 164150ccd9749f2140069009689b5b5ec1d77342
+Merge: 1810646 1a8ecf9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 28 18:57:25 2016 -0700
+
+    Merge pull request #64 from feross/dc/telemetry
+    
+    GET /desktop/telemetry with basic auth
+
+commit 1a8ecf907e37b0ceaf8bf925512edcd3d6f96645
+Author: DC <dcposch@dcpos.ch>
+Date:   Tue Jun 28 07:00:11 2016 -0700
+
+    GET /desktop/telemetry with basic auth
+
+commit 181064651c536fc261d969e0638a2c59d0f3aaca
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jun 27 10:24:43 2016 -0700
+
+    WebTorrent Desktop 0.8.1
+
+commit fd75fbe32a45451fef62805740219ee1e50f29d2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jun 23 17:25:19 2016 -0700
+
+    WebTorrent Desktop 0.8.0
+
+commit 31259f243d08102d0a80401f74194f14187af4cd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:47:15 2016 -0700
+
+    Add notes about log folders
+
+commit 8f7278b14ce970f6fbdee4234a91ac3ccd294637
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:39:08 2016 -0700
+
+    Use local logs folder
+
+commit 904bd75e79fb6e24a94a7059b4d7c002cc2c78ed
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:32:06 2016 -0700
+
+    don't run install script on os x
+
+commit 2fdad42dd3b8a8156fd4fb1ac1e75cca4088fcce
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:31:57 2016 -0700
+
+    Hardcode desktop app version
+
+commit 643475ba4fd0d1ff2b4e5037ec3832b14848369d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:25:39 2016 -0700
+
+    Make crash report and telemetry endpoint return 500s in the same way
+
+commit 59cc6861cb319b4b11cce9acd84ccae4946fa77f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:21:37 2016 -0700
+
+    Remove console spam
+
+commit fd0db8cdff3528623b5e88399a53926c635044d7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:21:32 2016 -0700
+
+    Fix logging bug
+
+commit e2897ecb4cb9f3af7b8e7a13cc522e15ed10e670
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 23:21:20 2016 -0700
+
+    Use ~/www/logs folder for logs
+
+commit fcdc82a653bcaca454c60773b1c217919011d0f9
+Merge: 7d929ef cf9befd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jun 21 22:53:39 2016 -0700
+
+    Merge pull request #62 from feross/dc/telemetry
+    
+    Add WebTorrent Desktop telemetry API
+
+commit cf9befd5d6ba0b30c95b8e656e236be0b18585f2
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Jun 19 16:38:21 2016 -0700
+
+    Add WebTorrent Desktop telemetry API
+    
+    Move all WebTorrent Desktop APIs to their own file
+    
+    Add comments to server/web.js
+
+commit 7d929ef3d7be799fcb3702bd120d0026265eea5f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 15 22:47:11 2016 -0700
+
+    add peerdb.io to router
+
+commit a8fd5b8a353bde867890b56a0e1491d12ed5c67a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jun 3 03:27:47 2016 -0700
+
+    fix 500 error on invalid semver version
+
+commit e06237d5d1d31e5cd6bb592fa5f2fc03fe11d5a8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jun 2 23:21:20 2016 -0700
+
+    Desktop: Do not auto-update users to older version
+    
+    This can happen when testing a new unreleased version of the app.
+    You'll get automatically downgraded to the current public version.
+
+commit 82fd0c04ca5a59fc956e248ff9f3731a246a9da0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 1 01:43:47 2016 -0700
+
+    Link "Other Downloads" to main releases page
+
+commit 0f3169b67cc87d93671c06f8b65c145c396b9036
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 1 01:43:39 2016 -0700
+
+    fix ssh warnings
+
+commit 610114597aa46fbe818da424db73f0b1a2be0879
+Merge: cb432c1 1845336
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue May 31 15:58:48 2016 -0700
+
+    Merge pull request #60 from amrtnz/patch-1
+    
+    Typo on homepage
+
+commit 184533646359ec77d11d4d8beb12996710c75b14
+Author: Anthony Martinez <anthony@anthonymartinez.com>
+Date:   Tue May 31 18:16:03 2016 -0400
+
+    Typo on homepage
+
+commit cb432c16b8d5b3482b24ad039fd775241aa91901
+Author: DC <dcposch@dcpos.ch>
+Date:   Thu May 26 04:45:21 2016 -0700
+
+    npm update --save, WebTorrent Desktop 0.6.1
+
+commit 1a055256e658d1991fa1675b1f986d116392a051
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 19 21:33:14 2016 -0700
+
+    run-auto 2
+
+commit 96bdb1afe1e355dfdf1bd211177b7a2da695e047
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 19 20:49:11 2016 -0700
+
+    Add links to 'Other Downloads', 'Changelog', and 'Source Code'
+
+commit d7221b2a71c62609e052331e680663714dbe4e6d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 19 20:48:59 2016 -0700
+
+    Linux: Link to 64-bit .deb file
+
+commit 72ef22647ddd9792b61fa4386dcfc2fedddcf4cc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 19 20:31:41 2016 -0700
+
+    Disable WebTorrent Desktop test announcement
+
+commit d15363191cc9ccd37cb16979db44fefcf7811853
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 19 20:11:35 2016 -0700
+
+    add test /desktop/announcement endpoint
+
+commit 168c1031187e601b9548042e99144590cb1d322a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 19 20:06:09 2016 -0700
+
+    remove todos
+
+commit 9a1f097ee6bd10998f92ddbb43ebed02ab0b6697
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat May 14 01:57:32 2016 -0700
+
+    Fix Linux download link
+
+commit 24786edaabde84ad039324671ed0ec9e70ce9039
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed May 4 16:28:56 2016 +0200
+
+    Don't show video tag until playing
+
+commit 47264343ebb8ec865632badf68c86471d2f14fb1
+Merge: 484aa4a 8284b18
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed May 4 16:27:58 2016 +0200
+
+    Merge pull request #56 from harperj/mobile-style
+    
+    Mobile style
+
+commit 8284b18dc6797bd8108e8db61a30261453956528
+Author: Jonathan Harper <jharper@eecs.berkeley.edu>
+Date:   Mon May 2 21:09:17 2016 -0700
+
+    Update torrent graph to respond to window size
+    
+    - TorrentGraph SVG node now responds to window.innerWidth
+    - root node .torrent-graph also responds appropriately
+    - fixed formatting issues
+
+commit 9b18f65d987834b54d86819787f8d6eae3499770
+Author: Jonathan Harper <jharper@eecs.berkeley.edu>
+Date:   Mon May 2 21:08:06 2016 -0700
+
+    Changes to CSS to make content display properly on mobile
+
+commit 484aa4a859b5fae8fb3f9ba1ce1fce348457e42c
+Merge: b67e643 e06585d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon May 2 22:46:23 2016 +0200
+
+    Merge pull request #55 from feross/greenkeeper-standard-7.0.0
+    
+    Update standard to version 7.0.0 🚀
+
+commit e06585dedf5496473c147e5dc2c15cb93a444323
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Mon May 2 16:20:54 2016 +0200
+
+    chore(package): update standard to version 7.0.0
+    
+    https://greenkeeper.io/
+
+commit b67e643a651594cf5b4172fb90eb19bec51399b2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 28 12:03:48 2016 +0200
+
+    Fix confusion between webtorrent-desktop and webtorrent issues
+    
+    Closes https://github.com/feross/webtorrent/issues/777
+
+commit 792369a9b8ba8d6c72c05c92836a78fbefc259fe
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Apr 10 21:22:04 2016 -0700
+
+    Fix github link on webtorrent desktop page
+
+commit 3ff7d86975db2ce912d0824f1215aaa6e767b407
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 9 22:27:57 2016 -0700
+
+    home: copy
+
+commit b05fd4e791e9484681d3bd3d53502fff6554b98a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 9 22:27:48 2016 -0700
+
+    home: no alert in missing TURN config
+
+commit aece3c5f91236ac075a323820404cc27f27b4422
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 9 22:27:38 2016 -0700
+
+    add open graph tags
+
+commit 1f20978cab8b3481ee5146175eafaf1197b939f0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Apr 9 22:15:47 2016 -0700
+
+    script/style order
+
+commit bf6287ddceadbff7772efe5acf51e3b45bfc5f2b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 7 22:26:08 2016 -0700
+
+    compress image
+
+commit a5c96cb2d17ffe45bfbc5e2a8ed57b7ce7271042
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 7 22:23:02 2016 -0700
+
+    Get rid of imgur links
+
+commit aac805c4e124def8acfc3c25b70bd7e80ebeced6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 7 22:17:35 2016 -0700
+
+    Use retina size image
+
+commit afff022658e7520479d6e05f80095333896ae9ce
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 7 01:46:42 2016 -0700
+
+    log linux updates
+
+commit 2d2a9efa03f1bf7ad254292f2cfc3923c740aa44
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 23:36:35 2016 -0700
+
+    derp
+
+commit ccbf261674956b70f50517fb112eb829f264172e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 23:33:53 2016 -0700
+
+    chmod 777 crash-reports
+
+commit 46add961a87c586a7eab98474027745b8e836aea
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 17:20:34 2016 -0700
+
+    Fix prod crash
+
+commit e98a0b325d3491b95539512a8cb25b73d3710414
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 17:19:37 2016 -0700
+
+    add placeholder.txt
+
+commit 1df503bc22c89cd49dd0b07852ee459f6b45414d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 17:14:22 2016 -0700
+
+    add placeholder.txt
+
+commit cf81c4492fae3e768985f8019be43b377f2fdd5c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 16:53:20 2016 -0700
+
+    log update check date
+
+commit 617787bc9ac724fab85b22cbaffe92808275d30f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 14:58:41 2016 -0700
+
+    last minute site design tweaks
+
+commit 9cbc14855775de3ed761efa7e9d0c39f9e2d00af
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 14:23:48 2016 -0700
+
+    Better phone layout
+
+commit 5023327b87cd7396ebf8428c3b3a1044ed133eff
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 14:02:24 2016 -0700
+
+    Style tweaks
+
+commit d2d5cff70ac5a62c8bce0cc2ffc47cd3ccee0662
+Merge: 551fadd 50f9ea6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 6 13:31:45 2016 -0700
+
+    Merge pull request #51 from dcposch/dc/banner
+    
+    WebTorrent Desktop link and banner
+
+commit 551fadd75cde777250f6c3481a8692efbd023851
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Apr 5 03:56:59 2016 -0700
+
+    add crash-reports/placeholder.txt
+
+commit 2c904055f7bae7e79fc356159a53d1ec0b57d9d5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Apr 5 01:43:19 2016 -0700
+
+    Fix: log windows updates as windows :)
+
+commit bddd5fae7b35b7d13fa050bde72b7ba201011c1d
+Merge: 850e2a6 8ed89b0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 4 23:48:11 2016 -0700
+
+    Merge pull request #52 from feross/crash-reports
+    
+    Server-side components for saving crash reports
+
+commit 8ed89b0976586b718f3c78d7c6763c36aad2c0b7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 4 23:42:47 2016 -0700
+
+    Server-side components for saving crash reports
+
+commit 850e2a6be9a5e5543c6fdf7afd692439e2aa8714
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 4 18:10:10 2016 -0700
+
+    Change Windows exe path
+
+commit b677b566b880862d87312990413715fa108c70a2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 4 18:05:32 2016 -0700
+
+    OS X: update .zip files use "-darwin.zip"
+
+commit c57b00d9ac1255f9904a269b2e9a359a960d6eb2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Apr 4 18:05:18 2016 -0700
+
+    Rename update endpoints to /desktop/
+
+commit 50f9ea63f2e7a79bcc5188bd63e58e727f7054a0
+Author: DC <dcposch@dcpos.ch>
+Date:   Sat Apr 2 06:15:37 2016 -0700
+
+    Update favicon
+
+commit d08bda35a353bcc2305d431b2b980da241390f08
+Author: DC <dcposch@dcpos.ch>
+Date:   Sat Apr 2 06:08:58 2016 -0700
+
+    WebTorrent Desktop link and banner
+
+commit 2d27d8e91a2e124ccfb8d1b1d12fcba3255ef422
+Merge: e475554 8db6a05
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 31 23:47:38 2016 -0700
+
+    Merge pull request #50 from feross/greenkeeper-bittorrent-tracker-8.0.0
+    
+    Update bittorrent-tracker to version 8.0.0 🚀
+
+commit 8db6a059338782995cca6eff3dbebfae135405ce
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Thu Mar 31 22:02:37 2016 -0700
+
+    chore(package): update bittorrent-tracker to version 8.0.0
+    
+    http://greenkeeper.io/
+
+commit e4755542d46d4db31331f0ca0d1f0316eb84d9f8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 29 04:25:47 2016 -0700
+
+    fix mixed content
+
+commit 4de0f976afa094aff34d4c15d186ed43e8ab891b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 28 17:17:59 2016 -0700
+
+    OS X/Linux update endpoint: send app version in response
+    
+    This is for the Linux updater. See:
+    https://github.com/feross/webtorrent-desktop/pull/261
+
+commit ba05d74c87b4635c3376a9ddd878599f74a92e5d
+Merge: 25eff39 61fd8ac
+Author: Nate Goldman <ungoldman@gmail.com>
+Date:   Mon Mar 28 14:16:33 2016 -0700
+
+    Merge pull request #48 from ungoldman/app-page
+    
+    spruce up app page
+
+commit 61fd8ac2f731ee422cfb7ad3114db23dac2d1b21
+Author: Nate Goldman <ungoldman@gmail.com>
+Date:   Mon Mar 28 14:00:50 2016 -0700
+
+    app -> desktop
+
+commit da5de3b1ce84972adbb7e518333d5bdea57e87fa
+Author: Nate Goldman <ungoldman@gmail.com>
+Date:   Mon Mar 28 13:41:25 2016 -0700
+
+    fix missing space
+    
+    jade is weird
+
+commit de0d446d31a0a34f6ce522e39aed8e941a9becfc
+Author: Nate Goldman <ungoldman@gmail.com>
+Date:   Mon Mar 28 13:08:33 2016 -0700
+
+    spruce up app page
+
+commit 25eff3999f116e599bbda6d35c7e648824ced88b
+Author: DC <dcposch@dcpos.ch>
+Date:   Mon Mar 28 01:29:54 2016 -0700
+
+    Download links always point to latest version
+
+commit 6581996f8406d4dcc6458e25e6368a0fbd3e588b
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Mar 27 23:36:19 2016 -0700
+
+    Better copy. Add Featured Torrents
+
+commit 8f661042155b5f979aef1dda7fe9f718afce98de
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Mar 27 21:40:34 2016 -0700
+
+    Add Webtorrent.app page
+
+commit 9a66f457b5b8778cfcdb8c6733449d6db52f4f7c
+Author: DC <dcposch@dcpos.ch>
+Date:   Sun Mar 27 03:12:12 2016 -0700
+
+    Add page for WebTorrent App
+
+commit 07552d90c64497d2b94ca6773ffdad315116c641
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Mar 27 03:28:28 2016 -0700
+
+    log app update checks
+    
+    This is so we can see how many users are using WebTorrent.app! :)
+
+commit 381716dcee83697341e8ebf9ee47c5c41171696c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 25 05:21:28 2016 -0700
+
+    Windows autoupdater: handle requests for older versions of .nupkg files
+
+commit e42697ebab90c0c6bd4cb2445a918fd1e1d0f7f0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 25 03:29:14 2016 -0700
+
+    WebTorrent.app: Add Windows auto-update endpoint
+
+commit 3f1bb4baa6d266c9ee6a8b0cc8bf7fde1ef664c1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 24 19:52:44 2016 -0700
+
+    update docs
+
+commit d5e123b00da784aeba1aa0bee53d4ccaab0daf26
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 21 21:43:53 2016 -0700
+
+    detect current app version correctly
+
+commit 9ea4fe121be91c4434361390476288c3bdfa3375
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 21 21:38:28 2016 -0700
+
+    Point update server to GitHub.com releases
+
+commit c0bd69ea5ace2c10d3daaf3216550b4701ec394a
+Merge: 235fce1 bcec98f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 21 20:24:21 2016 -0700
+
+    Merge pull request #46 from feross/app-updater
+    
+    Server-side components for Squirrel app updater
+
+commit bcec98fd88c1f99fdf4ee51e9477c6cc2a90ed34
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 21 20:13:45 2016 -0700
+
+    Server-side components for Squirrel app updater
+
+commit 235fce1b9a9590fe88f671269d51d781db6778b0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 14:51:05 2016 -0700
+
+    remove unusued image
+
+commit c98a3904ea0fb411f478f64ca6f14cc02d54f9e9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 14:35:45 2016 -0700
+
+    fix jade deprecation warning
+
+commit ee2f4b14029a036ec0449442eb73458ae7cdd56d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 14:30:04 2016 -0700
+
+    use faq and intro docs from webtorrent repo
+
+commit e290b7bdd8b6b2285197567c360a3a13d5504f16
+Merge: be30650 5fe832d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 14:02:47 2016 -0700
+
+    Merge pull request #45 from feross/api
+    
+    Unify docs with webtorrent README
+
+commit 5fe832d807e64ee234fc19b8b3c014fa99dbf5c5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 16 13:53:03 2016 -0700
+
+    Unify docs with webtorrent README
+    
+    For https://github.com/feross/webtorrent/issues/507
+
+commit be306506cb21a93e8bd0680e5e5ff03671bece78
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 10 23:06:34 2016 -0800
+
+    move icon to img/
+
+commit 777d65384d2baf9c38c46173dd85a132a7ffee23
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 10 23:05:52 2016 -0800
+
+    add app icon
+
+commit 6e2572d7b8acfc756f924768e58a42c8585fbe4d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 9 20:26:51 2016 -0800
+
+    protect stats
+
+commit a5386d4e8cfb67fbe72f893aea0e6c057b2b0dcd
+Merge: a5b278f 3418215
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Mar 5 13:06:24 2016 -0800
+
+    Merge pull request #44 from feross/greenkeeper-stylus-0.54.0
+    
+    Update stylus to version 0.54.0 🚀
+
+commit 3418215a6ba8f49f590e5f7c1aa8dd4ec4cc9d1e
+Author: greenkeeperio-bot <support@greenkeeper.io>
+Date:   Sat Mar 5 08:16:26 2016 -0800
+
+    chore(package): update stylus to version 0.54.0
+    
+    http://greenkeeper.io/
+
+commit a5b278fb078604212f2bbe7b94c6cae10a047380
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 23 15:26:58 2016 -0800
+
+    put highlight.js styles last
+
+commit 0a4df805ce88d5ef27af7eb524adeb497de91d5c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 23 15:26:43 2016 -0800
+
+    highlight.js@9
+
+commit 1b4e6058fe78baf0d2d8a0b95717d9c1d8bcb7e2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 23 15:18:13 2016 -0800
+
+    remove pre-commit
+
+commit e49d4d4d019c3fdd52970405e006c03b71e84ea8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Feb 9 23:38:43 2016 -0800
+
+    standard@6
+
+commit 02b69198f50ae36de79ab6cf853446847660ecd5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Feb 5 14:36:11 2016 -0800
+
+    standard 6 prep
+
+commit 7c4b0c4b2631bd7b0be7e74d83c80cfafed06c29
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 25 05:32:35 2016 +0100
+
+    add sintel.torrent
+
+commit 93ff1934bc5721586c9b9d8769fee4e3c0f71954
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 12 21:59:41 2016 +0100
+
+    magnetURI
+
+commit 4aa18b1d1ced97040eaf06682cff86bffd8002d7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 12 03:11:56 2016 +0100
+
+    deploy: only install production dependencies
+
+commit e22cbf21ab67fbb219839da227c2939fe44a5807
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 11 00:16:28 2016 +0100
+
+    update docs for webtorrent 0.73.0
+
+commit 4cb66e510d471580bcae566c2e53efc8cb9123be
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 10 02:05:06 2016 +0100
+
+    better error page
+
+commit a9b95bb857db8b9ca823ea85795469c71a212e52
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 10 02:02:10 2016 +0100
+
+    move imgs from webtorrent repo
+
+commit da4be172de4beb2c9c8425635f5bcd5ad7381b13
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 9 22:37:02 2016 +0100
+
+    browserify@13
+
+commit 4b35534186e3e2b2ccfb527c0ad7242dab304708
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 6 05:53:33 2016 +0100
+
+    throttle to 250ms
+
+commit 5dc7ddd7b1770d09b8121d39785c8bea738a8e1e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 6 05:47:32 2016 +0100
+
+    throttle download/upload events
+
+commit c673ff5b9755f7b0b7bf369b942a92489314c697
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jan 6 05:42:13 2016 +0100
+
+    bittorrent-tracker@7
+
+commit 8c050802b031a629e019798f3d6525969d497e1e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 3 18:39:25 2016 +0100
+
+    Fix crash when ssl keys are missing
+    
+    Fix https://github.com/feross/webtorrent-www/issues/39
+
+commit 67345062e4c8c508f8ac37f765e91d4532eed194
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 3 18:31:00 2016 +0100
+
+    badge
+
+commit a886594cc6b9b327c8c22d0c832c9db39f6ed6f0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 2 18:39:29 2016 +0100
+
+    update progress on download and upload
+
+commit 6cdc2bdaa44c6fe3e99a5b97cdbb0563922fc0cc
+Merge: f980fad 5a55568
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 2 17:52:08 2016 +0100
+
+    Merge pull request #36 from DiegoRBaquero/patch-3
+    
+    Make the progress bar load nicely
+
+commit f980fadeeecb8527036251307358a3f0b390ba54
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 30 03:16:10 2015 +0100
+
+    stylus@0.53
+
+commit b855935456027c909fbb8d84ba7f253353790736
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 30 03:16:02 2015 +0100
+
+    pretty-bytes@3
+
+commit 46d1e7712191bcc118483bc5304339bcb0459a46
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Dec 28 14:37:36 2015 +0100
+
+    sync docs
+
+commit 3e24543b5606ccdc6e9d9b41709eff76a5087711
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Dec 28 12:36:24 2015 +0100
+
+    sync docs with webtorrent repo
+
+commit 5a55568a445cb819814852cc51d4646140e959b2
+Author: Diego Rodríguez Baquero <DiegoRBaquero@users.noreply.github.com>
+Date:   Thu Dec 17 09:32:37 2015 -0500
+
+    Standard fix
+
+commit 458c8732d166361b90a83e4ef24c9f9fee0fc1d6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Dec 18 00:53:59 2015 +1300
+
+    update docs
+
+commit b8ceec403a8dc0df54d03cbaf54549cd06d5bfa9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 17 18:52:53 2015 +1300
+
+    stats: hide torrents that have no peers
+
+commit 83f10eae5f310ad166a5c2e2edb58fd5ecdbefc5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 17 00:39:17 2015 +1300
+
+    add /stats
+
+commit 1d9bc5c1477ccd74b0a02e18245cfe41783ad777
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:58:13 2015 +1300
+
+    fix undefined issue
+
+commit c041eb458805dbf0d3f570adc94bc2bee3a3015d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:58:02 2015 +1300
+
+    only redirect GET requests to /
+
+commit 66dbcde3212433ed5a7c607df961e6a40711317a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:53:27 2015 +1300
+
+    listen on '127.0.0.1'
+
+commit f3f989d25dfcef6b392fe1434e3a2230d9694abb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:46:49 2015 +1300
+
+    update redirection code for bittorrent-tracker@6.3.3
+
+commit cbe76de3f6275cc339d3d8bf18b5e543871c87d0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:24:30 2015 +1300
+
+    style
+
+commit bc4d08eda63b8ee9443744fb7bd900364f96a316
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:16:31 2015 +1300
+
+    Disable UDP/HTTP tracker
+
+commit 7d03ebe9e829830de46e1181425ab26aff300073
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:16:12 2015 +1300
+
+    style
+
+commit eb3cc9c3126218f3908353b1eb2edec0719714ff
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 16 12:15:50 2015 +1300
+
+    'listening' event doesn't include `err`
+
+commit fbbe1cf1147c30343c07897bd4c16d445fb263a5
+Author: Diego Rodríguez B <DiegoRBaquero@users.noreply.github.com>
+Date:   Mon Dec 7 17:42:56 2015 -0500
+
+    Make the progress bar load nicely
+    
+    Debouncing would make it only update on wire events mostly as the client fetches chunks faster than 500ms.
+
+commit 7305a531eaca2697b7edd5f96cbb702b6b201d19
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Dec 5 03:21:59 2015 -0800
+
+    copy
+
+commit 73c94ee65e2792bbae8bf894dd636ddcd1aa2529
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 3 18:01:19 2015 -0800
+
+    change magnet link to sintel.mp4
+
+commit 5ea24a5a3ad91b9d7dc508327247ffb239fe55bb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 3 17:46:05 2015 -0800
+
+    cache CORS preflight
+
+commit 0566dcdacea4c2ab94340e61fef985206ce7f6d6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 3 17:36:03 2015 -0800
+
+    enable CORS preflight
+
+commit 549b61c2f6e380812bb062d413288e8ef4a79784
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 3 17:28:11 2015 -0800
+
+    enable CORS for any site (/torrents/*)
+
+commit 08fbc6c00a413a00f8a03ed0b9df306c4040ab5f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Dec 3 17:27:45 2015 -0800
+
+    copy
+
+commit 33b7edb301110809354c7d29ae8310ae795cfe95
+Merge: c08e59f 8db81f0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Dec 2 14:02:30 2015 -0800
+
+    Merge pull request #35 from DiegoRBaquero/patch-2
+    
+    Update docs
+
+commit 8db81f08a4b88c9c46b21245c4efd990f9ec292c
+Author: Diego Rodríguez B <DiegoRBaquero@users.noreply.github.com>
+Date:   Wed Dec 2 16:58:43 2015 -0500
+
+    Update docs
+    
+    The path to file/folder only works in Node.js
+
+commit c08e59fca69b10aa1113f85f0987cc769d6ac626
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 29 18:24:15 2015 -0800
+
+    add redirect to irc logs
+
+commit a8a8fff56a5788f30e4b2fc093276bcf72bec56a
+Merge: 81e42dd 1655173
+Author: Sasha Hilton <sashahilton00@gmail.com>
+Date:   Sat Nov 28 15:18:16 2015 +0000
+
+    Merge pull request #34 from DiegoRBaquero/patch-1
+    
+    Add βTorrent to the apps and clients lists
+
+commit 165517361c5611431a0319ba1e821c5ecaed0634
+Author: Diego Rodríguez B <DiegoRBaquero@users.noreply.github.com>
+Date:   Sat Nov 28 10:13:34 2015 -0500
+
+    Add βTorrent to the apps and clients lists
+    
+    βTorrent is an open source AngularJS client in the browser and I'm working on an electron-based app.
+
+commit 81e42ddfb99e8fdaafb309ff8d54968f427f176d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Nov 23 22:29:34 2015 -0800
+
+    links to playback
+
+commit 0b7a995bc437746a297590a30fc55f9ec5aae3bd
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Nov 23 22:21:52 2015 -0800
+
+    fix link and example
+
+commit f91fbcf7539e61e999b1a4f689d45c3c5ac78451
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 22 12:12:00 2015 -0800
+
+    use debug module for proxy error logs
+
+commit cd4cb63575d26457543ac27a6ca01b85342ea715
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 22 12:08:22 2015 -0800
+
+    handle http proxy error (For #32)
+    
+    As discussed here:
+    https://github.com/nodejitsu/node-http-proxy/issues/527
+
+commit dd8afe8fb277b7a09b2961dcd3d106ad5c426786
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 22 11:45:38 2015 -0800
+
+    support HSTS preload
+    
+    For https://github.com/feross/instant.io/issues/89
+
+commit 47728051a47b0196c46c61d2906cc98dd893551c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 22 11:31:06 2015 -0800
+
+    add travis config
+
+commit 6ca9b1c01e98b048576c8d81e6e46fa0004dd9a9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 22 11:29:58 2015 -0800
+
+    add travis badge
+
+commit 39e30c50ac0755bb572c703c6e6239b6a972f225
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 19:12:38 2015 -0800
+
+    fix typos
+
+commit 8429ceb39983d41ed01836045d8f410f62c4b54c
+Merge: 8a22df2 9568c8c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Nov 22 11:26:35 2015 -0800
+
+    Merge pull request #33 from srenatus/patch-1
+    
+    FAQ linkfix
+
+commit 9568c8c93c91d42a6a7bec273863efa4c021ded0
+Author: Stephan Renatus <stephan.renatus@gmail.com>
+Date:   Sun Nov 22 11:08:48 2015 +0100
+
+    FAQ linkfix
+
+commit 8a22df20c734a573c9f635dcf759a1c6e0e744ce
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 19:08:23 2015 -0800
+
+    reduce log noise
+
+commit ea0b4a444da70b4a780d72be3efdb8d9cf85dd95
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 19:02:19 2015 -0800
+
+    Near zero-downtime deploy (fix #17)
+
+commit a5ffbe86f8b8254d9af1bb1d3e47b1b6622d5904
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 18:56:41 2015 -0800
+
+    Use /rtcConfig from instant.io for TURN server (Fix #23)
+
+commit 6a7f8294ec51642c27de5d0d8fa0af89ecd2d3b3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 18:49:40 2015 -0800
+
+    browserify@12
+
+commit e8259002679dac48e0b9e80a4725aeb9a02d7b50
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 18:36:38 2015 -0800
+
+    Border on video shows up in fullscreen (Fix #25)
+
+commit 387ac29da7b01a9c68740d4dcb01fa787c7c6b0c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Nov 21 16:58:39 2015 -0800
+
+    use sintel
+
+commit c62387680f34c23fbb41508955ec99493e6731e3
+Merge: 797be36 b341ef0
+Author: Sasha Hilton <sashahilton00@gmail.com>
+Date:   Sun Nov 15 15:38:29 2015 +0000
+
+    Merge pull request #30 from loon3/master
+
+commit b341ef0ca2f72e4c140e0244a0b09aa4de6b1c05
+Author: Joe Looney <joelooney@Joe-Looneys-MacBook-Pro.local>
+Date:   Sun Nov 15 10:11:16 2015 -0500
+
+    add Pockets app, fix broken links
+
+commit 797be3628cf4038310f578ea6970bb250eca467c
+Merge: 839aae0 068fd5a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Oct 23 17:06:47 2015 -0700
+
+    Merge pull request #29 from Flet/std
+    
+    standardize
+
+commit 068fd5af572d34926f28bb03ee60019f59af0a5f
+Author: Dan Flettre <fletd01@yahoo.com>
+Date:   Fri Oct 23 12:37:56 2015 -0500
+
+    standardize
+
+commit 839aae0afbb2f07028424b94f99a2dfc5fb9b7a3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Oct 12 15:09:39 2015 -0700
+
+    fix debug log
+
+commit b5570931dab4c3105eb6d10d812ada913ef8a1f4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 18 15:44:58 2015 -0700
+
+    standard
+
+commit 8eaedb2f57dfa314127214159b2799a87da972d0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 14 12:19:37 2015 -0700
+
+    fix localhost link
+    
+    thanks @flet
+
+commit 5860632f84bbfe68e047a95d0e748e4b63f0c1a7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 14 12:19:27 2015 -0700
+
+    remove unused copy of wanderers.torrent
+
+commit c93109ff59ce2c91acaa5687cdb2861997e169dc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 14 11:47:06 2015 -0700
+
+    rename npm run scripts
+
+commit 08001df5a7185d80a27b5945de18fa2f745fadd9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 14 11:44:06 2015 -0700
+
+    make "secret" folder optional
+
+commit c04ca52d4a9acd7e15f959cb73f7411509f1bc48
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 14 11:38:32 2015 -0700
+
+    don't minify the js
+    
+    allow for easier debugging
+
+commit e21f778026aabfeaff6c8d810423b2c1fafb88a2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Sep 14 11:32:58 2015 -0700
+
+    add link to colored coins
+
+commit fa9885122a718f846c1e57e3579e1834a57a97ce
+Merge: 285550f 4978de0
+Author: Sasha Hilton <sashahilton00@gmail.com>
+Date:   Sun Sep 13 23:13:26 2015 +0100
+
+    Merge pull request #24 from cesarandreu/patch-1
+    
+    Fix singular/plural peers in home
+
+commit 4978de0e6b8d6857ee28000796a25c3c44fe2d7c
+Author: Cesar Andreu <cesarandreu@gmail.com>
+Date:   Sun Sep 13 04:53:58 2015 -0700
+
+    Fix singular/plural peers in home
+
+commit 285550f9bf015034044a459403bceee989f19a93
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 12 16:08:16 2015 -0700
+
+    wording
+
+commit b2bcbe955ca9f009be167da1381fe602005385a2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 12 16:04:21 2015 -0700
+
+    serve fonts over https
+
+commit a50e6a225ac06986afdd46affd4cdc90281ad6af
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 12 16:00:14 2015 -0700
+
+    update for webtorrent api changes
+
+commit 978fc4bbf2e0dc024387dafd6a7ca2c7193259ac
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Sep 12 15:57:31 2015 -0700
+
+    add cors headers
+
+commit 358cc0e8ca35455cc54912104a0b6b42f3038f32
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Sep 11 07:45:28 2015 -0700
+
+    lots of progress
+
+commit 921e00a203c9f2e2b6d0f62d8f8d8bc18e82073e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 10 17:25:33 2015 +0200
+
+    add scripts for upload/downloading content
+
+commit 4ce69cfa762a333a89c3a13672f7e8bb3b2d1175
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 10 17:20:34 2015 +0200
+
+    ignore static/torrents folder
+
+commit 5305a75e197a42f1f6a3b50f827605ae2a806cfa
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 10 17:20:09 2015 +0200
+
+    bump deps
+
+commit 635b1086be830e58ffe7bd1dcc9a7e1040a60fc0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 10 17:19:13 2015 +0200
+
+    show torrent progress info
+
+commit 3b802c2c5ceea63bae0f82a9bd9bf030aa83605f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Aug 10 14:01:50 2015 +0200
+
+    expose client on window
+
+commit d036aac272c9edf1c5a255f1a1e686fe2ffb9398
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Aug 2 18:26:52 2015 -0700
+
+    site design progress
+
+commit 1c60cd6dfa1885b5587964c33c9592d560a7907b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jul 31 16:47:19 2015 -0700
+
+    new site design
+
+commit 0436380022272e6afe5f3936c435701b4f5f2be2
+Merge: 3f4356f b74e840
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Aug 14 23:37:08 2015 +0200
+
+    Merge pull request #22 from LinusU/standard-style
+    
+    adhere to padded-blocks
+
+commit b74e8400331f3d84da4e88f23141bdd78ce9eb52
+Author: Linus Unnebäck <linus@folkdatorn.se>
+Date:   Fri Aug 14 22:34:26 2015 +0200
+
+    adhere to padded-blocks
+
+commit 3f4356f93d8b3fc96e73300463a4e693ce3327c3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 29 17:19:48 2015 -0700
+
+    add pre-commit
+
+commit 3949c1102594e4a2949052d0e913dadc0b5d62cc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jul 29 05:10:30 2015 -0700
+
+    fix standard
+
+commit 197151d331751386eaa80a36dafe1dd61d365721
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 28 23:48:11 2015 -0700
+
+    add sample secret file
+
+commit 1e06f262b4dda3be3c107d7a607be0ab43dda147
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 28 16:50:55 2015 -0700
+
+    basic homepage
+    
+    Credit for this design goes to @sashahilton00 - thanks!
+    
+    Code copied to this repo from
+    https://github.com/sashahilton00/webtorrent-site
+
+commit 3b3b9614970b0c6872093494094b6cb2a48b46d6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 28 16:11:29 2015 -0700
+
+    render homepage; use titles
+
+commit 4c3f688359963df18eea356c3cd8c49454da6c22
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 28 16:11:16 2015 -0700
+
+    remove unused file
+
+commit 44d11fe08f2fb7579e374528a9a7a98db0abd7f4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jul 26 19:31:15 2015 -0700
+
+    stylus@0.52
+
+commit 7d809bd1c376f213d65315ca6917698dd73888dc
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jul 26 19:31:07 2015 -0700
+
+    browserify@11
+
+commit 3b4119dc883837ff7986b13010c12689cbe1c6b7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jul 26 19:30:33 2015 -0700
+
+    bittorrent-tracker@5
+
+commit e2d166a8aa40488f9cb16772c5dfc8f59a586661
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jul 20 16:24:43 2015 -0700
+
+    use downgrade/unlimited packages
+
+commit feff84d2ad61b01031fd16371109fd23079906a7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 9 15:52:49 2015 -0700
+
+    supervisor: longer retry
+
+commit 9f2f8a06498f99f55e396dede3d4797e53c6df64
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 2 16:34:32 2015 -0700
+
+    Redirect tracker.webtorrent.io root to webtorrent.io
+    
+    Fixes #4
+
+commit 7a23147aec2dc147558e51a83ad1842d5f948d38
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Jun 10 13:26:54 2015 -0700
+
+    JavaScript Standard Style
+
+commit c7bb016d44316754607e0a9d0e55fa7a636ec7af
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jun 6 12:50:56 2015 -0700
+
+    re-enable udp tracker
+
+commit a64a98fa74d8298ffd9adb2a170530eaab836eb0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu May 28 16:38:59 2015 -0700
+
+    parse-torrent@5
+
+commit ec50559f16f4cfb299b5fc40db531f9218d0bd15
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat May 23 05:09:07 2015 +0200
+
+    host whiteboard on webtorrent.io
+
+commit 8529e49908acbe4ce96d17f157475b4bbe3bbf6c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 20:32:17 2015 -0700
+
+    http should listen on 127.0.0.1
+
+commit 49db011bf35e16879399af94fc5231acf039dada
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 20:22:13 2015 -0700
+
+    attempt to fix tracker in production
+
+commit 679d985372b249b1b00bec682cdadb3e8f7234eb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 20:09:54 2015 -0700
+
+    tell tracker to only listen on config.host
+
+commit a0db65cd6ab95ced392b367b4ea816b5d06eb9d4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 20:09:45 2015 -0700
+
+    not a fatal error to fail to kill process group
+
+commit b53a6ce32fca72f439d2472dc2d6da2ae8a0d7e7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 20:09:29 2015 -0700
+
+    print uncaught exception error
+
+commit 5f3882193463d4b1e770ffde27d82bfbbae2b03b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 19:37:12 2015 -0700
+
+    print stacktrace on tracker error
+
+commit 0e6fabe2c6df78f0bf398c4e7c49c15879eac464
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 19:27:39 2015 -0700
+
+    browserify@10
+
+commit 61056deab84208963083a0532c131aca2bbf2cc4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun May 3 19:27:34 2015 -0700
+
+    bittorrent-tracker@4
+
+commit 1a3d85279e10a343df229339723d910206a800c6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 23 23:20:31 2015 -0700
+
+    deploy: no supervisor reload
+
+commit 2e0982df4c9af61648f3c323d8c5902236976ee6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 23 23:12:36 2015 -0700
+
+    specify `/bin/bash` for trap ERR
+
+commit 13b6a5a9cb8b8d9d25345e3e8d661033f0ad7965
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 23 22:50:11 2015 -0700
+
+    watchify@3
+
+commit 7c01c0d745fc320a1619685cfa9e5f9fc342f034
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 23 22:50:00 2015 -0700
+
+    stylus@0.51
+
+commit b390b7b3a07edf4785d23aee0e989e75aaafb78a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Apr 23 22:49:52 2015 -0700
+
+    exit more robustly
+
+commit c29bb760d1371f7d876ee2e38ae630796efe7015
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Apr 1 17:38:47 2015 +1300
+
+    show all debug logs
+
+commit 2312d013b8538533d750925b49a846a4257ae48c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 27 17:02:35 2015 +1300
+
+    print warnings and errors from tracker
+
+commit ec667b49920fd8ae0dd68f6004d5d4e7763fee03
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 27 16:47:17 2015 +1300
+
+    show bittorrent-tracker debug logs
+
+commit d5955cee5ca454dcfc8a13459334112cc4a8ab00
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 27 16:37:44 2015 +1300
+
+    deploy: shutdown before install
+
+commit 301476ab81dba620eee9871454956ca03ecb985a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 27 16:34:09 2015 +1300
+
+    force re-install modules
+
+commit 0674683ff4bf88c34e3ed602769c14cf9bf82935
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Mar 27 16:19:57 2015 +1300
+
+    use integrated bittorrent/webtorrent tracker
+
+commit e6179cacc3dcb5ee19edfc6eaa1dddd46e86bc55
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 17 13:00:53 2015 -0700
+
+    compress js
+
+commit af6bee2aab9d3984eaecee867f5d78ef154530d7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 16 18:31:13 2015 -0700
+
+    depend on mainline http-proxy@1.9.0
+
+commit f36b8a1cd284e4041cc4edf0a1da4e4f1765c11f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Mar 12 15:05:22 2015 -0700
+
+    fix webtorrent tracker
+
+commit 58d0ae90b0799f207c4d1e26b70d430dd0428695
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 11 15:01:09 2015 -0700
+
+    add explicit ircServer to fix regression in gitter-irc-bot
+    
+    See: https://github.com/finnp/gitter-irc-bot/pull/6
+
+commit b575f1d5b3138a0a011b2cb47b08513c61202a7b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 11 00:59:44 2015 -0700
+
+    proper git url
+
+commit 6a7dce6abb51415fde460dc535917ee23bc76766
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 11 00:57:58 2015 -0700
+
+    use http-proxy fork for "x-forwarded-proto" fix
+    
+    Fix here: https://github.com/nodejitsu/node-http-proxy/pull/789
+
+commit 96ff7335f4f1a260709760d67c0ca99883a19481
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Mar 11 00:03:14 2015 -0700
+
+    kill the process group on uncaught exception
+
+commit 832d85b3a3fedcd18666fd71bafdf274b8759556
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 10 23:56:04 2015 -0700
+
+    fork -> spawn for simplicity
+
+commit d94cc5fe983d103ecf11ced939d2f06a9d78f9f7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 10 23:33:37 2015 -0700
+
+    startsecs=3
+
+commit 095d6ae33ada7c23d56dec805c6ac09c6a7f539f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 10 23:29:34 2015 -0700
+
+    don't loop graceful shutdown
+
+commit ab9b13e40b125f1ee606914483cc7fb1cb7cf3c3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Mar 10 23:16:36 2015 -0700
+
+    gracefully shutdown rogue child processes
+
+commit 9a7685808ee95a11653b248bd386c65db1d5a25c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:08:06 2015 -0700
+
+    stylus@0.50
+
+commit 19752f9afc4986f211b600a2e77ce470a99b4aaf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:08:00 2015 -0700
+
+    parse-torrent@4
+
+commit 31cc7fdbd8c09d669aa2dc412cc213240814c5c5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:07:54 2015 -0700
+
+    create-torrent@3
+
+commit 4d3534a060d840b40cb730e1cc66885f73bcdb6d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:07:46 2015 -0700
+
+    drag-drop@2
+
+commit 4be4125b648741baf03095cac22e56c4369dd2ef
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:04:46 2015 -0700
+
+    watchify@2
+
+commit 4aacb1ba92124e7e1e6d74fe2be2e9930c918d96
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:04:40 2015 -0700
+
+    browserify@9
+
+commit eb6e513c27646f5d653372a0f56e881208d53af1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:04:32 2015 -0700
+
+    posix@2
+
+commit c7f80701e83120199b481ac9bdc5c13c18b7e8f6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:04:27 2015 -0700
+
+    debug@2
+
+commit aac9fe597335cd05b06094830806536268d42994
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Mar 9 20:04:22 2015 -0700
+
+    bittorrent-tracker@3
+
+commit 06f2b94d55d45100b6df936cffbb3319940de306
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 19 23:20:34 2015 -0800
+
+    add links to webtorrent.io
+
+commit 801331c2f13cfe9cf10d21a2b1604c02f2641655
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jan 15 23:49:32 2015 -0800
+
+    web: detect https correctly
+
+commit 7568ae9aa48221599ce5abeda81ceae710373ee4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 13 17:26:35 2015 -0800
+
+    strict transport security
+
+commit 19565c59b57f285e8563a767424c8df3f4bddae2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 13 17:26:30 2015 -0800
+
+    redirect www to non-www
+
+commit ec1940e24e95b26a1e6cd0fbb572411983928a2d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 13 17:26:19 2015 -0800
+
+    force ssl
+
+commit adc1c2b804fc731d159c22820918a5a7167f0063
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 13 17:23:58 2015 -0800
+
+    disable x-powered-by: express
+
+commit a2687d24e927269c526076891bbaa691da23881a
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 13 15:36:59 2015 -0800
+
+    downgrade gid
+
+commit 09efd8c1e96f553a1c462a3046513bb71def3bd7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 12 23:21:30 2015 -0800
+
+    downgrade uid correctly
+
+commit b0db217fac20e4d06b31e99fb8b555a367ec951f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Mon Jan 12 22:55:27 2015 -0800
+
+    fix error handling middleware signature
+
+commit b85dd5d5edad739b1beabe06f166be3ff86736c9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 6 21:56:37 2015 -0800
+
+    simplify starting gitter bot
+
+commit b02e2e305b9d94ee4f972fbc0dfa6b495c508d0d
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 6 21:36:19 2015 -0800
+
+    fix supervisor syntax
+
+commit 96fbc6950c2e8cc8a3a902b6fcd371a3a97e9644
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jan 6 21:29:02 2015 -0800
+
+    add gitter-irc-bot
+
+commit f662bec7cdae52ef398c592f822160a1bde461b5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Jan 4 01:48:55 2015 -0800
+
+    add google analytics
+
+commit 8602134db8cb0a7bd1c9acd8e7316c71903cbe94
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 3 22:42:00 2015 -0800
+
+    add secret-download and secret-upload scripts
+
+commit c969365b5ca6901f1b4706188496a834be55d296
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jan 3 22:34:53 2015 -0800
+
+    better error page
+
+commit 4aa502b11165b7dfb6d0cd357d6da359dff9b7df
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 12:50:42 2014 +0100
+
+    proxy websockets through to webtorrent-tracker
+
+commit 26a1e9e92f860f4df997f59b62c645fc662bbb42
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 12:14:55 2014 +0100
+
+    use port 443
+
+commit 3eb99fe0f17c356fdd7d6f42a323cb868527c266
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 12:08:14 2014 +0100
+
+    listen on unique host for https; don't route for instant.io
+
+commit 8908cb270f7626473922442e78eefa49c78a66c9
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 09:36:23 2014 +0100
+
+    support https
+
+commit defc38388ee16e9383863920b0269b13b121ba91
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 08:48:47 2014 +0100
+
+    catch all debug logs
+
+commit 8bda85360a5b97ef305b60ebe1b4d6dd51f131a3
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 08:48:34 2014 +0100
+
+    google site verification
+
+commit b18db791771667ab4e8900a79b01f9e39670c198
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 08:48:27 2014 +0100
+
+    update deps
+
+commit 9752f76a4fe69ccf6dd37b22a30fe9ac431da2f0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sun Sep 7 08:48:17 2014 +0100
+
+    ignore secret/
+
+commit 2c38a96d6f29a2288ec7d52eac933ea75c1dc000
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 12 03:59:55 2014 -0700
+
+    create torrent: show file name in download link
+
+commit 1e823745ba662537beea8d52435c794e9545511b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 12 03:58:42 2014 -0700
+
+    fix path to static resources
+
+commit 265c76c4930882cb821820803d6f8532c62ec057
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Aug 12 03:52:30 2014 -0700
+
+    fix supervisor path
+
+commit 579bec4cad1f36aa63094a418ae45184bb4c1554
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 9 20:21:29 2014 -0700
+
+    webtorrent-tracker @ 0.x
+
+commit 4aa5aaaf47480faf7a43be3a151a1fbcbb7d785c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Aug 7 03:11:24 2014 -0700
+
+    Run a webtorrent tracker (fix #13)
+
+commit 5af3779107fcecfb9afce33efb423ec4e762b3b7
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 6 22:01:20 2014 -0700
+
+    browserify@5
+
+commit 9c9ca43f49d69d26994c3c9278cbddb7df14f23c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 6 22:01:15 2014 -0700
+
+    bittorrent-tracker@2
+
+commit 7bfe9952acc1de7eeab4861c51399fb42f7acc07
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Wed Aug 6 21:56:56 2014 -0700
+
+    better code organization
+
+commit b9af0382f4482ee9b635ca9b04f418cf0dd4d6d0
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 2 12:38:42 2014 -0700
+
+    instantio -> instant
+
+commit b89817572fce2d265f5b7a2f16cf84f63a916ddb
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Aug 2 12:08:47 2014 -0700
+
+    instant.io proxy to port 9100
+
+commit 96c9491b0887d437e26869bc6db19c18f1667b6e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 17 00:52:44 2014 -0700
+
+    fail deploy script on error
+
+commit 6d822ea5bb9810cb4391dd79700f76bccc342e92
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 17 00:52:38 2014 -0700
+
+    create link on create torrent page
+
+commit ece05ca9a060dcd3dc0bbaa936c89283d35e715b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 17 00:29:52 2014 -0700
+
+    fix deploy script
+
+commit 9f533a0d5f4bd24ef65ee6985989862db655c280
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 17 00:28:12 2014 -0700
+
+    fix stylus compile error
+
+commit 349b459bc710db1507efc56cb1f716ce10cc6abf
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 22:50:22 2014 -0700
+
+    css
+
+commit 5f823625449a25122ad3fafd49fe24234974b6b1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 22:49:15 2014 -0700
+
+    build js and css on deploy
+
+commit 15cc3b4f37e7bb8ad6f505b5ca76ef8c93d55e5c
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 22:47:34 2014 -0700
+
+    Revert "render index for a bit"
+    
+    This reverts commit 6be49c516454ef6fecf2c599d0066259527a8897.
+
+commit 6be49c516454ef6fecf2c599d0066259527a8897
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 22:20:42 2014 -0700
+
+    render index for a bit
+
+commit c55b863dd66db90e150dc7418398b3d05db0746b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 22:19:54 2014 -0700
+
+    add browserify site html placeholder
+
+commit ea26b50458506e7dd7efa67fcb49631f28d7aa24
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 22:19:39 2014 -0700
+
+    no spammy log
+
+commit 1521d859f38780447a913e2fe97303069c436935
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 02:12:57 2014 -0700
+
+    stylus@0.47.1
+
+commit 36579c9215e38097cb00e9a0795c46346809d31e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 02:12:46 2014 -0700
+
+    create-torrent@2.0.0
+
+commit 023c8afd17576e778d43df5dc5c9813246bc2882
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 01:59:51 2014 -0700
+
+    ignore more stuff for watch command
+
+commit 239036582620f04352bc7b89d0ec26a0f88ba34f
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 01:59:20 2014 -0700
+
+    add create page
+
+commit d8aeccee5743f147805feb2c00dddf13bda79ef2
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Tue Jul 8 01:59:04 2014 -0700
+
+    add error page
+
+commit b309592586b6c2bd35e915d6e345cf8c324d0f68
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 15:35:30 2014 -0700
+
+    check env correctly
+
+commit 21b1bd9ae76c6ef606e5091e924bce53ea6fb283
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 15:25:57 2014 -0700
+
+    add debug to node env
+
+commit ed2546af58158d7299b8f6efd84388b71bad5f33
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 15:20:40 2014 -0700
+
+    add missing run-auto dep
+
+commit df49658a3c8b60e6123d4d07de4513ea2c8d3849
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 14:51:23 2014 -0700
+
+    fix paths
+
+commit e21874d72b9566a78898b8a81b35061d8fcc413b
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 14:48:48 2014 -0700
+
+    fix paths
+
+commit 468339000f342b274ad331ca21b757a99d2ca345
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 14:44:28 2014 -0700
+
+    http-proxy, site, & tracker all working locally
+
+commit e5c77de2de0eafe7b461957e6125f631a4719c24
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat Jul 5 14:43:55 2014 -0700
+
+    no nginx
+
+commit e408a0e9e8db298e37d968b1cd2cd376226f8143
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri Jul 4 00:01:25 2014 -0700
+
+    use new linode
+
+commit ab6604662f0c403b0798f8de2498aa83a3642959
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 3 12:08:13 2014 -0700
+
+    include nodemon
+
+commit dcea96ce8da11015a28b6fffd04360cd2e2bbc67
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Thu Jul 3 12:06:13 2014 -0700
+
+    name it webtorrent-website
+
+commit 37bafcf1639c08a224d9b9d68905c8516809e7a8
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Sat May 24 01:25:12 2014 -0700
+
+    redirect to github
+
+commit 1d897e4fe75b43a5796b60326ed7cc1b4a60aef5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:38:05 2014 -0700
+
+    run node directly
+
+commit aee6efd2a3d984879c50c251295f914f51920816
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:30:18 2014 -0700
+
+    try port 7700
+
+commit 29f8e570ea43e5153df79213f10e6bf39873d2ac
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:24:08 2014 -0700
+
+    don't use variable in shell script
+
+commit cf270c97dfa87b3ff9a3b5678fe85bafdafb162e
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:22:48 2014 -0700
+
+    fix trigger path
+
+commit e8f40a7884c7dcfba3be3117de782f29506582d1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:20:50 2014 -0700
+
+    make shell scripts executable
+
+commit 06f5ff77b06c6bb54dd6f73eb2c4a313fba41090
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:19:27 2014 -0700
+
+    use port 7600 in production
+
+commit 904d11b721ea72b6c093330b3b7ccea987020142
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:12:49 2014 -0700
+
+    fix 500 file path
+
+commit b3be8c41453d7cd8b70ce8356c141aaccacdb3f5
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 23:07:43 2014 -0700
+
+    add deploy scripts
+
+commit 62f98245488f7e9339bc9a3df5ceb710751372b4
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 22:51:13 2014 -0700
+
+    add stub readme
+
+commit fba901bfd634a3b461b15160f9b1f917259dc012
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 22:49:47 2014 -0700
+
+    make nginx.conf fancier
+
+commit d45a8d23b26c398fab8c5ad736ea42afb7c862f6
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 22:46:33 2014 -0700
+
+    add nginx 50x page
+
+commit 51c2865c3bde66b2ece9ef8d872ba2087cb695d1
+Author: Feross Aboukhadijeh <feross@feross.org>
+Date:   Fri May 23 22:41:28 2014 -0700
+
+    initial commit

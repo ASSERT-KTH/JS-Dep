@@ -1,0 +1,414 @@
+commit 5b69f1c8ccb296cca660df24b14a219497c7e631
+Merge: 76ce24c d50fd84
+Author: Jakub T. Jankiewicz <jcubic@onet.pl>
+Date:   Sun Mar 27 21:17:40 2022 +0000
+
+    Merge pull request #91 from isomorphic-git/low-level-backends
+    
+    add to change low level backend
+
+commit d50fd84243842b961019663189a20a9a76a62ed2
+Author: Jakub Jankiewicz <jcubic@onet.pl>
+Date:   Sun Mar 27 23:13:44 2022 +0200
+
+    update Azure CI/CD
+
+commit 33d8ea47e4b8f87619da6d5d411569f034bfc70c
+Author: Jakub Jankiewicz <jcubic@onet.pl>
+Date:   Sun Mar 27 22:48:08 2022 +0200
+
+    feat: allow to use toString() on readFile output
+
+commit e530b68f368c9c3f2bf8ed742073fb80a373e87c
+Author: Jakub Jankiewicz <jcubic@onet.pl>
+Date:   Sun Mar 27 22:41:13 2022 +0200
+
+    feat: add to change low level backend
+
+commit 76ce24c5875c7de40ce94dab2c84508c102229ba
+Merge: 6f3ae38 8bbbf8c
+Author: Jakub T. Jankiewicz <jcubic@onet.pl>
+Date:   Sun Mar 27 19:35:31 2022 +0000
+
+    Merge pull request #83 from joelspadin/types
+    
+    Fix exports in type definitions
+
+commit 8bbbf8c4a0828da633c9c16a9e1ce70a2992afc3
+Author: Joel Spadin <joelspadin@gmail.com>
+Date:   Mon Jul 12 13:15:06 2021 -0500
+
+    Fix exports in type definitions
+    
+    Since the code uses "module.exports = ...", the TypeScript types should
+    use "export = ..." to match. This ensures it works when neither
+    esModuleInterop nor allowSyntheticDefaultImports are enabled.
+    
+    For more context, see
+    https://github.com/DefinitelyTyped/DefinitelyTyped#a-package-uses-export--but-i-prefer-to-use-default-imports-can-i-change-export--to-export-default
+
+commit 6f3ae38eefdd2e2b0135e90b57e44bf29ecdb5bb
+Merge: ded7f73 7d0e199
+Author: Jakub T. Jankiewicz <jcubic@onet.pl>
+Date:   Tue Jul 6 00:45:13 2021 +0200
+
+    Merge pull request #51 from raldone01/main
+    
+    feat: Add typescript typings
+
+commit ded7f73e5de54c1c157f72e801ea11b2d87da4db
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Thu Dec 10 22:30:14 2020 -0500
+
+    fix: allow changing 'backend' during 'init' (#65)
+
+commit 04bb61d3d7c8934120d41e78660258f9bee93237
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Tue Dec 1 17:14:23 2020 -0500
+
+    feat: add custom `backend` parameter (#63)
+
+commit 7d0e199767baf0fd27f69f42b0ad719766faec54
+Author: raldone01 <raldone01@gmail.com>
+Date:   Tue Oct 13 10:08:11 2020 +0200
+
+    Update index.d.ts
+    
+    Co-authored-by: Alex <alexnezhynsky@gmail.com>
+
+commit 27e7ba451ab7bdd5db7c097b277da2481b1e717d
+Author: raldone01 <raldone01@gmail.com>
+Date:   Fri Jul 17 16:14:45 2020 +0200
+
+    Moved PromisifiedFS into the FS namespace.
+
+commit 3921dd612771df06e6e51ff0c6f5a47b9baa76da
+Author: raldone01 <raldone01@gmail.com>
+Date:   Sun Jul 12 16:01:35 2020 +0200
+
+    Made the option arguments of the promise api optional!
+
+commit 80d292e74f237f93c2fc24d7cca2b82e6474f334
+Author: raldone01 <raldone01@gmail.com>
+Date:   Sun Jul 12 14:59:06 2020 +0200
+
+    Accidentally overwrote the last commit.
+
+commit fa44f4bd4d3cc3336c6d9a5585480eb38be2ace1
+Author: raldone01 <raldone01@gmail.com>
+Date:   Sun Jul 12 14:54:51 2020 +0200
+
+    Added path typings.
+
+commit ac73970c606c3a0ada54592f1f5f4790b387f66f
+Author: raldone01 <raldone01@gmail.com>
+Date:   Fri Jul 3 13:34:15 2020 +0200
+
+    Replaced never with void where appropriate
+
+commit 7ce3ea286a90e5e5341e9720e64c55d3c53f3eda
+Author: raldone01 <raldone01@gmail.com>
+Date:   Fri Jul 3 09:59:45 2020 +0200
+
+    Moved the promises to the correct location.
+
+commit b3378a7fb910cd8a6fee797cdf7533bdf38c997f
+Author: raldone01 <raldone01@gmail.com>
+Date:   Fri Jul 3 09:56:21 2020 +0200
+
+    Minor fix
+
+commit 8a8a40006718fdaffdfb039cd826625cd078d231
+Author: raldone01 <raldone01@gmail.com>
+Date:   Fri Jul 3 09:41:58 2020 +0200
+
+    Add typescript typings
+
+commit 40bf0bf587281aa0fc93106bc0430d1a31529874
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Jul 1 23:00:38 2020 -0400
+
+    chore: sauce labs no longer has Safari 13.0
+
+commit 3c0671e39375aab7e71c5328be70a2d99b7e31dd
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Jul 1 22:57:03 2020 -0400
+
+    chore: rename 'master' branch to 'main'
+
+commit c2b753bba3a3164a8102455c31bfdfa3d38d240b
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Jul 1 22:51:55 2020 -0400
+
+    feat: add 'defer' param to 'init'
+
+commit 985dddb40960008bbbb052ec5616a99d62845656
+Author: Chris <chrislegolife@gmail.com>
+Date:   Fri Apr 24 11:34:21 2020 -0400
+
+    fix: default mode for symlinks should be 0o120000 not 0o666
+    
+    Co-authored-by: Chris Thompson <chris@refinerylabs.io>
+
+commit 9bc45eb7db8fc07857ba4f59dd4e830675da6104
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Thu Apr 16 17:23:21 2020 -0400
+
+    fix: add du to README (#46)
+
+commit 528382007b65579d47af986148dfe66fa356c952
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Thu Apr 16 17:09:48 2020 -0400
+
+    feat: add du method (#45)
+
+commit eb21a02b89c59047f5e0a846e51c10845c4fc36b
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Tue Apr 7 17:13:39 2020 -0400
+
+    feat: reinitialize FS via 'init' and provide custom store names (#42)
+
+commit d1c314cef488f1d19b9a7bcfbd330e617c0b70c9
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Mar 4 21:49:06 2020 -0500
+
+    fix: add a margin of safety to renew mutex early
+
+commit ac659289d1e3f9eb1e81db4f5ea821fe688b6bbd
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Mar 4 19:27:49 2020 -0500
+
+    fix: eliminate reliance on setInterval (#40)
+    
+    BREAKING CHANGE: bumped the supported / tested browsers to match isomorphic-git@1.0.
+
+commit c0490e3744607daf4dbef6c214ca56c15f22a2ab
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Mar 2 23:30:49 2020 -0500
+
+    chore: disable Android testing too for now sheesh
+
+commit 7941b9cd510a9aa431454f5b19efefcae877ab87
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Mar 2 23:10:09 2020 -0500
+
+    fix: a shot in the dark at fixing the "Mutex double-freed" error (#39)
+    
+    * a shot in the dark at fixing the "Mutex double-freed" error
+    * skip MS Edge for now since it is not launching
+
+commit 9ba035cb5cc8b2fcfdce82ba8064bc8adefe8500
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Feb 29 23:42:03 2020 -0500
+
+    chore: add note that `readdir` output is not sorted
+
+commit d3f78e875639b53aaaf01504b6c5ccf4f2addcc8
+Author: fuzzyTew <fuzzyTew@gmail.com>
+Date:   Sat Nov 16 09:42:56 2019 -0600
+
+    fix: reading through symlinks to http-backed files (#36)
+
+commit 0524f113671aa6652d45df40d41ad2b10d4e9c51
+Author: fuzzyTew <fuzzyTew@gmail.com>
+Date:   Tue Nov 5 23:13:21 2019 -0500
+
+    feat: add 'backFile' function to add http-backed files to superblock (#32)
+
+commit f1419b845f58ce674ab2b602877d57e84093b2a5
+Author: fuzzyTew <fuzzyTew@gmail.com>
+Date:   Tue Nov 5 23:11:39 2019 -0500
+
+    Fix for reading from nested symlinks (#35)
+
+commit fb73aed9bcc9b685a627087ca38c25aa0e95ec94
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Nov 2 21:55:47 2019 -0400
+
+    fix: @wmhilton/idb-keyval -> @isomorphic-git/idb-keyval (#25)
+
+commit 53f154b13dfaece3c9343bc9e3894e0971e52f7d
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Nov 2 21:50:02 2019 -0400
+
+    fix(readdir, rmdir): should throw ENOTDIR if used on files (#34)
+
+commit 411c6d6bcb2af17cec0d623a9536bbe4bb6ee65d
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Nov 2 18:04:42 2019 -0400
+
+    fix(writeFile): preserve file mode when saving files (#33)
+
+commit b6a552da93f84d7a4ed9ef850ada21aae06a577f
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Oct 28 18:18:20 2019 -0400
+
+    fix(unlink): deleting symlinks should not delete file contents (#30)
+
+commit b6ac6b7abc9c872ecf0523285e6243da91d801a7
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Fri Sep 13 12:57:44 2019 -0400
+
+    fix(rename): don't accidentally file if new filename invalid (#26)
+
+commit 34fac1be2b14673ae80eeee2a10c77da499c4c85
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sun Sep 8 23:37:29 2019 -0400
+
+    fix(HttpBackend): fs.readFile should throw on 404s (#24)
+
+commit 3ec82a724df948db0a29c59b6b44345da212f25c
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sun Jun 23 21:35:34 2019 -0400
+
+    feat: make threadsafe with mutex (#19)
+
+commit 5c2e6b070116eac9ba76ccf99d4131b0b1cc0c54
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Jun 19 22:43:45 2019 -0400
+
+    Update README.md (#17)
+
+commit eef9ad41d6fea81c1de97a305c322a81b0ab7a4e
+Author: Jakub T. Jankiewicz <jcubic@onet.pl>
+Date:   Sun May 5 15:31:56 2019 +0200
+
+    fix: ignore trailing slash (#14)
+
+commit e47c9c17c950169dd1ae78815b3becf61e670529
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sun Mar 17 23:22:55 2019 -0400
+
+    feat: add fs.promises (#12)
+
+commit 3c6e8031abe29a3bb6c4413f2d14ed3bf2e56ab7
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sun Mar 17 21:55:29 2019 -0400
+
+    feat: symlink support (#11)
+
+commit 587c741901cfe2445bb32d7d35c474b68dbd99e8
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Thu Jan 17 13:56:26 2019 -0500
+
+    fix: fix awful inode autoincrement bug
+
+commit d7ab3c066c26354158a118f01e3f06221c0b103e
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Thu Jan 17 12:43:52 2019 -0500
+
+    fix: 'rename' was forgetting to save the superblock
+
+commit 24c4c050c692fe06eab58830a128c5b8fc472d3f
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Thu Jan 17 12:26:17 2019 -0500
+
+    fix: bind 'rename' to fs instance
+
+commit 4f604fa61bf7ef27188d8be37af064141a664e87
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Jan 16 20:16:49 2019 -0500
+
+    fix: remove console.log
+
+commit 074547cfe2b3e36ce1adfc331b0d0181d80416cc
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Wed Jan 16 20:08:30 2019 -0500
+
+    feat: add 'rename' function
+    
+    BREAKING CHANGE: The IndexedDB database format changed - the primary key is now an inode number rather than a filepath string. Adding this layer of indirection make renaming files and directories fast. (Before, renaming a directory would have required recursively copying all the files to a new location.) Rather than bloat the code with a migration script, I recommend simply creating a fresh filesystem or blowing the old filesystem away with the `wipe` argument. Maybe you can load v2 and v3 at the same time, and recursively read from the v2 instance  and write to the v3 instance? Database migrations are hard, and I apologize. But this should be the first and last backwards incompatible change to the database format.
+    
+    BREAKING CHANGE: the `stat` function now returns `mtimeMs` rather than `mtimeSeconds` and `mtimeNanoseconds` to match what Node's `stat` function returns instead of catering to an implementation detail of `isomorphic-git`.
+
+commit 1ffdbd3de8e5512fc8a49ab0af9780daf0237752
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 20:18:33 2018 -0500
+
+    chore: fix bug in tests only for Safari Mobile 11.x
+
+commit b7ccf7e7fdcb3230c2fd8a6470be35c2e058c4d2
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 15:43:41 2018 -0500
+
+    fix: readFile returns UInt8Array instead of Buffer
+    
+    BREAKING CHANGE: Reduces UMD build size from 34kb to 12kb so I think its worth it.
+
+commit 61c5d8034927693cc72064c44b8a7f3f63b3ea50
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 15:43:22 2018 -0500
+
+    chore: add UMD build to npm package
+
+commit 6c67744f8f8d8b41e98c5145ff16a9d0f66c0729
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 14:18:44 2018 -0500
+
+    fix: trimStart is apparently too new
+
+commit f083b9680cc3f588c8d24a4c212064372d04de2e
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 12:33:47 2018 -0500
+
+    fix: ACTUALLY INSTALL semantic-release
+
+commit 2e0c3ffa8cb85f8749c37a64eb54c770dbb7b5de
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 12:19:11 2018 -0500
+
+    fix: add semantic-release npm script
+
+commit 0d15313e3e307a28cf54e031e8500d1e403a8fb3
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 12:09:06 2018 -0500
+
+    fix: temporarily disable Safari MacOS testing (sauce seems broken today?)
+
+commit c66edba24f40ab60f2a787de6e16304fa7bf1eb9
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 11:44:25 2018 -0500
+
+    fix: bind methods to fs instance
+
+commit 7a8c8f6144ec8a76141d5af8e07f65ae0f8fe0a5
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 00:51:36 2018 -0500
+
+    fix: Azure pipelines tarball filepath
+
+commit 69f6f9fd7260d30c3f037ea18163e856ce0cef5e
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Mon Dec 24 00:49:14 2018 -0500
+
+    Update README
+
+commit 11ff6f5be4fb6d636fd4d392ca3a4f23ba7bac15
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sun Dec 23 23:12:39 2018 -0500
+
+    Add HTTP fallback mechanism
+
+commit f1c3bc4f60acd617589232826dd56e903f38c740
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sun Dec 23 11:58:34 2018 -0500
+
+    Add a makeIndex utility
+
+commit 903f1efd5a3efbcf504e66eb866b9ef649a0a7fc
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Dec 22 23:18:32 2018 -0500
+
+    Add tab-delimited printer/parser and abstract backend.
+
+commit c21564ec99de24239d6c061be34bb614613a5db3
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Dec 22 17:27:07 2018 -0500
+
+    Add package-lock.json
+
+commit 55c258ce353630cd7ccc0ce999d941311f8c4655
+Author: William Hilton <wmhilton@gmail.com>
+Date:   Sat Dec 22 17:23:07 2018 -0500
+
+    Initial commit
