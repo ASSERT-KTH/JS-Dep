@@ -359,11 +359,16 @@ def getGitUrlFromPkg(pkgPath):
         depPkgJson = json.load(depPkg)
         if 'repository' in depPkgJson:
             if isinstance(depPkgJson['repository'], str):
-                if depPkgJson['repository'].find('https://') and depPkgJson['repository'].find('.git'):
-                    gitCloneUrl = depPkgJson['repository']
+                origStr = depPkgJson['repository']
+                if origStr.find('https://') and origStr.find('.git'):
+                    gitCloneUrl = origStr
                 elif depPkgJson['repository'].find('git://'):
-                    gitCloneUrl = depPkgJson['repository'].replace(
-                        'git://', 'https://')
+                    gitCloneUrl = origStr.replace('git://', 'https://')
+                    if not '.git' in gitCloneUrl:
+                        gitCloneUrl += '.git'
+                elif origStr.find('github:'):
+                    gitCloneUrl = origStr.replace(
+                        'github:', 'https://github.com/') + '.git'
                 else:
                     gitCloneUrl = 'https://github.com/' + \
                         depPkgJson['repository'] + '.git'
@@ -379,7 +384,6 @@ def getGitUrlFromPkg(pkgPath):
         else:
             return False
         return gitCloneUrl
-
 
 ```
 
@@ -405,13 +409,28 @@ def getGitUrlFromPkg(pkgPath):
    }
    ```
 
+   ```
+   "repository": {
+       "type": "git",
+       "url": "git@github.com:runtimejs/runtime.git"
+   }
+   ```
+
    
 
 3. clone URL in 'repository' string:
 
    1. `"repository": "https://github.com/Borewit/readable-web-to-node-stream.git"`
+
    2. `"repository": "git://github.com/isaacs/inherits"`
+
+      fatal: remote error:  The unauthenticated git protocol on port 9418 is no longer supported.
+
    3. `"repository": "isaacs/inherits"`
+
+   4. `"repository": "github:dash-ui/unitless"`
+
+   5. `"repository": "https://github.com/thysultan/stylis.js"` Shall we fix such a sample manually?
 
 4. clone URL in 'homepage' string:
 

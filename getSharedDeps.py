@@ -1,6 +1,6 @@
 import os
 import json
-from utils import getSumInCSV, getCommitsOfRepo
+from utils import getSumInCSV
 
 globalRepoList = dict()
 
@@ -80,23 +80,37 @@ def getGitUrlFromPkg(pkgPath):
     with open(pkgPath) as depPkg:
         depPkgJson = json.load(depPkg)
         if 'repository' in depPkgJson:
-            if isinstance(depPkgJson['repository'], str):
-                if depPkgJson['repository'].find('https://') and depPkgJson['repository'].find('.git'):
-                    gitCloneUrl = depPkgJson['repository']
-                elif depPkgJson['repository'].find('git://'):
-                    gitCloneUrl = depPkgJson['repository'].replace(
-                        'git://', 'https://')
-                else:
-                    gitCloneUrl = 'https://github.com/' + \
-                        depPkgJson['repository'] + '.git'
-            elif isinstance(depPkgJson['repository'], dict):
-                depUrl = depPkgJson['repository']['url']
-                gitCloneUrl = 'https:' + depUrl[depUrl.find('//'):]
-                if not '.git' in gitCloneUrl:
-                    gitCloneUrl += '.git'
-
-        elif 'homepage' in depPkgJson:
-            gitCloneUrl = depPkgJson['homepage'] + '.git'
+            try:
+                if isinstance(depPkgJson['repository'], str):
+                    origStr = depPkgJson['repository']
+                    if 'thysultan/stylis' in origStr:
+                        gitCloneUrl = 'https://github.com/thysultan/stylis.git'
+                    elif 'https://' in origStr and '.git' in origStr:
+                        gitCloneUrl = origStr
+                    elif 'git://' in origStr:
+                        gitCloneUrl = origStr.replace('git://', 'https://')
+                        if not '.git' in gitCloneUrl:
+                            gitCloneUrl += '.git'
+                    elif 'github:' in origStr:
+                        gitCloneUrl = origStr.replace(
+                            'github:', 'https://github.com/') + '.git'
+                    else:
+                        gitCloneUrl = 'https://github.com/' + \
+                            depPkgJson['repository'] + '.git'
+                if isinstance(depPkgJson['repository'], dict):
+                    # exit()
+                    depUrl = depPkgJson['repository']['url']
+                    if 'git@github.com:' in depUrl:
+                        tmpUrl = depUrl
+                        gitCloneUrl = tmpUrl.replace(
+                            'git@github.com:', 'https://github.com/')
+                    else:
+                        gitCloneUrl = 'https:' + depUrl[depUrl.find('//'):]
+                        if not '.git' in gitCloneUrl:
+                            gitCloneUrl += '.git'
+            except:
+                if 'homepage' in depPkgJson:
+                    gitCloneUrl = depPkgJson['homepage'] + '.git'
 
         else:
             return False
@@ -133,6 +147,7 @@ def getDepListByRepo(reponame):
             continue
 
         depCount += 1
+        print(folder, '\n')
         if folder[0] == '@':
             subDepsFolder = os.path.join(reponame + '/node_modules/' + folder)
             for subfolder in os.listdir(subDepsFolder):
@@ -147,34 +162,8 @@ def getDepListByRepo(reponame):
             if gitCloneUrl:
                 depList.append(gitCloneUrl)
         # Here we need to de-duplicate depList
-        noDupDeplist = list(set(depList))
-    return {'list': noDupDeplist, 'count': depCount}
-    # for root, dirs, files in os.walk(depsFolder):
-    #     for name in files:
-    #         if name == 'package.json':
-    #             pkgList.append(os.path.join(root, name))
-    # print(pkgList)
-    # print('pkglength', len(pkgList))
-    # for pkg in pkgList:
-    #     with open(pkg) as depPkg:
-    #         depPkgJson = json.load(depPkg)
-    #         try:
-    #             print(pkg)
-    #             if not 'repository' in depPkgJson:
-    #                 continue
-    #             depUrl = depPkgJson['repository']['url']
-    #             gitCloneUrl = 'https:' + depUrl[depUrl.find('//'):]
-    #             if not '.git' in gitCloneUrl:
-    #                 gitCloneUrl += '.git'
-    #         except:
-    #             if 'homepage' in depPkgJson:
-    #                 gitCloneUrl = depPkgJson['homepage'] + '.git'
-    #             else:
-    #                 continue
-    #         depList.append(gitCloneUrl)
-    #         # Here we need to de-duplicate depList
-    #         noDupDeplist = list(set(depList))
-    # return noDupDeplist
+        # noDupDeplist = list(set(depList))
+    return {'list': depList, 'count': depCount}
 
 
 def recordLocForAllDeps():
@@ -205,6 +194,7 @@ def recordLocForAllDeps():
             depCount = str(depDict['count'])
 
             for dep in depList:
+                print(dep, '\n')
                 depName = getNameFromGitUrl(dep)
                 if depName in globalRepoList:
                     sumOfDep = globalRepoList[depName]
