@@ -28,7 +28,7 @@ qs: 12
 brace-expansion: 12
 end-of-stream: 11
 readable-stream: 11
-@babel: 11
+@babel: 10
 fast-deep-equal: 11
 semver: 11
 minimist: 11
@@ -290,7 +290,7 @@ escodegen: 4
 tar-stream: 4
 yargs: 4
 kind-of: 4
-lodash.debounce: 4
+lodash.debounce: 3
 is-regex: 4
 human-signals: 4
 source-map-js: 4
@@ -475,7 +475,7 @@ bufferutil: 3
 memoize-one: 3
 decamelize: 3
 which-boxed-primitive: 3
-@xtuc: 3
+@xtuc: 2
 is-promise: 3
 babel-plugin-dynamic-import-node: 3
 htmlparser2: 3
@@ -483,7 +483,7 @@ whatwg-encoding: 3
 is-data-descriptor: 3
 throat: 3
 optionator: 3
-@webassemblyjs: 3
+@webassemblyjs: 2
 is-negative-zero: 3
 chownr: 3
 pako: 3
@@ -561,7 +561,6 @@ es6-symbol: 2
 cosmiconfig: 2
 jest-changed-files: 2
 snapdragon-node: 2
-@tootallnate: 2
 @jest: 2
 is-ci: 2
 is-descriptor: 2
@@ -669,14 +668,12 @@ fast-safe-stringify: 2
 mousetrap: 2
 exit: 2
 strip-eof: 2
-fast-text-encoding: 2
 asap: 2
 create-hash: 2
 dicer: 2
 png-js: 2
 ts-node: 2
 istanbul-lib-coverage: 2
-@nodelib: 2
 pretty-format: 2
 jest-resolve: 2
 safe-regex: 2

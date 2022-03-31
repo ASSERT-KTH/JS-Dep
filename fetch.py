@@ -59,7 +59,7 @@ for p in resp.json()['items']:
         # generating data for table1
 
         with open('table1.txt',  mode='a') as table_outfile:
-            outStr = '\\texttt ' + p['name'] + '(\\href{https://github.com/' + owner + '/' + reponame + '/commit/' + cmtDict['fst_commit'] + '}{' + cmtDict['fst_commit'][7:15] + '})' + ' & ' + cmtDict['total_commits'] + ' & ' + p['pushed_at'][0:10] + ' & ' + str(
+            outStr = '\\texttt ' + p['name'] + '(\\href{https://github.com/' + owner + '/' + reponame + '/commit/' + cmtDict['fst_commit'] + '}{' + cmtDict['fst_commit'][0:8] + '})' + ' & ' + cmtDict['total_commits'] + ' & ' + p['pushed_at'][0:10] + ' & ' + str(
                 radioDict['own_loc']) + ' & ' + str(deps) + ' & ' + str(p['watchers_count']) + ' \\\\ ' + '\n' + '\\hline \n'
             table_outfile.write(outStr)
 

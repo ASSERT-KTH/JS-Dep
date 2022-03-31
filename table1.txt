@@ -10,9 +10,6 @@
 \texttt serverless-webpack(\href{https://github.com/serverless-heaven/serverless-webpack/commit/ab58fb7089fa85e9b9a34e4d8e14bec07db55d3d
 }{089fa85e}) & 1310 & 2022-03-28 & 38471 & 7 & 1609 \\ 
 \hline 
-\texttt imgix.js(\href{https://github.com/imgix/imgix.js/commit/b1d373c7ffbb7b52ef1b5cf6fe868efaf159f3c8
-}{7ffbb7b5}) & 761 & 2022-03-28 & 31313 & 1 & 937 \\ 
-\hline 
 \texttt strong-soap(\href{https://github.com/loopbackio/strong-soap/commit/8e5fdd478a5707313e02ea7d8c28095b1285ec94
 }{78a57073}) & 1074 & 2022-03-28 & 31892 & 12 & 326 \\ 
 \hline 
@@ -87,9 +84,6 @@
 \hline 
 \texttt monday-ui-react-core(\href{https://github.com/mondaycom/monday-ui-react-core/commit/3da202879e62727013172f2043a56c07000f8fcc
 }{79e62727}) & 1498 & 2022-03-27 & 80448 & 16 & 115 \\ 
-\hline 
-\texttt lightning-fs(\href{https://github.com/isomorphic-git/lightning-fs/commit/5b69f1c8ccb296cca660df24b14a219497c7e631
-}{8ccb296c}) & 64 & 2022-03-27 & 17730 & 4 & 334 \\ 
 \hline 
 \texttt audiobookshelf(\href{https://github.com/advplyr/audiobookshelf/commit/c0ff28ffffa0df4bc3dc6b286c1f505225d68f89
 }{fffa0df4}) & 765 & 2022-03-27 & 54567 & 24 & 389 \\ 

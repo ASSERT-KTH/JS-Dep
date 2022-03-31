@@ -6,8 +6,6 @@
 \hline 
 \texttt serverless-webpack & 38471 & 2694326 & 191 & 0.01 \\ 
 \hline 
-\texttt imgix.js & 31313 & -29253 & 145 & 15.2 \\ 
-\hline 
 \texttt strong-soap & 31892 & 124803 & 166 & 0.2 \\ 
 \hline 
 \texttt contentful-cli & 46880 & 1087712 & 159 & 0.04 \\ 
@@ -57,8 +55,6 @@
 \texttt gun & 56601 & 35362 & 1015 & 0.62 \\ 
 \hline 
 \texttt monday-ui-react-core & 80448 & 179459 & 268 & 0.31 \\ 
-\hline 
-\texttt lightning-fs & 17730 & -12400 & 22 & 3.33 \\ 
 \hline 
 \texttt audiobookshelf & 54567 & 239309 & 155 & 0.19 \\ 
 \hline 

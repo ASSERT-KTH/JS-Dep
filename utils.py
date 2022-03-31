@@ -6,8 +6,6 @@ import math
 
 
 def npmInstall(reponame):
-    print('enter npmInstall....')
-
     # For repos that do not have a package.json, return false.
     if not os.path.exists(reponame + "/package.json"):
         print('no package.json file')
@@ -135,6 +133,7 @@ def countMedianOfDeps(csvname):
         print('no repo_deps.csv file')
         return False
 
+    # Use a dict to store lines of code for each dependency of a repo
     depsDict = dict()
 
     with open(csvname + '_deps.csv', "r", encoding="utf-8", errors="ignore") as scraped:
@@ -175,7 +174,8 @@ def getCommitsOfRepo(reponame):
     cmtDict = dict()
     logfile = open(reponame + '_log.txt', 'r')
     # Get the first commit
-    firstCommit = logfile.readline()
+    firstCommit = logfile.readline()[7:]
+    print(firstCommit)
     count = 1
 
     # THEN, read line by line.
@@ -187,7 +187,7 @@ def getCommitsOfRepo(reponame):
             # print("Line{}: {}".format(count, line.strip()))
 
     # Get the first 8 characters of the first commits
-    cmtDict['fst_commit'] = firstCommit[7:]
+    cmtDict['fst_commit'] = firstCommit
     cmtDict['total_commits'] = str(count)
     logfile.close()
     return cmtDict
