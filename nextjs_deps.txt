@@ -132,3 +132,6 @@ debug
 source-map-js 
 
 react-spring 
+
+
+fatal: repository 'https://github.com/kilian/electron-to-chromium/.git/' not found

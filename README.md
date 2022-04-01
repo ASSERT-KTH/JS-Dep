@@ -258,80 +258,15 @@ After we get LOCs for the project before and after `npm install`, we calculate t
 
   
 
-  Another reason why we could use 'package.json' is sometimes the requesting is duplicated.
-
-  ```
-  nextjs-woocommerce,0132abef,9534,89,jsesc,1276
-  nextjs-woocommerce,0132abef,9534,89,zen-observable-ts,6442
-  nextjs-woocommerce,0132abef,9534,89,zen-observable,6108
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,DefinitelyTyped,2818910
-  nextjs-woocommerce,0132abef,9534,89,DefinitelyTyped,2818910
-  nextjs-woocommerce,0132abef,9534,89,DefinitelyTyped,2818910
-  nextjs-woocommerce,0132abef,9534,89,react-instantsearch,67768
-  nextjs-woocommerce,0132abef,9534,89,react,365425
-  nextjs-woocommerce,0132abef,9534,89,react,365425
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,react,365425
-  nextjs-woocommerce,0132abef,9534,89,loose-envify,12513
-  nextjs-woocommerce,0132abef,9534,89,optimism,4398
-  nextjs-woocommerce,0132abef,9534,89,styled-components,12949
-  nextjs-woocommerce,0132abef,9534,89,camelize,139
-  nextjs-woocommerce,0132abef,9534,89,css-to-react-native,1907
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-helper-js,23823
-  nextjs-woocommerce,0132abef,9534,89,tslib,826
-  nextjs-woocommerce,0132abef,9534,89,picomatch,7998
-  nextjs-woocommerce,0132abef,9534,89,react-hook-form,42605
-  nextjs-woocommerce,0132abef,9534,89,classnames,9227
-  nextjs-woocommerce,0132abef,9534,89,react,365425
-  nextjs-woocommerce,0132abef,9534,89,apollo-client,96671
-  nextjs-woocommerce,0132abef,9534,89,nprogress,517
-  nextjs-woocommerce,0132abef,9534,89,Fraction.js,2930
-  nextjs-woocommerce,0132abef,9534,89,react,365425
-  nextjs-woocommerce,0132abef,9534,89,postcss-value-parser,2856
-  nextjs-woocommerce,0132abef,9534,89,graphql-js,140773
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,babel,502973
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-js,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-js,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-javascript,13746
-  nextjs-woocommerce,0132abef,9534,89,algoliasearch-client-js,13746
-  nextjs-woocommerce,0132abef,9534,89,events,951
-  nextjs-woocommerce,0132abef,9534,89,react-instantsearch,67768
-  nextjs-woocommerce,0132abef,9534,89,react,365425
-  nextjs-woocommerce,0132abef,9534,89,source-map,7680
-  nextjs-woocommerce,0132abef,9534,89,next.js,337206
-  nextjs-woocommerce,0132abef,9534,89,hoist-non-react-statics,432
-  
-  ```
-
   
 
-  
++ Some dependencies are not a repo, like [babel-plugin-syntax-jsx](https://github.com/babel/babel/tree/master/packages/babel-plugin-syntax-jsx) and [is-prop-valid](https://github.com/emotion-js/emotion/tree/main/packages/is-prop-valid). In this case, we consider it has a rare influence on our result because the source code is quite less.
+
++ Sometimes we can get any git URL information from package.json. For example: https://github.com/dotansimha/graphql-typed-document-node.
+
++ Sometimes we meet repos that have been removed from git. For example, electron-to-chromium in nextjs-woocommerce, https://github.com/kilian/electron-to-chromium/.git 
+
++ 
 
 + Even with an effective URL, we can get all LOC for each of them:
 

@@ -3,6 +3,7 @@ import json
 from utils import getSumInCSV
 
 globalRepoList = dict()
+calcSumWithAt = dict()
 
 
 def countSharedDeps():
@@ -74,6 +75,28 @@ def recordForSingleDep(depName, depUrl):
         return False
 
 
+def recordWithoutUrl(reponame, depName):
+    try:
+        print('enter................try, ', depName)
+        exceptFolder = os.path.join(reponame + '/node_modules/' + depName)
+        if os.path.exists(exceptFolder):
+            clocFolder = exceptFolder
+        else:
+            clocFolder = os.path.join(
+                reponame + '/node_modules/' + calcSumWithAt[depName] + '/' + depName)
+        print('...............', clocFolder)
+        os.system('cloc ' + clocFolder +
+                  ' --by-file --include-lang=JavaScript,JSON,TypeScript --csv --out=' + depName + '_deps.csv')
+        if os.path.exists(depName + '_deps.csv'):
+            sumOfDep = getSumInCSV(depName + '_deps.csv')
+            os.system('rm -rf ' + depName + '_deps.csv')
+            print('...............sumOfDep,', sumOfDep)
+            return sumOfDep
+    except:
+        print('enter................except, failed to calculate: ', depName)
+        return 'None'
+
+
 def getGitUrlFromPkg(pkgPath):
     if not os.path.exists(pkgPath):
         return False
@@ -87,6 +110,10 @@ def getGitUrlFromPkg(pkgPath):
                         gitCloneUrl = 'https://github.com/thysultan/stylis.git'
                     elif 'https://' in origStr and '.git' in origStr:
                         gitCloneUrl = origStr
+                    elif 'https://' in origStr and origStr[-1] == '/':
+                        gitCloneUrl = origStr.strip('/') + '.git'
+                    elif 'git@' in origStr:
+                        gitCloneUrl = origStr.replace('git@', 'https://')
                     elif 'git://' in origStr:
                         gitCloneUrl = origStr.replace('git://', 'https://')
                         if not '.git' in gitCloneUrl:
@@ -94,9 +121,10 @@ def getGitUrlFromPkg(pkgPath):
                     elif 'github:' in origStr:
                         gitCloneUrl = origStr.replace(
                             'github:', 'https://github.com/') + '.git'
+                    elif 'https://github.com' in origStr and not '.git' in origStr:
+                        gitCloneUrl = origStr + '.git'
                     else:
-                        gitCloneUrl = 'https://github.com/' + \
-                            depPkgJson['repository'] + '.git'
+                        gitCloneUrl = 'https://github.com/' + origStr + '.git'
                 if isinstance(depPkgJson['repository'], dict):
                     # exit()
                     depUrl = depPkgJson['repository']['url']
@@ -151,19 +179,21 @@ def getDepListByRepo(reponame):
         if folder[0] == '@':
             subDepsFolder = os.path.join(reponame + '/node_modules/' + folder)
             for subfolder in os.listdir(subDepsFolder):
+                calcSumWithAt[subfolder] = folder
                 subPckPath = os.path.join(
                     depsFolder + '/' + folder + '/' + subfolder + '/package.json')
                 gitCloneUrl = getGitUrlFromPkg(subPckPath)
                 if gitCloneUrl:
                     depList.append(gitCloneUrl)
+
         else:
             pckPath = os.path.join(depsFolder + '/' + folder + '/package.json')
             gitCloneUrl = getGitUrlFromPkg(pckPath)
             if gitCloneUrl:
                 depList.append(gitCloneUrl)
         # Here we need to de-duplicate depList
-        # noDupDeplist = list(set(depList))
-    return {'list': depList, 'count': depCount}
+        noDupDeplist = list(set(depList))
+    return {'list': noDupDeplist, 'count': depCount}
 
 
 def recordLocForAllDeps():
@@ -202,7 +232,11 @@ def recordLocForAllDeps():
                 else:
                     sumOfDep = recordForSingleDep(depName, dep)
                     if not sumOfDep:
-                        sumOfDep = 'None'
+                        print('................fail to get sumOfDep: ', depName)
+                        sumOfDep = recordWithoutUrl(reponame, depName)
+                        if not isinstance(sumOfDep, str):
+                            sumOfDep = 'None'
+
                     globalRepoList[depName] = sumOfDep
 
                 outString = reponame + ',' + cmt + ',' + \
